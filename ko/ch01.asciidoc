@@ -780,6 +780,8 @@ something was missing. One day she got to work and realized that her
 chosen field simply wasn't so relevant anymore; people had moved
 on to other topics of interest. Where did she go wrong?
 
+신디는 슈퍼스타였다—자신의 전문 분야를 진정으로 정복한 소프트웨어 엔지니어였다. 기술 리드로 승진했고 책임이 늘어났으며 그 도전을 훌륭히 받아들였다. 얼마 지나지 않아 주변 모두를 멘토링하며 요령을 가르쳤다. 자신의 주제로 컨퍼런스에서 발표했고 곧 여러 팀을 맡게 되었다. 그녀는 항상 ‘전문가’로 대접받는 것을 정말 사랑했다. 그런데도 점점 지루해지기 시작했다. 어느 순간부터 새로운 것을 배우지 않게 된 것이다. 방에서 가장 현명하고 경험 많은 전문가로 지내는 신선함은 서서히 바래기 시작했다. 겉으로 보이는 숙련과 성공의 모든 징후에도 불구하고, 뭔가 빠져 있었다. 그러던 어느 날, 출근해서 보니 자신이 선택한 분야가 더는 그다지 관련성이 없다는 것을 깨달았다. 사람들은 이미 다른 주제로 관심을 옮겨가 있었다. 어디서 잘못된 걸까?
+
 Let's face it: it is __fun__ to be the most knowledgeable person
 in the room, and mentoring others can be incredibly rewarding. The
 problem is that once you reach a local maximum on your team, you stop
@@ -793,6 +795,8 @@ find a fishbowl with bigger fish than you and rise to whatever
 challenges they hand out to you. You'll be much happier in the
 long run.
 
+솔직히 말하면, 방 안에서 가장 많이 아는 사람이 되는 건 정말 __재미있고__, 다른 사람을 멘토링하는 일은 엄청 보람 있다. 문제는 팀에서 ‘국지적 최대치’에 도달하면 학습이 멈춘다는 것이다. 그리고 배우지 않으면 지루해진다. 아니면 어느새 구식이 되어 버린다. 선두 주자가 되는 데 중독되기 쉽지만, 약간의 자아를 내려놓아야만 방향을 바꾸고 새로운 것들에 노출될 수 있다. 다시 말해, 더 많이 가르치는 만큼 배우려는 __겸손__을 키우는 일이다. 때때로 컴포트 존 밖으로 자신을 밀어내라; 당신보다 큰 물고기가 있는 어항을 찾아 그들이 내미는 도전에 올라타라. 장기적으로 훨씬 더 행복해질 것이다.
+
 [[learn_patience]]
 ==== Learn Patience
 
@@ -801,6 +805,8 @@ Subversion (and later, Git), and, due to the vagaries of CVS, he kept
 unearthing bizarre bugs.  Since his longtime friend and coworker Karl
 knew CVS quite intimately, he and Karl decided they should work
 together to fix these bugs.
+
+수년 전, Fitz는 CVS 저장소를 Subversion(나중에는 Git)으로 변환하는 도구를 만들고 있었고, CVS의 변덕스러움 때문에 기괴한 버그들을 계속 파헤쳐냈다. 오랜 친구이자 동료인 Karl이 CVS에 매우 정통했기에, 둘은 함께 이 버그들을 고치기로 했다.
 
 A problem arose when they started pair programming together: Fitz was
 a bottom-up engineer who was content to dive into the muck and dig his
@@ -812,6 +818,8 @@ resulted in some epic interpersonal conflicts, disagreements, and the
 occasional heated argument.  It got to the point where the two of them
 simply couldn't pair-program together: it was too frustrating for both.
 
+함께 페어 프로그래밍을 시작하자 문제가 생겼다. Fitz는 바닥부터 올라가는 엔지니어로 진흙탕에 뛰어들어 빠르게 많은 시도를 하며 세부를 훑고 지나가는 편이었고, Karl은 위에서 아래로 내려가는 엔지니어로 전체 지형을 파악하고 호출 스택의 거의 모든 메서드 구현을 들여다본 뒤 버그를 건드리길 원했다. 그 결과 거대한 갈등과 논쟁, 때로는 격한 언쟁이 벌어졌다. 결국 둘은 함께 페어 프로그래밍을 할 수 없을 지경에 이르렀다. 둘 모두에게 너무 좌절스러웠던 것이다.
+
 That said, the two of them had a longstanding history of trust and
 respect for each other.  Combined with patience, this helped them work out a new
 method of collaborating.  They would sit together at the computer,
@@ -820,6 +828,8 @@ directions at once (top-down and bottom-up), then come back together
 and meet in the middle with their findings.  Their patience and
 willingness to improvise new working styles not only saved the
 project, but also saved the friendship.
+
+그렇다 해도 둘은 오래된 신뢰와 존중의 역사가 있었다. 여기에 인내가 더해져 새로운 협업 방식을 찾아냈다. 함께 컴퓨터 앞에 앉아 버그를 확인한 뒤, 둘이 갈라져 동시에 두 방향(탑다운과 보텀업)에서 문제를 공략하고, 각자의 결과를 들고 가운데에서 다시 만났다. 그들의 인내와 새로운 작업 방식을 기꺼이 시도하려는 태도는 프로젝트뿐 아니라 우정까지 지켜냈다.
 
 
 [[be_open_to_influence]]

@@ -579,7 +579,7 @@ and not just from you.
 
 ====
 
-[[note-6-ko]]
+[[note-6]]
 .대리를 통한 설득
 [NOTE]
 ====
