@@ -1,0 +1,43 @@
+:imagesdir: ..
+= Debugging Teams (Korean Working Copy)
+Brian W. Fitzpatrick and Ben Collins-Sussman
+:doctype: book
+:front-cover-image: image::./images/crew.jpeg[]
+:toc2: 1
+
+(C) 2015 under the pass:[<a class="orm:hideurl"
+href="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative
+Commons BY-NC-SA 3.0 License</a>]
+
+
+image::images/crew.jpeg[]
+Photo by pass:[<a class="orm:hideurl" href="https://unsplash.com/@jannerboy62?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nick Fewings</a>]
+
+
+This book is available in multiple forms at pass:[<a
+class="orm:hideurl"
+href="https://debuggingteams.com/">debuggingteams.com</a>].
+
+It's also available for purchase in pass:[<a class="orm:hideurl"
+href="https://www.oreilly.com/library/view/debugging-teams/9781491932049/">physical hardcopy from O'Reilly Media</a>] in a variety of international translations.
+
+// Front matter (KO)
+include::dedication.asciidoc[]
+
+// Prefaces / PR sections (KO)
+include::pr02.asciidoc[]
+include::pr03.asciidoc[]
+include::foreword.asciidoc[]
+include::pr04.asciidoc[]
+
+// Chapters (KO placeholders exist)
+include::ch01.asciidoc[]
+include::ch02.asciidoc[]
+include::ch03.asciidoc[]
+include::ch04.asciidoc[]
+include::ch05.asciidoc[]
+include::ch06.asciidoc[]
+
+// Appendices (KO copies)
+include::appa.asciidoc[]
+include::appb.asciidoc[]

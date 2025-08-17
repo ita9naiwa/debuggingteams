@@ -1,0 +1,1294 @@
+[[the_art_of_organizational_manipulation]]
+== The Art of Organizational Manipulation
+
+((("organizational manipulation", id="ixch05asciidoc0", range="startofrange")))So far we've shown you how to handle the human side of you and your
+team. We've reviewed the basic people skills required for leading a
+team and the hazards of dealing with the threat of poisonous
+people. In addition to these skills, you also need to understand how
+to navigate good and poisonous companies alike. Most people work in
+dysfunctional corporate bureaucracies and need to employ certain
+manipulative techniques to get things done effectively. Some people
+call this politics; others call it social engineering.
+
+지금까지는 당신과 팀의 '사람' 측면을 다루는 법을 이야기했습니다. 팀을 이끄는 데 필요한 기본적인 대인 기술과, 독이 되는 사람들의 위협을 다룰 때의 위험 요소도 검토했습니다.
+이와 더불어, 좋은 회사와 나쁜 회사 모두에서 어떻게 길을 찾을지도 알아야 합니다.
+대부분의 사람은 기능장애적 관료제 속에서 일하며, 일을 효과적으로 끝내기 위해 일정한 ‘기술적 조작' 기법을 사용해야 합니다.
+어떤 이는 이것을 정치라 부르고, 또 어떤 이는 사회공학이라 부릅니다.
+
+우리는 이를 조직적 조율(organizational manipulation)이라 부릅니다.
+
+[[the_good_the_bad_and_the_strategies]]
+=== The Good, the Bad, and the Strategies
+
+Big companies are complex mazes, and even the best require a GPS,
+a flashlight, and a dump truck full of breadcrumbs to navigate from
+one end of the company to the other.
+
+대기업은 복잡한 미로입니다. 최고의 회사조차 회사의 한쪽 끝에서 다른 끝으로 가려면 GPS, 손전등, 그리고 트럭 한가득 빵가루가 필요합니다.
+
+
+
+[[image_no_caption-id029]]
+image::images/dbtm_05in01.png[]
+
+First we'll cover how a team typically functions in an ideal company,
+and then we'll discuss the various ways a dysfunctional company can
+put up roadblocks to your team's success. We'll review strategies for
+getting things done in both kinds of companies, and lastly, if all
+else fails, we'll cover Plan B.
+
+먼저 이상적인 회사에서 팀이 보통 어떻게 움직이는지 살펴보고, 이어 기능장애적 회사가 팀의 성공에 어떻게 갖가지 장벽을 세우는지 논의합니다.
+두 종류의 회사에서 일을 해내는 전략을 정리한 다음, 끝으로 모든 방법이 통하지 않을 때의 플랜 B를 다룹니다.
+
+[[the_ideal_how_a_team_ought_to_function_w]]
+=== How Things Ought to Be
+
+((("companies","ideal", id="ixch05asciidoc1", range="startofrange")))((("ideal companies", id="ixch05asciidoc2", range="startofrange")))There are two levels of a properly functioning company: your manager,
+who you'll deal with most of the time, and the corporation beyond your
+manager, which includes knowledge workers, middle managers, executives, salespeople, lawyers, and
+so on.
+
+
+[[your_life_under_an_ideal_manager]]
+==== The Ideal Employee Experience
+
+((("employees","in ideal companies")))If your manager is a servant leader who employs HRT and is truly
+interested in helping you succeed (see
+<<every_boat_needs_a_captain>>), there are a few simple things you can
+do to help make her job easier, and consequently make yourself more
+productive and a more valuable team member. Perhaps more importantly, they can make your
+job better and your career more successful.
+
+당신의 매니저가 HRT를 실천하며 당신의 성공을 진심으로 돕고자 하는 서번트 리더라면(<<every_boat_needs_a_captain>> 참조),
+그녀의 일을 더 쉽게 만들어주고 결과적으로 당신을 더 생산적이고 가치 있는 팀원으로 만들 수 있는 몇 가지 간단한 방법들이 있습니다.
+더 중요한 것은, 이런 방법들이 당신의 일을 더 좋게 만들고 커리어를 더 성공적으로 만들 수 있다는 점입니다.
+
+[[image_no_caption-id030]]
+image::images/dbtm_05in02.png[]
+
+((("responsibility","pursuing extra")))__Pursue extra responsibility__ as you're getting your work done. One
+of our favorite metaphors for this is the forest ranger who sends you,
+a junior ranger, into the forest to cut down a sick or damaged
+tree. If you're focused merely on the task at hand, you'll go into the
+forest, cut down the sick tree, and return triumphant. If, however,
+you're thinking about the bigger picture, you'll go into the forest,
+cut down the sick tree, and return with a map of all the other sick
+trees you encountered on your journey, along with a plan for
+efficiently cutting them down if the senior ranger agrees that this is
+the best plan of action. As a result of this kind of action, the next
+time the forest ranger has a task that requires that level of
+responsibility she'll likely give you the first shot at it. She'll do
+this not only because she knows you can do it, but because that's the
+path of least resistance—it's less work for her.
+
+__추가적인 책임을 추구하라__ 일을 해나가면서 말입니다. 이에 대한 우리가 가장 좋아하는 비유 중 하나는 산림 관리원이 당신(주니어 관리원)을 숲으로 보내 병들거나 손상된 나무를 베어내라고 하는 상황입니다. 단순히 당면한 과제에만 집중한다면, 숲에 들어가서 병든 나무를 베고 의기양양하게 돌아올 것입니다. 하지만 더 큰 그림을 생각한다면, 숲에 들어가서 병든 나무를 베고, 여행 중에 마주친 다른 모든 병든 나무들의 지도와 함께 돌아올 것입니다. 그리고 시니어 관리원이 이것이 최선의 행동 계획이라고 동의한다면 효율적으로 그것들을 베어낼 계획도 함께 말입니다. 이런 종류의 행동의 결과로, 다음에 산림 관리원이 그 수준의 책임감을 요구하는 과제를 가지고 있을 때 그녀는 당신에게 첫 번째 기회를 줄 가능성이 높습니다. 그녀가 이렇게 하는 이유는 당신이 할 수 있다는 것을 알기 때문일 뿐만 아니라, 그것이 최소 저항의 경로이기 때문입니다—그녀에게는 더 적은 일이죠.
+
+
+[[image_no_caption-id031]]
+image::images/dbtm_05in03.png[]
+
+This kind of proactive, responsibility-seeking behavior reduces your
+manager's workload because she has one less thing to worry about, and
+it shows that you're capable of doing work beyond your current
+level. This also means you'll likely have to leave your comfort zone
+and try new things, and that's OK if you're on a team where you're
+encouraged to take risks and fail fast.
+
+이런 종류의 적극적이고 책임을 추구하는 행동은 매니저가 걱정할 일이 하나 줄어들기 때문에 그녀의 업무량을 줄여주고,
+당신이 현재 수준을 넘어서는 일을 할 수 있다는 것을 보여줍니다. 이는 또한 당신이 컴포트 존을 벗어나 새로운 것들을 시도해야 할 가능성이 높다는 것을 의미하며,
+위험을 감수하고 빠르게 실패하는 것이 장려되는 팀에 있다면 그것은 괜찮습니다.
+
+((("failure","not fearing")))((("fear of failure","overcoming")))((("risks","taking")))__Take risks__ and don't fear failure. We talked a lot in Chapters
+<<every_boat_needs_a_captain,3>> and <<dealing_with_poisonous_people,4>>
+about the importance of taking risks
+and failing fast. In the presence of an enlightened manager, failing
+is a great way to learn quickly, discover the limits of what you can
+and can't do, and grow those limits over time. Our friend Steve
+Hayman, who travels a lot for work, has often
+said, "If you don't miss at least one flight a year, you're getting to
+the airport too early." This is a great metaphor for creating any sort of product: if you
+don't fail at least once a year, you're not taking enough risks. And
+like the pursuit of extra responsibility, taking risks is a way to
+show you're capable of bigger things.
+
+__위험을 감수하고__ 실패를 두려워하지 마세요. 우리는 <<every_boat_needs_a_captain,3장>>과 <<dealing_with_poisonous_people,4장>>에서 위험을 감수하고 빠르게 실패하는 것의 중요성에 대해 많이 이야기했습니다. 깨달은 매니저가 있는 상황에서 실패는 빠르게 배우고, 당신이 할 수 있는 것과 할 수 없는 것의 한계를 발견하며, 시간이 지나면서 그 한계를 늘려가는 훌륭한 방법입니다. 업무상 여행을 많이 다니는 우리 친구 Steve Hayman은 종종 이렇게 말했습니다. "1년에 적어도 한 번은 비행기를 놓치지 않는다면, 공항에 너무 일찍 도착하고 있는 것이다." 이는 어떤 종류의 제품을 만드는 것에 대한 훌륭한 비유입니다. 1년에 적어도 한 번은 실패하지 않는다면, 충분한 위험을 감수하지 않고 있는 것입니다. 그리고 추가적인 책임을 추구하는 것처럼, 위험을 감수하는 것은 당신이 더 큰 일들을 할 수 있다는 것을 보여주는 방법입니다.
+
+If you don't take risks in your work, you'll have fewer failures, but
+you'll have fewer big successes as well. A good manager wants a team
+that's willing to push the envelope to see what they can and can't do
+(and to learn a lot in the process), and she'll provide a soft landing
+for when you fail. When you fail, take responsibility, don't seek to
+assign blame, and document what happened and what you can do to avoid
+that same failure again. Lather, rinse, repeat.
+
+일에서 위험을 감수하지 않으면 실패는 적겠지만, 큰 성공도 적을 것입니다. 좋은 매니저는 자신들이 무엇을 할 수 있고 할 수 없는지 알아보기 위해 한계를 밀어붙이려는 팀을 원하며(그 과정에서 많은 것을 배우기 위해), 당신이 실패했을 때 부드러운 착지를 제공할 것입니다. 실패했을 때는 책임을 지고, 비난할 대상을 찾지 말며, 무슨 일이 일어났는지와 같은 실패를 다시 피하기 위해 무엇을 할 수 있는지 문서화하세요. 반복하고, 헹구고, 다시 반복하세요.
+
+((("adult behavior")))__Act like an adult__. Another recommendation in a long line of
+suggestions that seem glaringly obvious: you are responsible for
+teaching people how to act and how to treat you. Bad managers will frequently
+train their teams to act like children by squashing any initiative,
+responsibility, or rule breaking. If you've had one of these managers,
+you often come to expect this sort of treatment from all managers.
+
+__어른처럼 행동하라__. 뻔해 보이는 제안들의 긴 목록에서 또 다른 권고사항입니다: 사람들에게 어떻게 행동하고 당신을 어떻게 대해야 하는지 가르치는 것은 당신의 책임입니다. 나쁜 매니저들은 종종 어떤 주도권, 책임감, 또는 규칙 위반이라도 짓밟음으로써 팀이 아이들처럼 행동하도록 훈련시킵니다. 이런 매니저를 겪었다면, 모든 매니저들로부터 이런 종류의 대우를 기대하게 되는 경우가 많습니다.
+
+((("questions, asking","about things you're unsure of")))__Question things__ that you're unsure about. If your manager makes a
+decision that you disagree with, don't be afraid to argue with her or
+question the premise upon which she made the decision. While this
+isn't a license to be an obstacle, being a "yes-man" isn't helpful to
+someone in a leadership position if you've got information or
+experience that she lacks.
+
+__확실하지 않은 것들에 대해 질문하라__. 매니저가 당신이 동의하지 않는 결정을 내린다면, 그녀와 논쟁하거나 그녀가 결정을 내린 전제에 대해 질문하는 것을 두려워하지 마세요. 이것이 장애물이 되라는 허가증은 아니지만, 당신이 그녀에게 없는 정보나 경험을 가지고 있다면 "예스맨"이 되는 것은 리더십 위치에 있는 사람에게 도움이 되지 않습니다.
+
+__Your manager is not clairvoyant__: only rarely will you find a
+person in an organization who __over__communicates, so don't hesitate
+to update your team's leader on what you're doing before she asks you
+what's going on. Drop her a quick note when you hit an obstacle, score
+a victory, need something, or expect something. Not only is this a
+great way to make sure your manager knows what you're up to, but we've
+seen crafty engineers take this technique to the extreme as a way to
+deal with micromanagement: if your manager keeps checking in on you,
+proactively sending her an email at the same frequency with which she
+checks in on you is a surefire way to get her to back off.(((range="endofrange", startref="ixch05asciidoc2")))(((range="endofrange", startref="ixch05asciidoc1")))
+
+__당신의 매니저는 천리안이 아닙니다__: 조직에서 __과도하게__ 소통하는 사람을 찾는 것은 드물기 때문에, 그녀가 무슨 일이 일어나고 있는지 묻기 전에 당신이 무엇을 하고 있는지 팀 리더에게 업데이트하는 것을 주저하지 마세요. 장애물에 부딪히거나, 승리를 거두거나, 무언가가 필요하거나, 무언가를 기대할 때 그녀에게 간단한 메모를 보내세요. 이는 매니저가 당신이 무엇을 하고 있는지 알도록 하는 훌륭한 방법일 뿐만 아니라, 우리는 영리한 엔지니어들이 마이크로매니징을 다루는 방법으로 이 기법을 극단적으로 활용하는 것을 보았습니다: 매니저가 계속 당신을 확인한다면, 그녀가 당신을 확인하는 빈도와 같은 빈도로 적극적으로 이메일을 보내는 것은 그녀가 물러서게 만드는 확실한 방법입니다.
+
+These techniques work well when you're in the ideal organization, but
+what about when your organization is anything but ideal?
+
+이런 기법들은 이상적인 조직에 있을 때 잘 작동하지만, 조직이 이상적이지 않을 때는 어떨까요?
+
+[[the_reality_when_your_environment_is_an_]]
+=== How Things Usually Are
+
+
+[quote, Leo Tolstoy, Anna Karenina]
+__________________
+Happy families are all alike; every unhappy family is unhappy in its
+own way.footnote:[Anna Karenina principle,link:$$http://en.wikipedia.org/wiki/Anna_Karenina_principle$$[].]
+__________________
+
+
+((("average companies", id="ixch05asciidoc3", range="startofrange")))There are innumerable ways in which the environment in your company
+can work to prevent you from succeeding, but they can usually be
+divided into two major categories: bad people and bad organizations.
+
+[role="pagebreak-before"]
+[[your_life_under_a_bad_manager]]
+==== The Bad Manager
+
+((("average companies","bad managers in", id="ixch05asciidoc4", range="startofrange")))((("bad managers", id="ixch05asciidoc5", range="startofrange")))((("managers","bad", id="ixch05asciidoc6", range="startofrange")))It's hard to know where to start in describing the traits of a bad
+manager—entire movies and TV shows have been created solely to lampoon
+the bad managers of the world. Most of us have had at least one bad
+manager in our careers, and a bad manager can make life on even the greatest
+team a living hell, so we're going to cover just a few of the traits
+of a bad manager that typically affect pass:[<span class="keep-together">engineers</span>].
+
+나쁜 매니저의 특성을 설명하는 것을 어디서부터 시작해야 할지 알기 어렵습니다—전체 영화와 TV 쇼들이 세상의 나쁜 매니저들을 조롱하기 위해서만 만들어졌을 정도입니다. 우리 대부분은 커리어에서 적어도 한 명의 나쁜 매니저를 겪었고, 나쁜 매니저는 가장 훌륭한 팀에서조차 삶을 지옥으로 만들 수 있기 때문에, 우리는 일반적으로 엔지니어들에게 영향을 미치는 나쁜 매니저의 몇 가지 특성만 다루겠습니다.
+
+((("failure","fear of, in bad managers")))((("fear of failure","and bad managers")))Fear of failure is one of the most common
+traits of bad managers. This insecurity tends to make them very
+conservative, which is antithetical to the work style of the typical
+engineer. If your manager doesn't want you to take risks, there is
+little opportunity for you to inject your own ideas into your product
+and you'll usually wind up implementing (by rote) the product
+someone else designed.footnote:[Again, this is an
+acceptable way to write software; we just don't think it's a very
+interesting way for top-notch engineers to spend their
+time.]
+
+실패에 대한 두려움은 나쁜 매니저들의 가장 흔한 특성 중 하나입니다. 이런 불안감은 그들을 매우 보수적으로 만드는 경향이 있으며, 이는 일반적인 엔지니어의 작업 스타일과 정반대입니다. 매니저가 당신이 위험을 감수하기를 원하지 않는다면, 제품에 당신만의 아이디어를 주입할 기회는 거의 없고, 보통 다른 사람이 설계한 제품을 (기계적으로) 구현하게 될 것입니다.footnote:[다시 말하지만, 이는 소프트웨어를 작성하는 허용 가능한 방법입니다; 우리는 단지 최고 수준의 엔지니어들이 시간을 보내기에는 그리 흥미로운 방법이 아니라고 생각할 뿐입니다.]
+
+((("chain of command")))Oftentimes the insecure manager will insist on inserting herself into
+any interaction you have with people outside your team, thereby
+preventing you from speaking directly to other teams without "going
+through the chain of command." This kind of manager will consider any
+direct contact you make with anyone outside your team—especially
+another manager—to be akin to mutiny or insubordination. If you need
+anything outside your team or their organization, this manager expects
+you to go through her, which allows her to elevate her importance and
+subordinate you, thus giving her more power.
+
+종종 불안한 매니저는 당신이 팀 외부 사람들과 갖는 모든 상호작용에 자신을 끼워넣으려 고집하며, 이로 인해 당신이 "지휘 계통을 거치지" 않고는 다른 팀들과 직접 대화하는 것을 막습니다. 이런 종류의 매니저는 당신이 팀 외부의 누구와든—특히 다른 매니저와—직접 접촉하는 것을 반란이나 불복종과 같다고 여길 것입니다. 팀이나 그들의 조직 외부에서 무언가가 필요하다면, 이 매니저는 당신이 그녀를 통해 가기를 기대하며, 이는 그녀가 자신의 중요성을 높이고 당신을 종속시켜 더 많은 권력을 갖게 해줍니다.
+
+((("communication","bad managers and", id="ixch05asciidoc7", range="startofrange")))((("knowledge, hoarding of", id="ixch05asciidoc8", range="startofrange")))Most of us grew up in school hearing the oft-repeated canard
+"knowledge is power." The bad manager is
+very much aware of this, but from a different angle: she wants to keep
+this power to herself and not share it with you, no matter how much it
+might help you to do your job. This manager hoards information and hides it from you as a way to make sure
+she can play a part in anything that involves that information, which
+not only keeps you from getting work done, but also helps her maintain
+her position of relevance and power no matter how much it slows down
+development.
+
+우리 대부분은 학교에서 자주 반복되는 거짓말인 "지식이 곧 힘이다"라는 말을 들으며 자랐습니다. 나쁜 매니저는 이것을 매우 잘 알고 있지만, 다른 각도에서 접근합니다: 그녀는 이 힘을 자신만 가지고 있고 당신과 공유하지 않으려 하며, 그것이 당신의 일에 얼마나 도움이 될지는 상관없습니다. 이런 매니저는 정보를 독점하고 당신으로부터 숨김으로써 그 정보와 관련된 모든 일에 자신이 관여할 수 있도록 확실히 하며, 이는 당신이 일을 완수하는 것을 막을 뿐만 아니라 개발을 얼마나 늦추든 상관없이 그녀가 관련성과 권력의 위치를 유지하는 데 도움이 됩니다.
+
+
+[[image_no_caption-id032]]
+image::images/dbtm_05in04.png[]
+
+By hoarding information and requiring that they be a conduit for
+information and communication, bad managers are also able to take credit for your
+successesfootnote:[Which is doubly frustrating
+because you managed to succeed in spite of their interference!] and
+blame you for your failures (and sometimes, their failures as
+well). In many cases, this kind of bad manager sees your existence
+solely as a means to get herself promoted, and she doesn't care about
+your career, much less your team's happiness.
+
+정보를 독점하고 정보와 소통의 통로가 되도록 요구함으로써, 나쁜 매니저들은 또한 당신의 성공에 대한 공로를 가로챌 수 있고footnote:[이는 당신이 그들의 방해에도 불구하고 성공했기 때문에 두 배로 좌절스럽습니다!] 당신의 실패(그리고 때로는 그들 자신의 실패까지도)에 대해 당신을 비난할 수 있습니다. 많은 경우, 이런 종류의 나쁜 매니저는 당신의 존재를 오로지 자신이 승진하기 위한 수단으로만 보며, 당신의 커리어는 물론이고 팀의 행복에 대해서도 신경 쓰지 않습니다.
+
+Our friend Susan had a terrible manager for a number of years, and her
+manager would often hand a new project off to Susan with no context,
+no information on how to get the project done, and no one to contact
+with questions. He would do this even if Susan had zero knowledge or
+context about the new task, because this forced her to rely on him for
+information as well as communication with other teams. Susan's manager
+didn't necessarily want Susan to fail: in fact, if he'd told Susan
+everything she needed to know about the project, it would have made
+Susan's life
+easier and more productive. On the other hand, he was most likely
+afraid that it would have been that much easier for her to circumvent him!
+Having the ability to directly contact relevant teams would have made
+them aware that Susan, and not her manager, was working on this
+project. Time and time again Susan would scramble to get up to speed
+on the new project, get it done, and then collapse, only to find out
+through the grapevine that her manager had taken credit for her work.(((range="endofrange", startref="ixch05asciidoc8")))(((range="endofrange", startref="ixch05asciidoc7")))
+
+우리 친구 Susan은 몇 년 동안 끔찍한 매니저를 두었는데, 그녀의 매니저는 종종 아무런 맥락도, 프로젝트를 어떻게 완수해야 하는지에 대한 정보도, 질문할 사람도 없이 새 프로젝트를 Susan에게 넘겨주곤 했습니다. 그는 Susan이 새로운 과제에 대해 전혀 지식이나 맥락이 없더라도 이렇게 했는데, 이는 그녀가 정보뿐만 아니라 다른 팀들과의 소통에서도 그에게 의존하도록 강요했기 때문입니다. Susan의 매니저가 반드시 Susan이 실패하기를 원한 것은 아니었습니다: 사실, 그가 Susan에게 프로젝트에 대해 알아야 할 모든 것을 말해주었다면, Susan의 삶이 더 쉽고 생산적이 되었을 것입니다. 반면에, 그는 아마도 그렇게 했다면 그녀가 그를 우회하기가 훨씬 쉬워졌을 것을 두려워했을 것입니다! 관련 팀들에게 직접 연락할 수 있는 능력을 갖는 것은 그들로 하여금 Susan이, 그녀의 매니저가 아닌, 이 프로젝트를 진행하고 있다는 것을 알게 했을 것입니다. 몇 번이고 Susan은 새 프로젝트를 따라잡기 위해 허둥지둥하고, 완수하고, 그리고 나서 쓰러지곤 했으며, 나중에 소문을 통해 그녀의 매니저가 그녀의 작업에 대한 공로를 가로챘다는 것을 알게 되곤 했습니다.
+
+In stark contrast to the servant leader we
+discussed in <<every_boat_needs_a_captain>>, the bad manager wants to
+know what you've done for him lately. And those low performers on your
+team?  They're not going anywhere as long as they don't grind your
+team to a screeching halt—it's too much work for the bad manager to
+deal with them.  It boils down to this: is your manager serving you?
+Or are you serving your manager? It should __always__ be the former.(((range="endofrange", startref="ixch05asciidoc6")))(((range="endofrange", startref="ixch05asciidoc5")))(((range="endofrange", startref="ixch05asciidoc4")))
+
+<<every_boat_needs_a_captain>>에서 논의한 서번트 리더와는 극명한 대조를 이루며, 나쁜 매니저는 당신이 최근에 그를 위해 무엇을 했는지 알고 싶어 합니다. 그리고 팀의 저성과자들은? 팀을 완전히 멈춰 세우지 않는 한 어디로도 가지 않을 것입니다—나쁜 매니저가 그들을 다루기에는 너무 많은 일이기 때문입니다. 결국 이것으로 귀결됩니다: 당신의 매니저가 당신을 섬기고 있습니까? 아니면 당신이 매니저를 섬기고 있습니까? __항상__ 전자여야 합니다.
+
+[[the_office_politician]]
+==== The Office Politician
+
+((("average companies","office politicians in")))((("office politicians")))((("poisonous people","office politicians as")))((("politicians, office")))While we're big proponents of trusting people, or at the very least
+giving them the benefit of the doubt, trusting the office politician can be a seriously
+career-limiting move.
+
+우리는 사람들을 신뢰하거나, 최소한 그들에게 의심의 여지를 주는 것을 크게 지지하지만, 오피스 정치꾼을 신뢰하는 것은 심각하게 커리어를 제한하는 행동이 될 수 있습니다.
+
+The office politician may be difficult to spot when you first meet him
+because he tends to be very good at managing relationships and dealing
+with people—he may be quite friendly at first. He usually does an
+exceptional job of managing up and an even better job of using his
+peers and subordinates as a means for
+self-promotion. He's quick to blame others, but
+even quicker to steal credit when given the opportunity. He's usually
+not directly confrontational, but instead prefers to tell you what you
+want to hear so that you'll think well of him. If he can't use you or
+manipulate you, he'll either ignore you or, if he sees you as a
+threat, try to undermine you. After you've worked with him for a
+while, it's easy to spot him: he spends more time __looking__
+impactful than actually __being__ impactful.
+
+오피스 정치꾼은 처음 만났을 때 발견하기 어려울 수 있는데, 그는 관계를 관리하고 사람들을 다루는 데 매우 능숙한 경향이 있기 때문입니다.
+처음에는 꽤 친근할 수도 있습니다. 그는 보통 상급자 관리를 뛰어나게 하고, 동료들과 부하직원들을 자기 홍보의 수단으로 사용하는 것은 더욱 뛰어나게 합니다.
+ 그는 다른 사람들을 비난하기를 빨리 하지만, 기회가 주어졌을 때 공로를 가로채는 것은 더욱 빠릅니다.
+ 그는 보통 직접적으로 대립적이지는 않지만, 대신 당신이 그를 좋게 생각하도록 당신이 듣고 싶어 하는 말을 해주는 것을 선호합니다.
+그가 당신을 이용하거나 조종할 수 없다면, 당신을 무시하거나, 당신을 위협으로 본다면 당신을 약화시키려 할 것입니다.
+그와 한동안 일해본 후에는 그를 발견하기 쉽습니다: 그는 실제로 __영향력을 미치는__ 것보다 영향력 있어 __보이는__ 데 더 많은 시간을 씁니다.
+
+We advise that you steer clear of the office
+politician: route around him where possible, but don't carelessly
+badmouth him to other people above him in the organization, because
+it's quite difficult to know who he has hoodwinked and who is wise to
+him. If you're the kind of person who is happy to keep your head down
+and focus on building interesting technology, you may want to rethink
+this strategy when there's an office politician around. If you don't put energy
+into getting promoted because you don't want to "play the game," you
+may find that the office politician gets promoted over you, in which
+case you've now got a bad
+manager __and__ an office politician. See
+<<manipulating_your_organization>> for more on this.
+
+우리는 오피스 정치꾼을 피하라고 조언합니다: 가능한 곳에서는 그를 우회하되, 조직에서 그보다 위에 있는 다른 사람들에게 부주의하게 그를 험담하지는 마세요.
+그가 누구를 속였고 누가 그를 꿰뚫어 보는지 알기가 매우 어렵기 때문입니다.
+만약 당신이 고개를 숙이고 흥미로운 기술을 구축하는 데 집중하는 것을 좋아하는 종류의 사람이라면,
+오피스 정치꾼이 주변에 있을 때는 이 전략을 재고해볼 필요가 있을 것입니다.
+"게임을 하기"를 원하지 않아서 승진에 에너지를 쏟지 않는다면, 오피스 정치꾼이 당신보다 승진하는 것을 발견할 수도 있으며,
+그 경우 당신은 이제 나쁜 매니저 __그리고__ 오피스 정치꾼을 갖게 된 것입니다.
+이에 대한 자세한 내용은 <<manipulating_your_organization>>을 참조하세요.
+
+[[the_bad_organization]]
+==== The Bad Organization
+
+((("average companies","and bad organizations", id="ixch05asciidoc9", range="startofrange")))((("bad organizations", id="ixch05asciidoc10", range="startofrange")))((("organizations, bad", id="ixch05asciidoc11", range="startofrange")))As companies grow, they develop bureaucracy and processes in an effort
+to manage profit, reduce risk, increase predictability, and support
+the massive weight of the organization itself. Over time, this
+bureaucracy can grow to a point where it prevents the company from
+succeeding. As with bad managers, much has been written about
+bad organizations, so
+we're only going to review a few examples of organizational issues
+that most often affect individual contributors.
+
+회사가 성장함에 따라, 그들은 이익을 관리하고, 위험을 줄이고, 예측 가능성을 높이고,
+조직 자체의 거대한 무게를 지탱하기 위한 노력으로 관료제와 프로세스를 개발합니다.
+시간이 지나면서, 이 관료제는 회사가 성공하는 것을 방해하는 지점까지 성장할 수 있습니다.
+나쁜 매니저들과 마찬가지로, 나쁜 조직들에 대해서도 많이 쓰여졌기 때문에, 우리는 개별 기여자들에게 가장 자주 영향을 미치는 조직적 문제들의 몇 가지 예만 검토하겠습니다.
+
+((("engineers","in bad organizations")))It's a simple fact that most companies are not
+engineering-focused. That is to say: engineers are a means to
+accomplish business goals that are typically not technical. This means
+the people running the company probably don't understand the technical
+underpinnings of their system, just the demands set upon them by the
+business, and so they wind up creating unrealistic demands on
+engineering. Even if a technically competent executive finds her way
+into this sort of company and fights to defend her organization,
+she'll frequently find herself replaced by someone who is willing to
+sacrifice the health and sanity of the employees to meet the needs of
+the business. Typically you'll see this directly in the form of
+unrealistic deadlines and lack of qualified technical people to get
+projects completed on time. You may have difficulty acquiring enough
+hardware to effectively run your product, or find your team spending
+weeks rewriting something when a hardware purchase costing only a few
+hundred dollars would have done the job. This is unfortunately typical
+of a company that doesn't value engineers and treats them like "work
+units" or "resources," giving them no voice in how the company
+operates.
+
+대부분의 회사들이 엔지니어링 중심이 아니라는 것은 단순한 사실입니다. 즉, 엔지니어들은 일반적으로 기술적이지 않은 비즈니스 목표를 달성하기 위한 수단입니다.
+이는 회사를 운영하는 사람들이 아마도 그들 시스템의 기술적 기반을 이해하지 못하고, 단지 비즈니스에 의해 그들에게 부과된 요구사항만 이해한다는 것을 의미하며,
+그래서 그들은 엔지니어링에 비현실적인 요구를 하게 됩니다. 기술적으로 유능한 임원이 이런 종류의 회사에 들어가서 자신의 조직을 방어하기 위해 싸운다 하더라도,
+그녀는 종종 비즈니스의 요구를 충족하기 위해 직원들의 건강과 정신을 희생할 의향이 있는 사람으로 교체되는 자신을 발견하게 될 것입니다.
+일반적으로 당신은 이것을 비현실적인 마감일과 프로젝트를 제시간에 완료할 자격을 갖춘 기술 인력의 부족의 형태로 직접 보게 될 것입니다.
+제품을 효과적으로 실행하기에 충분한 하드웨어를 확보하는 데 어려움을 겪거나, 몇 백 달러짜리 하드웨어 구매로 해결될 일을 팀이 몇 주 동안 다시 작성하는 데 보내는 것을 발견할 수도 있습니다.
+이는 불행히도 엔지니어들을 가치 있게 여기지 않고 그들을 "작업 단위"나 "자원"으로 취급하며, 회사가 어떻게 운영되는지에 대해 그들에게 발언권을 주지 않는 회사의 전형입니다.
+
+((("command and control")))The most egregiously bad organizations have ossified command and control
+structures that resemble fiefdoms. Years ago, our friend Terrence
+worked at a company that had strict rules on passing bugs between
+teams, and eventually another team created a bug that caused
+Terrence's product to run out of memory over the course of a few
+hours. Instead of emailing the team members who were responsible for
+this, or looking at their commit logs or source code, he stayed up all
+night reproducing the bug, gathering data, and building his
+case. Terrence sent this email to his manager, who sent the email to
+his director, who emailed the director of the team that created the
+bug. This director emailed that team's manager, who figured out who on
+his team was responsible for the software in question. More than 10
+days later, Terrence found himself in a meeting with two managers, two
+directors, and three other engineers discussing the bug and whether
+they could get it fixed in time for their next launch. Sound absurd?
+Sadly, this sort of thing happens all the time. In contrast, during
+Fitz's first week at Google he found a typo in Gmail. He opened the
+source code, fixed the typo, then emailed a patch to the Gmail team,
+who thanked him heartily.
+
+가장 심각하게 나쁜 조직들은 봉건제도를 닮은 경직된 명령과 통제 구조를 가지고 있습니다.
+몇 년 전, 우리 친구 Terrence는 팀 간에 버그를 전달하는 데 엄격한 규칙을 가진 회사에서 일했는데,
+결국 다른 팀이 Terrence의 제품이 몇 시간에 걸쳐 메모리 부족을 일으키는 버그를 만들었습니다.
+이에 대해 책임이 있는 팀 멤버들에게 이메일을 보내거나, 그들의 커밋 로그나 소스 코드를 보는 대신, 그는 밤새 버그를 재현하고, 데이터를 수집하고, 자신의 케이스를 구축했습니다.
+Terrence는 이 이메일을 자신의 매니저에게 보냈고, 매니저는 그 이메일을 자신의 디렉터에게 보냈으며, 디렉터는 버그를 만든 팀의 디렉터에게 이메일을 보냈습니다.
+이 디렉터는 그 팀의 매니저에게 이메일을 보냈고, 매니저는 자신의 팀에서 누가 해당 소프트웨어에 대해 책임이 있는지 알아냈습니다.
+10일이 넘은 후, Terrence는 두 명의 매니저, 두 명의 디렉터, 그리고 세 명의 다른 엔지니어들과 함께 버그에 대해 논의하고 다음 출시에 맞춰 수정할 수 있는지에 대해 회의하는 자신을 발견했습니다.
+터무니없게 들리나요? 슬프게도, 이런 종류의 일은 항상 일어납니다. 대조적으로, Fitz가 Google에서의 첫 주 동안 Gmail에서 오타를 발견했습니다.
+그는 소스 코드를 열고, 오타를 수정한 다음, Gmail 팀에 패치를 이메일로 보냈고, 그들은 그에게 진심으로 감사했습니다.
+
+((("hierarchy")))((("organizational hierarchy")))Many companies are filled with people who are obsessed with
+organizational hierarchy.footnote:[ In addition, in
+many dysfunctional companies, people are more concerned with their
+title than being productive or enjoying their job.] This results in
+endless power struggles, with managers often preventing engineers from
+transferring to another team in order to protect their own team from
+losing a valuable contributor—even when the right thing to do for both
+the company and the engineer is to let the transfer happen.
+
+많은 회사들은 조직 계층구조에 집착하는 사람들로 가득 차 있습니다.footnote:[게다가, 많은 기능 장애 회사들에서 사람들은 생산적이거나 자신의 일을 즐기는 것보다 자신의 직함에 더 관심이 있습니다.]
+이는 끝없는 권력 투쟁을 초래하며, 매니저들은 종종 엔지니어들이 다른 팀으로 이전하는 것을 막아서 자신의 팀이 가치 있는 기여자를 잃는 것을 보호하려 합니다.
+회사와 엔지니어 모두에게 올바른 일이 이전을 허용하는 것일 때조차 말입니다.
+
+Has your company ever treated you like a naughty child? Are you unable
+to get to innocuous external websites due to an overzealous company
+firewall? Do you have to carefully account for every moment of your
+day with a detailed timecard? Some organizations will even go so far as to
+measure your productivity by meaningless (and usually wildly
+inaccurate) methods such as the number of lines of code you write
+every week.footnote:[Shouldn't we get even more
+credit for deleting lines of code?]
+
+당신의 회사가 당신을 못된 아이처럼 대한 적이 있나요? 지나치게 열성적인 회사 방화벽 때문에 무해한 외부 웹사이트에 접근할 수 없나요?
+상세한 타임카드로 하루의 모든 순간을 세심하게 기록해야 하나요?
+일부 조직들은 심지어 매주 작성하는 코드 줄 수와 같은 무의미하고 (보통 매우 부정확한) 방법으로 당신의 생산성을 측정하기까지 합니다.footnote:[코드 줄을 삭제하는 것에 대해서는 더 많은 공로를 인정받아야 하지 않을까요?]
+
+
+[[image_no_caption-id033]]
+image::images/dbtm_05in05.png[]
+
+Still other organizations will breed employees who judge their success
+not by the number and quality of products they ship, but by the number
+of meetings they're invited to attend.
+
+또 다른 조직들은 출시하는 제품의 수와 품질이 아니라 참석하도록 초대받는 회의의 수로 자신의 성공을 판단하는 직원들을 양성할 것입니다.
+
+Lastly, your company might lack important ((("design by committee")))things like focus, vision,
+or direction. This is often the result of too many masters, or "design
+by committee," which results in conflicting
+orders being sent down to the rank and file. So you wind up moving in
+ever-tighter circles instead of in a coherent direction.(((range="endofrange", startref="ixch05asciidoc11")))(((range="endofrange", startref="ixch05asciidoc10")))(((range="endofrange", startref="ixch05asciidoc9")))
+
+마지막으로, 당신의 회사는 집중력, 비전, 또는 방향성과 같은 중요한 것들이 부족할 수 있습니다.
+이는 종종 너무 많은 주인들이나 "위원회에 의한 설계"의 결과이며, 이는 상충하는 명령들이 일반 직원들에게 내려보내지는 결과를 낳습니다.
+그래서 당신은 일관된 방향이 아니라 점점 더 좁은 원을 그리며 움직이게 됩니다.
+
+Many bad companies are guilty of
+these transgressions, and much, much more. Still, these companies are
+composed of people, and there are a number of tips and tricks you can
+put to bear to get people to help you out.(((range="endofrange", startref="ixch05asciidoc3")))
+
+많은 나쁜 회사들이 이런 위반 행위들과 훨씬 더 많은 것들에 대해 유죄입니다.
+그럼에도 불구하고, 이런 회사들은 사람들로 구성되어 있으며, 사람들이 당신을 도와주도록 하기 위해 활용할 수 있는 여러 팁과 요령들이 있습니다.
+
+[[manipulating_your_organization]]
+=== Manipulating Your Organization
+
+[quote,Morpheus]
+____
+
+This is a sparring program, similar to the programmed reality of the
+Matrix. It has the same basic rules, rules like gravity. What you must
+learn is that these rules are no different than the rules of a
+computer system. Some of them can be bent. Others can be
+broken. Understand? Then hit me if you can.
+
+이것은 매트릭스의 프로그래밍된 현실과 유사한 스파링 프로그램입니다.
+중력과 같은 규칙들, 같은 기본 규칙들을 가지고 있습니다. 당신이 배워야 할 것은 이런 규칙들이 컴퓨터 시스템의 규칙들과 다르지 않다는 것입니다.
+그 중 일부는 구부릴 수 있습니다. 다른 것들은 깨뜨릴 수 있습니다. 이해하겠습니까? 그럼 할 수 있다면 저를 쳐보세요.
+____
+
+
+((("organizational manipulation","methods for", id="ixch05asciidoc12", range="startofrange")))Much like the sparring program, companies are made of rules: some of
+them can be bent, and others can be broken. If you focus on the way
+things __should__ be in your organization, you'll usually find nothing
+but frustration and disappointment. Instead, acknowledge the way
+things __are__, and focus on navigating your organization's structure
+to find the mechanisms you can use to get things done and to carve out
+a happy place for yourself in your company. Whether you're in a good
+organization or a bad one, there are a number of strategies that we've
+found to be quite effective at getting things done.
+
+스파링 프로그램과 마찬가지로, 회사들은 규칙들로 만들어져 있습니다: 그 중 일부는 구부릴 수 있고, 다른 것들은 깨뜨릴 수 있습니다.
+조직에서 일들이 __어떠해야__ 하는지에 집중한다면, 보통 좌절과 실망만을 발견하게 될 것입니다.
+대신, 일들이 __어떠한지__ 인정하고, 일을 완수하고 회사에서 자신만의 행복한 자리를 만들어내기 위해 사용할 수 있는 메커니즘을 찾기 위해 조직의 구조를 탐색하는 데 집중하세요.
+좋은 조직에 있든 나쁜 조직에 있든, 일을 완수하는 데 매우 효과적이라고 우리가 발견한 여러 전략들이 있습니다.
+
+[[its_easier_to_ask_for_forgiveness_than_p]]
+==== "It's Easier to Ask for Forgiveness Than Permission"footnote:[((("Hopper, Grace Murray")))Widely attributed to Admiral Grace Murray Hopper, coinventor of COBOL and an incredibly witty computer scientist.]
+
+((("forgiveness, permission vs.")))((("organizational manipulation","asking for forgiveness instead of permission")))((("permission, forgiveness vs.")))First and foremost, know what you can get away with in your
+organization—while asking for permission does give you an opportunity
+to push responsibility onto someone else, it also creates an
+opportunity for someone to tell you "no." It's important to know what
+you can get away with in your organization without explicitly getting
+approval from one of your superiors, but wherever possible, we advise
+you to do what you think is right for the company.
+
+무엇보다도, 조직에서 당신이 무엇을 해낼 수 있는지 알아두세요—허가를 요청하는 것이 책임을 다른 사람에게 떠넘길 기회를 주기는 하지만,
+누군가가 당신에게 "안 된다"고 말할 기회도 만들어냅니다.
+상급자 중 한 명으로부터 명시적으로 승인을 받지 않고도 조직에서 무엇을 해낼 수 있는지 아는 것이 중요하지만, 가능한 한 회사에 옳다고 생각하는 일을 하라고 조언합니다.
+
+Even if you're prepared to beg for forgiveness, choose your battles
+wisely—every time you have to plead your case for something or go up
+against someone else in your company, you're spending your political
+capital. If you spend all your capital winning a bunch of battles that
+just don't matter, you're going to find that you have nothing left in
+your account when it comes to the important things. Be strategic and
+fight for things either that matter or that you're pretty sure you
+have __some__ chance of winning. Blowing all your capital on a battle
+you know you can't win is pointless, stressful, and career limiting
+for no good reason.  For more details, see <<your_political_bank_account>>.
+
+용서를 구할 준비가 되어 있다 하더라도, 싸움을 현명하게 선택하세요.
+무언가에 대해 당신의 케이스를 변호하거나 회사의 다른 누군가와 맞서야 할 때마다, 당신은 정치적 자본을 소비하고 있는 것입니다.
+중요하지 않은 많은 싸움들에서 이기는 데 모든 자본을 소비한다면, 중요한 일들에 관해서는 계좌에 남은 것이 없다는 것을 발견하게 될 것입니다.
+전략적이 되어서 중요한 것들이나 당신이 이길 __어느 정도__ 가능성이 있다고 확신하는 것들을 위해 싸우세요.
+이길 수 없다는 것을 알고 있는 싸움에 모든 자본을 날려버리는 것은 무의미하고, 스트레스를 주며, 아무런 좋은 이유 없이 커리어를 제한합니다.
+자세한 내용은 <<your_political_bank_account>>를 참조하세요.
+
+If you do decide to go the "beg for forgiveness" route, it's useful to
+have colleagues and friends in your company that you can use as a
+sounding board for your ideas—especially your riskier ideas.
+
+"용서를 구하는" 경로를 택하기로 결정한다면, 당신의 아이디어들—특히 더 위험한 아이디어들—에 대한 사운딩 보드로 사용할 수 있는 회사의 동료들과 친구들을 두는 것이 유용합니다.
+
+These people should have a good sense of what you can and can't get
+away with in the company as well as which ideas just won't fly.
+
+이런 사람들은 회사에서 당신이 무엇을 해낼 수 있고 없는지, 그리고 어떤 아이디어들이 받아들여지지 않을지에 대해 좋은 감각을 가지고 있어야 합니다.
+
+When someone in marketing suggested that Fitz raise awareness of his
+Data Liberation team among the executives at Google, Fitz bounced an
+idea off his sounding-board colleagues: give Data Liberation–branded
+bolt cutters and locked boxes of swag (with the keys locked inside, of
+course) to the execs. He decided to go ahead with it and it was a big
+hit. A few years later, when Fitz was contemplating printing up some,
+shall we say, "off-color" swag, the same sounding board expressed some
+concern that the plan was too risky and Fitz decided to nix that
+plan. If you're going to act without asking permission, it's good to trust your instincts,
+but a second opinion from a trusted source is
+invaluable.
+
+마케팅의 누군가가 Fitz에게 Google의 임원들 사이에서 자신의 Data Liberation 팀에 대한 인식을 높이라고 제안했을 때,
+Fitz는 사운딩 보드 동료들에게 아이디어를 던져보았습니다: Data Liberation 브랜드의 볼트 커터와 잠긴 굿즈 상자들(물론 열쇠는 안에 잠겨 있는)을 임원들에게 주는 것이었습니다.
+그는 진행하기로 결정했고 큰 성공을 거두었습니다. 몇 년 후, Fitz가 좀 "선정적인" 굿즈를 인쇄하는 것을 고려하고 있을 때,
+같은 사운딩 보드는 그 계획이 너무 위험하다는 우려를 표현했고 Fitz는 그 계획을 취소하기로 결정했습니다.
+허가를 요청하지 않고 행동할 것이라면, 직감을 믿는 것이 좋지만, 신뢰할 수 있는 출처로부터의 두 번째 의견은 매우 귀중합니다.
+
+[[if_you_cant_take_the_path_make_the_path]]
+==== If You Can't Take the Path, Make the Path
+
+==== 길을 갈 수 없다면, 길을 만들어라
+
+[[image_no_caption-id034]]
+image::images/dbtm_05in06.png[]
+
+((("ideas, getting others to accept")))((("organizational manipulation","creating your own path")))((("path, creating your own")))Another strategy for making change in a company is to find ways to get
+your ideas accepted at a grassroots level. If you can get enough
+people to buy into your idea or use a particular product, it will
+often be too late for the bureaucracy to squash you, and management
+will be forced to notice and either accept it or act against it (which
+costs them, yep, you guessed it, political capital!). This is a
+strategy that many engineers used for years, for example, to sneak
+open source tools into their daily workflow in order to make their
+lives a lot more pleasant.
+
+회사에서 변화를 만드는 또 다른 전략은 풀뿌리 수준에서 당신의 아이디어가 받아들여지도록 하는 방법을 찾는 것입니다.
+충분한 사람들이 당신의 아이디어를 받아들이거나 특정 제품을 사용하도록 할 수 있다면, 관료제가 당신을 짓밟기에는 종종 너무 늦을 것이고,
+경영진은 그것을 알아차리고 받아들이거나 반대 행동을 취하도록 강요받을 것입니다(그리고 그것은 그들에게, 맞습니다, 짐작하셨겠지만, 정치적 자본을 소비시킵니다!).
+이는 많은 엔지니어들이 수년간 사용한 전략으로, 예를 들어 자신들의 삶을 훨씬 더 즐겁게 만들기 위해 오픈 소스 도구들을 일상 워크플로우에 몰래 도입하는 데 사용했습니다.
+
+[[note-6]]
+.Persuasion by proxy
+[NOTE]
+====
+
+((("persuasion")))If you're trying to persuade someone, a great way to increase your
+chances of success is to find several people who agree with you and
+get __them__ to drop your idea (or proposal or request) in a
+conversation with that person. Even if your target is totally aware of
+what's going on, basic human psychology dictates that she'll give more
+weight to the idea because it's hitting her from multiple directions
+and not just from you.
+
+====
+
+[[note-6]]
+.대리를 통한 설득
+[NOTE]
+====
+
+누군가를 설득하려고 한다면, 성공 가능성을 높이는 훌륭한 방법은 당신과 동의하는 여러 사람들을 찾아서 __그들이__ 그 사람과의 대화에서 당신의 아이디어(또는 제안이나 요청)를 언급하도록 하는 것입니다. 당신의 대상이 무슨 일이 일어나고 있는지 완전히 알고 있다 하더라도, 기본적인 인간 심리학에 따르면 그녀는 그 아이디어가 당신만이 아니라 여러 방향에서 오고 있기 때문에 더 많은 비중을 둘 것입니다.
+
+====
+
+((("credit for ideas")))Ideas in particular are fascinating things: they can go a long way if
+you don't care who gets the credit! Sometimes you'll find that people
+will spread an idea only if they can take credit for the idea as their
+own, so you need to decide what's more important: that you get the
+credit, or that the idea spreads. Despite the fact that it may pain
+you to hear your words coming out of another (perhaps despised)
+person's mouth, it's often the most effortless way for an idea to
+travel. We've seen this happen time and time again in companies large
+and small: the lofty concepts and ideas coming from an executive's
+mouth originate from someone in her organization. Think about the
+broad audience that your idea—which would otherwise go unheard—can
+reach in this case!
+
+특히 아이디어들은 매혹적인 것들입니다: 누가 공로를 인정받는지 신경 쓰지 않는다면 멀리 갈 수 있습니다! 때로는 사람들이 아이디어를 자신의 것으로 공로를 인정받을 수 있을 때만 아이디어를 퍼뜨린다는 것을 발견하게 될 것이므로, 무엇이 더 중요한지 결정해야 합니다: 당신이 공로를 인정받는 것인지, 아니면 아이디어가 퍼지는 것인지. 당신의 말이 다른 사람(아마도 경멸하는)의 입에서 나오는 것을 듣는 것이 고통스러울 수 있다는 사실에도 불구하고, 그것은 종종 아이디어가 여행하는 가장 수월한 방법입니다. 우리는 이런 일이 크고 작은 회사들에서 몇 번이고 일어나는 것을 보았습니다: 임원의 입에서 나오는 고상한 개념들과 아이디어들이 그녀의 조직 내 누군가로부터 시작된 것입니다. 이 경우 당신의 아이디어가—그렇지 않았다면 들리지 않았을—도달할 수 있는 광범위한 청중에 대해 생각해보세요!
+
+((("bad habits, eliminating")))((("habits, bad")))Just as with individuals, eliminating bad habits in a company is
+difficult. One of Ben's early teachers used to have a saying: "It's
+impossible to simply stop a bad habit; you need to __replace__ it with
+a good habit." Anyone who's ever tried to quit smoking is intimately
+familiar with this phenomenon. Corporations are the same way—if you're
+going to successfully eliminate a bad habit, find a better one to
+replace it. Don't like a certain weekly meeting? Replace it with a
+different kind of meeting or alternate (more effective) ritual. Don't
+like a useless reporting process? Don't complain about it; write a
+useful one that's too compelling to ignore. Once you've found a good
+replacement habit, you need to overcome the inertia of change
+aversion, so we recommend offering to "try" your new ritual for a few
+weeks. This makes the new thing seem less permanent, less scary, and
+if it turns out that everyone likes the new ritual, by the time your
+"trial" period is over, they've forgotten that it was a trial in the
+first place.
+
+개인과 마찬가지로, 회사에서 나쁜 습관을 없애는 것은 어렵습니다. Ben의 초기 선생님 중 한 분은 이런 말을 하곤 했습니다: "나쁜 습관을 단순히 멈추는 것은 불가능하다; 좋은 습관으로 __대체해야__ 한다." 금연을 시도해본 적이 있는 사람이라면 누구나 이 현상을 잘 알고 있을 것입니다. 기업들도 마찬가지입니다—나쁜 습관을 성공적으로 없애려면, 그것을 대체할 더 나은 것을 찾으세요. 특정 주간 회의가 마음에 들지 않나요? 다른 종류의 회의나 대안적인 (더 효과적인) 의식으로 대체하세요. 쓸모없는 보고 프로세스가 마음에 들지 않나요? 그것에 대해 불평하지 말고; 무시하기에는 너무 매력적인 유용한 것을 작성하세요. 좋은 대체 습관을 찾았다면, 변화 회피의 관성을 극복해야 하므로, 몇 주 동안 새로운 의식을 "시도해보자"고 제안하는 것을 권합니다. 이렇게 하면 새로운 것이 덜 영구적이고, 덜 무섭게 보이며, 모든 사람이 새로운 의식을 좋아한다는 것이 밝혀지면, "시험" 기간이 끝날 때쯤에는 그들이 애초에 그것이 시험이었다는 것을 잊어버렸을 것입니다.
+
+[[learn_to_manage_upward]]
+==== Learn to Manage Upward
+
+==== 상향 관리를 배워라
+
+((("managing upward")))((("organizational manipulation","managing upward")))Whether you're a manager or an individual contributor, you need to
+spend some of your time managing
+upward. By this we mean you need to try to ensure that both your
+manager and the people outside your team are not only aware of what
+you're doing, but are aware that you're doing it well. Some people
+find this mode of "selling yourself" distasteful, and it may remain
+so, but the benefits of doing this are huge.
+
+매니저든 개별 기여자든, 당신은 시간의 일부를 상향 관리에 써야 합니다. 이것이 의미하는 바는 당신의 매니저와 팀 외부의 사람들이 당신이 무엇을 하고 있는지 알 뿐만 아니라, 당신이 그것을 잘하고 있다는 것을 알도록 보장하려고 노력해야 한다는 것입니다. 어떤 사람들은 이런 "자신을 팔아넘기는" 방식을 불쾌하게 여기고, 그럴 수도 있지만, 이렇게 하는 것의 이익은 엄청납니다.
+
+As we'll mention in <<usersare_people_too>>, you need to underpromise
+and overdeliver whenever possible. We're not advocating that you
+sandbag all your estimates and pad out your deadlines, but wherever
+you can, try to avoid promising things that you can't deliver, even if
+it means saying "no" more often than you'd like. If you constantly
+miss deadlines or drop features, other people in the company will have
+less of a reason to trust you and will most likely pass over you when
+they're looking for someone to get something done.
+
+<<usersare_people_too>>에서 언급하겠지만, 가능할 때마다 적게 약속하고 많이 전달해야 합니다. 모든 추정치를 보수적으로 잡고 마감일을 늘리라고 주장하는 것은 아니지만, 가능한 한 전달할 수 없는 것들을 약속하는 것을 피하려고 노력하세요. 원하는 것보다 더 자주 "안 된다"고 말해야 한다 하더라도 말입니다. 지속적으로 마감일을 놓치거나 기능을 빼먹는다면, 회사의 다른 사람들이 당신을 신뢰할 이유가 줄어들 것이고 무언가를 완수할 사람을 찾을 때 당신을 건너뛸 가능성이 높습니다.
+
+We recommend that you focus your energies on __launching products__
+over just about everything else. Shipping things gives you
+credibility, reputation, and political capital more than just about
+anything else in a company. Launching your product is a high-visibility event that shows you're
+accomplishing something. As tempting as it might be to spend a ton of
+time cleaning up your code base and refactoring things, we've learned
+from experience that if you dedicate more than half of your time to
+this kind of defensive work, it's hardly valued at all by anyone
+outside of your team, including your superiors. You will then find
+yourself in the somewhat embarrassing position of having almost
+nothing (politically) important to show for your
+time.footnote:[We're not saying that preventing
+future problems is unimportant, just that it's considerably more
+difficult to impress people outside your team with that sort of work.]
+This is not only a good way to get no recognition, but also a
+good way to get your product
+canceled.
+
+우리는 다른 거의 모든 것보다 __제품 출시__에 에너지를 집중하라고 권합니다. 제품을 출시하는 것은 회사에서 거의 다른 어떤 것보다도 신뢰성, 평판, 그리고 정치적 자본을 줍니다. 제품을 출시하는 것은 당신이 무언가를 성취하고 있다는 것을 보여주는 높은 가시성의 이벤트입니다. 코드베이스를 정리하고 리팩터링하는 데 많은 시간을 보내는 것이 유혹적일 수 있지만, 이런 종류의 방어적 작업에 시간의 절반 이상을 할애한다면, 상급자들을 포함하여 팀 외부의 누구에게도 거의 가치를 인정받지 못한다는 것을 경험으로부터 배웠습니다. 그러면 당신은 시간에 대해 보여줄 (정치적으로) 중요한 것이 거의 없는 다소 당황스러운 위치에 있는 자신을 발견하게 될 것입니다.footnote:[미래의 문제를 예방하는 것이 중요하지 않다고 말하는 것이 아니라, 단지 그런 종류의 작업으로 팀 외부의 사람들에게 감명을 주는 것이 상당히 더 어렵다는 것입니다.] 이는 인정받지 못하는 좋은 방법일 뿐만 아니라, 제품이 취소되는 좋은 방법이기도 합니다.
+
+[[offensive_versus_defensive_work]]
+."Offensive" Versus "Defensive" Work
+****
+
+."공격적" 작업 대 "방어적" 작업
+****
+
+((("defensive work")))((("offensive work, defensive work vs.")))((("work, offensive vs. defensive")))When Ben first became a manager, it seemed like his team's
+productivity was being crushed under a mountain of accrued
+technical debt. He decided that the team's top
+priority was to spend a long time doing nothing but paying back this
+debt. His superiors gave a cursory nod to this plan and the work
+began. Things didn't go well. Despite the prior approval, Ben's
+manager began to get annoyed and impatient after a few months—why was
+the team getting "nothing done"? Ben's team was actually quite
+productive and he tried to show the enormous amount of debt that had
+been paid back. But it turns out there's just no way this sort of work
+can impress someone; at an emotional level it's just fundamentally
+boring.
+
+Ben이 처음 매니저가 되었을 때, 그의 팀의 생산성이 누적된 기술 부채의 산 아래에서 짓눌리고 있는 것 같았습니다. 그는 팀의 최우선 과제가 이 부채를 갚는 것 외에는 아무것도 하지 않고 오랜 시간을 보내는 것이라고 결정했습니다. 그의 상급자들은 이 계획에 대충 고개를 끄덕였고 작업이 시작되었습니다. 일이 잘 되지 않았습니다. 사전 승인에도 불구하고, Ben의 매니저는 몇 달 후 짜증을 내고 조급해하기 시작했습니다—팀이 왜 "아무것도 하지 않고" 있는가? Ben의 팀은 실제로 꽤 생산적이었고 그는 갚아진 엄청난 양의 부채를 보여주려고 노력했습니다. 하지만 이런 종류의 작업이 누군가에게 감명을 줄 수 있는 방법은 전혀 없다는 것이 밝혀졌습니다; 감정적 수준에서 그것은 근본적으로 지루한 것입니다.
+
+After this bad experience, Ben began to categorize all work as either
+"offensive" or "defensive." __Offensive__ work is typically effort
+toward new user-visible features—shiny things that are easy to show
+outsiders and get them excited about, or things that noticeably
+advance the appeal of a product (e.g., improved UI, faster response
+times). __Defensive__ work is effort aimed at the long-term health of a
+product (e.g., code refactoring, feature rewrites, schema changes,
+data migration, or improved emergency monitoring). Defensive
+activities make the product more maintainable, stable, and
+reliable. ((("political credit","defensive work and")))And yet, despite the fact that they're absolutely critical,
+you __get no political credit__ for doing them. If you spend all your
+time on them, people perceive your product as holding still. And to
+make wordplay on an old maxim: "Perception is nine-tenths of the
+law."
+
+이 나쁜 경험 후에, Ben은 모든 작업을 "공격적" 또는 "방어적"으로 분류하기 시작했습니다. __공격적__ 작업은 일반적으로 새로운 사용자에게 보이는 기능들—외부인들에게 보여주고 그들을 흥미롭게 만들기 쉬운 반짝이는 것들, 또는 제품의 매력을 눈에 띄게 향상시키는 것들(예: 개선된 UI, 더 빠른 응답 시간)—을 향한 노력입니다. __방어적__ 작업은 제품의 장기적 건강을 목표로 하는 노력입니다(예: 코드 리팩터링, 기능 재작성, 스키마 변경, 데이터 마이그레이션, 또는 개선된 응급 모니터링). 방어적 활동들은 제품을 더 유지보수 가능하고, 안정적이고, 신뢰할 수 있게 만듭니다. 그리고 그것들이 절대적으로 중요하다는 사실에도 불구하고, 그것들을 하는 것에 대해 __정치적 공로를 인정받지 못합니다__. 그것들에 모든 시간을 보낸다면, 사람들은 당신의 제품이 정체되어 있다고 인식합니다. 그리고 오래된 격언을 말장난으로 바꾸면: "인식이 법의 십분의 구입니다."
+
+We now have a handy rule we live by: a team should never spend more
+than one-third to one-half of its time and energy on defensive work, no matter how much technical debt there
+is. Any more time spent is a recipe for political suicide.
+
+우리는 이제 따라 사는 편리한 규칙이 있습니다: 팀은 기술 부채가 얼마나 많든 상관없이 방어적 작업에 시간과 에너지의 3분의 1에서 절반 이상을 절대 써서는 안 됩니다. 더 많은 시간을 쓰는 것은 정치적 자살의 비결입니다.
+
+
+****
+
+
+[[luck_and_the_favor_economy]]
+==== Luck and the Favor Economy
+
+==== 운과 호의 경제
+
+((("favor economy")))((("luck, creating")))((("organizational manipulation","luck and the favor economy")))Regardless ((("Luck Factor, The (Wiseman)")))((("Wiseman, Richard")))of the kind of company you work in, believe it or not, it's
+not that hard to create a sort of luck for yourself. Richard
+Wiseman, author of __The Luck Factor__,footnote:[Published by Miramax (ISBN:
+978-1401359416).] wrote about an
+experiment he performed to test the ability of people to spot
+chance
+opportunities:footnote:[link:$$http://bit.ly/luck_skill$$[]]
+
+어떤 종류의 회사에서 일하든, 믿거나 말거나, 자신을 위한 일종의 운을 만드는 것은 그리 어렵지 않습니다. __The Luck Factor__의 저자인 Richard Wisemanfootnote:[Miramax 출판 (ISBN: 978-1401359416).]은 사람들이 우연한 기회를 발견하는 능력을 테스트하기 위해 수행한 실험에 대해 썼습니다:footnote:[link:$$http://bit.ly/luck_skill$$[]]
+
+[quote]
+____
+
+I gave both lucky and unlucky people a newspaper, and asked them to
+look through it and tell me how many photographs were inside. On
+average, the unlucky people took about two minutes to count the
+photographs, whereas the lucky people took just seconds. Why? Because
+the second page of the newspaper contained the message: "Stop
+counting. There are 43 photographs in this newspaper." This message
+took up half of the page and was written in type that was more than
+2in high. It was staring everyone straight in the face, but the
+unlucky people tended to miss it and the lucky people tended to spot
+it.
+____
+
+[quote]
+____
+
+나는 운이 좋은 사람들과 운이 나쁜 사람들 모두에게 신문을 주고, 그것을 훑어보며 안에 사진이 몇 장 있는지 말해달라고 요청했습니다. 평균적으로, 운이 나쁜 사람들은 사진을 세는 데 약 2분이 걸렸지만, 운이 좋은 사람들은 단 몇 초밖에 걸리지 않았습니다. 왜일까요? 신문의 두 번째 페이지에 "세는 것을 멈추세요. 이 신문에는 43장의 사진이 있습니다"라는 메시지가 있었기 때문입니다. 이 메시지는 페이지의 절반을 차지했고 2인치보다 큰 글자로 쓰여 있었습니다. 그것은 모든 사람의 얼굴을 똑바로 응시하고 있었지만, 운이 나쁜 사람들은 그것을 놓치는 경향이 있었고 운이 좋은 사람들은 그것을 발견하는 경향이 있었습니다.
+____
+
+
+((("opportunities, creating/noticing")))He then goes on to note that lucky people "are skilled at creating and
+noticing chance opportunities." We think the same tenet
+applies to creating opportunities in companies: if you perform your
+job to the letter of the law and focus only on getting your own work
+done to the exclusion of all else, there will be few chance
+opportunities for you. If you help others get their jobs done when
+given the chance, even when it's not part of your job, there's no
+guarantee (nor should there be a "tit for tat" expectation) that
+they'll return the favor, but many people will gladly repay the favor
+in the future if given the chance.
+
+그는 계속해서 운이 좋은 사람들이 "우연한 기회를 만들고 알아차리는 데 능숙하다"고 언급합니다. 우리는 같은 원칙이 회사에서 기회를 만드는 데도 적용된다고 생각합니다: 법조문 그대로 일을 수행하고 다른 모든 것을 배제하고 오직 자신의 일을 완수하는 데만 집중한다면, 당신에게는 우연한 기회가 거의 없을 것입니다. 기회가 주어졌을 때 다른 사람들이 그들의 일을 완수하도록 도와준다면, 그것이 당신의 일의 일부가 아닐지라도, 그들이 호의를 되돌려줄 것이라는 보장은 없습니다(그리고 "눈에는 눈" 식의 기대도 있어서는 안 됩니다). 하지만 많은 사람들이 기회가 주어진다면 미래에 기꺼이 호의를 갚을 것입니다.
+
+[[your_political_bank_account]]
+==== Your Political Bank Account
+
+==== 당신의 정치적 은행 계좌
+
+((("favor economy")))((("organizational manipulation","and political bank accounts")))((("political credit","and favor economy")))Every company has a gray-market favor economy that lives outside the
+org chart, and those favors are one of the main things that you can
+use to fill up your political bank account. There's usually something
+you can quickly and easily do that benefits your company but is
+someone else's job, and if you keep your eyes open for the chance to
+do these things (in many cases, someone will come right out and ask
+you to do something for them), you earn a bit of credit for your bank
+account in this favor economy. Think of these credits as a series of
+small bets: some will never pay you back, others will pay even money,
+and still others will pay __enormous__ dividends. It's hard to know
+which bets will pay off, but one thing that will pay off over time is
+that people will remember you as the person who helped them out in a
+jam. Later on, when you're in a jam and you give them a call, they're
+going to be considerably more likely—even eager—to help you out than
+if you gave them a big fat "not my job" response when they came
+looking for help. Even if you never get "paid back" you'll often learn
+something new in the process of helping someone, and it feels good to
+help other people, so what do you have to lose other than a little
+time and effort?
+
+모든 회사는 조직도 밖에 존재하는 회색 시장 호의 경제를 가지고 있으며, 그런 호의들은 당신이 정치적 은행 계좌를 채우는 데 사용할 수 있는 주요한 것들 중 하나입니다. 보통 당신이 빠르고 쉽게 할 수 있으면서 회사에 도움이 되지만 다른 사람의 일인 것이 있으며, 이런 일들을 할 기회에 눈을 열어두고 있다면(많은 경우, 누군가가 직접 나와서 당신에게 무언가를 해달라고 요청할 것입니다), 이 호의 경제에서 당신의 은행 계좌에 약간의 크레딧을 얻게 됩니다. 이런 크레딧들을 일련의 작은 베팅으로 생각해보세요: 일부는 절대 당신에게 갚지 않을 것이고, 다른 것들은 본전을 갚을 것이며, 또 다른 것들은 __엄청난__ 배당금을 지불할 것입니다. 어떤 베팅이 성과를 낼지 알기는 어렵지만, 시간이 지나면서 성과를 낼 한 가지는 사람들이 당신을 곤경에서 도와준 사람으로 기억할 것이라는 점입니다. 나중에, 당신이 곤경에 처해서 그들에게 전화를 걸 때, 그들이 도움을 찾아왔을 때 당신이 "내 일이 아니다"라는 뚱뚱한 대답을 했다면보다 상당히 더 기꺼이—심지어 열심히—당신을 도와줄 것입니다. "갚음"을 받지 못한다 하더라도 누군가를 돕는 과정에서 종종 새로운 것을 배우게 될 것이고, 다른 사람들을 돕는 것은 기분 좋은 일이므로, 약간의 시간과 노력 외에 잃을 것이 무엇이 있겠습니까?
+
+[role="pagebreak-before"]
+This same political bank account is what you'll tap when you need to
+ask a favor of someone else in the company. It may be that you need
+someone to do something for you, or you do something that steps on
+someone else's toes, or you even just disagree with someone else in
+your company. It's incredibly useful to develop an awareness of when
+you're gaining political capital, and when you're spending it. If you
+fail to develop this awareness, there's a good chance that your
+account will be drained before you know it, leaving you powerless in
+your organization (and your career).
+
+이 같은 정치적 은행 계좌는 회사의 다른 누군가에게 호의를 요청해야 할 때 활용하게 될 것입니다. 누군가가 당신을 위해 무언가를 해주기를 원하거나, 다른 사람의 발가락을 밟는 일을 하거나, 심지어 회사의 다른 누군가와 단순히 의견이 다를 수도 있습니다. 언제 정치적 자본을 얻고 있고, 언제 그것을 소비하고 있는지에 대한 인식을 개발하는 것은 매우 유용합니다. 이런 인식을 개발하지 못한다면, 당신이 알기도 전에 계좌가 고갈되어 조직(그리고 커리어)에서 무력하게 될 가능성이 높습니다.
+
+[[image_no_caption-id035]]
+image::images/dbtm_05in07.png[]
+
+One of the most interesting things about the favor economy is that your bank account doesn't just empty out
+when you leave a job or a company—you'll frequently be able to call on
+folks at your company for a hand even after you've left. This is all
+the more reason that you should never burn bridges when you leave a
+company, no matter how tempting it might seem at the
+time.footnote:[Most industries are a lot smaller
+than you think, and people talk more than you think, so the person you
+stick it to today might very well be the one who kills your job
+application 10 years from now. Unless you're planning to move to a
+desert island to take up basket weaving, burning bridges will almost
+always be a costly mistake. Friends come and go…enemies
+accumulate.]
+
+호의 경제에 대한 가장 흥미로운 것 중 하나는 직장이나 회사를 떠날 때 당신의 은행 계좌가 단순히 비워지지 않는다는 것입니다—떠난 후에도 종종 회사의 사람들에게 도움을 요청할 수 있을 것입니다. 이것이 회사를 떠날 때 아무리 유혹적으로 보일지라도 다리를 태워서는 절대 안 되는 이유입니다.footnote:[대부분의 산업은 당신이 생각하는 것보다 훨씬 작고, 사람들은 당신이 생각하는 것보다 더 많이 이야기하므로, 오늘 당신이 공격하는 사람이 10년 후 당신의 입사 지원서를 죽이는 사람일 수도 있습니다. 사막의 섬으로 이사가서 바구니 만들기를 할 계획이 아니라면, 다리를 태우는 것은 거의 항상 비용이 많이 드는 실수가 될 것입니다. 친구들은 오고 가지만…적들은 누적됩니다.]
+
+[[get_promoted_to_a_position_of_safety]]
+==== Get Promoted to a Position of Safety
+
+==== 안전한 위치로 승진하기
+
+((("job security")))((("organizational manipulation","getting promoted to a position of safety")))((("promotion to position of safety")))((("safety, promotion to position of")))If you're like most engineers, you expect a logical promotion process
+where all it should take to get promoted is to excel at your
+job. Unfortunately, this world exists only in the most enlightened
+companies. In most companies you need to put some amount of effort
+into "playing the promotion game" to get yourself promoted (usually
+__in addition__ to excelling at your job).
+
+대부분의 엔지니어들과 같다면, 승진하기 위해 필요한 것은 일을 잘하는 것뿐인 논리적인 승진 과정을 기대할 것입니다. 불행히도, 이런 세상은 가장 깨달은 회사들에서만 존재합니다. 대부분의 회사에서는 승진하기 위해 "승진 게임을 하는" 데 어느 정도의 노력을 기울여야 합니다(보통 일을 잘하는 것에 __추가로__)..
+
+[[image_no_caption-id035b]]
+image::images/dbtm_05in08.png[]
+
+If you're happy with your job, your salary, and your team, you might
+choose to not play the promotion game and settle into your job at
+whatever title and job level you're already at. This can leave you
+vulnerable in many situations—for example, your company reorganizes
+and you get shuttled to a new team, you get a bad manager, or you wind
+up under the thumb of the office politician.
+
+직장, 급여, 그리고 팀에 만족한다면, 승진 게임을 하지 않고 이미 있는 직책과 직급에서 정착하기로 선택할 수도 있습니다. 이는 많은 상황에서 당신을 취약하게 만들 수 있습니다—예를 들어, 회사가 재조직되어 새로운 팀으로 배치되거나, 나쁜 매니저를 만나거나, 오피스 정치꾼의 엄지손가락 아래 들어가게 되는 경우 말입니다.
+
+The higher in the organization you can get (either as an individual
+contributor or as a manager), the more control you'll have over your
+destiny inside the company. Putting a modicum of effort toward getting
+promoted when you're comfortable in your position is a great way to
+invest in your security and happiness when something bad happens to
+your company or team. Keep track of your accomplishments and use them
+in your self-assessment. Update your
+résuméfootnote:[((("résumés")))Contrary to our general advice in
+this book, your résumé is __exactly__ the place where you want to
+exercise your personal ego and eschew humility. While we discourage
+dipping into the realm of fiction on your résumé, it's one place where
+you should toot your own horn, and toot it loudly.] and share it with
+your manager or promotion committee. Read up on the promotion process
+and talk to your manager about what boxes you need to tick off to get
+promoted, and methodically work to tick off every box. Even if getting
+promoted is subjective and nondeterministic, there's a lot you can do
+to increase the odds in your favor.
+
+[[seek_powerful_friends]]
+==== Seek Powerful Friends
+
+==== 강력한 친구들을 찾아라
+
+((("friendships","with people in positions of power")))((("organizational manipulation","seeking powerful friends")))((("powerful friends, seeking")))Every company has a "shadow" org chart that is
+unwritten but through which power and influence flow. There are only a
+few different types of people who make up the nodes in this
+graph.
+
+모든 회사는 쓰여지지 않았지만 권력과 영향력이 흐르는 "그림자" 조직도를 가지고 있습니다. 이 그래프의 노드를 구성하는 사람들의 유형은 몇 가지뿐입니다.
+
+__Connectors__ are people((("connectors"))) who know people in every corner of the
+organization, and if they don't know someone on a team, they can find
+the right person for you. Sometimes getting something done is just a
+matter of finding the right person to speak to, and the connector can
+help you find that person.
+
+__연결자들__은 조직의 모든 구석에서 사람들을 아는 사람들이고, 팀의 누군가를 모른다면 당신을 위해 올바른 사람을 찾을 수 있습니다. 때로는 무언가를 완수하는 것이 단순히 대화할 올바른 사람을 찾는 문제이고, 연결자가 그 사람을 찾는 데 도움을 줄 수 있습니다.
+
+__Old-timers__ may not ((("old-timers")))have a high rank or fancy title, but they
+typically carry a lot of institutional
+knowledge and wield a lot of influence just because they've been
+around for a long time. These are great people to go to when you're
+trying to understand why the organization works in a certain way, or
+if you need a supporter that a lot of people respect.
+
+__고참들__은 높은 직급이나 멋진 직책을 가지지 않을 수도 있지만, 오랜 시간 동안 있었기 때문에 일반적으로 많은 제도적 지식을 가지고 있고 많은 영향력을 행사합니다. 이들은 조직이 왜 특정한 방식으로 작동하는지 이해하려고 할 때나, 많은 사람들이 존경하는 지지자가 필요할 때 찾아가기 좋은 사람들입니다.
+
+People most often talk about this in((("administrative assistants"))) jest, but __administrative
+assistants__ wield an enormous amount of power and influence in an
+organization because they are agents of the executives they work
+for. More importantly, they usually do an incredible amount of work to
+keep things running smoothly, so anger them at your own (and your
+career's) peril. And __never__ pass up a chance to be nice to an
+administrative assistant—they are the cornerstone of the Favor
+Economy.
+
+사람들은 대부분 이것을 농담으로 이야기하지만, __행정 비서들__은 자신들이 일하는 임원들의 대리인이기 때문에 조직에서 엄청난 양의 권력과 영향력을 행사합니다. 더 중요한 것은, 그들이 보통 일들이 원활하게 돌아가도록 엄청난 양의 일을 하므로, 그들을 화나게 하는 것은 당신 자신(그리고 당신의 커리어)에게 위험합니다. 그리고 행정 비서에게 친절하게 대할 기회를 __절대__ 놓치지 마세요—그들은 호의 경제의 초석입니다.
+
+
+[[how_to_ask_a_busy_executive_for_anything]]
+==== How to Ask a Busy Executive for Anything…via Email
+
+==== 바쁜 임원에게 무엇이든 요청하는 방법…이메일로
+
+((("emails, effective", id="ixch05asciidoc13", range="startofrange")))((("executives, emails to", id="ixch05asciidoc14", range="startofrange")))((("organizational manipulation","effective emailing", id="ixch05asciidoc15", range="startofrange")))Work in any big company long enough, and you'll find yourself in a
+position where you need to email an executive (or any busy person you
+don't know) to ask him for something. Perhaps you need something for
+your product or team, or you are looking to right a wrong. Whatever
+the case, this is likely the first time you've ever communicated with
+this person. In this situation, almost everyone makes the same rookie
+mistake: they ramble, rant, and rave.
+
+어떤 큰 회사에서든 충분히 오래 일하다 보면, 임원(또는 모르는 바쁜 사람)에게 무언가를 요청하기 위해 이메일을 보내야 하는 상황에 처하게 될 것입니다. 아마도 제품이나 팀을 위해 무언가가 필요하거나, 잘못을 바로잡으려고 할 것입니다. 어떤 경우든, 이는 아마도 이 사람과 처음으로 소통하는 것일 것입니다. 이런 상황에서, 거의 모든 사람이 같은 초보자 실수를 합니다: 횡설수설하고, 격분하고, 열변을 토합니다.
+
+Fitz (while working at Apple) bought his mom a lemon of an iMac more
+than 14 years ago, and on the advice of a coworker sent a "short"
+email to Steve Jobs.footnote:[Fitz initially penned a
+mostly incoherent rant to Steve, which would have gotten him
+absolutely nothing (well, other than a pink slip). His coworker
+advised that Fitz keep it short and to the point, and to close with a
+call
+to action.] This email served as a rough prototype of how to
+effectively ask an executive for help:
+
+Fitz는 (Apple에서 일하던 당시) 14년도 더 전에 어머니께 불량 iMac을 사 드렸고, 동료의 조언에 따라 Steve Jobs에게 "짧은" 이메일을 보냈습니다.footnote:[Fitz는 처음에 Steve에게 대부분 앞뒤가 맞지 않는 분노의 글을 썼는데, 그걸로는 (해고 통지 외에는) 아무것도 얻지 못했을 겁니다. 동료는 Fitz에게 간결하고 요점만 쓰며, 마지막에 실행 요청으로 마무리하라고 조언했습니다.] 이 이메일은 임원에게 도움을 효과적으로 요청하는 방법의 거친 프로토타입 역할을 했습니다:
+
+[role="pagebreak-before"]
+----
+Date: Thu, 1 Feb 2001
+
+To: sjobs@apple.com
+
+Subject: Terrible customer experience with our hardware—what can I do?
+
+I would deeply appreciate if you could advise me on what I can do to
+address this problem. This is embarrassing—both for Apple and for
+myself.
+
+I purchased an iMac for my mother last Mother's Day—she is the
+Vice-Principal of a Montessori school in New Orleans and uses an old
+Macintosh at school. She was very excited to get the iMac, and has
+even gotten funds for her school to buy iMacs for their lab.
+
+However, the strawberry iMac I bought for her has turned out to be a
+total lemon.
+
+- In July, it went to sleep and never woke up. She brought it to an
+  Authorized Apple Dealer and they diagnosed the problem as a failed
+  logic board and replaced it.
+
+- She brought it home, plugged it in, it started to boot, then she got
+  a sad mac and the tones of death. She brought it back to the
+  dealer. They diagnosed the problem as a faulty analog board and
+  replaced it.
+
+- In September, I finally convinced her to use the sleep function
+  again (in lieu of shutdown/boot). The iMac wouldn't wake
+  up. Completely unplugging the computer and plugging it back in
+  eventually got it to boot again. We have disabled sleep altogether
+  at this point.
+
+- In December, the monitor started flickering colors from yellow to
+  green to blue. She brought it back to the dealer yesterday, and
+  that's where it is now.
+
+So that's where I am today. My mother thinks I've pulled some sort of
+sick prank on her, is telling everyone she knows that her iMac is
+junk, and no one I know that works at Apple knows what to do about it.
+
+Is there anything that I can do to get her a working iMac (short of
+purchasing another one)?
+
+Respectfully,
+
+-Fitz
+----
+
+날짜: 2001년 2월 1일 (목)
+
+받는이: sjobs@apple.com
+
+제목: 우리 하드웨어로 인한 끔찍한 고객 경험—제가 무엇을 할 수 있을까요?
+
+이 문제를 해결하기 위해 제가 무엇을 할 수 있는지 조언해 주신다면 정말 감사하겠습니다. 이는 Apple과 저 모두에게 매우 곤란한 일입니다.
+
+지난 어머니날에 어머니께 iMac을 사 드렸습니다—어머니는 뉴올리언스의 한 몬테소리 학교 교감으로, 학교에서는 오래된 Macintosh를 사용하고 계십니다. 어머니는 iMac을 무척 기뻐하셨고, 학교 실습실용 iMac을 더 사기 위한 예산까지 확보하셨습니다.
+
+하지만 제가 사 드린 딸기색 iMac은 완전한 불량품으로 드러났습니다.
+
+- 7월: 절전 모드로 들어간 뒤 전혀 깨어나지 않았습니다. 공인 Apple 대리점에 맡겼고, 불량 로직 보드로 진단되어 교체했습니다.
+- 집에 가져와 전원을 연결하니 부팅이 시작되다가 슬픈 맥 아이콘과 사망음을 보았습니다. 다시 대리점에 맡겼고, 불량 아날로그 보드로 진단되어 교체했습니다.
+- 9월: (종료/부팅 대신) 절전 기능을 다시 사용해 보았지만 전혀 깨어나지 않았습니다. 완전히 전원을 뽑았다가 다시 연결해야 겨우 부팅되었습니다. 이때부터 절전 기능을 완전히 끄었습니다.
+- 12월: 모니터 색이 노랑, 초록, 파랑으로 깜빡이기 시작했습니다. 어제 다시 대리점에 맡겼고, 지금도 그곳에 있습니다.
+
+현재 상황이 이렇습니다. 어머니는 제가 못된 장난을 친 줄 아시고, 아는 모든 분께 자신의 iMac이 고물이라고 말씀하고 계십니다. 그리고 제가 아는 Apple 직원 누구도 이 문제를 어떻게 해야 할지 모릅니다.
+
+다른 하나를 새로 사는 것 말고, 어머니께 정상 작동하는 iMac을 드릴 수 있는 방법이 있을까요?
+
+존경을 담아,
+
+-Fitz
+
+Less than 20 hours later Fitz received a call from someone who worked
+for Steve, and two weeks later his mom had a new (non-lemon-flavored)
+iMac.
+
+20시간도 채 지나지 않아 Steve 밑에서 일하는 누군가에게서 Fitz에게 전화가 왔고, 2주 뒤 어머니는 새 iMac(더는 불량이 아닌)을 받으셨습니다.
+
+Here's the big secret: when given a chance to help right a wrong, more
+often than not people in positions of power would __love__ to do the
+right thing—even busy executives (many of them enjoy righting a wrong,
+and absolutely all of them understand the value of gaining a little
+extra political capital). Unfortunately, the email inbox of these
+people looks like a never-ending distributed-denial-of-service attack,
+and if they encounter an email from someone they've never met before
+that is 3,000 words of solid text with no paragraph breaks, the odds
+are good that they're going to read 15 words in, press the Delete key,
+and then move on to the next email.
+
+처음 보는 사람에게서 단락 구분도 없이 3,000단어짜리 텍스트 벽이 도착하면, 15단어쯤 읽고 Delete 키를 누른 뒤 다음 메일로 넘어갈 가능성이 큽니다.
+
+If, however, they can fix something by reading an email in 10 seconds
+and waving a magic wand (i.e., mailing one of their minions to Make It
+Happen), they'll likely do it. They spend a few seconds delegating and
+get a big pile of political capital from you in return.
+
+하지만 반대로, 이메일을 10초 만에 읽고 마법 지팡이를 휘둘러(즉, 부하 중 한 명에게 실행하라고 메일을 보내) 문제를 해결할 수 있다면, 아마 그렇게 할 것입니다. 몇 초만 위임하는 데 쓰고, 그 대가로 당신으로부터 큰 정치적 자본을 얻게 됩니다.
+
+After years of trial and error, we've found that shorter emails are
+even more likely to get a response.
+
+수년간의 시행착오 끝에, 더 짧은 이메일일수록 답장을 받을 가능성이 높다는 것을 깨달았습니다.
+
+((("bullet points, in email")))((("Three Bullets and a Call to Action technique")))We call this the "Three Bullets and a Call to Action" technique, and it will drastically increase your chances of
+getting action—or at the very least, a response—from just about anyone
+you email out of the blue asking for something,footnote:[Warning: if you're
+peanut-butter-hula-hoops crazy, this isn't going to help get you an
+interview with the President of the United States, a purchase order
+from Chevy for your laser-powered windshield wiper invention, or lunch
+with the director of sales for Whole Foods. This technique only
+applies to realistic requests.] not just an
+executive.
+
+우리는 이것을 "세 가지 핵심 항목과 실행 요청" 기법이라고 부르며, 처음 연락하는 거의 누구에게든 무언가를 요청할 때 실제 행동을 이끌어내거나—최소한—답장을 받을 가능성을 비약적으로 높여줍니다.footnote:[경고: 땅콩버터 훌라후프처럼 엉뚱한 소리를 한다면, 이 방법으로 미국 대통령과의 면접을 얻거나, 당신의 레이저 동력 와이퍼 발명에 대한 Chevy의 발주서를 받거나, Whole Foods 영업이사와의 점심 약속을 잡을 수는 없습니다. 이 기법은 현실적인 요청에만 적용됩니다.] 임원에게만 해당되는 것이 아닙니다.
+
+A good Three
+Bullets and a Call to Action email contains (at __most__) three bullet
+points detailing the issue at hand, and one—__and only one__—call to
+action. That's it, nothing more—you need to write an email that can
+be easily forwarded along. If you ramble or put four completely
+different things in the email, you can be certain that they'll pick
+only one thing to respond to, and it will be the item that you care
+least about. Or worse, the mental overhead is high enough that your
+mail will get dropped entirely.
+
+좋은 "세 가지 핵심 항목과 실행 요청" 이메일은 (많아도) 세 가지 핵심 항목으로 현재 사안을 요약하고, 하나—__오직 하나__—의 실행 요청만 담습니다. 그게 전부입니다—쉽게 전달될 수 있는 이메일을 써야 합니다. 장황하게 쓰거나 완전히 다른 네 가지를 한 이메일에 넣으면, 상대는 답할 항목 하나만 고를 것이고, 그건 대개 당신이 가장 중요하지 않다고 여기는 항목일 것입니다. 더 나쁜 건, 인지적 부담이 너무 커서 아예 메일이 버려질 수도 있다는 겁니다.
+
+The bullet points should be short sentences (each one should fit on
+a single line without wrapping), and the call to action should be as
+short as possible. If you want a reply from __anyone__, make it easier
+for the person to reply inline, preferably with a one (or two) word
+answer. Don't ask half a dozen questions in one paragraph—limit
+yourself to a single question per paragraph, or ideally, a single
+question per email. ((("HRT (humility, respect, trust)","effective emails and")))Lastly, your email should be loaded with HRT:
+polite, respectful, and devoid of grammar mistakes and spelling
+errors. If you positively cannot help yourself and simply must include
+more background or information, put it at the very end of your email
+(even after your signature), and label it clearly as "More details" or
+"Background."
+
+핵심 항목들은 짧은 문장이어야 합니다(각 항목은 줄바꿈 없이 한 줄에 들어가야 합니다). 실행 요청은 가능한 한 짧아야 합니다. __누구에게서든__ 답장을 원한다면, 상대가 본문 인라인으로 답하기 쉽게 만드세요. 한두 단어로 답할 수 있으면 가장 좋습니다. 한 문단에 여섯 개 질문을 하지 말고—문단당 한 질문, 이상적으로는 이메일당 한 질문으로 제한하세요. 마지막으로 이메일에는 HRT가 가득해야 합니다: 공손하고, 존중하며, 문법과 철자 오류가 없어야 합니다. 배경 설명을 꼭 포함해야 한다면 이메일 맨 끝(심지어 서명 뒤)에 두고, "자세한 내용" 또는 "배경"이라고 명확히 표시하세요.
+
+
+[[image_no_caption-id036]]
+image::images/dbtm_05in09.png[]
+
+In hindsight, we consider Fitz's prototype email to be a bit too
+wordy—if we were writing it today, it would probably look more like
+this:
+
+돌이켜보면, 우리는 Fitz의 프로토타입 이메일이 조금 장황했다고 생각합니다—오늘 우리가 쓴다면, 아마 다음과 같은 형태에 더 가까울 것입니다:
+
+[role="pagebreak-before"]
+----
+Date: Thu, 1 Feb 2001
+
+To: sjobs@apple.com
+
+Subject: Bad customer experience—can you help?
+
+- I purchased an iMac for my mother, a school administrator. She was
+  very excited to get the iMac and has even gotten funds for her
+  school to buy more iMacs for their lab.
+
+- In July, Apple replaced a faulty logic board, and a month later, the
+  analog board.
+
+- In September it stopped sleeping correctly, and in December the
+  monitor started to fail. It's currently at the dealer.
+
+My mother is telling everyone she knows that her iMac is junk, and no
+one I know that works at Apple knows what to do about it.
+
+Is there anything that I can do to get her a working iMac?
+
+Respectfully,
+
+-Fitz
+----
+
+날짜: 2001년 2월 1일 (목)
+
+받는이: sjobs@apple.com
+
+제목: 나쁜 고객 경험—도와주실 수 있나요?
+
+- 학교 행정가인 어머니를 위해 iMac을 구입했습니다. 어머니는 iMac을 받으시고 무척 기뻐하셨고, 학교 실습실용 iMac을 더 사기 위한 예산도 확보하셨습니다.
+- 7월에는 Apple이 불량 로직 보드를 교체했고, 한 달 뒤에는 아날로그 보드도 교체했습니다.
+- 9월에는 절전 기능이 제대로 작동하지 않았고, 12월에는 모니터가 고장 나기 시작했습니다. 현재 대리점에 맡겨져 있습니다.
+
+어머니는 아는 모든 분께 자신의 iMac이 고물이라고 말씀하시고, 제가 아는 Apple 직원 누구도 이 문제를 어떻게 해야 할지 모릅니다.
+
+어머니께 정상 작동하는 iMac을 드릴 수 있는 방법이 있을까요?
+
+존경을 담아,
+
+-Fitz
+
+This rewritten email eliminates a lot of the editorial color, but is
+now readable by a busy executive in 10 seconds.(((range="endofrange", startref="ixch05asciidoc15")))(((range="endofrange", startref="ixch05asciidoc14")))(((range="endofrange", startref="ixch05asciidoc13")))
+
+이렇게 다시 쓴 이메일은 장식적인 설명을 많이 덜어냈지만, 이제 바쁜 임원도 10초 안에 읽을 수 있습니다.(((range="endofrange", startref="ixch05asciidoc15")))(((range="endofrange", startref="ixch05asciidoc14")))(((range="endofrange", startref="ixch05asciidoc13")))
+
+In the course of our careers, we've used all of these techniques over
+and over again to get things done. But sometimes all the tips and
+tricks in the world aren't enough to fix a job.
+
+[[plan_b_get_out]]
+=== Plan B: Get Out
+
+=== 플랜 B: 나가라
+
+((("bad organizations", id="ixch05asciidoc16", range="startofrange")))((("organizational manipulation","quitting a bad organization", id="ixch05asciidoc17", range="startofrange")))((("quitting", id="ixch05asciidoc18", range="startofrange")))In all the years that we've spoken about getting things done inside
+bad organizations and working with bad people, we always get people
+who come up to us after our talks and, exasperated, tell us they've
+tried __everything__ and just can't make any improvements or get
+anything done, so what can they do? The unfortunate answer here is a
+simple one: there's probably nothing else you __can__ do. Don't be a
+victim. Get the heck out of there.
+
+나쁜 조직 내에서 일을 완수하고 나쁜 사람들과 일하는 것에 대해 이야기해온 모든 세월 동안, 우리는 항상 강연 후에 다가와서 절망적으로 __모든 것__을 시도해봤지만 어떤 개선도 만들 수 없고 아무것도 완수할 수 없다며, 그럼 무엇을 할 수 있느냐고 묻는 사람들을 만납니다. 여기서 불행한 답은 간단합니다: 아마도 당신이 __할 수 있는__ 다른 것은 없을 것입니다. 피해자가 되지 마세요. 거기서 나오세요.
+
+If you can't change the system, there's no point in continuing to put
+energy into changing it. Instead, put energy into leaving it: update your résumé,
+and start asking your close friends if they know of any openings for
+you at other companies. Train yourself in new things. One of the great
+things about being a knowledge worker in this day and age is that good
+ones are in high demand, and that gives you the ability to control
+your own future.
+
+시스템을 바꿀 수 없다면, 그것을 바꾸는 데 계속 에너지를 쏟을 이유가 없습니다. 대신, 그것을 떠나는 데 에너지를 쏟으세요: 이력서를 업데이트하고, 가까운 친구들에게 다른 회사에서 당신을 위한 자리가 있는지 묻기 시작하세요. 새로운 것들을 배우세요. 이 시대에 지식 근로자가 되는 것의 훌륭한 점 중 하나는 좋은 사람들이 높은 수요에 있다는 것이고, 그것이 당신에게 자신의 미래를 통제할 능력을 준다는 것입니다.
+
+Once you realize you have this control, it's incredibly liberating. If
+you poke around and discover that you have other job options available
+to you, you may discover that you suddenly get a lot more things done
+at your work (under a lot less stress) because it's not the end of the
+world if your((("Tan, Chade-Meng"))) current employer fires you! We found this blog postfootnote:[link:$$http://bit.ly/do_right_thing$$[]]
+from Chade-Meng Tan, Google's longtime "Jolly
+Good Fellow," incredibly inspiring and it has greatly influenced how
+we do our own jobs:
+
+이런 통제권을 가지고 있다는 것을 깨닫게 되면, 그것은 매우 해방적입니다. 주변을 둘러보고 다른 직장 옵션들이 있다는 것을 발견한다면, 현재 고용주가 당신을 해고한다고 해도 세상의 끝이 아니기 때문에 갑자기 직장에서 (훨씬 적은 스트레스로) 훨씬 많은 일을 완수하게 된다는 것을 발견할 수도 있습니다! 우리는 Google의 오랜 "즐거운 좋은 동료" Chade-Meng Tan의 이 블로그 글footnote:[link:$$http://bit.ly/do_right_thing$$[]]을 매우 영감을 주는 것으로 발견했고, 그것이 우리가 우리 자신의 일을 하는 방식에 크게 영향을 주었습니다:
+
+[quote]
+____
+Do the right thing, wait to get fired
+
+New Google employees (we call "Nooglers") often ask me what makes me
+effective at what I do. I tell them only half-jokingly that it's very
+simple: I do the Right Thing for Google and the world, and then I sit
+back and wait to get fired. If I don't get fired, I've done the Right
+Thing for everyone. If I do get fired, this is the wrong employer to
+work for in the first place. So, either way, I win. That is my career
+strategy.
+____
+
+[quote]
+____
+올바른 일을 하고, 해고되기를 기다려라
+
+새로운 Google 직원들(우리는 "Nooglers"라고 부릅니다)은 종종 내가 하는 일에서 효과적인 이유가 무엇인지 묻습니다. 나는 반만 농담으로 그것이 매우 간단하다고 말합니다: 나는 Google과 세상을 위해 올바른 일을 하고, 그다음 뒤로 물러서서 해고되기를 기다립니다. 해고되지 않는다면, 나는 모든 사람을 위해 올바른 일을 한 것입니다. 해고된다면, 애초에 일하기에 잘못된 고용주인 것입니다. 그래서, 어느 쪽이든 나는 이기는 것입니다. 그것이 내 커리어 전략입니다.
+____
+
+
+If you're prepared and know your options, you're the most liberated
+person in the world. Don't be afraid to get out. We've been giving
+this advice after our talks for over five years now, and are happy to
+report that several people have emailed us to let us know that they
+heeded our advice and are now doing jobs that they love. And these
+emails are some of the best we've ever gotten—here's one of our
+favorites(((range="endofrange", startref="ixch05asciidoc18")))(((range="endofrange", startref="ixch05asciidoc17")))(((range="endofrange", startref="ixch05asciidoc16")))(((range="endofrange", startref="ixch05asciidoc12"))):
+
+[[note-6d]]
+----
+Date: Thu, 1 Dec 2011
+Subject: Thank you note
+From: Alex Mrvaljevich
+To: Brian Fitzpatrick
+
+Hello Brian!
+
+You probably don't remember me, but you gave me the best two pieces of
+career advice i have ever gotten, and changed my life.
+
+I attended your tech talk @ Google IO 2010 and approached you after the
+talk to ask about advice on my current work situation. Quite simply you
+told me to "get the hell out" so i sent you my CV as Project Manager; After
+this you let me know that google RARELY hires non-technical project
+managers.
+
+날짜: 2011년 12월 1일 목요일
+제목: 감사 인사
+보낸이: Alex Mrvaljevich
+받는이: Brian Fitzpatrick
+
+안녕하세요 Brian!
+
+아마 저를 기억하지 못하실 것 같지만, 당신은 제가 받은 최고의 두 가지 커리어 조언을 해주셨고, 제 인생을 바꿔주셨습니다.
+
+저는 Google IO 2010에서 당신의 기술 강연에 참석했고, 강연 후에 제 현재 직장 상황에 대한 조언을 구하기 위해 다가갔습니다. 당신은 간단히 "완전히 나오라"고 말씀하셨고, 그래서 저는 프로젝트 매니저로서 제 이력서를 보냈습니다. 그 후 당신은 구글이 비기술직 프로젝트 매니저를 거의 고용하지 않는다고 알려주셨습니다.
+
+Because of that i had to think long and hard about my career: Whatever
+Google's policy is, majority of companies follow suit.
+
+Changing career tracks was my only option, my closest bet was Product
+Management. Studied my ass off and "got the hell out" not only of the
+company I was in, but also of the country (There aren't a lot of
+Product Management jobs in Venezuela), it ended up being the best move
+in my life...
+
+Now because of that move I just landed an amazing job as Product Lead in
+Japan, and am moving to Kobe in February.
+
+I promised myself if things ever turned around because of that piece of
+advice I would send you a thank you note, so here it is:
+
+Thank you.
+
+Alex
+
+그 때문에 나는 내 커리어에 대해 길고 깊게 생각해야 했습니다: Google의 정책이 무엇이든, 대부분의 회사들이 그것을 따라합니다.
+
+커리어 트랙을 바꾸는 것이 나의 유일한 선택이었고, 가장 가능성이 높은 것은 제품 관리였습니다. 열심히 공부해서 내가 있던 회사뿐만 아니라 국가에서도 "완전히 벗어났습니다" (베네수엘라에는 제품 관리 일자리가 많지 않습니다). 그것은 내 인생에서 최고의 결정이 되었습니다...
+
+그 결정 덕분에 나는 방금 일본에서 제품 리드로서 놀라운 일자리를 얻었고, 2월에 고베로 이사할 예정입니다.
+
+나는 그 조언 덕분에 상황이 좋아진다면 감사 인사를 보내겠다고 스스로 약속했습니다. 그래서 여기 있습니다:
+
+감사합니다.
+
+Alex
+----
+
+[[all_is_not_lost]]
+=== All Is Not Lost
+
+All this talk about quitting or waiting to get fired doesn't mean that
+if you're unhappy in your job you should dust off your résumé and hit
+the streets. On the contrary, your first objective should be to make
+the changes necessary to be happy and accomplish your goals at your
+job, and this chapter has given you a lot of the tools you'll need to
+do that. If you don't put the effort into understanding how to
+navigate your organization, you're leaving a huge part of your destiny to chance.(((range="endofrange", startref="ixch05asciidoc0")))
+
+=== 모든 것이 끝나지 않았다
+
+그만두거나 해고되기를 기다리는 것에 대한 이 모든 이야기가, 직장에서 불행하다면 이력서를 털어내고 거리로 나서야 한다는 의미는 아닙니다. 반대로, 당신의 첫 번째 목표는 직장에서 행복하고 목표를 달성하기 위해 필요한 변화를 만드는 것이어야 하며, 이 장은 그렇게 하기 위해 필요한 많은 도구들을 제공했습니다. 조직을 탐색하는 방법을 이해하는 데 노력을 기울이지 않는다면, 당신의 운명의 큰 부분을 우연에 맡기는 것입니다.
+
+
