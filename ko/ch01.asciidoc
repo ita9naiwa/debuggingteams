@@ -82,14 +82,8 @@ ____
 
 또 다른 흔한 동기는 다른 프로그래머가 당신의 아이디어를 훔쳐서 당신이 작업하기 전에 실행해 버릴까 봐 두려워하는 것입니다. 비밀로 유지함으로써 당신은 아이디어를 통제할 수 있습니다.(((range="endofrange", startref="ixch01asciidoc5")))(((range="endofrange", startref="ixch01asciidoc4")))(((range="endofrange", startref="ixch01asciidoc3")))
 
-We know what you're probably thinking now: so what?
-Shouldn't people be allowed to work however they want?
-
 아마 지금 이렇게 생각하고 있을 겁니다: 그래서 뭐 어쩌라는 거지?
 사람들은 원하는 방식으로 일할 자유가 있어야 하는 것 아닌가요?
-
-Actually, no. In this case we assert that you're doing it wrong,
-and it __is__ a big deal. Here's why.
 
 사실, 그렇지 않습니다. 이 경우에는 당신이 잘못하고 있고,
 그리고 이것은 __중대한__ 문제입니다. 그 이유는 다음과 같습니다.
@@ -97,9 +91,7 @@ and it __is__ a big deal. Here's why.
 [[hiding_is_considered_harmful]]
 === Hiding Is Considered Harmful
 
-((("collaboration, dangers of avoiding", id="ixch01asciidoc6", range="startofrange")))((("hiding, harmfulness of", id="ixch01asciidoc7", range="startofrange")))((("programmers","dangers of working alone", id="ixch01asciidoc8", range="startofrange")))If you spend all your time working alone, you're __increasing__
-the risk of failure and cheating your potential for growth.
-
+((("collaboration, dangers of avoiding", id="ixch01asciidoc6", range="startofrange")))((("hiding, harmfulness of", id="ixch01asciidoc7", range="startofrange")))((("programmers","dangers of working alone", id="ixch01asciidoc8", range="startofrange")))
 모든 시간을 혼자 일하는 데 쓴다면, 실패할 위험을 __높이고__ 성장할 가능성을 스스로 갉아먹는 셈입니다.
 
 우선, 당신이 올바른 방향으로 가고 있는지 어떻게 알 수 있을까요?
