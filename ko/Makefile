@@ -5,7 +5,7 @@ all: html
 
 html:
 	mkdir -p $(OUTDIR)
-	asciidoctor -r asciidoctor-diagram -D $(OUTDIR) $(BOOK)
+	asciidoctor -r asciidoctor-diagram -a imagesdir=$(IMAGESDIR) -D $(OUTDIR) $(BOOK)
 
 pdf:
 	mkdir -p $(OUTDIR)
