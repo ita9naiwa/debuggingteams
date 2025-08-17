@@ -28,6 +28,7 @@ include::dedication.asciidoc[]
 include::pr02.asciidoc[]
 include::pr03.asciidoc[]
 include::foreword.asciidoc[]
+include::foreward_ko.asciidoc[]
 include::pr04.asciidoc[]
 
 // Chapters (KO placeholders exist)

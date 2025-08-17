@@ -68,7 +68,7 @@ question your career choice!
 [[managing_public_perception]]
 === Managing Public Perception
 
-=== 대중 인식 관리
+// Korean section titles should not duplicate the English Asciidoc header line
 
 ((("public perception","managing", id="ixch06asciidoc1", range="startofrange")))((("users","and public perception of company", id="ixch06asciidoc2", range="startofrange")))When ((("marketing","public perception of")))you hear the term __marketing__, what's the first thing that
 comes to mind?
@@ -139,8 +139,6 @@ We're here to give you both bad news and good news.
 
 나쁜 소식과 좋은 소식을 모두 전해드리겠습니다.
 
-나쁜 소식과 좋은 소식을 모두 전해드리겠습니다.
-
 The bad news is that no, you cannot ignore marketing. It actually
 matters and you have to deal with it. The good news is that it's
 possible to actively cooperate with marketing. It doesn't need to be a
@@ -194,8 +192,6 @@ things you can do to take control, and they're all based on HRT.
 [[pay_attention_to_first_impressions]]
 ==== Pay Attention to First Impressions
 
-==== 첫인상에 신경 쓰기
-
 ((("first impressions")))((("public perception","and first impressions")))((("users","first impressions of product")))If you're hungry and searching for a restaurant, how the restaurant
 appears from the street really matters. If it seems disgusting or
 uninviting you simply aren't going in. If it's warm and friendly and
@@ -237,8 +233,6 @@ to be taken seriously.
 [[underpromise_and_overdeliver]]
 ==== Underpromise and Overdeliver
 
-==== 적게 약속하고 많이 전달하기
-
 ((("overdelivering")))((("public perception","underpromising and overdelivering")))((("underpromising")))Don't let your marketing people preempt you here. If users ask about
 upcoming features or release timelines, take the opportunity to give
 overly conservative estimates. If you let marketers spread rumors,
@@ -261,8 +255,6 @@ __듀크 뉴켐 포에버__ 상황—__15년__ 늦게 출시되는 소프트웨�
 
 [[work_with_industry_analysts_respectfully]]
 ==== Work with Industry Analysts Respectfully
-
-==== 업계 분석가와 정중하게 작업하기
 
 ((("industry analysts")))((("media, news")))((("public perception","and industry analysts")))((("reviews/reviewers")))A lot of programmers hate the media
 industry—it's just marketing in another guise. When a trade magazine
@@ -307,7 +299,6 @@ process. Choose your battles carefully.(((range="endofrange", startref="ixch06as
 [[how_usable_is_your_software]]
 === How Usable Is Your Software?
 
-=== 소프트웨어의 사용성은 어떤가요?
 
 ((("software","usability of", id="ixch06asciidoc3", range="startofrange")))((("usability", id="ixch06asciidoc4", range="startofrange")))((("users","and usability", id="ixch06asciidoc5", range="startofrange")))Here's a hard truth: unless you're developing software tools,
 engineers are not the audience of your software. The corollary is that
@@ -332,11 +323,6 @@ ____
 Focus on the user, and all else will follow.
 
 사용자에 집중하라, 그러면 모든 것이 따라올 것이다.
-____
-
-[quote]
-____
-사용자에게 집중하라, 그러면 모든 것이 따라올 것이다.
 ____
 
 
@@ -377,8 +363,6 @@ Let's talk about some important ways you can focus directly on your users.
 
 [[choose_your_audience]]
 ==== Choose Your Audience
-
-==== 대상 사용자 선택하기
 
 ((("audience, software")))((("software","choosing audience for")))((("users","as audience for software")))First things first: imagine your users fall across a spectrum of
 technical pass:[<span class="keep-together">competence</span>].
@@ -469,8 +453,6 @@ image::images/dbtm_06in05.png[]
 
 [[consider_barrier_to_entry]]
 ==== Consider Barrier to Entry
-
-==== 진입 장벽 고려하기
 
 ((("barriers to entry","for first-time users")))((("design","and first-time users")))((("first-time users")))((("software","barriers to entry for first-time users")))((("software","first-time users of")))Now think about the first-time users of your software. How hard is it
 to get going for the first time? If your users can't easily try it
@@ -585,8 +567,6 @@ surprised at what you discover.
 [[measure_usage_not_users]]
 ==== Measure Usage, Not Users
 
-==== 사용자가 아닌 사용량 측정하기
-
 ((("software","users vs. usage")))((("usage, users vs.")))((("users","usage vs.")))In pondering the size of your user base and whether it's easy to get
 started, you should also consider how you measure usage. Notice that we said "usage," not "number of installs"—you want a high number of users who
 __use__ your product, not a high number of times people __download__
@@ -638,7 +618,6 @@ incredibly useful indicators of product uptake.(((range="endofrange", startref="
 [[design_matters]]
 === Design Matters
 
-=== 디자인이 중요하다
 
 ((("design","and user focus", id="ixch06asciidoc6", range="startofrange")))((("users","designing software for", id="ixch06asciidoc7", range="startofrange")))Before the Internet came into prominence, the biggest challenge to
 getting any product to market was one of distribution. Few companies
@@ -693,8 +672,6 @@ importantly, not being all things to all people.
 
 [[put_the_user_first]]
 ==== Put the User First
-
-==== 사용자를 우선시하기
 
 ((("design","and user focus")))((("users","as focus of software design")))When we say to "put the user first," we're suggesting that you and
 your team should take on whatever hard product work you can to make
@@ -754,8 +731,6 @@ user but didn't bother.
 
 [[speed_matters]]
 ==== Speed Matters
-
-==== 속도가 중요하다
 
 ((("application speed")))((("design","application speed")))((("latency")))((("speed","in design")))Most programmers vastly underestimate the importance of __application
 speed__ (or __latency__, which sounds more scientific). Its effects
@@ -845,8 +820,6 @@ founders like to say, "Speed is a feature."
 [[dont_try_to_be_all_things]]
 ==== Don't Try To Be All Things
 
-==== 모든 것이 되려 하지 마라
-
 ((("design","overly ambitious")))((("software","overly ambitious")))Is your software
 trying to accomplish too much? This sounds like a silly question at
 first, but some of the worst software out there is bad because it's
@@ -883,8 +856,6 @@ image::images/dbtm_06in08.png[]
 
 [[hide_complexity]]
 ==== Hide Complexity
-
-==== 복잡성 숨기기
 
 ((("complexity, software", id="ixch06asciidoc8", range="startofrange")))((("design","hiding complexity", id="ixch06asciidoc9", range="startofrange")))((("hiding the complexity", id="ixch06asciidoc10", range="startofrange")))"But my software is complex," you may think, "and it's solving a
 complex problem. So why should I try to hide that?" That's a
@@ -991,7 +962,6 @@ mention) is your most sacred(((range="endofrange", startref="ixch06asciidoc10"))
 [[managing_your_relationship_with_users]]
 === Managing Your Relationship with Users
 
-=== 사용자와의 관계 관리
 
 ((("relationship management", id="ixch06asciidoc11", range="startofrange")))((("users","managing your relationship with", id="ixch06asciidoc12", range="startofrange")))OK, so your product is appealing on first sight. It's easy to get
 started. And once people begin, it's really pleasant. What happens
@@ -1128,8 +1098,6 @@ possibly something clever or thrilling.
 [[dont_be_condescending]]
 ==== Respect Users' Intelligence
 
-==== 사용자의 지능을 존중하라
-
 ((("intelligence, respect for users")))((("respect","for intelligence of users")))((("users","respecting intelligence of")))Give users respect by default.  A common misconception that powers our
 fear of direct user interaction is the myth that users are
 stupid. They're not writing the software, after all, so they're just
@@ -1169,8 +1137,6 @@ intelligence!
 
 [[be_patient]]
 ==== Be Patient
-
-==== 인내심을 가져라
 
 ((("patience","when dealing with users", id="ixch06asciidoc13", range="startofrange")))((("users","patience when dealing with", id="ixch06asciidoc14", range="startofrange")))The corollary, then, is to learn great patience. ((("vocabulary, users")))Most users simply don't have the
 vocabulary to express their problems succinctly. It takes years of
@@ -1286,8 +1252,6 @@ operators to keep the traffic running.(((range="endofrange", startref="ixch06asc
 
 [[create_trust_and_delight]]
 ==== Create Trust and Delight
-
-==== 신뢰와 기쁨을 만들어내기
 
 ((("trust","creating and maintaining", id="ixch06asciidoc15", range="startofrange")))((("users","creating and maintaining trust with", id="ixch06asciidoc16", range="startofrange")))There are two more watchwords that should become the cornerstones of
 the way you interact with users: __trust__ and __delight__.
@@ -1477,7 +1441,6 @@ your relationship with them.(((range="endofrange", startref="ixch06asciidoc12"))
 [[remember_the_users]]
 === Remember the Users
 
-=== 사용자를 기억하라
 
 We've covered a slew of ideas in this chapter, but in the end, it all
 boils down to three simple concepts that you can stick in your pocket:

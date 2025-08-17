@@ -546,8 +546,6 @@ Fitz는 사운딩 보드 동료들에게 아이디어를 던져보았습니다: 
 [[if_you_cant_take_the_path_make_the_path]]
 ==== If You Can't Take the Path, Make the Path
 
-==== 길을 갈 수 없다면, 길을 만들어라
-
 [[image_no_caption-id034]]
 image::images/dbtm_05in06.png[]
 
@@ -626,8 +624,6 @@ first place.
 
 [[learn_to_manage_upward]]
 ==== Learn to Manage Upward
-
-==== 상향 관리를 배워라
 
 ((("managing upward")))((("organizational manipulation","managing upward")))Whether you're a manager or an individual contributor, you need to
 spend some of your time managing
@@ -722,7 +718,6 @@ is. Any more time spent is a recipe for political suicide.
 [[luck_and_the_favor_economy]]
 ==== Luck and the Favor Economy
 
-==== 운과 호의 경제
 
 ((("favor economy")))((("luck, creating")))((("organizational manipulation","luck and the favor economy")))Regardless ((("Luck Factor, The (Wiseman)")))((("Wiseman, Richard")))of the kind of company you work in, believe it or not, it's
 not that hard to create a sort of luck for yourself. Richard
@@ -749,9 +744,7 @@ unlucky people tended to miss it and the lucky people tended to spot
 it.
 ____
 
-[quote]
-____
-
+나는 운이 좋은 사람들과 운이 나쁜 사람들 모두에게 신문을 주고, 그것을 훑어보며 안에 사진이 몇 장 있는지 말해달라고 요청했습니다. 평균적으로, 운이 나쁜 사람들은 사진을 세는 데 약 2분이 걸렸지만, 운이 좋은 사람들은 단 몇 초밖에 걸리지 않았습니다. 왜일까요? 신문의 두 번째 페이지에 "세는 것을 멈추세요. 이 신문에는 43장의 사진이 있습니다"라는 메시지가 있었기 때문입니다. 이 메시지는 페이지의 절반을 차지했고 2인치보다 큰 글자로 쓰여 있었습니다. 그것은 모든 사람의 얼굴을 똑바로 응시하고 있었지만, 운이 나쁜 사람들은 그것을 놓치는 경향이 있었고 운이 좋은 사람들은 그것을 발견하는 경향이 있었습니다.
 나는 운이 좋은 사람들과 운이 나쁜 사람들 모두에게 신문을 주고, 그것을 훑어보며 안에 사진이 몇 장 있는지 말해달라고 요청했습니다. 평균적으로, 운이 나쁜 사람들은 사진을 세는 데 약 2분이 걸렸지만, 운이 좋은 사람들은 단 몇 초밖에 걸리지 않았습니다. 왜일까요? 신문의 두 번째 페이지에 "세는 것을 멈추세요. 이 신문에는 43장의 사진이 있습니다"라는 메시지가 있었기 때문입니다. 이 메시지는 페이지의 절반을 차지했고 2인치보다 큰 글자로 쓰여 있었습니다. 그것은 모든 사람의 얼굴을 똑바로 응시하고 있었지만, 운이 나쁜 사람들은 그것을 놓치는 경향이 있었고 운이 좋은 사람들은 그것을 발견하는 경향이 있었습니다.
 ____
 
@@ -772,7 +765,6 @@ in the future if given the chance.
 [[your_political_bank_account]]
 ==== Your Political Bank Account
 
-==== 당신의 정치적 은행 계좌
 
 ((("favor economy")))((("organizational manipulation","and political bank accounts")))((("political credit","and favor economy")))Every company has a gray-market favor economy that lives outside the
 org chart, and those favors are one of the main things that you can
@@ -830,8 +822,6 @@ accumulate.]
 [[get_promoted_to_a_position_of_safety]]
 ==== Get Promoted to a Position of Safety
 
-==== 안전한 위치로 승진하기
-
 ((("job security")))((("organizational manipulation","getting promoted to a position of safety")))((("promotion to position of safety")))((("safety, promotion to position of")))If you're like most engineers, you expect a logical promotion process
 where all it should take to get promoted is to excel at your
 job. Unfortunately, this world exists only in the most enlightened
@@ -874,8 +864,6 @@ to increase the odds in your favor.
 [[seek_powerful_friends]]
 ==== Seek Powerful Friends
 
-==== 강력한 친구들을 찾아라
-
 ((("friendships","with people in positions of power")))((("organizational manipulation","seeking powerful friends")))((("powerful friends, seeking")))Every company has a "shadow" org chart that is
 unwritten but through which power and influence flow. There are only a
 few different types of people who make up the nodes in this
@@ -914,8 +902,6 @@ Economy.
 
 [[how_to_ask_a_busy_executive_for_anything]]
 ==== How to Ask a Busy Executive for Anything…via Email
-
-==== 바쁜 임원에게 무엇이든 요청하는 방법…이메일로
 
 ((("emails, effective", id="ixch05asciidoc13", range="startofrange")))((("executives, emails to", id="ixch05asciidoc14", range="startofrange")))((("organizational manipulation","effective emailing", id="ixch05asciidoc15", range="startofrange")))Work in any big company long enough, and you'll find yourself in a
 position where you need to email an executive (or any busy person you
@@ -1153,7 +1139,6 @@ tricks in the world aren't enough to fix a job.
 [[plan_b_get_out]]
 === Plan B: Get Out
 
-=== 플랜 B: 나가라
 
 ((("bad organizations", id="ixch05asciidoc16", range="startofrange")))((("organizational manipulation","quitting a bad organization", id="ixch05asciidoc17", range="startofrange")))((("quitting", id="ixch05asciidoc18", range="startofrange")))In all the years that we've spoken about getting things done inside
 bad organizations and working with bad people, we always get people
@@ -1197,9 +1182,6 @@ back and wait to get fired. If I don't get fired, I've done the Right
 Thing for everyone. If I do get fired, this is the wrong employer to
 work for in the first place. So, either way, I win. That is my career
 strategy.
-____
-
-[quote]
 ____
 올바른 일을 하고, 해고되기를 기다려라
 
@@ -1287,7 +1269,7 @@ job, and this chapter has given you a lot of the tools you'll need to
 do that. If you don't put the effort into understanding how to
 navigate your organization, you're leaving a huge part of your destiny to chance.(((range="endofrange", startref="ixch05asciidoc0")))
 
-=== 모든 것이 끝나지 않았다
+
 
 그만두거나 해고되기를 기다리는 것에 대한 이 모든 이야기가, 직장에서 불행하다면 이력서를 털어내고 거리로 나서야 한다는 의미는 아닙니다. 반대로, 당신의 첫 번째 목표는 직장에서 행복하고 목표를 달성하기 위해 필요한 변화를 만드는 것이어야 하며, 이 장은 그렇게 하기 위해 필요한 많은 도구들을 제공했습니다. 조직을 탐색하는 방법을 이해하는 데 노력을 기울이지 않는다면, 당신의 운명의 큰 부분을 우연에 맡기는 것입니다.
 
