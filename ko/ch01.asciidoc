@@ -38,8 +38,6 @@ ____
 ((("genius myth", id="ixch01asciidoc3", range="startofrange")))((("programmers","and genius myth", id="ixch01asciidoc4", range="startofrange")))((("teamwork, genius myth and", id="ixch01asciidoc5", range="startofrange")))
 우리 둘은 1990년대 내내 시카고에 살면서 시카고 불스의 챔피언십 우승 행진을 목격했습니다. 전국 언론은 이 놀라운 농구 팀에 대한 이야기로 가득 찼습니다. 하지만 TV와 신문은 정말 무엇에 집중했을까요? 마이클 조던, 그 슈퍼스타였습니다. 모든 선수들이 MJ가 되고 싶어 했습니다. 우리는 그가 다른 선수들을 제치고 춤추는 모습을 지켜봤습니다. 우리는 그가 TV 광고에 출연하는 모습을 봤습니다. 만화 캐릭터들과 농구를 하는 어리석은 영화를 보러 갔습니다. 그는 스타였고, 코트에서 연습하는 모든 아이들은 비밀리에 그의 길을 따르기를 원했습니다.
 
-Many humans have the instinct to find and worship idols. For software engineers those might be Linus Torvalds, Guido Van Rossum, Bill Gates—all heroes who changed the world with heroic feats. Linus wrote Linux by himself, right?((("idol worship")))((("Gates, Bill")))((("Torvalds, Linus")))((("Van Rossum, Guido")))
-
 많은 사람들은 이렇게 우상을 찾고 숭배하는 경향을 갖고 있습니다. 개발자들에게 그런 우상은 리누스 토발즈, 귀도 반 로섬, 빌 게이츠와 같은 인물들입니다. 이들은 모두 영웅적인 업적으로 세상을 바꿨습니다. 리누스는 혼자서 리눅스를 만들었죠?((("idol worship")))((("Gates, Bill")))((("Torvalds, Linus")))((("Van Rossum, Guido")))
 
 [[image_no_caption-id002]]
@@ -89,7 +87,7 @@ ____
 그리고 이것은 __중대한__ 문제입니다. 그 이유는 다음과 같습니다.
 
 [[hiding_is_considered_harmful]]
-=== Hiding Is Considered Harmful
+=== 숨기는 것은 해롭다
 
 ((("collaboration, dangers of avoiding", id="ixch01asciidoc6", range="startofrange")))((("hiding, harmfulness of", id="ixch01asciidoc7", range="startofrange")))((("programmers","dangers of working alone", id="ixch01asciidoc8", range="startofrange")))
 모든 시간을 혼자 일하는 데 쓴다면, 실패할 위험을 __높이고__ 성장할 가능성을 스스로 갉아먹는 셈입니다.
@@ -132,7 +130,7 @@ image::images/dbtm_01in03.png[]
 이러한 빠른 피드백 루프는 코드 수준뿐만 아니라 전체 프로젝트 수준에서도 필요합니다. 야심찬 프로젝트는 빠르게 진화하며 진행하면서 변화하는 환경에 적응해야 합니다. 프로젝트는 예측 불가능한 설계 장애물이나 정치적 위험에 부딪히고, 단지 계획대로 되지 않는다는 사실을 발견하기도 합니다. 요구사항은 뜻밖에 변합니다. 계획이나 설계를 즉시 바꿔야 한다는 신호를 어떻게 빠르게 받나요? 답은 팀으로 일하는 것입니다. 에릭 레이먼드는 "많은 눈이 모든 버그를 얕게 만든다"고 말한 것으로 유명한데, 더 나은 버전은 이렇습니다. "많은 눈은 당신의 프로젝트가 관련성을 유지하고 궤도를 벗어나지 않도록 해 준다." 동굴에서 일하던 사람은 자신이 원래 꿈꾸던 비전을 완성했을지라도 세상은 이미 변해 제품을 무의미하게 만들어 놓았음을 뒤늦게 깨닫습니다.
 
 [[engineers_and_offices]]
-.Engineers and Offices
+.엔지니어와 사무실
 ****
 ((("engineers","and private offices")))((("offices, private")))((("private offices")))
 20년 전 통념에 따르면, 엔지니어가 생산적이려면 문을 닫을 수 있는 개인 사무실이 필요했습니다. 길게 방해받지 않는 시간만이 수많은 코드를 깊이 집중해 쓸 수 있는 유일한 방법이라는 것이었죠.
@@ -351,7 +349,7 @@ CEO가 믿기지 않는다는 듯 말합니다. "당신을 __해고__하라고? 
 당신보다 큰 물고기가 있는 어항을 찾아 그들이 내미는 도전에 올라타라. 장기적으로 훨씬 더 행복해질 것이다.
 
 [[learn_patience]]
-==== Learn Patience
+==== 인내심을 배우기
 
 ((("humility","and patience")))((("patience","importance of")))
 수년 전, Fitz는 CVS 저장소를 Subversion(나중에는 Git)으로 변환하는 도구를 만들고 있었고,
@@ -364,11 +362,13 @@ Karl은 위에서 아래로 내려가는 엔지니어로 전체 지형을 파악
 그 결과 거대한 갈등과 논쟁, 때로는 격한 언쟁이 벌어졌다. 결국 둘은 함께 페어 프로그래밍을 할 수 없을 지경에 이르렀다.
 둘 모두에게 너무 좌절스러웠던 것이다.
 
-그렇다 해도 둘은 오래된 신뢰와 존중의 역사가 있었다. 여기에 인내가 더해져 새로운 협업 방식을 찾아냈다. 함께 컴퓨터 앞에 앉아 버그를 확인한 뒤, 둘이 갈라져 동시에 두 방향(탑다운과 보텀업)에서 문제를 공략하고, 각자의 결과를 들고 가운데에서 다시 만났다. 그들의 인내와 새로운 작업 방식을 기꺼이 시도하려는 태도는 프로젝트뿐 아니라 우정까지 지켜냈다.
+그렇다 해도 둘은 오래된 신뢰와 존중의 역사가 있었다. 여기에 인내가 더해져 새로운 협업 방식을 찾아냈다.
+함께 컴퓨터 앞에 앉아 버그를 확인한 뒤, 둘이 갈라져 동시에 두 방향(탑다운과 보텀업)에서 문제를 공략하고,
+각자의 결과를 들고 가운데에서 다시 만났다. 그들의 인내와 새로운 작업 방식을 기꺼이 시도하려는 태도는 프로젝트뿐 아니라 우정까지 지켜냈다.
 
 
 [[be_open_to_influence]]
-==== Be Open to Influence
+==== 다른 사람에게 영향받는 것에 열려있기
 
 ((("humility","and openness to influence", id="ixch01asciidoc19", range="startofrange")))((("influence, openness to", id="ixch01asciidoc20", range="startofrange")))
 당신이 영향에 열려 있을수록, 오히려 더 큰 영향을 미칠 수 있습니다. 더 취약해질수록, 당신은 더 강해 보입니다.
@@ -394,7 +394,7 @@ image::images/dbtm_01in07.png[]
 당신의 팀원들은 경쟁자가 아니라 협력자입니다.
 
 [[next_steps]]
-=== Next Steps
+=== 다음 단계
 
 여기까지 읽었다면, 당신은 "다른 사람들과 잘 지내는 법"의 기술을 익히는 길에 잘 올라선 것입니다.
 시작은 당신 자신의 행동을 검토하고 곱씹는 것으로부터 해야 합니다.

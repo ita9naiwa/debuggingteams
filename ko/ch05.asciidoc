@@ -332,22 +332,7 @@ image::images/dbtm_05in08.png[]
 
 직장, 급여, 그리고 팀에 만족한다면, 승진 게임을 하지 않고 이미 있는 직책과 직급에서 정착하기로 선택할 수도 있습니다. 이는 많은 상황에서 당신을 취약하게 만들 수 있습니다—예를 들어, 회사가 재조직되어 새로운 팀으로 배치되거나, 나쁜 매니저를 만나거나, 오피스 정치꾼의 엄지손가락 아래 들어가게 되는 경우 말입니다.
 
-The higher in the organization you can get (either as an individual
-contributor or as a manager), the more control you'll have over your
-destiny inside the company. Putting a modicum of effort toward getting
-promoted when you're comfortable in your position is a great way to
-invest in your security and happiness when something bad happens to
-your company or team. Keep track of your accomplishments and use them
-in your self-assessment. Update your
-résuméfootnote:[((("résumés")))Contrary to our general advice in
-this book, your résumé is __exactly__ the place where you want to
-exercise your personal ego and eschew humility. While we discourage
-dipping into the realm of fiction on your résumé, it's one place where
-you should toot your own horn, and toot it loudly.] and share it with
-your manager or promotion committee. Read up on the promotion process
-and talk to your manager about what boxes you need to tick off to get
-promoted, and methodically work to tick off every box. Even if getting
-승진은 주관적이고 결정적이지 않지만, 당신에게 유리한 확률을 높이기 위해 할 수 있는 일이 많이 있습니다.
+조직에서 더 높은 위치에 올라갈수록(개별 기여자든 매니저든), 회사 내에서 당신의 운명에 대한 더 많은 통제권을 가질 수 있습니다. 현재 위치에서 편안할 때 승진을 위해 약간의 노력을 기울이는 것은 회사나 팀에 문제가 생겼을 때 당신의 안전과 행복에 투자하는 훌륭한 방법입니다. 당신의 성과들을 기록하고 자기 평가에 활용하세요. 이력서를 업데이트하고footnote:[((("résumés")))이 책의 일반적인 조언과 달리, 이력서는 __정확히__ 개인적 자아를 발휘하고 겸손함을 피하고 싶은 곳입니다. 이력서에 허구의 영역에 빠지는 것을 권하지는 않지만, 자신의 뿔을 불고, 그것을 크게 불어야 하는 곳입니다.] 매니저나 승진 위원회와 공유하세요. 승진 과정에 대해 읽고 매니저와 승진을 위해 체크해야 할 항목들에 대해 이야기하고, 체계적으로 모든 항목을 체크해 나가세요. 승진이 주관적이고 결정적이지 않다 하더라도, 당신에게 유리한 확률을 높이기 위해 할 수 있는 일이 많이 있습니다.
 
 [[seek_powerful_friends]]
 ==== 강력한 친구들을 찾기
