@@ -1071,10 +1071,6 @@ Thing for everyone. If I do get fired, this is the wrong employer to
 work for in the first place. So, either way, I win. That is my career
 strategy.
 ____
-올바른 일을 하고, 해고되기를 기다려라
-
-새로운 Google 직원들(우리는 "Nooglers"라고 부릅니다)은 종종 내가 하는 일에서 효과적인 이유가 무엇인지 묻습니다. 나는 반만 농담으로 그것이 매우 간단하다고 말합니다: 나는 Google과 세상을 위해 올바른 일을 하고, 그다음 뒤로 물러서서 해고되기를 기다립니다. 해고되지 않는다면, 나는 모든 사람을 위해 올바른 일을 한 것입니다. 해고된다면, 애초에 일하기에 잘못된 고용주인 것입니다. 그래서, 어느 쪽이든 나는 이기는 것입니다. 그것이 내 커리어 전략입니다.
-____
 
 
 If you're prepared and know your options, you're the most liberated
@@ -1103,17 +1099,6 @@ told me to "get the hell out" so i sent you my CV as Project Manager; After
 this you let me know that google RARELY hires non-technical project
 managers.
 
-날짜: 2011년 12월 1일 목요일
-제목: 감사 인사
-보낸이: Alex Mrvaljevich
-받는이: Brian Fitzpatrick
-
-안녕하세요 Brian!
-
-아마 저를 기억하지 못하실 것 같지만, 당신은 제가 받은 최고의 두 가지 커리어 조언을 해주셨고, 제 인생을 바꿔주셨습니다.
-
-저는 Google IO 2010에서 당신의 기술 강연에 참석했고, 강연 후에 제 현재 직장 상황에 대한 조언을 구하기 위해 다가갔습니다. 당신은 간단히 "완전히 나오라"고 말씀하셨고, 그래서 저는 프로젝트 매니저로서 제 이력서를 보냈습니다. 그 후 당신은 구글이 비기술직 프로젝트 매니저를 거의 고용하지 않는다고 알려주셨습니다.
-
 Because of that i had to think long and hard about my career: Whatever
 Google's policy is, majority of companies follow suit.
 
@@ -1132,18 +1117,6 @@ advice I would send you a thank you note, so here it is:
 Thank you.
 
 Alex
-
-그 때문에 나는 내 커리어에 대해 길고 깊게 생각해야 했습니다: Google의 정책이 무엇이든, 대부분의 회사들이 그것을 따라합니다.
-
-커리어 트랙을 바꾸는 것이 나의 유일한 선택이었고, 가장 가능성이 높은 것은 제품 관리였습니다. 열심히 공부해서 내가 있던 회사뿐만 아니라 국가에서도 "완전히 벗어났습니다" (베네수엘라에는 제품 관리 일자리가 많지 않습니다). 그것은 내 인생에서 최고의 결정이 되었습니다...
-
-그 결정 덕분에 나는 방금 일본에서 제품 리드로서 놀라운 일자리를 얻었고, 2월에 고베로 이사할 예정입니다.
-
-나는 그 조언 덕분에 상황이 좋아진다면 감사 인사를 보내겠다고 스스로 약속했습니다. 그래서 여기 있습니다:
-
-감사합니다.
-
-Alex
 ----
 
 [[all_is_not_lost]]
@@ -1156,9 +1129,5 @@ the changes necessary to be happy and accomplish your goals at your
 job, and this chapter has given you a lot of the tools you'll need to
 do that. If you don't put the effort into understanding how to
 navigate your organization, you're leaving a huge part of your destiny to chance.(((range="endofrange", startref="ixch05asciidoc0")))
-
-
-
-그만두거나 해고되기를 기다리는 것에 대한 이 모든 이야기가, 직장에서 불행하다면 이력서를 털어내고 거리로 나서야 한다는 의미는 아닙니다. 반대로, 당신의 첫 번째 목표는 직장에서 행복하고 목표를 달성하기 위해 필요한 변화를 만드는 것이어야 하며, 이 장은 그렇게 하기 위해 필요한 많은 도구들을 제공했습니다. 조직을 탐색하는 방법을 이해하는 데 노력을 기울이지 않는다면, 당신의 운명의 큰 부분을 우연에 맡기는 것입니다.
 
 
