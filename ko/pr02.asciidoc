@@ -2,8 +2,4 @@
 [preface]
 == Mission Statement
 
-The goal of this book is to help people spend more time creating and
-less time fighting—by improving their ability to collaborate with
-other people.
-
 이 책의 목적은 사람들이 협력하는 능력을 키움으로 더 많은 시간을 창조에 쓰고, 더 적은 시간을 다투는 데 쓰는 데에 있습니다.
