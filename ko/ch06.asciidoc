@@ -1,5 +1,5 @@
 [[usersare_people_too]]
-== Users Are People, Too
+== Chapter 6. Users Are People, Too
 
 ((("users","as focus of organization", id="ixch01asciidoc0", range="startofrange")))We've explored a long list of ingredients that are critical to
 successful product development.

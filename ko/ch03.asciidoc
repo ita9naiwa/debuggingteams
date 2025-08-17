@@ -1,5 +1,5 @@
 [[every_boat_needs_a_captain]]
-== Every Boat Needs a Captain
+== Chapter 3. Every Boat Needs a Captain
 
 ((("leaders", id="ixch03asciidoc0", range="startofrange")))Even if you've sworn on your mother's grave that you'll never become a
 "manager," at some point in your career you're going to accidentally

@@ -1,6 +1,6 @@
 [[the_myth_of_the_genius_programmer]]
 [role="pagenumrestart"]
-== 2. The Myth of the Genius Programmer
+== Chapter 1. The Myth of the Genius Programmer
 
 이 책은 소프트웨어 개발의 사회적 위험에 관한 책이므로, 당신이 확실히 통제할 수 있는 한 가지 변수에 초점을 맞추는 것이 합리적입니다: 바로 당신 자신입니다.
 
@@ -46,8 +46,6 @@ Many humans have the instinct to find and worship idols. For software engineers 
 image::images/dbtm_01in01.png[]
 
 사실, 리누스가 한 일은 유닉스와 비슷한 커널의 개념 증명을 작성하고 이메일 목록에 보여주는 것이었습니다. 이것은 작은 성취가 아니었고, 확실히 인상적인 업적이었지만, 빙산의 일각에 불과했습니다. 리눅스는 수백 배 더 크고 수천 명의 똑똑한 사람들이 개발했습니다. 리누스의 진정한 업적은 이 사람들을 _이끌고_ 그들의 작업을 조정하는 것이었습니다. 리눅스는 그의 원래 아이디어가 아니라 커뮤니티의 집단 노동의 빛나는 결과입니다. (그리고 유닉스 자체도 켄 톰슨과 데니스 리치가 전부 작성한 것이 아니라 벨 연구소의 여러 똑똑한 사람들이 작성했습니다.)
-
-On that same note, did Guido Van Rossum personally write all of Python? Certainly, he wrote the first version. But hundreds of others were responsible for contributing to subsequent versions, including ideas, features, and bugfixes. Steve Jobs led an entire team that built the Macintosh, and while Bill Gates is known for writing a BASIC interpreter for early home computers, his bigger achievement was building a successful company around MS-DOS. Yet they all became leaders and symbols of the collective achievements of their communities. The Genius Myth is the tendency that we as humans have to ascribe the success of a team to a single person/leader.((("Gates, Bill")))((("Jobs, Steve")))
 
 비슷한 예로, 귀도 반 로섬은 파이썬의 모든 코드를 혼자 작성하지 않았습니다. 확실히, 그는 첫 번째 버전을 작성했습니다. 하지만 이후 버전에는 아이디어, 기능 및 버그 수정을 포함하여 수백 명의 다른 사람들이 기여했습니다. 스티브 잡스는 매킨토시를 만든 팀을 이끌었고, 빌 게이츠는 초기 가정용 컴퓨터용 BASIC 인터프리터를 작성한 것으로 알려져 있지만, 그의 더 큰 업적은 MS-DOS를 중심으로 성공적인 회사를 세운 것이었습니다. 그들은 모두 자신의 커뮤니티의 집단적 성취의 상징이자 리더가 되었습니다. 천재 신화는 인간이 팀의 성공을 단일 인물이나 리더에게 귀속시키려는 경향입니다.((("Gates, Bill")))((("Jobs, Steve")))
 

@@ -1,5 +1,5 @@
 [[the_art_of_organizational_manipulation]]
-== The Art of Organizational Manipulation
+== Chapter 5. The Art of Organizational Manipulation
 
 ((("organizational manipulation", id="ixch05asciidoc0", range="startofrange")))So far we've shown you how to handle the human side of you and your
 team. We've reviewed the basic people skills required for leading a

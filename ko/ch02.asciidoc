@@ -1,5 +1,5 @@
 [[building_an_awesome_team_culture]]
-== Building an Awesome Team Culture
+== Chapter 2. Building an Awesome Team Culture
 
 팀 문화는 놀라울 만큼 다양하며 매우 폭넓은 가치와 우선순위를 반영합니다.
 어떤 문화는 팀의 성공을 촉진하지만, 어떤 문화는 대규모의 실패를 부추기기도 합니다.

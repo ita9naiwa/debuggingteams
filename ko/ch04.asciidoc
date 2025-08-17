@@ -1,5 +1,5 @@
 [[dealing_with_poisonous_people]]
-== Dealing with Poisonous People
+== Chapter 4. Dealing with Poisonous People
 
 ((("poisonous people", id="ixch04asciidoc0", range="startofrange")))As the opening quote of our book suggests, the hardest part of
 creative work is __people__.
