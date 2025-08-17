@@ -670,9 +670,6 @@ canceled.
 ."Offensive" Versus "Defensive" Work
 ****
 
-."공격적" 작업 대 "방어적" 작업
-****
-
 ((("defensive work")))((("offensive work, defensive work vs.")))((("work, offensive vs. defensive")))When Ben first became a manager, it seemed like his team's
 productivity was being crushed under a mountain of accrued
 technical debt. He decided that the team's top
