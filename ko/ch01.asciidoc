@@ -1,35 +1,22 @@
 [[the_myth_of_the_genius_programmer]]
 [role="pagenumrestart"]
-== The Myth of the Genius Programmer
+== 2. The Myth of the Genius Programmer
 
 이 책은 소프트웨어 개발의 사회적 위험에 관한 책이므로, 당신이 확실히 통제할 수 있는 한 가지 변수에 초점을 맞추는 것이 합리적입니다: 바로 당신 자신입니다.
 
-
 사람은 본질적으로 불완전합니다. 하지만 동료들의 버그를 이해하기 전에, 먼저 자신 안에 있는 버그를 이해해야 합니다. 우리는 당신이 자신의 반응, 행동 및 태도에 대해 생각해 보기를 요청할 것이며, 그 대가로 당신이 더 효율적이고 성공적인 소프트웨어 엔지니어가 되는 데 진정한 통찰력을 얻기를 바랍니다. 사람과 관련된 문제를 처리하는 데 드는 에너지를 줄이고 훌륭한 코드를 작성하는 데 더 많은 시간을 할애하게 될 것입니다.
-
-The critical idea in this chapter is to understand that software
-development is a team sport. And in order to succeed on an engineering
-team—or in any other creative collaboration—you need to reorganize
-your behaviors around the core principles of humility, respect, and
-trust.
 
 이 챕터에서 가장 중요한 아이디어는 소프트웨어 개발이 팀 스포츠라는 것을 이해하는 점입니다. 엔지니어링 팀이나 다른 어떤 창의적인 조직에서 성공하기 위한다면, 당신은 겸손(Humility), 존중(Respect), 신뢰(Trust)의 핵심 원칙을 중심으로 행동을 재조직해야 합니다.
 
-((("programmers","general behavior of", id="ixch01asciidoc0", range="startofrange")))Before we get ahead of ourselves, let's start by observing how
-programmers behave in general.
-
+((("programmers","general behavior of", id="ixch01asciidoc0", range="startofrange")))
 본격적으로 더 나아가기 전에, 일반적으로 프로그래머들이 어떻게 행동하는지부터 살펴봅시다.
 
 [[help_me_hide_my_code]]
 === Help Me Hide My Code
 
-((("insecurity of programmers", id="ixch01asciidoc1", range="startofrange")))((("programmers","insecurity of", id="ixch01asciidoc2", range="startofrange")))The two of us have been speaking at programming conferences quite a
-bit for the past ten years. ((("Google Project Hosting service")))After launching Google's open source
-Project Hosting service back in 2006, we used to get lots of questions
-and requests about the product. Back in mid-2008, we noticed a
-distinctive trend in the sort of requests we were getting:
-
-((("insecurity of programmers", id="ixch01asciidoc1", range="startofrange")))((("programmers","insecurity of", id="ixch01asciidoc2", range="startofrange")))우리 둘은 10년 쯤 전부터 프로그래밍 컨퍼런스에서 꽤 많은 발표를 했습니다. 구글 오픈 소스 프로젝트 호스팅 서비스를 2006년에 시작한 이후로, 우리는 제품에 대한 질문과 요청을 많이 받았습니다. 2008년 중반부터는 우리가 받는 요청의 경향이 뚜렷하게 나타났습니다:
+((("insecurity of programmers", id="ixch01asciidoc1", range="startofrange")))((("programmers","insecurity of", id="ixch01asciidoc2", range="startofrange")))
+우리 둘은 10년 쯤 전부터 프로그래밍 컨퍼런스에서 꽤 많은 발표를 했습니다. 구글 오픈 소스 프로젝트 호스팅 서비스를 2006년에 시작한 이후로,
+우리는 제품에 대한 질문과 요청을 많이 받았습니다. 2008년 중반부터는 우리가 받는 요청의 경향이 뚜렷하게 나타났습니다:
 
 [role="pagebreak-before"]
 [quote]
@@ -117,32 +104,11 @@ the risk of failure and cheating your potential for growth.
 
 모든 시간을 혼자 일하는 데 쓴다면, 실패할 위험을 __높이고__ 성장할 가능성을 스스로 갉아먹는 셈입니다.
 
-First of all, how do you even know if you're on the right track?
 우선, 당신이 올바른 방향으로 가고 있는지 어떻게 알 수 있을까요?
-
-Imagine you're a bicycle-design enthusiast, and one day you get
-a brilliant idea for a completely new way to design a gear
-shifter. You order parts and proceed to spend weeks holed up in your
-garage trying to build a prototype. When your neighbor—also a bike
-advocate—asks you what's up, you decide not to talk about
-it. You don't want anyone to know about your project until
-it's absolutely perfect. Another few months go by and
-you're having trouble making your prototype work correctly. But
-because you're working in secrecy, it's impossible to
-solicit advice from your mechanically inclined
-friends.
 
 자전거 기어 변속 장치를 완전히 새롭게 설계하는 기발한 아이디어가 떠올랐다고 상상해 보세요.
 부품을 주문하고 차고에 틀어박혀 몇 주 동안 시제품을 만들기 시작합니다. 이웃(자전거 애호가)이 무슨 일을 하느냐고 묻지만, 당신은 이야기하지 않기로 합니다. 완벽해질 때까지 누구에게도 보이고 싶지 않기 때문입니다.
 몇 달이 더 지나도 시제품은 제대로 작동하지 않습니다. 비밀리에 작업하다 보니, 기계에 밝은 친구들에게 조언을 구할 수도 없습니다.
-
-Then one day your neighbor pulls his bike out of his garage with a
-radical new gear-shifting mechanism. Turns out he's been
-building something very similar to your invention, but with the help
-of some friends down at the bike shop. At this point you're
-exasperated. You show him your work. He points out that your design
-had some simple flaws—ones that might have been fixed in the first
-week if you had shown him.
 
 어느 날 이웃이 차고에서 자전거를 꺼내는데, 혁신적인 변속 메커니즘이 달려 있습니다.
 그 역시 자전거 가게 친구들의 도움을 받아 당신의 아이디어와 매우 비슷한 것을 만들고 있었던 겁니다.
@@ -152,24 +118,6 @@ week if you had shown him.
 [[image_no_caption-id003]]
 image::images/dbtm_01in02.png[]
 
-There are a number of lessons to learn here. If you keep your great
-idea hidden from the world and refuse to show anyone anything until
-the implementation is polished, you're taking a huge
-gamble. It's easy to make fundamental design mistakes early
-on. You risk reinventing wheels.footnote:[Literally,
-if you are, in fact, a bike designer.] And you forfeit the benefits of
-collaboration too: notice how much faster your neighbor moved by
-working with others? This is why people dip their toes in the water
-before jumping in the deep end: you need to make sure that
-you're working on the right thing, you're doing it
-correctly, and it hasn't been done before. The chances of an
-early misstep are high. The more feedback you solicit early on, the
-more you lower this risk.footnote:[We should note
-that sometimes it's dangerous to get too much feedback too early
-in the process, but we'll cover that in a later chapter.]
-Remember the tried-and-true mantra of "Fail early, fail fast,
-fail often"—we'll discuss the importance of failure at length later in the book.
-
 여기서 배울 점은 많습니다. 훌륭한 아이디어를 세상에 숨긴 채 구현이 매끈해질 때까지 누구에게도 보여주지 않겠다고 하면, 엄청난 도박이 됩니다.
 초기에 근본적인 설계 실수를 저지르기 쉽고, 바퀴를 다시 발명할 위험도 있습니다. 또한 협업의 이점을 포기하게 됩니다.
 다른 사람들과 함께 일한 이웃이 얼마나 빨리 나아갔는지 보셨나요? 그래서 사람들은 깊은 수영장에 뛰어들기 전에 먼저 발끝만 담가 봅니다.
@@ -177,14 +125,7 @@ fail often"—we'll discuss the importance of failure at length later in the boo
 초기에 피드백을 많이 받을수록 이 위험은 낮아집니다. 검증 과정에서 너무 이른 피드백이 해로울 때도 있지만, 그 이야기는 나중 장에서 다루겠습니다.
 "일찍 실패하고, 빨리 실패하고, 자주 실패하라"는 검증된 만트라를 기억하세요. 우리는 책의 뒷부분에서 실패의 중요성을 더 길게 다룰 것입니다.
 
-Early sharing((("bus factor"))) isn't just about preventing personal missteps and
-getting your ideas vetted. It's also important to strengthen
-what we call the __bus factor__ of your project.
-
 초기 공유는 개인의 실수를 막고 아이디어의 검증을 받는 것에 그치지 않습니다. 우리가 __버스 팩터__라고 부르는, 프로젝트의 회복력을 강화하는 데도 중요합니다.
-
-__Bus factor__ (noun): the number of people that need to get hit by a
-bus before your project is completely doomed.
 
 __버스 팩터__(명사): 프로젝트가 완전히 망가지기 전에 버스에 치여야 하는 사람의 수.
 
@@ -192,138 +133,30 @@ __버스 팩터__(명사): 프로젝트가 완전히 망가지기 전에 버스�
 [[image_no_caption-id004]]
 image::images/dbtm_01in03.png[]
 
-How dispersed is the knowledge and know-how in your project? If
- you're the only person who understands how the prototype
- code works, it may be
- nice job security, but it also means the project is toast if you get
- hit by a bus. If you're working with a friend, however,
- you've doubled the bus factor. And if you've got a small
- team designing and prototyping together, things are even better—the
- project won't be over when a team member disappears. Remember:
- team members may not literally get hit by buses, but other
- unpredictable life events still happen. Someone may get married, have
- to move away, leave the company, or have to take care of a sick
- relative. You need to future-proof a project's success by
- managing the bus factor.
-
 당신의 프로젝트에서 지식과 노하우는 얼마나 널리 퍼져 있나요? 시제품 코드의 동작을 이해하는 사람이 당신뿐이라면, 단기적으로는 일이 안정적으로 보일지 몰라도 당신이 "버스에 치이는" 순간 프로젝트는 끝장입니다. 친구와 함께 일한다면 버스 팩터는 두 배가 됩니다. 소규모 팀이 함께 설계하고 시제품을 만든다면 더 좋습니다. 팀원이 한 명 사라져도 프로젝트는 끝나지 않으니까요. 꼭 버스에 치이지 않더라도 예측 불가능한 삶의 사건은 일어납니다. 누군가는 결혼을 하거나, 이사를 가거나, 회사를 떠나거나, 아픈 가족을 돌봐야 할 수 있습니다. 버스 팩터를 관리함으로써 프로젝트의 성공을 미래에도 보장해야 합니다.
-
-Beyond the bus factor, there's the issue of overall pace of progress. It's easy to forget that working
-alone is often a tough slog, much slower than people want to
-admit. How much do you learn when working alone? How fast do you move?
-The Web is a great dumping ground of opinions and information, but
-it's no substitute for actual human experience. Working with
-other people directly increases the collective wisdom behind the
-effort. When you get stuck on something absurd, how much time do you
-waste pulling yourself out of the hole? Think about how different the
-experience would be if you had a couple of peers to look over your
-shoulder and tell you—instantly—how you goofed and how to get past the
-problem. This is exactly why teams sit together (or do pair
-programming) in software engineering companies: you often find
-yourself needing a second pair of eyes.
 
 버스 팩터 외에도 전체적인 진행 속도의 문제가 있습니다. 혼자 일하는 것은 사람들 생각보다 훨씬 느리고, 고된 작업이 되기 쉽습니다. 혼자 일할 때 얼마나 배우나요? 얼마나 빨리 움직이나요? 웹은 의견과 정보의 거대한 저장소이지만 실제 인간의 경험을 대체할 수는 없습니다. 다른 사람들과 함께 일하면 시도 자체의 집단 지혜가 직접적으로 늘어납니다. 터무니없는 문제에 막혔을 때, 혼자서 구덩이에서 빠져나오느라 얼마나 시간을 날리나요? 어깨너머로 보며 즉시 실수를 짚어주고 다음으로 나아가는 방법을 알려줄 동료 두어 명이 있었다면 얼마나 달라졌을지 상상해 보세요. 이것이 바로 소프트웨어 회사들이 팀을 한데 모아 앉히거나 페어 프로그래밍을 하는 이유입니다. 우리는 종종 두 번째 시선이 필요합니다.
 
-Here's another ((("feedback loops")))analogy. Think about how you work with your
-compiler. When you sit down to write a large piece of software, do you
-spend days writing 10,000 lines of code, then when you think it's all done and
-completely perfect, press the "compile" button for the very first
-time? Of course you don't. Can you imagine what sort of disaster would
-result?  As
-programmers we work best in
-__tight__ feedback
-loops. Write a new function, compile. Add a test, compile. Refactor
-some code, compile. We get the typos and bugs fixed as soon as
-possible after generating code. We want the compiler at our side for
-every little step, playing wingman; some environments can even compile
-our code __as we type__. This is how we keep code quality high and
-make sure our software is evolving correctly bit by
-bit.
-
 또 다른 비유입니다. 컴파일러와 함께 어떻게 일하는지 떠올려 보세요. 큰 소프트웨어를 작성할 때, 며칠 동안 1만 줄을 쓰고 모든 것이 완벽하다고 느낄 때 처음으로 "컴파일" 버튼을 누르나요? 물론 아니죠. 어떤 재앙이 벌어질지 상상해 보세요. 프로그래머인 우리는 __빽빽한__ 피드백 루프에서 가장 잘 일합니다. 새 함수를 쓰고, 컴파일. 테스트를 추가하고, 컴파일. 코드를 리팩터하고, 컴파일. 코드를 생성한 직후 가능한 한 빨리 오타와 버그를 고칩니다. 작은 단계마다 우리 곁에서 날개맨처럼 도와주는 컴파일러를 원합니다. 어떤 환경은 우리가 __타이핑하는 동안__에도 컴파일해 줍니다. 이렇게 해서 코드 품질을 높게 유지하고 소프트웨어가 조금씩 올바른 방향으로 진화하도록 합니다.
-
-The same sort of rapid feedback loop is needed not just at the code
-level, but at the whole-project level too. Ambitious projects evolve
-quickly and have to adapt to changing environments as they
-go. Projects run into unpredictable design obstacles or political
-hazards, or we simply discover that things aren't working as
-planned. Requirements morph unexpectedly. How do you get that feedback
-loop so that you know the instant your plans or designs need to
-change? Answer: by working in a team. Eric((("Raymond, Eric"))) Raymond is often quoted as
-saying, "Many eyes make all bugs shallow," but a better version might
-be, "Many eyes make sure your project stays relevant and on track."
-People working in caves awake to discover that while their original
-vision may be complete, the world has changed and made the product
-irrelevant.
 
 이러한 빠른 피드백 루프는 코드 수준뿐만 아니라 전체 프로젝트 수준에서도 필요합니다. 야심찬 프로젝트는 빠르게 진화하며 진행하면서 변화하는 환경에 적응해야 합니다. 프로젝트는 예측 불가능한 설계 장애물이나 정치적 위험에 부딪히고, 단지 계획대로 되지 않는다는 사실을 발견하기도 합니다. 요구사항은 뜻밖에 변합니다. 계획이나 설계를 즉시 바꿔야 한다는 신호를 어떻게 빠르게 받나요? 답은 팀으로 일하는 것입니다. 에릭 레이먼드는 "많은 눈이 모든 버그를 얕게 만든다"고 말한 것으로 유명한데, 더 나은 버전은 이렇습니다. "많은 눈은 당신의 프로젝트가 관련성을 유지하고 궤도를 벗어나지 않도록 해 준다." 동굴에서 일하던 사람은 자신이 원래 꿈꾸던 비전을 완성했을지라도 세상은 이미 변해 제품을 무의미하게 만들어 놓았음을 뒤늦게 깨닫습니다.
 
 [[engineers_and_offices]]
 .Engineers and Offices
 ****
-((("engineers","and private offices")))((("offices, private")))((("private offices")))Twenty years ago conventional wisdom stated that for an engineer to be
-productive, she needed to have her own office with a door that
-closed. This was supposedly the only way she could have big
-uninterrupted slabs of time to deeply concentrate on writing reams of
-code.
-
+((("engineers","and private offices")))((("offices, private")))((("private offices")))
 20년 전 통념에 따르면, 엔지니어가 생산적이려면 문을 닫을 수 있는 개인 사무실이 필요했습니다. 길게 방해받지 않는 시간만이 수많은 코드를 깊이 집중해 쓸 수 있는 유일한 방법이라는 것이었죠.
-
-We think that it's not only unnecessary for most engineersfootnote:[We do, however, acknowledge that serious
-introverts likely need more peace, quiet, and alone time than most
-people and may benefit from a more quiet environment if not their own
-office.] to be in a private office, it's dangerous. Software
-today is written by teams, not individuals, and a high-bandwidth,
-readily available connection to the rest of your team is even more
-valuable than your Internet connection. You can have all the
-uninterrupted time in the world, but if you're using it to work
-on __the wrong thing__, you're wasting your time.
 
 우리는 대부분의 엔지니어에게 개인 사무실이 필요 없을 뿐만 아니라, 오히려 위험하다고 생각합니다. 오늘날 소프트웨어는 개인이 아니라 팀이 씁니다. 팀 전체와의 고대역폭, 즉시 가능한 연결은 인터넷 연결보다도 더 가치가 있습니다. 세상 모든 방해받지 않는 시간을 가진다 해도, 그 시간을 __잘못된 일__에 쓰고 있다면 시간을 낭비하는 것입니다.
 
-Unfortunately, it seems that modern-day tech companies have swung the
-pendulum to the exact opposite extreme.  Walk into their offices and
-you'll often find engineers clustered together in massive pass:[<span class="keep-together">rooms—</span>]50
-or 100 people together—with no walls whatsoever.  This "open floor
-plan" is now a topic of huge debate.  The tiniest conversation becomes
-public, and people end up not talking for risk of annoying dozens of
-neighbors.  This is just as bad as private offices!
-
 불행히도 현대 기술 회사들은 추의 반대편 극단으로 흔들린 듯합니다. 그들의 사무실에 들어가 보면 벽 하나 없이 50명, 100명이 함께 모여 있는 거대한 공간에 엔지니어들이 몰려 있는 경우가 많습니다. 이 "오픈 플로어 플랜"은 지금 큰 논쟁거리입니다. 아주 작은 대화도 공개되고, 수십 명의 이웃을 방해할까 두려워 사람들은 결국 말을 하지 않게 됩니다. 이것 역시 개인 사무실만큼이나 나쁩니다!
-
-We think the middle ground is really the best solution.  Group teams
-of 6 to 12 people together in small rooms (or large offices), so as to
-make it easy (and nonembarrassing) for spontaneous conversation to
-happen.
 
 우리가 보기에 중간 지대가 가장 좋은 해법입니다. 6~12명으로 이루어진 팀을 작은 방(혹은 큰 사무실)에 모아, 즉흥적인 대화가 쉽게(그리고 민망하지 않게) 일어나도록 하세요.
 
-Of course, in any situation, individual engineers still need a way to
-filter out noise and interruptions, which is why most teams we've seen
-have developed a way to communicate that they're currently busy and
-that you should limit interruptions. We used to work on a team with a
-vocal interrupt protocol: if you
-wanted to talk, you would say "breakpoint __Mary__," where __Mary__ was
-the name of the person you wanted to talk to. If Mary was at a point
-where she could stop, she would swing her chair around and listen. If
-Mary was too busy, she'd just say "ack" and you'd go on with other
-things until she finished with her current head state.
-
 우리가 함께 일했던 팀에는 음성 인터럽트 프로토콜이 있었습니다. 누군가와 이야기하고 싶으면 "브레이크포인트 __메리__"라고 말합니다. __메리__는 당신이 대화하려는 사람의 이름입니다. 메리가 멈출 수 있는 상황이면 의자를 돌려 듣고, 너무 바쁘면 "ack"라고만 답합니다. 그러면 메리가 현재 머릿속 상태를 마무리할 때까지 다른 일을 하러 갑니다.
 
-Other teams give out noise-canceling headphones to engineers to make
-it easier to deal with background noise—in fact, in many companies the
-very act of wearing headphones is a common signal that means "don't
-disturb me unless it's really important." Still other teams have
-tokens or stuffed animals that team members put on their monitor to
-signify that they should be interrupted only in case of emergency.
 
 다른 팀들은 배경 소음을 처리하기 쉽게 하려고 노이즈 캔슬링 헤드폰을 지급합니다. 사실 많은 회사에서 헤드폰을 착용하는 행위 자체가 "정말 중요한 게 아니면 방해하지 마세요"라는 일반적인 신호입니다. 또 다른 팀들은 비상시에만 방해해 달라는 표시로 모니터에 올려두는 토큰이나 봉제인형을 사용합니다.
-
-Don't misunderstand us—we still think engineers need
-uninterrupted time to focus on writing code, but we think they need a high-bandwidth,
-low-friction connection to their team just as much.  Finding the right
-balance is an art.(((range="endofrange", startref="ixch01asciidoc10")))(((range="endofrange", startref="ixch01asciidoc9")))
 
 우리를 오해하지 마세요. 우리는 여전히 엔지니어에게 코드에 집중할 방해받지 않는 시간이 필요하다고 생각합니다. 하지만 팀과의 고대역폭, 저마찰 연결 역시 그만큼 중요합니다. 균형을 찾는 것은 예술입니다.
 
@@ -332,30 +165,8 @@ balance is an art.(((range="endofrange", startref="ixch01asciidoc10")))(((range=
 
 
 [role="pagebreak-before"]
-((("risks","teamwork vs. solo work")))So what it boils down to is this: __working alone is inherently
-riskier than working with others__. While you may be afraid of someone
-stealing your idea or thinking you're dumb, you should be much
-more scared of wasting huge swaths of your time toiling away on the
-wrong thing.
-
+((("risks","teamwork vs. solo work")))
 결국 핵심은 이것입니다. __혼자 일하는 것은 본질적으로 함께 일하는 것보다 더 위험합니다__. 누군가가 당신의 아이디어를 훔치거나 당신을 멍청하다고 생각할까 두려울 수 있지만, 그보다는 혼자 틀어박혀 __엉뚱한 일에__ 엄청난 시간을 낭비하는 것을 훨씬 더 무서워해야 합니다.
-
-Sadly, this problem of "clutching ideas to the chest"
-isn't unique to software engineering—it's a pervasive
-problem across all fields. For example, professional science is
-__supposed__ to be about the free and open exchange of
-information. But the desperate need to "publish or perish"
-and to compete for grants has had exactly the opposite effect. Great
-thinkers don't share ideas. They cling to them obsessively, do
-their research in private, hide all mistakes along the path, and then
-ultimately publish a paper, making it sound like the whole process was
-effortless and obvious. And the results are often disastrous: they
-accidentally duplicated someone else's work, or they made an
-undetected mistake early on, or they produced something that used to
-be interesting but is now regarded as useless. The amount of wasted
-time and effort is tragic.
-
-Don't become another statistic.(((range="endofrange", startref="ixch01asciidoc8")))(((range="endofrange", startref="ixch01asciidoc7")))(((range="endofrange", startref="ixch01asciidoc6")))
 
 안타깝게도 "아이디어를 가슴에 꼭 쥐고 있는" 이 문제는 소프트웨어 공학에만 국한되지 않습니다. 거의 모든 분야에 만연한 문제입니다. 예를 들어, 전문 과학은 원래 정보의 자유롭고 개방적인 교환에 관한 것이어야 합니다. 하지만 "발표하지 않으면 도태된다"는 절박함과 연구비 경쟁은 정반대의 효과를 낳았습니다. 위대한 사상가들이 아이디어를 공유하지 않습니다. 집요하게 움켜쥐고, 비공개로 연구하고, 과정에서의 모든 실수를 숨긴 채, 마치 전 과정이 수월하고 자명했던 것처럼 논문을 발표합니다. 그리고 결과는 종종 참담합니다. 누군가의 작업을 우연히 중복하거나, 초기에 발견되지 않은 실수를 저지르거나, 한때는 흥미로웠지만 이제는 쓸모없다고 여겨지는 무언가를 만들어 냅니다. 낭비되는 시간과 노력이 비극적일 정도입니다.
 
@@ -364,33 +175,14 @@ Don't become another statistic.(((range="endofrange", startref="ixch01asciidoc8"
 [[its_all_about_the_team]]
 === It's All About the Team
 
-((("teams","fundamental importance of")))So let's back up now and put all these ideas together.
-
+((("teams","fundamental importance of")))
 이제 한 걸음 물러서서 이 모든 생각을 다시 모아 봅시다.
-
-The point we've been hammering is that in the realm of
-programming, lone craftsmen are extremely rare—and even when they do
-exist, they don't perform superhuman achievements in a vacuum;
-their world-changing accomplishment is almost always the result of a
-spark of inspiration followed by a heroic team effort.
 
 우리가 줄곧 강조한 요점은, 프로그래밍 영역에서 외톨이 장인은 극히 드물다는 것입니다. 설령 존재하더라도 공기처럼 텅 빈 진공 속에서 초인적 성취를 해내지 않습니다. 세상을 바꾸는 업적은 거의 언제나 영감의 불꽃 뒤를 잇는 영웅적인 팀 노력의 결과입니다.
 
-Creating a superstar __team__ is the real goal, and is fiendishly
-difficult. The best teams make brilliant use of their superstars, but
-the whole is always greater than the sum of its parts.
-
 슈퍼스타 __팀__을 만드는 것이 진짜 목표이며, 극도로 어렵습니다. 최고의 팀은 슈퍼스타를 영리하게 활용하지만, 전체는 언제나 부분의 합보다 큽니다.
 
-Let's put this idea into simpler words:
-
-__Software development is a team sport__.
-
 __소프트웨어 개발은 팀 스포츠입니다__.
-
-This may be a difficult concept at first, since it directly
-contradicts our inner Genius Programmer fantasy. Try chanting it as a
-mantra.
 
 처음에는 받아들이기 어려울 수 있습니다. 우리가 마음속에 품은 천재 프로그래머 판타지와 정면으로 충돌하기 때문이죠. 이를 만트라처럼 되뇌어 보세요.
 
@@ -398,436 +190,184 @@ mantra.
 [[image_no_caption-id005]]
 image::images/dbtm_01in04.png[]
 
-It's not enough to be brilliant when you're alone in your
-hacker's lair. You're not going to change the world or
-delight millions of computer users by hiding and preparing your secret
-invention. You need to __work__ with other people. Share your
-vision. Divide the labor. Learn from others. Create a brilliant
-team.
-
 혼자 해커의 은신처에서 빛나는 존재가 되는 것만으로는 충분하지 않습니다. 비밀 발명을 숨기고 준비한다고 세상을 바꾸거나 수백만 사용자에게 기쁨을 줄 수는 없습니다. 다른 사람들과 __함께__ 일해야 합니다. 비전을 공유하세요. 일을 나누세요. 다른 이들에게서 배우세요. 빛나는 팀을 만드세요.
 
-Consider this: how many pieces of widely used, successful software can
-you name that were truly written by a __single__ person? (Some people
-might say "LaTeX," but it's hardly "widely
-used," unless you consider the number of people writing
-scientific papers to be a statistically significant portion of all
-computer users!)
-
 생각해 보세요. 진정으로 __한 사람__이 쓴, 널리 사용되고 성공적인 소프트웨어가 얼마나 되나요? (어떤 사람은 "LaTeX"을 말할지도 모르지만, 과학 논문을 쓰는 사람들의 수가 전체 컴퓨터 사용자의 통계적으로 유의미한 비중이라고 보지 않는 한 "널리 사용"된다고 하기는 어렵습니다!)
-
-We're going to repeat this team-sport concept over and over
-throughout the book. High-functioning teams are gold and the true key
-to success. You should be aiming for this experience however you can;
-that's what this book is all about.
 
 우리는 이 팀 스포츠 개념을 책 전반에서 거듭 반복할 것입니다. 잘 기능하는 팀은 금과 같으며 진정한 성공의 열쇠입니다. 어떻게 해서든 이런 경험을 목표로 해야 합니다. 이 책이 바로 그 이야기를 다룹니다.
 
 [[the_three_pillars]]
 === The Three Pillars
 
-((("HRT (humility, respect, trust)","basics of", id="ixch01asciidoc11", range="startofrange")))((("team building","three pillars of", id="ixch01asciidoc12", range="startofrange")))((("three pillars of team building", id="ixch01asciidoc13", range="startofrange")))So the point about working in teams has been made. If teamwork is the best route to
- producing great software, how does one build (or find) a great
- team?
-+
-+이제 팀으로 일하는 것이 최선의 길이라는 점은 충분히 이야기했습니다. 훌륭한 소프트웨어를 만들려면, 훌륭한 팀을 어떻게 구축(혹은 발견)할 수 있을까요?
+((("HRT (humility, respect, trust)","basics of", id="ixch01asciidoc11", range="startofrange")))((("team building","three pillars of", id="ixch01asciidoc12", range="startofrange")))((("three pillars of team building", id="ixch01asciidoc13", range="startofrange")))
+ 이제 팀으로 일하는 것이 최선의 길이라는 점은 충분히 이야기했습니다. 훌륭한 소프트웨어를 만들려면, 훌륭한 팀을 어떻게 구축(혹은 발견)할 수 있을까요?
 
- It's not quite that((("social skills"))) simple. In order to reach collaborative
- nirvana, you first need to learn and embrace what we call the
- "three pillars" of social skills. These three principles aren't just about greasing the
- wheels of relationships; they're the foundation on which all
- healthy interaction and collaboration are based.
-+
-+그렇게 __단순__하지는 않습니다. 협업의 경지에 이르려면 먼저 우리가 "세 개의 기둥"이라 부르는 사회적 기술을 배우고 받아들여야 합니다. 이 세 가지 원칙은 관계에 약간의 윤활유를 치는 수준이 아닙니다. 모든 건강한 상호작용과 협업이 기반하는 토대입니다.
+ 그렇게 __단순__하지는 않습니다. 협업의 경지에 이르려면 먼저 우리가 "세 개의 기둥"이라 부르는 사회적 기술을 배우고 받아들여야 합니다. 이 세 가지 원칙은 관계에 약간의 윤활유를 치는 수준이 아닙니다. 모든 건강한 상호작용과 협업이 기반하는 토대입니다.
 
  Humility::
 
-     ((("humility","in HRT context")))You are not the center of the universe. You're neither
-     omniscient nor infallible. You're open to self-improvement.
-+
-+    당신은 우주의 중심이 아닙니다. 당신은 전지하지도, 무오류도 아닙니다. 자기 개선에 열려 있습니다.
+     ((("humility","in HRT context")))
+
+     당신은 우주의 중심이 아닙니다. 당신은 전지하지도, 무오류도 아닙니다. 자기 개선에 열려 있습니다.
 
 
  Respect::
-     ((("respect","in HRT context")))You genuinely care about others you work with. You treat them as
-     human beings, and appreciate their abilities and accomplishments.
-+
-+    당신이 함께 일하는 다른 사람들을 진심으로 아낍니다. 그들을 인간으로 대하고, 그들의 능력과 성취를 인정합니다.
+     ((("respect","in HRT context")))
+
+     당신이 함께 일하는 다른 사람들을 진심으로 아낍니다. 그들을 인간으로 대하고, 그들의 능력과 성취를 인정합니다.
 
 
  Trust::
-     ((("trust","in HRT context")))You believe others are competent and will do the right thing, and
-     you're OK with letting them drive when
-     appropriate.footnote:[This is incredibly
-     difficult if you've been burned in the past by delegating to
-     incompetent people.]
-+
-+    당신은 다른 사람들이 유능하며 옳은 일을 할 것이라고 믿습니다. 그리고 적절할 때 그들이 운전대를 잡도록 기꺼이 맡깁니다.footnote:[과거에 무능한 사람에게 위임했다가 데인 적이 있다면 이것이 믿기 힘들 수 있습니다.]
+     ((("trust","in HRT context")))
 
+     당신은 다른 사람들이 유능하며 옳은 일을 할 것이라고 믿습니다. 그리고 적절할 때 그들이 운전대를 잡도록 기꺼이 맡깁니다.footnote:[과거에 무능한 사람에게 위임했다가 데인 적이 있다면 이것이 믿기 힘들 수 있습니다.]
 
- Together, we refer to these principles as HRT. We pronounce this as "heart"
- and not "hurt" because it's all about __decreasing__
- pain and not about injuring people. In fact, our main thesis is built
- directly on these pillars:
-+
-+우리는 이 원칙들을 HRT라고 부릅니다. "hurt"가 아니라 "heart"라고 발음합니다. 사람을 __다치게__ 하는 것이 아니라, __고통을 줄이는__ 이야기이기 때문입니다. 사실 우리의 핵심 논지는 이 기둥들 위에 곧장 세워져 있습니다.
+ 우리는 이 원칙들을 HRT라고 부릅니다. "hurt"가 아니라 "heart"라고 발음합니다. 사람을 __다치게__ 하는 것이 아니라, __고통을 줄이는__ 이야기이기 때문입니다. 사실 우리의 핵심 논지는 이 기둥들 위에 곧장 세워져 있습니다.
 
  [quote]
  ____
- Almost every social conflict can ultimately be traced back to a lack
- of humility, respect, or trust.
+  거의 모든 사회적 갈등은 궁극적으로 겸손, 존중, 혹은 신뢰의 결여로 거슬러 올라갈 수 있습니다.
  ____
-+
-+거의 모든 사회적 갈등은 궁극적으로 겸손, 존중, 혹은 신뢰의 결여로 거슬러 올라갈 수 있습니다.
 
+ 처음에는 믿기지 않을 수 있습니다. 하지만 한번 시도해 보세요. 지금 당신의 삶에서 불쾌하거나 불편한 사회적 상황을 떠올려 보세요. 가장 기초적인 수준에서, 모두가 적절히 겸손한가요? 사람들은 서로를 진심으로 존중하나요? 상호 신뢰가 있나요?
 
- It may sound implausible at first, but give it a try. Think about some
- nasty or uncomfortable social situation in your life right now. At the
- basest level, is everyone being appropriately humble? Are people
- really respecting one another? Is there mutual trust?
-+
-+처음에는 믿기지 않을 수 있습니다. 하지만 한번 시도해 보세요. 지금 당신의 삶에서 불쾌하거나 불편한 사회적 상황을 떠올려 보세요. 가장 기초적인 수준에서, 모두가 적절히 겸손한가요? 사람들은 서로를 진정으로 존중하나요? 상호 신뢰가 있나요?
+ 우리는 이 원칙들이 너무 중요하다고 믿기 때문에, 아예 책 전체의 구조를 이것들에 맞췄습니다.
 
- We believe these principles are so important that we've even
- structured this book around them.
-+
-+우리는 이 원칙들이 너무 중요하다고 믿기 때문에, 아예 책 전체의 구조를 이것들에 맞췄습니다.
+ 이 책은 당신 자신에서 시작합니다. HRT를 받아들이고, 상호작용의 중심에 HRT를 둔다는 것이 무엇을 의미하는지 진정으로 내재화하는 것입니다. 그것이 바로 이 첫 장이 다루는 내용입니다. 그다음에는 영향력의 원을 점차 넓혀 나갑니다.
 
- This book begins with you: getting you to embrace HRT and really
- internalize what it means to put HRT at the center of your
- interactions. That's what this first chapter is about. From
- there we create ever-expanding circles of influence.
-+
-+이 책은 당신 자신에서 시작합니다. HRT를 받아들이고, 상호작용의 중심에 HRT를 둔다는 것이 무엇을 의미하는지 진정으로 내재화하는 것입니다. 그것이 바로 이 첫 장이 다루는 내용입니다. 그다음에는 영향력의 원을 점차 넓혀 나갑니다.
+ <<building_an_awesome_team_culture>>에서는 이 세 기둥을 바탕으로 팀을 만드는 도전을 다룹니다. 팀 문화를 만드는 것은 성공을 위한 결정적 다음 단계—앞서 언급한 "드림 팀"—입니다.
 
- In <<building_an_awesome_team_culture>> we discuss the challenge of
- building a team based on the three pillars. Creating a team culture is
- the critical next step to success—this is the "dream team"
- discussed earlier.
-+
-+<<building_an_awesome_team_culture>>에서는 이 세 기둥을 바탕으로 팀을 만드는 도전을 다룹니다. 팀 문화를 만드는 것은 성공을 위한 결정적 다음 단계—앞서 언급한 "드림 팀"—입니다.
-
- We then examine people who are interacting with your team on a daily
- basis, but may not be part of the core team culture. These may be
- coworkers from other teams, or just volunteers offering to help on
- your project. Many of them not only disregard HRT, but they can be downright
- poisonous! Learning to defend your team from them is the first order
- of business. Removing their fangs and sucking them into your culture
- should be the ultimate goal, however. It's a great way to expand
- a team.
-+
-+이어서 매일 팀과 상호작용하지만 핵심 팀 문화의 일부가 아닐 수도 있는 사람들을 살펴봅니다. 다른 팀의 동료일 수도 있고, 프로젝트를 돕고자 하는 자원봉사자일 수도 있습니다. 그들 중 다수는 HRT를 무시할 뿐만 아니라, 극도로 __독이 될__ 수 있습니다! 그들로부터 팀을 방어하는 법을 배우는 것이 첫 번째 과제입니다. 그러나 궁극적인 목표는 그들의 이빨을 뽑고 당신의 문화로 끌어들이는 것입니다. 팀을 확장하는 훌륭한 방법이니까요.
+ 이어서 매일 팀과 상호작용하지만 핵심 팀 문화의 일부가 아닐 수도 있는 사람들을 살펴봅니다.
+ 다른 팀의 동료일 수도 있고, 프로젝트를 돕고자 하는 자원봉사자일 수도 있습니다. 그들 중 다수는 HRT를 무시할 뿐만 아니라,
+ 극도로 __독이 될__ 수 있습니다! 그들로부터 팀을 방어하는 법을 배우는 것이 첫 번째 과제입니다. 그러나 궁극적인 목표는 그들의 이빨을 뽑고 당신의 문화로 끌어들이는 것입니다. 팀을 확장하는 훌륭한 방법이니까요.
 
 
  [[image_no_caption-id006]]
  image::images/dbtm_01in05.png[]
 
- Most teams work within a larger company, and this environment can
- often be just as much of an impediment as poisonous people. Learning
- how to navigate these organizational obstacles can be the difference
- between launching a product and getting that very same product
- canceled.
-+
-+대부분의 팀은 더 큰 회사 안에서 일하며, 이 환경도 종종 독한 사람들만큼이나 장애물이 됩니다. 이러한 조직적 장애물을 헤쳐 나가는 법을 배우는 것은 제품을 출시하느냐, 아니면 바로 그 제품이 취소되느냐를 가르는 차이가 됩니다.
+ 대부분의 팀은 더 큰 회사 안에서 일하며, 이 환경도 종종 독한 사람들만큼이나 장애물이 됩니다. 이러한 조직적 장애물을 헤쳐 나가는 법을 배우는 것은 제품을 출시하느냐, 아니면 바로 그 제품이 취소되느냐를 가르는 차이가 됩니다.
 
- Finally, we consider the users of your software. Sometimes we forget
- they exist, but they are the lifeblood of your project. Without users,
- your software has no purpose. The same HRT principles that thrive in your team can and
- should be applied to the way you interact with your users, and the
- benefits reaped are pass:[<span class="keep-together">tremendous</span>].
-+
-+마지막으로, 소프트웨어의 사용자들을 생각해 봅니다. 우리는 때때로 그들의 존재를 잊어버리지만, 그들은 프로젝트의 생명줄입니다. 사용자가 없으면 소프트웨어에는 목적이 없습니다. 팀 안에서 번성하는 HRT 원칙은 사용자와 상호작용하는 방식에도 적용될 수 있고, 적용되어야 하며, 그로 인한 이득은 pass:[<span class="keep-together">엄청납니다</span>].
+
+ 마지막으로, 소프트웨어의 사용자들을 생각해 봅니다. 우리는 때때로 그들의 존재를 잊어버리지만, 그들은 프로젝트의 생명줄입니다. 사용자가 없으면 소프트웨어에는 목적이 없습니다. 팀 안에서 번성하는 HRT 원칙은 사용자와 상호작용하는 방식에도 적용될 수 있고, 적용되어야 하며, 그로 인한 이득은 pass:[<span class="keep-together">엄청납니다</span>].
 
 [[hrt_in_practice]]
 === HRT in Practice
 
-((("HRT (humility, respect, trust)","in practice", id="ixch01asciidoc14", range="startofrange")))All of this preaching about humility, respect, and trust sounds like
-sermon material. Let's come out of the clouds and think about
-how to apply these ideas in real-life situations. We're looking
-for practical suggestions and so we're going to examine a list
-of specific behaviors and examples you can start with. Many of them
-may sound obvious at first, but once you start thinking about them
-you'll notice how often you (and your peers) are guilty of
-__not__ following them.
+((("HRT (humility, respect, trust)","in practice", id="ixch01asciidoc14", range="startofrange")))
+겸손, 존중, 신뢰에 대한 이 모든 설교는 마치 강단에서 하는 이야기처럼 들릴 수 있습니다. 이제 구름 위에서 내려와, 이러한 아이디어들을 현실의 상황에서 어떻게 적용할지 생각해 봅시다. 우리는 실용적인 제안을 찾고 있으니, 지금 당장 시작할 수 있는 구체적인 행동과 사례 목록을 살펴보려 합니다. 처음에는 당연해 보일 수 있지만, 막상 곰곰이 생각해 보면 당신(그리고 동료들)이 이를 따르지 않는 경우가 얼마나 잦은지 곧 깨닫게 될 것입니다.
 
 [role="pagebreak-before"]
 [[lose_the_ego]]
 ==== Lose the Ego
 
-((("ego","losing")))((("humility","in practice")))OK, this is sort of a simpler way of telling someone without enough
-__humility__ to lose his &#x2019;tude. Nobody wants to work with someone who
-consistently behaves like he's the most important person in the
-room. Even if you know you're the wisest person in the
-discussion, don't wave it in people's faces. For example,
-do you always feel like you need to have the first or last word on
-every subject? Do you feel the need to comment on every detail in a
-proposal or discussion? Or do you know somebody who does these
-things?
+((("ego","losing")))((("humility","in practice")))
+좋아요, 이는 겸손이 부족한 사람에게 태도를 좀 내려놓으라고 전하는 더 단순한 방식입니다. 방에서 자신이 가장 중요한 사람인 양 꾸준히 행동하는 이와 함께 일하고 싶은 사람은 없습니다. 당신이 토론에서 가장 현명한 사람이라는 걸 안다 해도, 그 사실을 굳이 남들 앞에서 휘두르지 마세요. 예를 들어, 모든 주제에서 항상 첫 번째 혹은 마지막 발언을 해야 직성이 풀리나요? 제안서나 토론의 모든 세부에 꼭 한마디씩 해야 하나요? 아니면 그런 사람을 알고 있나요?
 
-Note that "being humble" is __not__ the same as saying one should be
-an utter doormat: there's nothing wrong with self-confidence. Just
-don't come off like a know-it-all. Even better, think about going for
-a "collective" ego instead; rather than worrying about whether you're
-personally awesome, try to build a sense of team accomplishment and
-group pride. For example, the Apache Software Foundation has a long
-history of creating communities around software projects; these
-communities have incredibly strong identities and reject people who
-are more concerned about self-promotion.
+"겸손하라"는 말이 마룻장처럼 남들에게 밟히라는 뜻은 __아닙니다__. 자신감은 문제 없습니다. 다만 모든 것을 다 아는 듯한 태도로 보이지 않게 하세요. 더 나아가 개인의 자아 대신 "집단의 자아"를 지향해 보세요. 내가 얼마나 대단한지에 집착하기보다 팀의 성취감과 집단의 자부심을 세우는 데 힘쓰라는 뜻입니다. 예컨대 Apache Software Foundation은 소프트웨어 프로젝트를 중심으로 커뮤니티를 만들어 온 긴 역사가 있고, 이런 커뮤니티는 매우 강한 정체성을 가지며 자기 홍보에 더 관심이 큰 사람들을 거부합니다.
 
-Ego manifests itself in many ways, and a lot of the time it can get
-in the way of your productivity and slow you down. Here's
-another great story from Hamming's lecture that illustrates this
-point perfectly:
+자아는 여러 방식으로 드러나며, 종종 당신의 생산성을 방해하고 속도를 늦춥니다. 이 점을 완벽하게 보여 주는 해밍의 강연에서 또 하나의 훌륭한 이야기가 있습니다:
 
 
 [quote]
 ____
 
-((("Tukey, John")))John Tukey almost always dressed very casually. He would go
-into an important office and it would take a long time before the
-other fellow realized that this is a first-class man and he had better
-listen. For a long time John has had to overcome this kind of
-hostility. It's wasted effort! I didn't say you should
-conform; I said, "The appearance of conforming gets you a long
-way." If you chose to assert your ego in any number of ways, "I
-am going to do it my way," you pay a small steady price
-throughout the whole of your professional career. And this, over a
-whole lifetime, adds up to an enormous amount of needless trouble. […]
-By realizing you have to use the system and studying how to get
-the system to do your work, you learn how to adapt the system to your
-desires. Or you can fight it steadily, as a small, undeclared war, for
-the whole of your life.
+존 투키는 거의 항상 매우 캐주얼한 복장을 했습니다. 그는 중요한 사무실에 들어가면 상대가 그가 일급의 인물이라는 사실을 깨닫고 귀를 기울이기까지 오랜 시간이 걸리곤 했습니다.
+오랫동안 존은 이런 종류의 적대감을 이겨내야 했습니다. 그건 낭비예요! 내가 말한 건 순응하라는 것이 아니라, "순응하는 듯한 모습이 당신을 멀리 데려다 준다"는 겁니다.
+"난 내 방식대로 할 거야"라며 어떤 방식으로든 자아를 주장하기로 선택하면, 직업 생애 전체에 걸쳐 작은 비용을 꾸준히 지불하게 됩니다. 그리고 그 비용은 평생에 걸쳐 쌓여 불필요한 엄청난 골칫거리가 됩니다. [...] 시스템을 사용해야 한다는 사실을 인정하고, 시스템이 당신의 일을 하도록 만드는 방법을 연구하면, 당신의 바람에 맞게 시스템을 적응시키는 법을 배우게 됩니다. 아니면 평생을 작은, 선언되지 않은 전쟁처럼 그것과 싸우며 보낼 수도 있습니다.
 ____
+
 
 
 [role="pagebreak-before"]
 [[learn_to_both_deal_out_and_handle_critic]]
 ==== Learn to Both Deal Out and Handle Criticism
 
-((("criticism","offering and handling", id="ixch01asciidoc15", range="startofrange")))((("respect","when offering criticism", id="ixch01asciidoc16", range="startofrange")))Joe started a new job as a programmer. After his first week he really
-started digging into the code base. Because he cared about what was
-going on, he started gently questioning other teammates about their
-contributions. He sent simple code reviews by email, politely asking
-about design assumptions or pointing out places where logic could be
-improved. After a couple of weeks he was summoned to his
-director's office. "What's the problem?" Joe
-asked. "Did I do something wrong?" The director looked
-concerned: "We've had a lot of complaints about your
-behavior, Joe. Apparently you've been really harsh toward your
-teammates, criticizing them left and right. They're upset. You
-need to tone it down." Joe was utterly baffled. In a strong
-culture based on HRT, Joe's code reviews should have been welcomed and
-appreciated by his peers. In this case, however, Joe should have been
-more sensitive to the team's widespread insecurity and should
-have used subtler means to introduce code reviews into the
-culture.
+((("criticism","offering and handling", id="ixch01asciidoc15", range="startofrange")))((("respect","when offering criticism", id="ixch01asciidoc16", range="startofrange")))Joe라는 프로그래머는 새 직장을 시작했다. 첫 주가 지나자 그는 코드베이스를 본격적으로 파고들기 시작했고, 무슨 일이 일어나는지 신경 쓴 나머지 팀 동료들에게 그들의 기여에 관해 정중히 질문을 던졌다. 그는 설계 가정은 무엇인지, 또는 논리를 어디서 개선할 수 있는지 정중히 묻는 간단한 코드 리뷰를 이메일로 보냈다. 몇 주 뒤, 그는 이사에게 호출을 받았다. "무슨 문제죠? 제가 뭘 잘못했나요?" 이사는 걱정스러운 표정으로 말했다. "요즘 너의 태도에 대한 불만이 많아. 여기저기 사람들을 너무 거칠게 비판하고 있대. 모두 마음이 상했어. 톤을 낮추도록 해." Joe는 완전히 당황했다. HRT에 기반한 강한 문화라면 그의 코드 리뷰는 동료들에게 환영받고 감사받았어야 했다. 하지만 이 경우 Joe는 팀 전반의 불안감을 더 민감하게 살피고, 코드 리뷰를 문화에 들여오되 더 섬세한 방식으로 진행했어야 했다.
 
-((("constructive criticism")))Criticism is almost never
-personal in a professional software engineering environment—it's
-usually just part of the process of making a better product. The trick
-is to make sure you (and those around you) understand the difference
-between constructive criticism of
-someone's creative output and flat-out assaults against
-someone's character. The latter is useless—it's petty and
-nearly impossible to act on. The former is always helpful and gives
-guidance on how to improve. And most importantly, it's imbued
-with __respect__: the person giving the constructive criticism genuinely cares about the
-other person and wants her to improve herself or her work. Learn to
-respect your peers and give constructive criticism politely. If you
-truly respect someone, you'll be motivated to choose tactful,
-helpful phrasing—a skill acquired with much
-practice.
+((("constructive criticism")))전문적인 소프트웨어 엔지니어링 환경에서 비판은 거의 개인적인 것이 아닙니다—보통 더 나은 제품을 만들기 위한 과정의 일부일 뿐입니다. 요령은 당신(과 주변 사람들)이 누군가의 창작물에 대한 건설적 비판과 노골적인 인신공격을 구분하도록 하는 것입니다. 후자는 쓸모없고—사소하며—실행하기도 거의 불가능합니다. 전자는 항상 도움이 되며 개선 방법에 대한 안내를 줍니다. 그리고 무엇보다도 그것은 __존중__으로 가득합니다: 건설적인 비판을 하는 사람은 상대를 진심으로 아끼고, 그 자신이나 그의 작업이 나아지기를 바랍니다. 동료를 존중하고 공손하게 건설적 비판을 하세요. 누군가를 진정으로 존중한다면, 배려 있고 도움이 되는 표현을 선택하려는 동기가 생길 것입니다—이는 많은 연습을 통해 얻게 되는 기술입니다.
 
-On the other side of the conversation, you need to learn to accept
-criticism as well. This means not just being __humble__ about your
-skills, but __trusting__ that the other person has your best interests
-(and those of your project!) at heart and doesn't actually think
-you're an idiot. Programming is a skill like anything else. It
-improves with practice. If a peer pointed out ways in which you could
-improve your juggling, would you take it as an attack on your
-character and value as a human being? ((("self-worth")))We hope not. In the same way,
-__your self-worth shouldn't be connected to the code you write—or
-any creative project you build__. To repeat ourselves: you are not
-your code. Say that over and over. __You are not what you make__. You
-need to not only believe it yourself, but get your coworkers to
-believe it too.
-
+대화의 반대편에서는, 비판을 받아들이는 법도 배워야 합니다. 이는 단지 자신의 실력에 대해 __겸손__해지는 것만이 아니라, 상대가 당신과 당신의 프로젝트(들!)의 최선의 이익을 생각하고 있으며 실제로 당신을 바보라고 생각하는 것이 아님을 __신뢰__하는 것을 의미합니다. 프로그래밍은 다른 모든 것과 마찬가지로 하나의 기술입니다. 연습으로 향상됩니다. 동료가 저글링을 더 잘하는 방법을 지적해 준다면, 그것을 당신의 인성과 인간으로서의 가치에 대한 공격으로 받아들이겠습니까? 우리는 그렇지 않기를 바랍니다. 마찬가지로, __당신의 자존감은 당신이 쓰는 코드—혹은 당신이 만드는 어떤 창작물—과 연결되어 있어서는 안 됩니다__. 거듭 말하지만: 당신은 당신의 코드가 아닙니다. 계속 되뇌이세요. __당신은 당신이 만드는 것 그 자체가 아닙니다__. 당신 스스로 믿을 뿐 아니라, 동료들도 그렇게 믿도록 만들어야 합니다.
 
 [[image_no_caption-id007]]
 image::images/dbtm_01in06.png[]
 
-For example, if you have an insecure collaborator, here's what __not__
-to say: "Man, you totally got the control flow wrong on that method
-there. You should be using the standard xyzzy code pattern like
-everyone else." This feedback is full of antipatterns: you're telling
-someone he's "wrong" (as if the world were black and white!),
-demanding he change something, and accusing him of creating something
-that goes against what everyone else is doing (making him feel
-stupid). The response is going to be overly emotional, coming from
-someone put on the defense.
+A: 예를 들어, 불안감이 큰 협업자가 있다면 이렇게 말하지 마세요: "이 메서드의 제어 흐름 완전히 틀렸네. 모두가 쓰는 표준 xyzzy 코드 패턴을 써야지." 이런 피드백에는 안티패턴이 가득합니다. 상대를 "틀렸다"고 단정하고, 무언가를 바꾸라고 요구하며, 모두가 하는 방식과 다르다고 몰아세워 상대를 바보처럼 느끼게 만듭니다. 방어적으로 된 사람에게서 돌아올 반응은 과도하게 감정적일 것입니다.
 
-A better way to say the same thing might be, "Hey, I'm
-confused by the control flow in this section here. I wonder if the
-xyzzy code pattern might make this clearer and easier to
-maintain?" Notice how you're using humility to make the
-question about you, not him. He's not wrong; you're just
-having trouble understanding the code. The suggestion is merely
-offered up as a way to clarify things for poor little you, and
-possibly helping the project's long-term sustainability
-goals. You're also not demanding anything—you're giving
-your collaborator the ability to peacefully reject the suggestion. The
-discussion stays in the realm of the code itself and isn't about
-anyone's value or coding skills.(((range="endofrange", startref="ixch01asciidoc16")))(((range="endofrange", startref="ixch01asciidoc15")))
+같은 내용을 더 낫게 말하는 방법은 이렇습니다. "여기 이 부분의 제어 흐름이 좀 헷갈리네요. xyzzy 코드 패턴을 쓰면 더 명확하고 유지보수하기 쉬워지지 않을까요?" 겸손을 활용해 질문의 초점을 상대가 아니라 나에게 둡니다. 그가 틀린 게 아니라, 내가 코드를 이해하기 어려운 것입니다. 이 제안은 그저 사안을 명확히 하려는 방법일 뿐이며, 프로젝트의 장기적인 지속 가능성에도 도움이 될 수 있습니다. 또한 아무것도 요구하지 않습니다—협업자가 제안을 평화롭게 거절할 여지를 줍니다. 논의는 코드 그 자체의 영역에 머무르고, 누구의 가치나 코딩 실력에 관한 이야기가 아닙니다.(((range="endofrange", startref="ixch01asciidoc16")))(((range="endofrange", startref="ixch01asciidoc15")))
 
 [[fail_fast_learn_iterate]]
 ==== Fail Fast and Iterate
 
-((("failure","proper handling of", id="ixch01asciidoc17", range="startofrange")))((("humility","and failure", id="ixch01asciidoc18", range="startofrange")))There's a well-known (and clichéd) urban legend in the business
-world about a manager who makes a mistake and loses an impressive $10
-million. He pass:[<span class="keep-together">dejectedly</span>] goes into the office the next day and starts
-packing up his desk, and when he gets the inevitable "the CEO
-wants to see you in his office" call, he trudges into the
-CEO's office and quietly slides a piece of paper across the desk
-to the CEO.
-
-"What's this?" asks the CEO.
-
-"My resignation," says the exec. "I assume you called me in here to
-fire me."
-
-&#x201c;__Fire__ you?&#x201d; responds the CEO,
-incredulously. "Why would I fire you? I just spent $10 million
-__training__ you!"footnote:[A dozen variants of
-this legend can be found on the Web, attributed to different famous
-managers.]
-
-It's an extreme story, to be sure, but the CEO in this story
-understands that firing the exec wouldn't undo the $10 million
-loss, and it would compound it by losing a valuable executive who you
-can be damned sure won't make that kind of mistake again.
-
-At Google, one of our favorite
-mottoes is "Failure is an option." It's widely
-recognized that if you're not failing now and then, you're not being
-innovative enough or taking enough risks. Failure is viewed as a
-golden opportunity to learn and improve for the next go-around. In
-fact, Thomas Edison is often quoted as saying,
-"If I find 10,000 ways something won't work, I haven't failed. I am
-not discouraged, because every wrong attempt discarded is another step
-forward."
-
-Over in Google X—the division ((("Google Glass")))((("Google X")))((("moonshots")))that works on "moonshots" like
-Google Glass and self-driving cars—failure is deliberately built
-into their incentive system.  People come up with crazy ideas and
-coworkers are actively encouraged to shoot them down as fast as
-possible.  Individuals are rewarded (and even compete!) to see how
-many ideas they can disprove or invalidate in a fixed period of time.
-When a concept is truly unable to be debunked at a whiteboard by all
-peers, only __then__ does it proceed to early prototype.
-
-((("learning","from mistakes")))((("mistakes, learning from")))((("postmortems")))The key to learning
-from your mistakes is to document your failures. Write up
-"postmortems," as they're often
-called in our business. Take extra care to make sure the postmortem
-document isn't just a useless list of apologies or
-excuses—that's not its purpose. A proper postmortem should
-always contain an explanation of __what was learned__ and __what is
-going to change__ as a result of the learning experience. Then make
-sure you put it in an easy-to-find place and really follow through on
-the proposed changes. Remember that properly documenting failures also
-makes it easier for other people (present and future) to know what
-happened and avoid repeating history. Don't erase your
-tracks—light them up like a runway for those who follow you!
-
-A good postmortem should include the following:
+((("failure","proper handling of", id="ixch01asciidoc17", range="startofrange")))((("humility","and failure", id="ixch01asciidoc18", range="startofrange")))
+사업 세계에는 잘 알려진(그리고 다소 진부한) 도시 전설이 있습니다. 한 관리자가 실수를 저질러 무려 1,000만 달러의 손실을 냈다는 이야기입니다.
+그는 다음 날 풀이 죽어 출근해 책상을 정리하기 시작하고, 예고된 전화—"CEO께서 지금 당장 보자십니다"—를 받자, CEO 사무실로 걸어가 조용히 종이 한 장을 책상 너머로 밀어줍니다.
 
 
-* A brief summary
+CEO는 묻습니다. "이게 뭐지?"
 
+임원이 답합니다. "사직서입니다. 절 해고하려고 부르신 줄 았습니다."
 
-* A timeline of the event, from discovery through investigation to
-  resolution
+CEO가 믿기지 않는다는 듯 말합니다. "당신을 __해고__하라고? 왜 내가 당신을 해고하겠소? 방금 1,000만 달러를 들여 당신을 __훈련__시켰는데!"footnote:[이 전설에는 여러 버전이 있으며, 웹에서 다양한 유명 경영자에게 귀속된 형태로 찾을 수 있습니다.]
 
+다소 극단적인 이야기지만, 이 이야기의 CEO는 임원을 해고한다고 해서 1,000만 달러의 손실이 사라지지 않는다는 점을 이해하고 있습니다. 오히려 다시는 그런 실수를 저지르지 않을 귀중한 임원까지 잃어 손실을 키우게 될 뿐이죠.
 
-* The primary cause of the event
+구글에서 우리가 좋아하는 모토 중 하나는 "실패해도 된다(Failure is an option)"입니다. 때때로 실패하지 않는다면,
+충분히 혁신적이지 않거나 충분한 위험을 감수하지 않고 있다는 뜻으로 널리 받아들여집니다. 실패는 다음 시도를 위한 학습과 개선의 황금 같은 기회로 여겨집니다.
+실제로 토머스 에디슨은 종종 이렇게 인용됩니다. "어떤 것이 작동하지 않는 1만 가지 방법을 찾아냈다면, 나는 실패한 것이 아니다. 나는 낙담하지 않는다. 버려진 잘못된 시도 하나하나가 앞으로 나아가는 또 한 걸음이기 때문이다."
 
+구글 X—Google Glass, 자율주행차 같은 '문샷'을 다루는 부서—에서는 실패가 의도적으로 인센티브 체계에 포함되어 있습니다.
+사람들은 기상천외한 아이디어를 내고, 동료들은 가능한 한 빨리 그 아이디어를 반박하도록 적극 장려됩니다.
+개인들은 정해진 기간 동안 얼마나 많은 아이디어를 반증하거나 무효화할 수 있는지로 보상을 받기도 하고 심지어 경쟁하기도 합니다.
+모든 동료가 화이트보드에서 정말 반박할 수 없을 때에만, __그때서야__ 초기 프로토타입 단계로 진행합니다.
 
-* Impact and damage assessment
+실수에서 배우는 핵심은 실패를 문서화하는 것입니다. 우리 업계에서는 이를 종종 "사후 분석(postmortem)"이라 부릅니다.
+사후 분석 문서가 단지 쓸모없는 사과나 변명의 목록이 되지 않도록 특별히 주의하세요—그것이 목적이 아닙니다.
+제대로 된 사후 분석에는 __무엇을 배웠는지__와 그 학습의 결과로 __무엇이 바뀔 것인지__가 반드시 포함되어야 합니다.
+그리고 찾기 쉬운 곳에 보관하고, 제안된 변경 사항을 실제로 끝까지 실행하세요. 실패를 올바르게 문서화하면, 다른 사람들이(현재와 미래의 사람들 모두) 무슨 일이 일어났는지 알고 역사를 반복하지 않도록 도울 수 있습니다.
+당신의 흔적을 지우지 마세요—뒤따르는 사람들을 위해 활주로처럼 환하게 밝혀 두세요!
 
+좋은 사후 분석은 다음을 포함해야 합니다:
 
-* A set of action items to fix the problem immediately
+* 간단한 요약
 
+* 사건의 타임라인(발견부터 조사, 해결까지)
 
-* A set of action items to prevent the event from happening
-  again
+* 사건의 1차 원인
 
+* 영향 및 피해 평가
 
-* Lessons learned(((range="endofrange", startref="ixch01asciidoc18")))(((range="endofrange", startref="ixch01asciidoc17")))
+* 문제를 즉시 해결하기 위한 실행 항목들
+
+* 같은 사건이 다시 발생하지 않도록 예방하는 실행 항목들
+
+* 교훈(배운 점)
 
 [[leave_time_for_learning]]
 ==== Leave Time for Learning
 
-((("humility","and learning")))((("learning","leaving time for")))Cindy was a superstar—a software engineer who had truly mastered her
-specialized area. She was promoted to technical lead, saw her responsibilities increase, and rose to the challenge. Before long,
-she was mentoring everyone around her and teaching them the ropes. She
-was speaking at conferences on her subject and pretty soon ended up in
-charge of multiple teams. She absolutely loved being the
-"expert" all the time. And yet, she started to get
-bored. Somewhere along the way she stopped learning new things. The novelty of being the
-wisest, most experienced expert in the room started to wear
-thin. Despite all of the outward signs of mastery and success,
-something was missing. One day she got to work and realized that her
-chosen field simply wasn't so relevant anymore; people had moved
-on to other topics of interest. Where did she go wrong?
+((("humility","and learning")))((("learning","leaving time for")))
+신디는 슈퍼스타였다—자신의 전문 분야를 진정으로 정복한 소프트웨어 엔지니어였다. 기술 리드로 승진했고 책임이 늘어났으며 그 도전을 훌륭히 받아들였다. 얼마 지나지 않아 주변 모두를 멘토링하며 요령을 가르쳤다. 자신의 주제로 컨퍼런스에서 발표했고 곧 여러 팀을 맡게 되었다. 그녀는 항상 '전문가'로 대접받는 것을 정말 사랑했다. 그런데도 점점 지루해지기 시작했다. 어느 순간부터 새로운 것을 배우지 않게 된 것이다. 방에서 가장 현명하고 경험 많은 전문가로 지내는 신선함은 서서히 바래기 시작했다. 겉으로 보이는 숙련과 성공의 모든 징후에도 불구하고, 뭔가 빠져 있었다. 그러던 어느 날, 출근해서 보니 자신이 선택한 분야가 더는 그다지 관련성이 없다는 것을 깨달았다. 사람들은 이미 다른 주제로 관심을 옮겨가 있었다. 어디서 잘못된 걸까?
 
-신디는 슈퍼스타였다—자신의 전문 분야를 진정으로 정복한 소프트웨어 엔지니어였다. 기술 리드로 승진했고 책임이 늘어났으며 그 도전을 훌륭히 받아들였다. 얼마 지나지 않아 주변 모두를 멘토링하며 요령을 가르쳤다. 자신의 주제로 컨퍼런스에서 발표했고 곧 여러 팀을 맡게 되었다. 그녀는 항상 ‘전문가’로 대접받는 것을 정말 사랑했다. 그런데도 점점 지루해지기 시작했다. 어느 순간부터 새로운 것을 배우지 않게 된 것이다. 방에서 가장 현명하고 경험 많은 전문가로 지내는 신선함은 서서히 바래기 시작했다. 겉으로 보이는 숙련과 성공의 모든 징후에도 불구하고, 뭔가 빠져 있었다. 그러던 어느 날, 출근해서 보니 자신이 선택한 분야가 더는 그다지 관련성이 없다는 것을 깨달았다. 사람들은 이미 다른 주제로 관심을 옮겨가 있었다. 어디서 잘못된 걸까?
-
-Let's face it: it is __fun__ to be the most knowledgeable person
-in the room, and mentoring others can be incredibly rewarding. The
-problem is that once you reach a local maximum on your team, you stop
-learning. And when you stop learning, you get
-bored. Or accidentally become obsolete. It's really easy to get
-addicted to being a leading player; but only by giving up some ego
-will you ever change directions and get exposed to new things. Again,
-it's about increasing __humility__ and being willing to learn as
-much as teach. Put yourself outside your comfort zone now and then;
-find a fishbowl with bigger fish than you and rise to whatever
-challenges they hand out to you. You'll be much happier in the
-long run.
-
-솔직히 말하면, 방 안에서 가장 많이 아는 사람이 되는 건 정말 __재미있고__, 다른 사람을 멘토링하는 일은 엄청 보람 있다. 문제는 팀에서 ‘국지적 최대치’에 도달하면 학습이 멈춘다는 것이다. 그리고 배우지 않으면 지루해진다. 아니면 어느새 구식이 되어 버린다. 선두 주자가 되는 데 중독되기 쉽지만, 약간의 자아를 내려놓아야만 방향을 바꾸고 새로운 것들에 노출될 수 있다. 다시 말해, 더 많이 가르치는 만큼 배우려는 __겸손__을 키우는 일이다. 때때로 컴포트 존 밖으로 자신을 밀어내라; 당신보다 큰 물고기가 있는 어항을 찾아 그들이 내미는 도전에 올라타라. 장기적으로 훨씬 더 행복해질 것이다.
+솔직히 말하면, 방 안에서 가장 많이 아는 사람이 되는 건 정말 __재미있고__, 다른 사람을 멘토링하는 일은 엄청 보람 있다.
+문제는 팀에서 '국지적 최대치'에 도달하면 학습이 멈춘다는 것이다. 그리고 배우지 않으면 지루해진다.
+아니면 어느새 구식이 되어 버린다. 선두 주자가 되는 데 중독되기 쉽지만,
+약간의 자아를 내려놓아야만 방향을 바꾸고 새로운 것들에 노출될 수 있다.
+다시 말해, 더 많이 가르치는 만큼 배우려는 __겸손__을 키우는 일이다. 때때로 컴포트 존 밖으로 자신을 밀어내라;
+당신보다 큰 물고기가 있는 어항을 찾아 그들이 내미는 도전에 올라타라. 장기적으로 훨씬 더 행복해질 것이다.
 
 [[learn_patience]]
 ==== Learn Patience
 
-((("humility","and patience")))((("patience","importance of")))Years ago, Fitz was writing a tool to convert CVS repositories to
-Subversion (and later, Git), and, due to the vagaries of CVS, he kept
-unearthing bizarre bugs.  Since his longtime friend and coworker Karl
-knew CVS quite intimately, he and Karl decided they should work
-together to fix these bugs.
+((("humility","and patience")))((("patience","importance of")))
+수년 전, Fitz는 CVS 저장소를 Subversion(나중에는 Git)으로 변환하는 도구를 만들고 있었고,
+CVS의 변덕스러움 때문에 기괴한 버그들을 계속 파헤쳐냈다. 오랜 친구이자 동료인 Karl이 CVS에 매우 정통했기에,
+둘은 함께 이 버그들을 고치기로 했다.
 
-수년 전, Fitz는 CVS 저장소를 Subversion(나중에는 Git)으로 변환하는 도구를 만들고 있었고, CVS의 변덕스러움 때문에 기괴한 버그들을 계속 파헤쳐냈다. 오랜 친구이자 동료인 Karl이 CVS에 매우 정통했기에, 둘은 함께 이 버그들을 고치기로 했다.
-
-A problem arose when they started pair programming together: Fitz was
-a bottom-up engineer who was content to dive into the muck and dig his
-way out by trying a lot of things quickly and skimming over the
-details. Karl, however, was a top-down engineer who wanted to get the
-full lay of the land and dive into the implementation of almost every
-method on the call stack before proceeding to tackle the bug. This
-resulted in some epic interpersonal conflicts, disagreements, and the
-occasional heated argument.  It got to the point where the two of them
-simply couldn't pair-program together: it was too frustrating for both.
-
-함께 페어 프로그래밍을 시작하자 문제가 생겼다. Fitz는 바닥부터 올라가는 엔지니어로 진흙탕에 뛰어들어 빠르게 많은 시도를 하며 세부를 훑고 지나가는 편이었고, Karl은 위에서 아래로 내려가는 엔지니어로 전체 지형을 파악하고 호출 스택의 거의 모든 메서드 구현을 들여다본 뒤 버그를 건드리길 원했다. 그 결과 거대한 갈등과 논쟁, 때로는 격한 언쟁이 벌어졌다. 결국 둘은 함께 페어 프로그래밍을 할 수 없을 지경에 이르렀다. 둘 모두에게 너무 좌절스러웠던 것이다.
-
-That said, the two of them had a longstanding history of trust and
-respect for each other.  Combined with patience, this helped them work out a new
-method of collaborating.  They would sit together at the computer,
-identify the bug, and split up and attack the problem from two
-directions at once (top-down and bottom-up), then come back together
-and meet in the middle with their findings.  Their patience and
-willingness to improvise new working styles not only saved the
-project, but also saved the friendship.
+함께 페어 프로그래밍을 시작하자 문제가 생겼다.
+Fitz는 바닥부터 올라가는 엔지니어로 진흙탕에 뛰어들어 빠르게 많은 시도를 하며 세부를 훑고 지나가는 편이었고,
+Karl은 위에서 아래로 내려가는 엔지니어로 전체 지형을 파악하고 호출 스택의 거의 모든 메서드 구현을 들여다본 뒤 버그를 건드리길 원했다.
+그 결과 거대한 갈등과 논쟁, 때로는 격한 언쟁이 벌어졌다. 결국 둘은 함께 페어 프로그래밍을 할 수 없을 지경에 이르렀다.
+둘 모두에게 너무 좌절스러웠던 것이다.
 
 그렇다 해도 둘은 오래된 신뢰와 존중의 역사가 있었다. 여기에 인내가 더해져 새로운 협업 방식을 찾아냈다. 함께 컴퓨터 앞에 앉아 버그를 확인한 뒤, 둘이 갈라져 동시에 두 방향(탑다운과 보텀업)에서 문제를 공략하고, 각자의 결과를 들고 가운데에서 다시 만났다. 그들의 인내와 새로운 작업 방식을 기꺼이 시도하려는 태도는 프로젝트뿐 아니라 우정까지 지켜냈다.
 
@@ -835,73 +375,37 @@ project, but also saved the friendship.
 [[be_open_to_influence]]
 ==== Be Open to Influence
 
-((("humility","and openness to influence", id="ixch01asciidoc19", range="startofrange")))((("influence, openness to", id="ixch01asciidoc20", range="startofrange")))The more you are open to influence, the more you
-are able to
-influence; the more vulnerable you are, the stronger you appear. These
-statements sound like bizarre contradictions. But everyone can think
-of someone they've worked with who is just maddeningly
-stubborn. No matter how much people try to persuade him, he digs his
-heels in even more. What eventually happens to such team members? In
-our experience, they end up just getting "routed around"
-like an obstacle everyone takes for granted. People stop listening to
-their opinions or objections. You certainly don't want that
-happening to you, so keep this idea in your head: it's OK for
-someone else to change your mind. Choose your battles
-carefully. Remember that in order to be heard properly, you first need
-to listen to others. In the case of being influenced, this listening
-should take place before you've put a stake in the ground or
-firmly declared that you've decided on something—if you're
-constantly changing your mind, people will think you're
-wishy-washy.
+((("humility","and openness to influence", id="ixch01asciidoc19", range="startofrange")))((("influence, openness to", id="ixch01asciidoc20", range="startofrange")))
+당신이 영향에 열려 있을수록, 오히려 더 큰 영향을 미칠 수 있습니다. 더 취약해질수록, 당신은 더 강해 보입니다.
+얼핏 모순처럼 들리지만, 누구나 함께 일했던 사람들 중 고집이 너무 세서 미치게 만드는 누군가를 떠올릴 수 있을 겁니다.
+사람들이 아무리 설득하려 해도 그는 더 깊이 발을 굽니다. 이런 팀원에게 결국 무슨 일이 벌어질까요? 우리의 경험상, 모두가 그냥 존재하는 장애물로 여기며 우회해 버립니다.
+사람들은 그의 의견이나 이의를 듣지 않게 됩니다. 당신이 그런 처지가 되지 않으려면, 이런 생각을 항상 기억하세요: 다른 사람이 당신의 생각을 바꾸도록 해도 괜찮습니다.
+싸움을 현명하게 고르세요. 제대로 들리려면 먼저 다른 사람을 들어야 합니다. 영향받는 경우라면, 땅에 말뚝을 박거나 이미 결정을 굳혔다고 선언하기 전에 이 경청이 일어나야 합니다—계속 마음이 바뀐다면, 사람들은 당신을 우유부단하다고 생각할 것입니다.
 
-On the subject of vulnerability, this seems a bit strange at first
-too. If someone admitted she was ignorant of the topic at hand or
-didn't know how to solve a problem, what sort of credibility
-would she have in a group? Vulnerability is a show of weakness, and
-that destroys trust, right?
-
-((("status, humility and")))Not true. Admitting you've made a mistake or you're simply
-out of your league is a way to __increase__ your status over the long
-run. In fact, it encompasses all of HRT: it's an outward show of
-__humility__, it's about accountability and taking
-responsibility, it's a signal that you __trust__ others'
-opinions, and in return, people end up __respecting__ your honesty and
-strength. Sometimes the best thing you can do is just say, "I
-don't know."
+취약함에 관해서라면, 처음에는 조금 이상하게 느껴질 수 있습니다. 누군가가 지금 주제에 무지하다고 인정하거나 문제를 어떻게 풀어야 할지 모르겠다고 말한다면,
+그 사람이 집단 안에서 어떤 신뢰를 얻을 수 있을까요? 취약함은 약함의 표시이고 신뢰를 파괴한다고요? 그렇지 않습니다.
+실수를 인정하거나 그냥 자신의 역량 밖이라고 인정하는 일은 장기적으로 당신의 지위를 __오히려 높이는__ 방법입니다.
+사실 이것은 HRT 전체를 포괄합니다. 겉으로 드러나는 __겸손__의 표현이며, 책무성과 책임을 지는 태도이고, 다른 이들의 의견을 __신뢰__한다는 신호입니다.
+그 대가로 사람들은 당신의 정직함과 강인함을 __존중__하게 됩니다. 때로 당신이 할 수 있는 최선은 "모르겠습니다"라고 말하는 것뿐입니다.
 
 
 [[image_no_caption-id008]]
 image::images/dbtm_01in07.png[]
 
-Consider professional politicians; they're notorious for never
-admitting error or ignorance, even when it's patently obvious
-that they're wrong or unknowledgeable about a subject. And for
-that reason most people don't believe a word that politicians
-say. This behavior exists primarily because politicians are constantly
-under attack by their opponents.(((range="endofrange", startref="ixch01asciidoc20")))(((range="endofrange", startref="ixch01asciidoc19"))) When you're writing software,
-however, it's unnecessary to live in a constant state of
-defense—your teammates are collaborators, not
-competitors.(((range="endofrange", startref="ixch01asciidoc14")))
-
-전문 정치인을 생각해 보세요. 그들은 틀렸거나 주제에 대해 지식이 없다는 것이 명백할 때조차 결코 오류나 무지를 인정하지 않는 것으로 악명이 높습니다. 그래서 대부분의 사람들은 정치인이 말하는 한 마디도 믿지 않습니다. 이런 행동은 주로 정치인들이 상대의 끊임없는 공격을 받기 때문에 존재합니다. 그러나 소프트웨어를 작성할 때는, 항상 방어 태세로 살 필요가 없습니다. 당신의 팀원들은 경쟁자가 아니라 협력자입니다.
+전문 정치인을 생각해 보세요. 그들은 틀렸거나 주제에 대해 지식이 없다는 것이 명백할 때조차
+결코 오류나 무지를 인정하지 않는 것으로 악명이 높습니다. 그래서 대부분의 사람들은 정치인이 말하는 한 마디도 믿지 않습니다.
+이런 행동은 주로 정치인들이 상대의 끊임없는 공격을 받기 때문에 존재합니다.
+그러나 소프트웨어를 작성할 때는, 항상 방어 태세로 살 필요가 없습니다.
+당신의 팀원들은 경쟁자가 아니라 협력자입니다.
 
 [[next_steps]]
 === Next Steps
 
-If you've made it this far, you're well on your way to
-mastering the art of "playing well with others."
-You've got to start with examining and meditating on your own
-behaviors. Once you've incorporated these strategies into your
-daily life, you'll find that collaboration will become much more
-natural and your engineering productivity will begin to noticeably
-increase.
+여기까지 읽었다면, 당신은 "다른 사람들과 잘 지내는 법"의 기술을 익히는 길에 잘 올라선 것입니다.
+시작은 당신 자신의 행동을 검토하고 곱씹는 것으로부터 해야 합니다.
+이러한 전략을 일상에 녹여 내면, 협업이 훨씬 더 자연스러워지고, 엔지니어링 생산성이 눈에 띄게 증가하기 시작할 것입니다.
 
-여기까지 읽었다면, 당신은 "다른 사람들과 잘 지내는 법"의 기술을 익히는 길에 잘 올라선 것입니다. 시작은 당신 자신의 행동을 검토하고 곱씹는 것으로부터 해야 합니다. 이러한 전략을 일상에 녹여 내면, 협업이 훨씬 더 자연스러워지고, 엔지니어링 생산성이 눈에 띄게 증가하기 시작할 것입니다.
-
-The important changes begin with you and then spread outward to
-others. In the next chapter, we're going to talk about how to
-create a culture of HRT within your immediate team.
-
-중요한 변화는 당신에게서 시작해 바깥으로 퍼져 나갑니다. 다음 장에서는 당신의 즉각적인 팀 안에 HRT 문화를 만드는 방법에 대해 이야기하겠습니다.
+중요한 변화는 당신에게서 시작해 바깥으로 퍼져 나갑니다.
+다음 장에서는 당신의 즉각적인 팀 안에 HRT 문화를 만드는 방법에 대해 이야기하겠습니다.
 
 

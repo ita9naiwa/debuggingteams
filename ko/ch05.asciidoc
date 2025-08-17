@@ -12,7 +12,7 @@ call this politics; others call it social engineering.
 
 지금까지는 당신과 팀의 '사람' 측면을 다루는 법을 이야기했습니다. 팀을 이끄는 데 필요한 기본적인 대인 기술과, 독이 되는 사람들의 위협을 다룰 때의 위험 요소도 검토했습니다.
 이와 더불어, 좋은 회사와 나쁜 회사 모두에서 어떻게 길을 찾을지도 알아야 합니다.
-대부분의 사람은 기능장애적 관료제 속에서 일하며, 일을 효과적으로 끝내기 위해 일정한 ‘기술적 조작' 기법을 사용해야 합니다.
+대부분의 사람은 기능장애적 관료제 속에서 일하며, 일을 효과적으로 끝내기 위해 일정한 '기술적 조작' 기법을 사용해야 합니다.
 어떤 이는 이것을 정치라 부르고, 또 어떤 이는 사회공학이라 부릅니다.
 
 우리는 이를 조직적 조율(organizational manipulation)이라 부릅니다.
@@ -564,8 +564,8 @@ lives a lot more pleasant.
 경영진은 그것을 알아차리고 받아들이거나 반대 행동을 취하도록 강요받을 것입니다(그리고 그것은 그들에게, 맞습니다, 짐작하셨겠지만, 정치적 자본을 소비시킵니다!).
 이는 많은 엔지니어들이 수년간 사용한 전략으로, 예를 들어 자신들의 삶을 훨씬 더 즐겁게 만들기 위해 오픈 소스 도구들을 일상 워크플로우에 몰래 도입하는 데 사용했습니다.
 
-[[note-6]]
-.Persuasion by proxy
+[[note-6-ko]]
+.대리를 통한 설득
 [NOTE]
 ====
 
@@ -579,7 +579,7 @@ and not just from you.
 
 ====
 
-[[note-6]]
+[[note-6-ko]]
 .대리를 통한 설득
 [NOTE]
 ====
@@ -927,51 +927,29 @@ Fitz는 (Apple에서 일하던 당시) 14년도 더 전에 어머니께 불량 i
 
 [role="pagebreak-before"]
 ----
-Date: Thu, 1 Feb 2001
 
-To: sjobs@apple.com
+날짜: 2001년 2월 1일 (목)
 
-Subject: Terrible customer experience with our hardware—what can I do?
+받는이: sjobs@apple.com
 
-I would deeply appreciate if you could advise me on what I can do to
-address this problem. This is embarrassing—both for Apple and for
-myself.
+제목: 우리 하드웨어로 인한 끔찍한 고객 경험—제가 무엇을 할 수 있을까요?
 
-I purchased an iMac for my mother last Mother's Day—she is the
-Vice-Principal of a Montessori school in New Orleans and uses an old
-Macintosh at school. She was very excited to get the iMac, and has
-even gotten funds for her school to buy iMacs for their lab.
+이 문제를 해결하기 위해 제가 무엇을 할 수 있는지 조언해 주신다면 정말 감사하겠습니다. 이는 Apple과 저 모두에게 매우 곤란한 일입니다.
 
-However, the strawberry iMac I bought for her has turned out to be a
-total lemon.
+지난 어머니날에 어머니께 iMac을 사 드렸습니다—어머니는 뉴올리언스의 한 몬테소리 학교 교감으로, 학교에서는 오래된 Macintosh를 사용하고 계십니다. 어머니는 iMac을 무척 기뻐하셨고, 학교 실습실용 iMac을 더 사기 위한 예산까지 확보하셨습니다.
 
-- In July, it went to sleep and never woke up. She brought it to an
-  Authorized Apple Dealer and they diagnosed the problem as a failed
-  logic board and replaced it.
+하지만 제가 사 드린 딸기색 iMac은 완전한 불량품으로 드러났습니다.
 
-- She brought it home, plugged it in, it started to boot, then she got
-  a sad mac and the tones of death. She brought it back to the
-  dealer. They diagnosed the problem as a faulty analog board and
-  replaced it.
+- 7월: 절전 모드로 들어간 뒤 전혀 깨어나지 않았습니다. 공인 Apple 대리점에 맡겼고, 불량 로직 보드로 진단되어 교체했습니다.
+- 집에 가져와 전원을 연결하니 부팅이 시작되다가 슬픈 맥 아이콘과 사망음을 보았습니다. 다시 대리점에 맡겼고, 불량 아날로그 보드로 진단되어 교체했습니다.
+- 9월: (종료/부팅 대신) 절전 기능을 다시 사용해 보았지만 전혀 깨어나지 않았습니다. 완전히 전원을 뽑았다가 다시 연결해야 겨우 부팅되었습니다. 이때부터 절전 기능을 완전히 끄었습니다.
+- 12월: 모니터 색이 노랑, 초록, 파랑으로 깜빡이기 시작했습니다. 어제 다시 대리점에 맡겼고, 지금도 그곳에 있습니다.
 
-- In September, I finally convinced her to use the sleep function
-  again (in lieu of shutdown/boot). The iMac wouldn't wake
-  up. Completely unplugging the computer and plugging it back in
-  eventually got it to boot again. We have disabled sleep altogether
-  at this point.
+현재 상황이 이렇습니다. 어머니는 제가 못된 장난을 친 줄 아시고, 아는 모든 분께 자신의 iMac이 고물이라고 말씀하고 계십니다. 그리고 제가 아는 Apple 직원 누구도 이 문제를 어떻게 해야 할지 모릅니다.
 
-- In December, the monitor started flickering colors from yellow to
-  green to blue. She brought it back to the dealer yesterday, and
-  that's where it is now.
+다른 하나를 새로 사는 것 말고, 어머니께 정상 작동하는 iMac을 드릴 수 있는 방법이 있을까요?
 
-So that's where I am today. My mother thinks I've pulled some sort of
-sick prank on her, is telling everyone she knows that her iMac is
-junk, and no one I know that works at Apple knows what to do about it.
-
-Is there anything that I can do to get her a working iMac (short of
-purchasing another one)?
-
-Respectfully,
+존경을 담아,
 
 -Fitz
 ----

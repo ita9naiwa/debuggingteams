@@ -86,9 +86,9 @@ treat their employees well or improve conditions for them. Whether
 humane or not, this method worked well for many years when the
 employees had nothing more to do than perform rote tasks.
 
-오늘날 우리가 떠올리는 ‘뾰족 머리 매니저’의 개념은 군대식 위계에서 비롯되어 (("Industrial Revolution"))산업혁명 시기에 채택된 유산입니다.footnote:[유럽에서는 18세기, 미국에서는 19세기에 시작되었습니다.] 공장이 곳곳에 생겨나고, 컨베이어 벨트를 돌리기 위해 (대개 비숙련) 노동자가 필요했습니다.
+오늘날 우리가 떠올리는 '뾰족 머리 매니저'의 개념은 군대식 위계에서 비롯되어 (("Industrial Revolution"))산업혁명 시기에 채택된 유산입니다.footnote:[유럽에서는 18세기, 미국에서는 19세기에 시작되었습니다.] 공장이 곳곳에 생겨나고, 컨베이어 벨트를 돌리기 위해 (대개 비숙련) 노동자가 필요했습니다.
 그들을 관리할 감독자도 필요했지요. 일자리에 절박한 다른 사람으로 노동자를 쉽게 대체할 수 있었기에, 매니저가 직원을 잘 대하거나 환경을 개선하려는 동기는 낮았습니다.
-인간적이든 아니든, 직원들이 기계적으로 반복 작업만 하던 시대에는 이 방식이 오랫동안 그럭저럭 ‘작동’했습니다.
+인간적이든 아니든, 직원들이 기계적으로 반복 작업만 하던 시대에는 이 방식이 오랫동안 그럭저럭 '작동'했습니다.
 
 Managers frequently treated employees in the same way that cart
 drivers would treat their mules: they motivated them by alternately
