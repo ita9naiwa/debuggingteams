@@ -516,6 +516,8 @@ interview 40 or 50 people, and pick the best 5 __regardless of
 whether they meet the hiring bar__. This is one of the fastest ways to
 build a mediocre team.
 
+스티브 잡스는 한때((("Jobs, Steve"))) 이렇게 말했습니다: "__A__ 등급 사람들은 다른 __A__ 등급 사람들을 채용하고, __B__ 등급 사람들은 __C__ 등급 사람들을 채용한다." 이 격언의 희생자가 되기는 매우 쉽고, 빠르게 채용하려고 할 때는 더욱 그렇습니다. 우리가 흔히 보는 접근법은 팀이 5명의 엔지니어를 채용해야 한다고 해서, 지원서 더미를 훑어보고 40-50명을 면접한 다음, __채용 기준을 충족하는지 여부와 상관없이__ 최고의 5명을 뽑는 것입니다. 이는 평범한 팀을 만드는 가장 빠른 방법 중 하나입니다.
+
 The cost of finding the right person—whether by paying recruiters,
 paying advertising, or pounding the pavement for references—pales in
 comparison to the cost of dealing with an employee you never should
@@ -531,8 +533,11 @@ substandard engineers, maybe it's time to look for another
 job. Without the raw materials for a great team, you're
 doomed.
 
+올바른 사람을 찾는 비용—리크루터에게 돈을 주든, 광고비를 내든, 또는 추천을 위해 길을 뛰든—은 처음부터 채용하지 말았어야 할 직원을 다루는 비용에 비하면 아무것도 아닙니다. 이 "비용"은 팀 생산성 손실, 팀 스트레스, 직원을 관리하거나 내보내는 데 드는 시간, 그리고 직원을 해고하는 데 관련된 서류 작업과 스트레스로 나타납니다. 물론 그 직원을 팀에 그대로 두는 엄청난 비용을 피하려고 노력한다고 가정할 때의 이야기입니다. 만약 당신이 채용에 대한 발언권이 없는 팀을 관리하고 있고 팀을 위해 채용되는 사람들에 불만족스럽다면, 더 높은 품질의 엔지니어를 위해 치열하게 싸워야 합니다. 여전히 수준 이하의 엔지니어들만 받게 된다면, 아마 다른 직장을 찾아볼 때일 것입니다. 훌륭한 팀을 위한 원료가 없다면, 당신은 망할 것입니다.
+
 [[antipattern_treat_your_team_like_childre]]
 ==== Antipattern: Treat Your Team Like Children
+==== 안티패턴: 팀을 아이들처럼 대하라
 
 ((("antipatterns, leadership","treating team like children")))((("children, treating team like")))((("disrespect")))((("micromanagement")))((("trust","and micromanagement")))The best way to show your team you don't trust them is to treat them
 like kids—people tend to act the way you treat them, so if you treat
@@ -548,6 +553,8 @@ you trust them, they'll usually rise to the occasion (sticking with
 the basic premise, as we mentioned earlier, that you've hired good
 people).
 
+팀에게 당신이 그들을 신뢰하지 않는다는 것을 보여주는 가장 좋은 방법은 그들을 아이처럼 대하는 것입니다. 사람들은 당신이 그들을 대하는 방식대로 행동하는 경향이 있으므로, 만약 당신이 그들을 아이나 죄수처럼 대한다면, 그들이 그렇게 행동할 때 놀라지 마세요. 당신은 그들을 세세하게 관리하거나 단순히 그들의 능력을 존중하지 않고 그들의 일에 책임질 기회를 주지 않음으로써 이런 행동을 나타낼 수 있습니다. 만약 신뢰하지 않기 때문에 사람들을 세세하게 관리하는 것이 영구적으로 필요하다면, 당신은 채용 실패를 손에 쥐고 있는 것입니다. 물론, 당신의 목표가 평생 돌봐야 할 팀을 만드는 것이 아니라면 실패입니다. 만약 당신이 신뢰할 만한 사람들을 채용하고 이 사람들에게 그들을 신뢰한다는 것을 보여준다면, 그들은 보통 기회에 부응할 것입니다(앞서 언급한 기본 전제, 즉 당신이 좋은 사람들을 채용했다는 것에 충실하여).
+
 Fitz runs a conference in Chicago that used to be at a site rented
 from a local institution. The first time Fitz went to get access to
 the venue for the conference, the facilities manager gave Fitz a brief
@@ -558,6 +565,8 @@ and dont's," and no extensive supervision for the event, and as a
 result Fitz and his team felt responsible for taking take care of the
 facility as though it were their own, going above and beyond the
 expectations of keeping the place clean and organized.
+
+피츠는 시카고에서 지역 기관에서 빌린 장소에서 열리던 컨퍼런스를 운영합니다. 피츠가 컨퍼런스를 위해 장소에 접근하려고 처음 갔을 때, 시설 관리자는 피츠가 모든 것이 어디에 있는지 알 수 있도록 장소를 간단히 둘러보게 했습니다. 그런 다음 관리자는 건물 열쇠를 그에게 건네주고 다음 주에 열쇠를 돌려받겠다고 말했습니다. "해야 할 일과 하지 말아야 할 일" 목록도 없었고, 행사에 대한 광범위한 감독도 없었으며, 결과적으로 피츠와 그의 팀은 마치 자신들의 것처럼 시설을 돌보는 책임감을 느꼈고, 장소를 깨끗하고 정리된 상태로 유지한다는 기대를 뛰어넘었습니다.
 
 The results of this level of trust go all the way from keys to a
 building to office and computer supplies. As another example, Google
@@ -575,6 +584,8 @@ surely Google is hemorrhaging money due to people "stealing" these
 items. That's certainly possible, but what about the costs of having a
 workforce that behaves like children? Surely that's more
 expensive than the price of a few pens and USB cables.(((range="endofrange", startref="ixch03asciidoc5")))(((range="endofrange", startref="ixch03asciidoc4")))
+
+이 수준의 신뢰의 결과는 건물 열쇠에서 사무실과 컴퓨터 용품까지 모든 곳에 나타납니다. 또 다른 예로, 구글은 직원들에게 다양한 사무용품(예: 펜, 노트북, 그리고 다른 "레거시" 창작 도구들)이 가득한 캐비닛을 제공하며, 직원들이 필요에 따라 자유롭게 가져갈 수 있습니다. IT 부서는 미니 전자상가와 같은 셀프 서비스 영역인 여러 "테크 스톱"을 운영합니다. 이곳에는 컴퓨터 액세서리와 잡동사니들(예: 전원 공급 장치, 케이블, 마우스, USB 드라이브 등)이 많이 있는데, 그냥 집어서 가져가기 쉽지만, 구글 직원들이 이 물품들을 체크아웃하도록 신뢰받고 있기 때문에, 올바른 일을 해야 한다는 책임감을 느낍니다. 전형적인 기업의 많은 사람들은 이런 말을 듣고 공포에 반응하며, 확실히 구글은 사람들이 이 물품들을 "훔쳐가서" 돈을 잃고 있을 것이라고 외칩니다. 그럴 수도 있지만, 아이처럼 행동하는 직원을 두는 비용은 어떨까요? 확실히 그것이 펜 몇 개와 USB 케이블 몇 개의 가격보다 더 비쌀 것입니다.(((range="endofrange", startref="ixch03asciidoc5")))(((range="endofrange", startref="ixch03asciidoc4")))
 
 [[leadership_patterns]]
 === Leadership Patterns
