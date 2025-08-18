@@ -9,7 +9,7 @@ happens.footnote:[Even if you're an individual
 contributor and not anywhere near a leadership position, this chapter
 will help you better understand your manager.]
 
-당신이 평생 “매니저”가 되지 않겠다고 맹세했더라도, 커리어의 어느 순간엔가 우연히 리더십 역할을 맡게 될 것입니다. 이 장은 그런 일이 일어났을 때 무엇을 해야 하는지 이해하도록 도와줍니다.footnote:[당신이 개인 기여자이고 리더십 자리와 거리가 멀더라도, 이 장은 당신의 매니저를 더 잘 이해하는 데 도움이 됩니다.]
+당신이 절대 “관리자”가 되지 않겠다고 맹세했더라도, 커리어의 어느 순간엔가 우연히 리더십 역할을 맡게 될 것입니다. 이 장은 그런 일이 일어났을 때 무엇을 해야 하는지 이해하도록 도와줍니다.footnote:[당신이 개인 기여자이고 리더십 자리와 거리가 멀더라도, 이 장은 당신의 관리자를 더 잘 이해하는 데 도움이 됩니다.]
 
 There are dozens of books already written for managers on the topic of
 management, but this chapter is for individual contributors who find
@@ -22,10 +22,7 @@ managers, and why the best leaders work to serve their team using the
 principles of humility, respect, and trust. Beyond that, we'll delve
 into leadership patterns and antipatterns, and motivation.
 
-매니저를 위한 관리 서적은 이미 셀 수 없이 많지만, 이 장은 비공식적인 리더십 자리에 서게 된 개인 기여자를 위한 것입니다.
-대부분의 사람들은 여러 이유로 매니저가 되는 것을 두려워하지만, 리더 없이 작동하는 팀은 없습니다.
-우리는 당신을 매니저로 설득하려는 것이 아니라(비록 우리 둘은 지금 매니저이지만!), 팀에 리더가 필요한 이유, 사람들이 보통 매니저가 되기를 두려워하는 이유, 그리고 최고의 리더가 왜 겸손·존중·신뢰의 원칙으로 팀을 ‘섬기는’지 보여 주려 합니다.
-더 나아가 효과적인 리더십의 패턴과 안티패턴, 동기부여를 살펴보겠습니다.
+관리자를 위한 관리 서적은 이미 셀 수 없이 많지만, 이 장은 비공식적인 리더십 자리에 서게 된 개인 기여자를 위한 것입니다. 대부분의 사람들은 여러 이유로 관리자가 되는 것을 두려워하지만, 리더 없이 작동하는 팀은 없습니다. 우리는 당신을 관리자가 되라는 것으로 설득하려는 것이 아니라(비록 우리 둘은 지금 관리자이지만!), 팀에 리더가 필요한 이유, 사람들이 보통 관리자가 되기를 두려워하는 이유, 그리고 최고의 리더가 왜 겸손·존중·신뢰의 원칙으로 팀을 ‘섬기는’지 보여 주려 합니다. 더 나아가 효과적인 리더십의 패턴과 안티패턴, 동기부여를 살펴보겠습니다.
 
 Understanding the ins and outs of leadership is a vital skill for
 influencing the direction of your work. If you want to steer the boat
@@ -33,11 +30,11 @@ for your project and not just go along for the ride, you need to know
 how to navigate or you'll run yourself (and your project) onto a
 sandbar.
 
-리더십의 요령을 이해하는 것은 당신의 일의 방향에 영향력을 행사하는 데 필수적인 기술입니다.
-프로젝트의 배를 그저 따라타는 것이 아니라 직접 키를 잡고 싶다면, 항해법을 알아야 좌초(당신도, 프로젝트도)하지 않습니다.
+리더십의 요령을 이해하는 것은 당신의 일의 방향에 영향력을 행사하는 데 필수적인 기술입니다. 프로젝트의 배를 그저 따라타는 것이 아니라 직접 키를 잡고 싶다면, 항해법을 알아야 (당신과 프로젝트가) 좌초하지 않습니다.
 
 [[nature_abhors_a_vacuum]]
 === Nature Abhors a Vacuum
+=== 자연은 공허를 싫어한다
 
 ((("leaders","need for")))A boat without a captain is nothing more than a floating waiting
 room—unless someone grabs the rudder and starts the engine, it's just
@@ -45,10 +42,7 @@ going to drift along pass:[<span class="keep-together">aimlessly</span>] with th
 like that boat: if no one pilots it, you're left with a group of geeks
 just sitting around waiting for something to pass:[<span class="keep-together">happen</span>].
 
-선장이 없는 배는 떠다니는 대합실에 불과합니다.
-누군가 키를 잡고 시동을 걸지 않으면, 물살에 휩쓸려 무작정 표류할 뿐입니다.
-프로젝트도 마찬가지입니다.
-조종하는 사람이 없으면, 무엇인가가 __저절로__ 일어나길 기다리는 괴짜들의 무리만 남게 됩니다.
+선장이 없는 배는 떠다니는 대합실에 불과합니다. 누군가 키를 잡고 시동을 걸지 않으면, 물살에 휩쓸려 pass:[<span class="keep-together">aimlessly</span>] 표류할 뿐입니다. 프로젝트도 배와 같습니다. 조종하는 사람이 없으면, 무엇인가가 pass:[<span class="keep-together">일어나길</span>] 기다리는 괴짜들의 무리만 남게 됩니다.
 
 
 [[image_no_caption-id015]]
@@ -63,14 +57,12 @@ often by accident. You never intended to become a "leader," but
 somehow it happened anyway. Some people refer to this affliction as
 "manageritis."
 
-공식 임명 여부와 상관없이, 프로젝트가 어디로든 가려면 __누군가__ 운전석에 앉아야 합니다.
-동기부여가 강하고 성격이 급한 타입이라면, 그 누군가는 아마 당신일 겁니다.
-갈등 해결, 의사결정, 사람 조율로 팀을 돕는 일에 빨려 들어가게 될 수 있습니다.
-이런 일은 흔하고, 종종 우연히 일어납니다. ‘리더’가 될 생각은 없었지만, 어느새 그렇게 되었던 경험이 있죠.
-어떤 사람들은 이를 “매니저병(manageritis)”이라 부릅니다.
+공식 임명 여부와 상관없이, 프로젝트가 어디로든  진행되려면 __누군가__ 운전석에 앉아야 합니다.
+동기부여가 강하고 성격이 급한 타입이라면, 그 누군가는 아마 당신일 겁니다. 갈등 해결, 의사결정, 사람들을 조율해 팀을 돕는 일에 빨려 들어가게 될 수 있습니다. 이런 일은 흔하고, 종종 우연히 일어납니다. ‘리더’가 될 생각은 없었지만, 어느새 그렇게 되었던 경험이 있죠. 어떤 사람들은 이를 “관리자병(manageritis)”이라 부릅니다.
 
 [[deprecated_manager]]
 === Manager Is a Four-Letter Word
+=== 관리자는 네 글자 욕설
 
 ((("leaders","and managers", id="ixch03asciidoc1", range="startofrange")))((("managers","and leaders", id="ixch03asciidoc2", range="startofrange")))The present-day ((("managers","origins of")))concept of the pointy-haired manager is partially a
 carryover, first from military hierarchy and later adopted by the
@@ -86,9 +78,7 @@ treat their employees well or improve conditions for them. Whether
 humane or not, this method worked well for many years when the
 employees had nothing more to do than perform rote tasks.
 
-오늘날 우리가 떠올리는 '뾰족 머리 매니저'의 개념은 군대식 위계에서 비롯되어 (("Industrial Revolution"))산업혁명 시기에 채택된 유산입니다.footnote:[유럽에서는 18세기, 미국에서는 19세기에 시작되었습니다.] 공장이 곳곳에 생겨나고, 컨베이어 벨트를 돌리기 위해 (대개 비숙련) 노동자가 필요했습니다.
-그들을 관리할 감독자도 필요했지요. 일자리에 절박한 다른 사람으로 노동자를 쉽게 대체할 수 있었기에, 매니저가 직원을 잘 대하거나 환경을 개선하려는 동기는 낮았습니다.
-인간적이든 아니든, 직원들이 기계적으로 반복 작업만 하던 시대에는 이 방식이 오랫동안 그럭저럭 '작동'했습니다.
+오늘날 우리가 떠올리는 '뾰족 머리 관리자'의 개념은 군대식 위계에서 비롯되어 (("Industrial Revolution"))산업혁명footnote:[유럽에서는 18세기, 미국에서는 19세기에 시작되었습니다.] 시기에 채택된 유산입니다. 공장이 곳곳에 생겨나고, 컨베이어 벨트를 돌리기 위해 (대개 비숙련) 노동자가 필요했습니다. 그들을 관리할 감독자도 필요했지요. 일자리에 절박한 다른 사람으로 노동자를 쉽게 대체할 수 있었기에, 관리자가 직원을 잘 대하거나 환경을 개선하려는 동기는 낮았습니다. 인간적이든 아니든, 직원들이 기계적으로 반복 작업만 하던 시대에는 이 방식이 오랫동안 그럭저럭 효과적이었습니다.
 
 Managers frequently treated employees in the same way that cart
 drivers would treat their mules: they motivated them by alternately
@@ -102,9 +92,7 @@ of the hard-ass manager-as-mule-driver flourished in the middle part
 of the 20^th^ century when employees would work at the same job for
 years and years (frequently relying on their pension as well).
 
-매니저는 때로 노새몰이꾼처럼 직원을 대했습니다.
-당근으로 앞에서 이끌다가, 듣지 않으면 채찍을 휘두르는 방식입니다.
-이른바 ‘당근과 채찍’ 관리는 공장에서 현대 오피스로 옮겨가도 살아남았습니다.footnote:[공장 노동자의 동작을 최적화하려는 과학적 관리(테일러리즘)와, 그로 인한 사기 저하에 대한 더 흥미로운 이야기는 관련 자료를 찾아보세요.] 특히 직원이 같은 일을 수년간 하던 20세기 중반, ‘노새를 모는 독한 매니저’의 전형이 번성했습니다.
+관리자는 때로 노새몰이꾼처럼 직원을 대했습니다. 당근으로 앞에서 이끌다가, 듣지 않으면 채찍을 휘두르는 방식이었습니다. 이른바 ‘당근과 채찍’ 관리는 공장footnote:[공장 노동자의 동작을 최적화하려는 과학적 관리(테일러리즘)와, 그로 인한 사기 저하에 대한 더 흥미로운 이야기는 관련 자료를 찾아보세요.]에서 현대적인 직장으로 옮겨가도 살아남았습니다. 특히 직원이 같은 일을 수년간 하던 20세기 중반, ‘노새를 모는 독한 관리자’의 전형이 널리 퍼졌습니다.
 
 This continues today in some industries—even in industries that
 require creative thinking and problem solving—despite numerous studies
@@ -116,12 +104,11 @@ replaced at will, knowledge workers can take __months__ to get up to
 speed on a new team. Unlike the replaceable assembly-line worker,
 these people need nurturing, time, and space to think and __create__.
 
-수많은 연구가 시대에 뒤떨어진 당근과 채찍이 비효율적이며footnote:[link:$$http://www.ted.com/talks/dan_pink_on_motivation.html$$[]] 창의적 인재의 생산성에 해롭다고 경고함에도, 오늘날에도 일부 산업에서는 이 방식이 이어집니다.
-과거 컨베이어 벨트 노동자는 며칠 교육으로 대체가 가능했지만, 지식 노동자는 새 팀에서 __수개월__이 지나야 제 속도가 나옵니다.
-쉽게 대체 가능한 노동자와 달리, 이들에게는 사려·사고·__창조__를 위한 돌봄과 시간, 공간이 필요합니다.
+수많은 연구가 시대에 뒤떨어진 당근과 채찍이 비효율적이며footnote:[link:$$http://www.ted.com/talks/dan_pink_on_motivation.html$$[]] 창의적 인재의 생산성에 해롭다고 경고함에도, 오늘날에도 일부 산업에서는 이 방식이 이어집니다. 과거 컨베이어 벨트 노동자는 며칠간의 교육으로 대체가 가능했지만, 지식 노동자는 새 팀에서 __수개월__이 지나야 제 속도가 나옵니다. 쉽게 대체 가능한 노동자와 달리, 이들에게는 사려·사고·__창조__를 위한 돌봄, 시간 그리고 공간이 필요합니다.
 
 [[leader_is_the_new_manager]]
 ==== "Leader" Is the New "Manager"
+==== “리더”는 새로운 “관리자”
 
 ((("leaders","as new manager", id="ixch03asciidoc3", range="startofrange")))Most people still use the title "manager" despite the fact that it's
 often an anachronism. We think the term __manager__ should be
@@ -141,11 +128,7 @@ out for their safety and well-being, all while making sure their needs
 are met. If there's one thing you remember from this chapter, make it
 this:
 
-많은 이들이 ‘매니저’라는 직함을 여전히 쓰지만, 이 말은 자주 시대착오적입니다. 우리는 __매니저__ 대신 __리더__라는 말을 써야 한다고 봅니다.
-정치적 올바름을 외치는 부류와는 거리가 있지만, ‘매니저’는 네 글자 욕처럼 느껴질 정도입니다.
-그 말의 존재 자체가 새 매니저로 하여금 __사람을 관리__하게 부추깁니다.footnote:[아이를 키워 봤다면, 당신이 엄마(혹은 아빠)의 말을 똑같이 내뱉고는 “세상에, 내가 엄마가 됐네”라고(어쩌면 소리 내어) 외치던 순간을 생생히 기억할 가능성이 큽니다.] 그러면 직원들은 아이처럼 반응합니다.
-HRT 맥락에서 말해 보죠. 매니저가 직원에 대한 신뢰를 분명히 보여 주면, 직원은 그 신뢰에 부응하려는 긍정적 압박을 느낍니다.
-정말 간단합니다. 리더는 팀의 길을 열고, 안전과 행복을 살피며, 필요가 충족되도록 합니다. 이 장에서 하나만 기억한다면, 다음 문장입니다.
+많은 이들이 ‘관리자’라는 직함을 여전히 쓰지만, 이 말은 자주 시대착오적입니다. 우리는 __관리자__ 대신 __리더__라는 말을 써야 한다고 봅니다. 정치적 올바름을 외치는 부류와는 거리가 있지만, ‘관리자’는 네 글자 욕처럼 느껴질 정도입니다. 그 말의 존재 자체가 새 관리자로 하여금 __사람을 관리__하게 부추깁니다.관리자는 부모footnote:[아이를 키워 봤다면, 당신이 엄마(혹은 아빠)의 말을 똑같이 내뱉고는 “세상에, 내가 엄마가 됐네”라고(어쩌면 소리 내어) 외치던 순간을 생생히 기억할 가능성이 큽니다.]처럼 행동하게 되고 직원들은 아이처럼 반응합니다. HRT 맥락에서 말해 보죠. 관리자가 직원에 대한 신뢰를 분명히 보여 주면, 직원은 그 신뢰에 부응하려는 긍정적 압박을 느낍니다. 정말 간단합니다. 리더는 팀의 길을 열고, 안전과 행복을 살피며, 필요가 충족되도록 합니다. 이 장에서 하나만 기억한다면, 다음과 같습니다.
 
 [quote]
 ____
@@ -153,7 +136,7 @@ Traditional  managers worry  about  how to  get  things done,  while
 leaders worry  about what things get  done…(and trust  their team to
 figure  out  how  to  do it).
 
-전통적인 매니저는 일을 __어떻게__ 하게 만들지를 걱정하고, 리더는 __무엇을__ 할지를 걱정합니다…(그리고 __어떻게__ 할지는 팀을 신뢰합니다.)
+전통적인 관리자는 일을 __어떻게__ 하게 만들지 걱정하고, 리더는 __무엇을__ 할지 걱정합니다…(그리고 __어떻게__ 할지는 팀을 신뢰합니다.)
 
 ____
 
@@ -177,11 +160,8 @@ got his work done, and Fitz never
 had to worry about Jerry being at his desk, because Jerry didn't
 __need__ a babysitter.
 
-몇 해 전 Fitz 팀에 새 엔지니어가 합류했습니다.
-제리의 이전(다른 회사) 매니저는 매일 9시부터 5시까지 자리에 앉아 있으라고 고집했고, 자리에 없으면 일을 충분히 안 한다고 가정했습니다(물론 터무니없는 가정이죠).
-Fitz와 함께하는 첫날 오후 4시 40분, 제리는 미리 잡힌 약속 때문에 15분 일찍 나가야 한다며 미안하다고 더듬거리며 말했습니다.
-Fitz는 미소 지으며 단호히 말했습니다. "일만 잘하면, 몇 시에 나가든 __상관없어요__." 제리는 잠시 멍하니 바라보다 고개를 끄덕이고 자기 일로 돌아갔습니다.
-Fitz는 제리를 성인으로 대했고, 제리는 항상 일을 마쳤으며, Fitz는 제리가 자리에 있는지 걱정할 필요가 없었습니다. 제리는 __보모__가 필요하지 않았습니다.
+몇 해 전 Fitz 팀에 새 엔지니어가 합류했습니다. 제리의 이전(다른 회사) 관리자는 매일 9시부터 5시까지 자리에 앉아 있으라고 고집했고, 자리에 없으면 일을 충분히 안 한다고 가정했습니다(물론 터무니없는 가정이죠). Fitz와 함께하는 첫날 오후 4시 40분, 제리는 미리 잡힌 약속 때문에 15분 일찍 나가야 한다며 미안하다고 더듬거리며 말했습니다.
+Fitz는 미소 지으며 단호히 말했습니다. "일만 잘하면, 몇 시에 나가든 __상관없어요__." 제리는 잠시 멍하니 바라보다 고개를 끄덕이고 자기 일로 돌아갔습니다. Fitz는 제리를 성인으로 대했고, 제리는 항상 일을 마쳤으며, Fitz는 제리가 자리에 있는지 걱정할 필요가 없었습니다. 제리는 __보모__가 필요하지 않았습니다.
 
 ((("responsibility","leadership and")))Being a "leader" doesn't necessarily mean you have ultimate
 responsibility for absolutely everything. There are different types of
@@ -197,14 +177,12 @@ careers and happiness of the people on the team. This enables those
 who want to focus on leading a project to avoid the people management
 part of being a leader if they want to.(((range="endofrange", startref="ixch03asciidoc3")))
 
-"리더"가 된다는 것이 모든 것에 대해 최종 책임을 진다는 뜻은 아닙니다.
-리더십에는 기술적인 것도 있고, 사람과 관련된 것도 있습니다.
-소프트웨어 개발 세계에서 팀을 이끄는 사람에게는 보통 두 가지 뚜렷한 역할(과 직함)이 있습니다.
-TL(Tech Lead)과 TLM(Tech Lead Manager)입니다.footnote:[여기서 __manager__는 사람에게 고함치는 존재가 아니라, 말 그대로 ‘본인에게 리포트하는 사람이 있는' 역할을 뜻합니다.] TL은 보통 제품 전체(또는 일부)의 기술적 방향을 책임지고, TLM은 제품 전체(또는 일부)의 기술적 방향에 더해 팀원의 커리어와 행복까지 책임집니다.
+"리더"가 된다는 것이 모든 것에 대해 최종 책임을 진다는 뜻은 아닙니다. 리더십에는 기술적인 것도 있고, 사람과 관련된 것도 있습니다. 소프트웨어 개발 세계에서 팀을 이끄는 사람에게는 보통 두 가지 뚜렷한 역할(과 직함)이 있습니다.
+TL(테크 리드)과 TLM(테크 리드 관리자)입니다.footnote:[여기서 __관리자__는 사람에게 고함치는 존재가 아니라, 말 그대로 ‘자신에게 리포트하는 사람이 있는' 역할을 뜻합니다.] TL은 보통 제품 전체(또는 일부)의 기술적 방향을 책임지고, TLM은 제품 전체(또는 일부)의 기술적 방향을 책임 지는 것에 더해 팀원의 커리어와 행복까지 책임집니다.
 덕분에 프로젝트 리딩에 집중하고 싶은 사람은 원한다면 사람 관리 영역을 피할 수 있습니다.(((range="endofrange", startref="ixch03asciidoc3")))
 
 [[the_only_thing_to_fear_is_hellip_well_ev]]
-==== The Only Thing to Fear Is…Well, Everything
+==== 두려워해야 할 유일한 것은…음, 모든 것
 
 ((("leaders","reasons not to become")))Aside from the general sense of malaise that most people feel when
 they hear the word __manager__, there are a number of reasons that
@@ -214,10 +192,7 @@ time writing code, which is true whether you're a technical leader or
 a people leader. We'll talk more about that later, but first, some
 more reasons why most of us avoid becoming managers.
 
-사람들이 __매니저__라는 단어에서 느끼는 막연한 불쾌감 외에도, 매니저가 되기를 꺼리는 이유는 여럿 있습니다.
-소프트웨어 세계에서 가장 큰 이유는, 코드 작성 시간이 크게 줄어든다는 점입니다.
-기술 리더든 사람 리더든 마찬가지입니다.
-이는 뒤에서 더 이야기하고, 먼저 우리가 매니저를 피하는 또 다른 이유들을 보겠습니다.
+사람들이 __관리자__라는 단어에서 느끼는 막연한 불쾌감 외에도, 관리자가 되기를 꺼리는 이유는 여럿 있습니다. 소프트웨어 세계에서 가장 큰 이유는, 코드 작성 시간이 크게 줄어든다는 점입니다. 기술 리더든 사람 리더든 마찬가지입니다. 이는 뒤에서 더 이야기하고, 먼저 우리가 관리자를 피하는 또 다른 이유들을 보겠습니다.
 
 If you've spent the majority of your career writing code, you
 typically end a day with something you can point to—whether it's code,
@@ -234,13 +209,9 @@ your team's work; however, making it possible for them to be happy and
 productive is a big measure of your job. Just don't fall into the trap
 of counting apples when you're picking bananas.
 
-커리어 대부분을 코딩에 써왔다면, 보통 하루가 끝날 때 코드를 쓰든, 디자인 문서를 만들든, 닫은 버그 더미를 남기든, “오늘 나는 이것을 했다”고 손가락으로 가리킬 무언가가 있습니다.
-이런 생산성 기준에서 보면, “관리”로 분주했던 하루 끝에는 “오늘 __아무것도__ 못 했네”라고 생각하기 쉽습니다.
-매일 딴 사과 개수만 세다가, 바나나를 따는 일로 옮긴 뒤에도 하루가 끝나 “오늘 사과를 하나도 못 땄네”라고 말하는 꼴입니다.
-옆에는 바나나 더미가 수북한데 말이죠.
-관리 업무를 수치화하는 일은 생산된 부품을 세는 것보다 __확실히__ 어렵고, 팀의 성과를 본인이 가져갈 필요도 없습니다.
-다만 팀이 행복하고 생산적으로 일할 수 있게 만드는 것이 당신 일의 큰 척도라는 점을 잊지 마세요.
-바나나를 따면서 사과 개수를 세는 함정에 빠지지 마시길.
+커리어 대부분을 코딩에 써왔다면, 보통 하루가 끝날 때 코드를 쓰든, 디자인 문서를 만들든, 닫은 버그 더미를 남기든, “오늘 나는 이것을 했다”고 손가락으로 가리킬 무언가가 있습니다. 이런 생산성 기준에서 보면, “관리”로 분주했던 하루 끝에는 “오늘 __아무것도__ 못 했네”라고 생각하기 쉽습니다. 매일 딴 사과 개수만 세다가, 바나나를 따는 일로 옮긴 뒤에도 하루가 끝나 “오늘 사과를 하나도 못 땄네”라고 말하는 꼴입니다. 옆에는 바나나 더미가 수북한데 말이죠.
+관리 업무를 수치화하는 일은 생산된 부품을 세는 것보다 __확실히__ 어렵고, 팀의 성과를 본인이 가져갈 필요도 없습니다. 다만 팀이 행복하고 생산적으로 일할 수 있게 만드는 것이 당신 일의 큰 기준이라는 점을 잊지 마세요.
+바나나를 따면서 사과 개수를 세는 함정에 빠지지 마세요.
 
 
 [[image_no_caption-id017]]
@@ -262,11 +233,9 @@ you've only been exposed to crappy managers for your entire career,
 why would you ever want to __be__ a manager? Why would you want to be
 promoted to a role that you weren't able to do?
 
-매니저가 되지 않으려는 또 하나의 큰 이유는 자주 말로는 하지 않지만, 유명한 “피터의 법칙”에 뿌리를 둡니다.
+관리자가 되지 않으려는 또 하나의 큰 이유는 자주 말로는 하지 않지만, 유명한 “피터의 법칙”에 뿌리를 둡니다.
 이 법칙은 “위계에서 모든 직원은 자신의 무능 수준까지 승진하는 경향이 있다”고 말하죠.
-대부분의 사람은 일을 못 하거나 사람 관리를 몹시 못 하는 매니저를 한 번쯤은 겪었습니다.footnote:[회사들이 커리어 경로의 일부로 사람을 억지로 관리 직군에 밀어 넣어서는 안 되는 또 하나의 이유입니다. 훌륭한 코드를 양산하는 엔지니어가 팀을 이끌거나 사람을 관리하고 싶지 않을 때, 그를 매니저나 테크 리드로 밀어 넣으면 훌륭한 엔지니어 하나를 잃고 형편없는 매니저 하나를 얻습니다.
-나쁜 생각일 뿐 아니라 적극적으로 해롭습니다.] 어떤 이들은 커리어 내내 나쁜 매니저 밑에서만 일하기도 했습니다.
-그런 경험뿐이라면, 왜 스스로 __매니저가__ 되려 하겠습니까? 왜 자신이 잘하지 못할 역할로 승진하길 바라겠습니까?
+대부분의 사람은 일을 못 하거나 사람 관리를 몹시 못 하는 관리자를 한 번쯤은 겪었고,footnote:[회사들이 커리어 경로의 일부로 사람을 억지로 관리 직군에 밀어 넣어서는 안 되는 또 하나의 이유입니다. 훌륭한 코드를 양산하는 엔지니어가 팀을 이끌거나 사람을 관리하고 싶지 않을 때, 그를 관리자나 테크 리드로 밀어 넣으면 훌륭한 엔지니어 하나를 잃고 형편없는 관리자 하나를 얻습니다. 나쁜 생각일 뿐 아니라 적극적으로 해롭습니다.] 몇몇은 커리어 내내 나쁜 관리자 밑에서만 일하기도 했습니다. 커리어 내내 형편없는 관리자만 봤다면, 왜 스스로 관리자가 __되려__ 하겠습니까? 왜 자신이 잘하지 못할 역할로 승진하길 바라겠습니까?
 
 There are great reasons to consider becoming a manager: first, it's a
 way to scale yourself. Even if you're great at writing code, there's
@@ -277,13 +246,10 @@ themselves sucked into the leadership vacuum of a project discover
 that they're exceptionally skilled at providing the kind of guidance,
 help, and air cover a team needs.(((range="endofrange", startref="ixch03asciidoc2")))(((range="endofrange", startref="ixch03asciidoc1")))
 
-매니저가 되는 것을 고려할 만한 훌륭한 이유도 있습니다.
-첫째, 자신을 ‘스케일’하는 방법입니다. 코드를 아무리 잘 써도, 혼자 쓸 수 있는 양에는 상한이 있습니다.
-당신의 리더십 아래 훌륭한 엔지니어 팀이 얼마나 많은 코드를 쓸 수 있을지 상상해 보세요!
-둘째, 당신이 정말 그 일을 잘할지도 모릅니다—프로젝트의 리더십 공백 속으로 빨려 들어간 많은 이들이, 팀이 필요로 하는 안내·지원·엄호를 제공하는 데 비범한 재능이 있음을 발견하곤 합니다.(((range="endofrange", startref="ixch03asciidoc2")))(((range="endofrange", startref="ixch03asciidoc1")))
+관리자가 되는 것을 고려할 만한 훌륭한 이유도 있습니다. 첫째, 자신을 확장하는 방법입니다. 코드를 아무리 잘 써도, 혼자 쓸 수 있는 양에는 상한이 있습니다. 당신의 리더십 아래 훌륭한 엔지니어 팀이 얼마나 많은 코드를 쓸 수 있을지 상상해 보세요! 둘째, 당신이 정말 그 일을 잘할지도 모릅니다. 프로젝트의 리더십 공백 속으로 빨려 들어간 많은 이들이, 팀이 필요로 하는 안내·지원·엄호를 제공하는 데 비범한 재능이 있음을 발견하곤 합니다.(((range="endofrange", startref="ixch03asciidoc2")))(((range="endofrange", startref="ixch03asciidoc1")))
 
 [[the_servant_leader]]
-=== The Servant Leader
+=== 서번트 리더
 
 ((("leaders","servant")))((("servant leaders")))There seems to be a sort of disease that strikes new managers where
 they forget about all the awful things __their__ managers did to them
@@ -298,13 +264,8 @@ greatest urges of the newly minted manager is to actively "manage" her
 employees because that's what a manager does, right? This typically
 has disastrous consequences.
 
-새 매니저에게는 묘한 병이 생기곤 합니다.
-과거에 __자신의__ 매니저들이 했던 끔찍한 짓을 모조리 잊고, 부하를 “관리”한다며 똑같은 짓을 반복하는 병입니다.
-증상은(이에 국한되지 않지만) 마이크로매니징, 저성과자 방치, 지시만 따르는 사람들만 채용하기 등이 있습니다.
-제때 치료하지 않으면 팀 전체가 무너집니다.
-우리가 구글에서 처음 매니저가 되었을 때 엔지니어링 디렉터 Steve((("Vinter, Steve"))) Vinter에게 들은 최고의 조언은 이랬습니다.
-“무엇보다, __관리하고 싶은 충동을__ 억누르라.” 갓 임명된 매니저가 가장 갖기 쉬운 충동은 직원을 ‘적극적으로 관리’하는 것입니다.
-매니저의 일이라고 믿기 때문이죠. 대체로 파국을 부릅니다.
+새 관리자에게는 묘한 병이 생기곤 합니다. 과거에 __자신의__ 관리자들이 했던 끔찍한 짓을 모조리 잊고, 부하를 “관리”한다며 똑같은 짓을 반복하는 병입니다. 증상은 이에 국한되지 않지만 마이크로매니징, 저성과자 방치, 지시만 따르는 사람들만 채용하기 등이 있습니다. 제때 치료하지 않으면 팀 전체가 무너집니다. 우리가 구글에서 처음 관리자가 되었을 때 엔지니어링 디렉터 Steve((("Vinter, Steve"))) Vinter에게 들은 최고의 조언은 “무엇보다, __관리하고 싶은 충동을__ 억누르라.”입니다. 갓 임명된 관리자가 가장 갖기 쉬운 충동은 직원을 ‘적극적으로 관리’하는 것입니다.
+관리자의 일이라고 믿기 때문이죠. 대체로 파국을 부릅니다.
 
 The cure for the "management" disease is a liberal application of what
 we call "servant leadership," which is a nice way of saying the most important thing a
@@ -322,16 +283,10 @@ health of the team; as tempting as it may be to focus purely on the
 technical health of the team, the social health of the team is just as
 important (but often infinitely harder to manage!).
 
-이 “관리병”의 치료법은 우리가 “서번트 리더십”이라 부르는 것을 듬뿍 바르는 것입니다.
-리더가 할 수 있는 가장 중요한 일은 집사의 마음으로 팀을 __섬기는__ 일이라는 뜻입니다.
-서번트 리더는 겸손·존중·신뢰(HRT)의 분위기를 만들려고 힘씁니다.
-팀원이 혼자 치울 수 없는 관료적 장애물을 치워 주거나, 팀의 합의를 돕거나, 야근하는 팀에 저녁을 사는 일일 수도 있습니다.
-서번트 리더는 틈새를 메우며 길을 닦고, 필요할 때 조언하되, 손을 더럽히는 일을 두려워하지 않습니다.
-서번트 리더가 ‘관리’하는 유일한 대상은 팀의 기술적 __그리고__ 사회적 건강입니다.
-기술적 건강에만 집중하고 싶은 유혹이 크지만, 사회적 건강은 똑같이(대개는 더) 중요합니다.
+이 “관리병”의 치료법은 우리가 “서번트 리더십”이라 부르는 것을 듬뿍 바르는 것입니다. 리더가 할 수 있는 가장 중요한 일은 집사의 마음으로 팀을 __섬기는__ 일이라는 뜻입니다. 서번트 리더는 겸손·존중·신뢰(HRT)의 분위기를 만들려고 힘씁니다. 팀원이 혼자 치울 수 없는 관료적 장애물을 치워 주거나, 팀의 합의를 돕거나, 야근하는 팀에 저녁을 사는 일일 수도 있습니다. 서번트 리더는 틈새를 메우며 길을 닦고, 필요할 때 조언하되, 손을 더럽히는 일을 두려워하지 않습니다. 서번트 리더가 ‘관리’하는 유일한 대상은 팀의 기술적 __그리고__ 사회적 건강입니다. 기술적 건강에만 집중하고 싶은 유혹이 크지만, 사회적 건강은 똑같이 중요합니다 (관리하기 훨씬 어려운 경우가 더 많습니다!).
 
 [[antipatterns]]
-=== Antipatterns
+=== 안티패턴
 
 ((("leaders","antipatterns for", id="ixch03asciidoc4", range="startofrange")))((("leaders","behaviors to avoid", id="ixch03asciidoc5", range="startofrange")))
 Before we go over a litany of "design patterns" for successful
@@ -342,8 +297,11 @@ handful of bad leaders we've encountered in our careers, and in more
 than a few cases, pass:[<span class="keep-together">ourselves</span>].footnote:[See the section
 on failure, in <<building_an_awesome_team_culture>>.]
 
+성공적인 리더가 되고 싶다면 따라야 할 "디자인 패턴"들을 나열하기 전에, 따라하지 __말아야__ 할 패턴들을 먼저 살펴보겠습니다. 우리는 커리어에서 만난 몇몇 나쁜 리더들과, 더러는 pass:[<span class="keep-together">우리 자신</span>]에게서 이러한 파괴적인 패턴들을 관찰했습니다.footnote:[<<building_an_awesome_team_culture>>의 실패에 관한 섹션을 참조하세요.]
+
 [[antipattern_hire_pushovers]]
 ==== Antipattern: Hire Pushovers
+==== 안티패턴: 호구 채용하기
 
 ((("antipatterns, leadership","hiring pushovers")))((("pushovers")))If you're a manager and you're feeling insecure in your role (for
 whatever reason), one way to make sure no one questions your authority
@@ -357,6 +315,8 @@ pushovers, you probably can't take a vacation; the moment you leave
 the room, productivity comes to a screeching halt. But surely this is
 a small price to pay for feeling secure in your job, right?
 
+당신이 관리자이고 역할에 대해 불안감을 느끼고 있다면(어떤 이유든), 아무도 당신의 권위에 의문을 제기하거나 직장을 위협하지 못하게 하는 한가지 방법은 당신이 밀어붙일 수 있는 사람들을 채용하는 것입니다. 당신보다 똑똑하지 않거나 야망이 없는 사람들, 아니면 당신보다 더 불안한 사람들을 채용함으로써 이를 달성할 수 있습니다. 이렇게 하면 팀 리더이자 의사결정자로서의 당신의 위치는 확고해지지만, 당신에게는 훨씬 더 많은 일이 생깁니다. 당신 팀은 목줄에 묶인 개들처럼 당신이 이끌지 않으면 움직일 수 없습니다. 만약 당신이 밀어붙일 수 있는 사람들로 팀을 구성한다면, 아마 휴가를 갈 수 없을 것입니다. 당신이 방을 떠나는 순간, 생산성은 급격히 멈춥니다. 하지만 직장에서 안전함을 느끼는 것에 비하면 이 정도는 작은 대가일 뿐이겠죠, 그렇지 않나요?
+
 Instead, you should strive to hire people who are smarter than you and
 can replace you. This can be difficult because these very same people
 will challenge you on a regular basis (in addition to letting you know
@@ -369,8 +329,11 @@ additional team, investigate new opportunities, or even take a
 vacation without worrying about checking in on the team every day to
 make sure they're getting their work done.
 
+대신, 당신보다 똑똑하고 당신을 대체할 수 있는 사람들을 채용하려고 노력해야 합니다. 이는 어려울 수 있습니다. 바로 그런 사람들이 정기적으로 당신에게 도전할 것(당신이 실수했을 때 확실한 말로 알려주는 것 외에도)이기 때문입니다. 그런 사람들은 계속해서 당신을 감동시키고 훌륭한 일들을 만들어낼 것입니다. 그들은 훨씬 더 큰 범위에서 스스로를 이끌 수 있고, 일부는 팀을 이끌고 싶어할 것입니다. 당신은 이것을 당신의 권력을 빼앗으려는 시도로 보지 말고, 오히려 추가 팀을 이끌거나 새로운 기회를 탐색하거나, 심지어 매일 팀이 일을 제대로 하고 있는지 확인하느라 신경 쓰지 않고도 휴가를 갈 수 있는 기회로 봐야 합니다.
+
 [[antipattern_ignore_low_performers]]
 ==== Antipattern: Ignore Low Performers
+==== 안티패턴: 저성과자 무시하기
 
 ((("antipatterns, leadership","ignoring low performers")))((("low performers")))Early in Fitz's career as a team leader at Google, the time came for
 him to hand out bonus letters to his team, and he grinned as he told
@@ -378,6 +341,8 @@ his manager, "I __love__ being a manager!" Without missing a beat,
 Fitz's manager, a long-time industry veteran, replied, "Sometimes you
 get to be the tooth fairy, other times you have to be the
 dentist."
+
+구글에서 팀 리더로서 Fitz의 커리어 초기에, 팀에게 보너스 편지를 나눠줄 때가 되었고, 그는 매니저에게 "매니저가 되는 게 __정말 좋아요__!"라고 말하며 활짝 웃었습니다. 오랜 업계 베테랑이었던 Fitz의 매니저는 주저하지 않고 답했습니다. "때로는 이빨 요정이 되어야 하고, 때로는 치과의사가 되어야 하지."
 
 It's never any fun to pull teeth. We've seen team leaders do all the
 right things to build incredibly strong teams, only to have these
@@ -390,8 +355,6 @@ working long enough or hard enough, but the most difficult cases are
 when someone just isn't capable of doing his job no matter how long or
 hard he works.
 
-구글에서 팀 리더로서 Fitz의 커리어 초기에, 팀에게 보너스 편지를 나눠줄 때가 되었고, 그는 매니저에게 "매니저가 되는 게 __정말 좋아요__!"라고 말하며 활짝 웃었습니다. 오랜 업계 베테랑이었던 Fitz의 매니저는 주저하지 않고 답했습니다. "때로는 이빨 요정이 되어야 하고, 때로는 치과의사가 되어야 하지."
-
 이빨을 뽑는 일은 결코 즐겁지 않습니다. 우리는 팀 리더들이 믿을 수 없을 정도로 강한 팀을 구축하기 위해 모든 올바른 일을 하는 것을 보았지만, 단지 한두 명의 저성과자 때문에 이런 팀들이 뛰어나지 못하고 (결국 무너지는) 것을 보았습니다. 인간적 측면이 소프트웨어 작성에서 가장 어려운 부분이라는 것을 이해하지만, 인간을 다루는 데 있어 가장 어려운 부분은 기대치를 충족하지 못하는 사람을 처리하는 것입니다. 때로는 사람들이 충분히 오래 또는 열심히 일하지 않아서 기대치를 놓치지만, 가장 어려운 경우는 아무리 오래 또는 열심히 일해도 자신의 일을 할 수 없는 사람입니다.
 
 ((("hope, limitations of")))The team at Google that is responsible for keeping all of their
@@ -401,12 +364,16 @@ teeth, avert their eyes, and just hope that the low performer either
 magically gets better or just goes away. Yet it is extremely rare that
 this person does either.
 
+구글에서 모든 서비스를 계속 운영하는 책임을 맡은 팀의 모토는 "희망은 전략이 아니다"입니다. 그리고 저성과자를 다루는 데 있어서만큼 희망이 전략으로 남용되는 곳은 없습니다. 대부분의 팀 리더들은 이를 악물고, 눈을 돌리고, 저성과자가 마법처럼 나아지거나 그냥 사라지기를 희망합니다. 하지만 이런 일이 일어나는 경우는 극히 드뭅니다.
+
 While the leader is hoping and the low performer isn't getting better
 (or leaving), high performers on the team waste valuable time pulling
 the low performer along and team morale leaks away into the ether. You
 can be sure that the team knows they're there even if you're ignoring
 them—the rest of the team is acutely aware of who the low performers are, because they have to carry
 them.
+
+리더가 희망을 품고 있는 동안 저성과자가 나아지지도 않고 (떠나지도 않는) 상황에서, 팀의 고성과자들은 저성과자를 끌고 가는 데 귀중한 시간을 낭비하고 팀 사기는 허공으로 새어나갑니다. 당신이 그들을 무시하고 있어도 팀은 그들이 있다는 것을 확실히 알고 있습니다. 팀의 나머지 구성원들은 저성과자가 누구인지 예리하게 알고 있습니다. 왜냐하면 그들을 떠안아야 하기 때문입니다.
 
 Ignoring
 low performers is also a way to keep new high performers from joining
@@ -416,10 +383,6 @@ because they're the only ones who __can't__ leave of their own
 volition. Lastly, you aren't even doing __the low performer__ any
 favors by keeping him on the team; often, someone who wouldn't do well
 on your team would actually have plenty of impact somewhere else.
-
-구글에서 모든 서비스를 계속 운영하는 책임을 맡은 팀의 모토는 "희망은 전략이 아니다"입니다. 그리고 저성과자를 다루는 데 있어서만큼 희망이 전략으로 남용되는 곳은 없습니다. 대부분의 팀 리더들은 이를 악물고, 눈을 돌리고, 저성과자가 마법처럼 나아지거나 그냥 사라지기를 희망합니다. 하지만 이런 일이 일어나는 경우는 극히 드뭅니다.
-
-리더가 희망을 품고 있는 동안 저성과자가 나아지지도 않고 (떠나지도 않는) 상황에서, 팀의 고성과자들은 저성과자를 끌고 가는 데 귀중한 시간을 낭비하고 팀 사기는 허공으로 새어나갑니다. 당신이 그들을 무시하고 있어도 팀은 그들이 거기 있다는 것을 확실히 알고 있습니다—팀의 나머지 구성원들은 저성과자가 누구인지 예리하게 알고 있습니다. 왜냐하면 그들을 떠안아야 하기 때문입니다.
 
 저성과자를 무시하는 것은 또한 새로운 고성과자들이 당신의 팀에 합류하는 것을 막는 방법이고, 기존 고성과자들이 떠나도록 부추기는 방법이기도 합니다. 결국 당신은 저성과자들로만 이루어진 팀을 갖게 됩니다. 왜냐하면 그들만이 스스로의 의지로 __떠날 수 없는__ 사람들이기 때문입니다. 마지막으로, 저성과자를 팀에 계속 두는 것은 __저성과자에게도__ 도움이 되지 않습니다. 종종 당신의 팀에서 잘하지 못하는 사람이 다른 곳에서는 실제로 많은 영향을 미칠 수 있습니다.
 
@@ -431,6 +394,8 @@ a higher state of productivity. If you wait too long to deal with a
 low performer, his relationship with the team is
 going to be so sour and you're going to be so frustrated that you're
 not going to be able to help him.
+
+저성과자를 가능한 한 빨리 다루는 것의 이점은 그를 끌어올리거나 __아니면__ 내보낼 수 있는 위치에 자신을 둘 수 있다는 것입니다. 저성과자를 즉시 다룬다면, 종종 그가 더 높은 생산성 상태로 들어가기 위해 단지 약간의 격려나 방향이 필요할 뿐이라는 것을 발견하게 될 것입니다. 저성과자를 다루기까지 너무 오래 기다리면, 팀과의 관계가 너무 악화되고 당신도 너무 좌절해서 그를 도울 수 없게 될 것입니다.
 
 How does one coach a low performer effectively? It turns out
 that the two of us have (unfortunately) had quite a lot of experience
@@ -452,12 +417,11 @@ cases, determination will kick in and he'll "up his game" to meet
 expectations. Either way, by working directly with the low performer
 you're catalyzing important and necessary changes.
 
-저성과자를 가능한 한 빨리 다루는 것의 이점은 그를 끌어올리거나 __아니면__ 내보낼 수 있는 위치에 자신을 둘 수 있다는 것입니다. 저성과자를 즉시 다룬다면, 종종 그가 더 높은 생산성 상태로 들어가기 위해 단지 약간의 격려나 방향이 필요할 뿐이라는 것을 발견하게 될 것입니다. 저성과자를 다루기까지 너무 오래 기다리면, 팀과의 관계가 너무 악화되고 당신도 너무 좌절해서 그를 도울 수 없게 될 것입니다.
-
-저성과자를 효과적으로 코칭하는 방법은 무엇일까요? 우리 둘은 (불행히도) 고통스러운 시행착오를 통해 이 분야에서 상당한 경험을 쌓았습니다. 가장 좋은 비유는 절뚝거리는 사람이 다시 걷고, 조깅하고, 팀의 나머지 구성원들과 함께 달릴 수 있도록 돕는다고 상상하는 것입니다. 거의 항상 일시적인 마이크로매니징이 필요하지만—여전히 많은 HRT, 특히 존중이 필요합니다. 특정 시간 프레임(예: 2-3개월)을 설정하고, 그 기간 동안 그가 달성하기를 기대하는 매우 구체적인 목표들을 설정하세요. 목표를 작고 점진적으로 만들어서 많은 작은 성공의 기회가 있도록 하세요. 진행 상황을 확인하기 위해 매주 팀원과 만나고, 성공이나 실패를 측정하기 쉽도록 다가오는 각 이정표에 대해 정말 명시적인 기대치를 설정하세요. 저성과자가 따라갈 수 없다면, 과정 초기에 __당신 둘 모두에게__ 매우 명백해질 것입니다. 이 시점에서 그 사람은 종종 일이 잘 되지 않고 있다는 것을 인정하고 그만두기로 결정할 것입니다. 다른 경우에는 결단력이 발동되어 기대치를 충족하기 위해 "게임을 업그레이드"할 것입니다. 어느 쪽이든, 저성과자와 직접 작업함으로써 당신은 중요하고 필요한 변화를 촉진하고 있는 것입니다.
+저성과자를 효과적으로 코칭하는 방법은 무엇일까요? 우리 둘은 (불행히도) 고통스러운 시행착오를 통해 이 분야에서 상당한 경험을 쌓았습니다. 가장 좋은 비유는 절뚝거리는 사람이 다시 걷고, 조깅하고, 팀의 나머지 구성원들과 함께 달릴 수 있도록 돕는다고 상상하는 것입니다. 거의 항상 일시적인 마이크로매니징이 필요하지만—여전히 많은 HRT, 특히 존중이 필요합니다. 특정 시간대(예: 2-3개월)를 설정하고, 그 기간 동안 그가 달성하기를 기대하는 매우 구체적인 목표들을 설정하세요. 목표를 작고 점진적으로 만들어서 많은 작은 성공의 기회가 있도록 하세요. 진행 상황을 확인하기 위해 매주 팀원과 만나고, 성공이나 실패를 측정하기 쉽도록 다가오는 각 이정표에 대해 정말 명시적인 기대치를 설정하세요. 저성과자가 따라갈 수 없다면, 과정 초기에 __당신 둘 모두에게__ 매우 명백해질 것입니다. 이 시점에서 그 사람은 종종 일이 잘 되지 않고 있다는 것을 인정하고 그만두기로 결정할 것입니다. 다른 경우에는 결단력이 발동되어 기대치를 충족하기 위해 "게임을 업그레이드"할 것입니다. 어느 쪽이든, 저성과자와 직접 작업함으로써 당신은 중요하고 필요한 변화를 촉진하고 있는 것입니다.
 
 [[antipattern_ignore_human_issues]]
 ==== Antipattern: Ignore Human Issues
+==== 안티패턴: 인간 문제 무시하기
 
 ((("antipatterns, leadership","ignoring human issues")))((("human issues, ignoring")))As we've said before, a team leader has two major areas of focus for
 his team: the social and the technical. It's rather common for leaders
@@ -470,6 +434,8 @@ solving technical problems. When you were a student, your
 classes were all about learning the technical ins and outs of your
 work. Now that you're a leader, however, you ignore the human element
 of your team at your own peril.
+
+앞서 말했듯이, 팀 리더는 팀에 대해 사회적 측면과 기술적 측면이란 두 가지 주요 영역에 집중해야 합니다. 리더들이 기술적 측면에서 더 강한 것은 꽤 흔한 일이고, 대부분의 리더들이 기술적 직무에서 승진했기 때문에(그들의 직무의 주요 목표가 기술적 문제를 해결하는 것이었기 때문에), 그들은 인간적 문제를 무시하는 경향이 있습니다. 팀의 기술적 측면에 모든 에너지를 집중하는 것은 유혹적 입니다. 개인 기여자로서 당신은 대부분의 시간을 기술적 문제 해결에 썼기 때문입니다. 학생이었을 때 당신의 수업은 모두 당신의 일의 기술적 요령을 배우는 것이었습니다. 하지만 이제 당신이 리더가 되었으니, 팀의 인간적 요소를 무시하는 것은 당신 자신의 위험입니다.
 
 Let's start with an example of a leader ignoring the human element in his team. Years
 ago, a close friend of Fitz's—we'll call him
@@ -490,6 +456,8 @@ people have kids __all the time__. You need to go into the office."
 Needless to say, Jake (normally a mild-mannered engineer) was enraged
 and lost a lot of respect for Pablo.
 
+팀에서 인간적 요소를 무시하는 리더의 예시부터 시작해보겠습니다. 몇 년 전, Fitz의 친한 친구—Jake라고 부르겠습니다—가 첫 아이를 가졌습니다. Jake와 Fitz는 원격으로도, 같은 사무실에서도 수년간 함께 일해왔기 때문에, 새 아기가 태어난 후 몇 주 동안 Jake는 집에서 일했습니다. 이는 Jake와 그의 아내에게 훌륭하게 작동했고, Fitz는 이미 Jake와 원격으로 일하는 데 익숙했기 때문에 전혀 문제없었습니다. 그들은 평소처럼 생산적이었습니다. 그런데 (다른 사무실에서 일하는) 그들의 매니저 Pablo가 Jake가 일주일 대부분을 집에서 일하고 있다는 것을 알게 되었습니다. Jake가 평소처럼 생산적이고 Fitz도 그 상황에 만족함에도 불구하고, Pablo는 Jake가 Fitz와 함께 일하기 위해 사무실에 나오지 않는다고 화를 냈습니다. Jake는 Pablo에게 사무실에 나와서 일하는 것만큼 생산적이고, 몇 주 동안 주로 집에서 일하는 것이 자신과 아내 모두에게 훨씬 쉽다고 설명하려 했습니다. Pablo는 "야, 사람들은 __항상__ 아이를 가져. 너는 사무실에 나와야 해."라고 반응했습니다. 말할 필요도 없이, (평소에는 온화한 엔지니어인) Jake는 분노했고 Pablo에 대한 존경을 많이 잃었습니다.
+
 There are numerous ways that Pablo could have handled this
 differently: he could have showed some understanding that Jake wanted
 to be home more for his wife and, if his productivity and team weren't
@@ -499,12 +467,11 @@ go into the office for one or two days a week until things settled
 down. Regardless of the end result, a little bit of empathy would have
 gone a long way toward keeping Jake happy in this situation.
 
-팀에서 인간적 요소를 무시하는 리더의 예시부터 시작해보겠습니다. 몇 년 전, Fitz의 친한 친구—Jake라고 부르겠습니다—가 첫 아이를 가졌습니다. Jake와 Fitz는 원격으로도, 같은 사무실에서도 수년간 함께 일해왔기 때문에, 새 아기가 태어난 후 몇 주 동안 Jake는 집에서 일했습니다. 이는 Jake와 그의 아내에게 훌륭하게 작동했고, Fitz는 이미 Jake와 원격으로 일하는 데 익숙했기 때문에 전혀 문제없었습니다. 그들은 평소처럼 생산적이었습니다. 그런데 (다른 사무실에서 일하는) 그들의 매니저 Pablo가 Jake가 일주일 대부분을 집에서 일하고 있다는 것을 알게 되었습니다. Pablo는 Jake가 평소처럼 생산적이고 Fitz도 상황에 괜찮다고 했음에도 불구하고, Jake가 Fitz와 함께 일하기 위해 사무실에 나오지 않는다고 화를 냈습니다. Jake는 Pablo에게 사무실에 나와서 일하는 것만큼 생산적이고, 몇 주 동안 주로 집에서 일하는 것이 자신과 아내 모두에게 훨씬 쉽다고 설명하려 했습니다. Pablo의 반응: "야, 사람들은 __항상__ 아이를 가져. 너는 사무실에 나와야 해." 말할 필요도 없이, (평소에는 온화한 엔지니어인) Jake는 분노했고 Pablo에 대한 존경을 많이 잃었습니다.
-
 Pablo가 이를 다르게 처리할 수 있었던 방법은 많습니다. Jake가 아내를 위해 집에 더 있고 싶어한다는 것을 이해하고, 그의 생산성과 팀에 영향을 미치지 않는다면 한동안 계속 그렇게 하도록 놔둘 수 있었습니다. 상황이 안정될 때까지 Jake가 일주일에 하루나 이틀은 사무실에 나오도록 협상할 수도 있었습니다. 최종 결과가 무엇이든, 약간의 공감은 이 상황에서 Jake를 행복하게 유지하는 데 큰 도움이 되었을 것입니다.
 
 [[antipattern_be_everyones_friend]]
 ==== Antipattern: Be Everyone's Friend
+==== 안티패턴: 모두의 친구가 돼라
 
 ((("antipatterns, leadership","being everyone's friend")))((("friendships","and leadership antipatterns")))The first foray that most people have into leadership is when they
 become the lead of a team of which they were formerly members. Many
@@ -516,6 +483,8 @@ friendships. Don't confuse friendship with leading with a soft touch:
 when you hold power over someone's career, he may feel pressure to
 artificially reciprocate gestures of friendship.
 
+대부분의 사람들이 리더십에 첫 발을 내딛는 것은 이전에 팀원이었던 팀의 리드가 될 때입니다. 많은 리드들이 팀과 쌓아온 우정을 잃고 싶어하지 않기 때문에, 팀 리드가 된 후에도 팀원들과의 우정을 유지하기 위해 때로는 더 열심히 노력합니다. 이는 재앙이 되며 많은 우정을 깨뜨리는 레시피가 될 수 있습니다. 우정과 부드러운 터치로 이끄는 것을 혼동하지 마세요. 당신이 누군가의 커리어에 대한 권력을 가지고 있을 때, 그는 우정의 제스처에 인위적으로 보답해야 한다는 압박감을 느낄 수 있습니다.
+
 Remember that you can lead a team and build consensus without being a
 peer of your team (or a monumental hard-ass). Likewise, you can be a
 tough leader without tossing your existing friendships to the
@@ -524,14 +493,19 @@ way to stay socially connected to them without making them
 uncomfortable—this gives you a chance to have informal conversations
 outside the normal work environment.
 
+팀의 동료가 되지 않고도(또는 엄청나게 독한 사람이 되지 않고도) 팀을 이끌고 합의를 이룰 수 있다는 것을 기억하세요. 마찬가지로, 기존의 우정을 바람에 날려버리지 않고도 강한 리더가 될 수 있습니다. 우리는 팀과 함께 점심을 먹는 것이 그들을 불편하게 만들지 않으면서도 사회적으로 연결을 유지하는 효과적인 방법이 될 수 있다고 발견했습니다. 이는 정상적인 업무 환경 밖에서 비공식적인 대화를 나눌 기회를 제공합니다.
+
 Sometimes it can be tricky to move into a management role over someone
 who has been a good friend and a peer. If the friend who is
 being managed is not self-managing and is not a hard worker,
 it can be stressful for everyone. We recommend that you avoid getting
 into this situation whenever possible.
 
+때로는 좋은 친구이자 동료였던 사람을 관리하는 관리자 역할로 이동하는 것이 까다로울 수 있습니다. 관리받는 친구가 자율적이지 않고 열심히 일하지 않는다면, 모든 사람에게 스트레스가 될 수 있습니다. 가능한 한 이런 상황에 빠지지 않도록 하는 것을 권장합니다.
+
 [[antipattern_compromise_the_hiring_bar]]
 ==== Antipattern: Compromise the Hiring Bar
+==== 안티패턴: 채용 기준 타협하기
 
 ((("antipatterns, leadership","compromising the hiring bar")))((("hiring, compromised standards for")))Steve Jobs once((("Jobs, Steve"))) said: &#x201c;__A__ people hire other
 __A__ people; __B__ people hire __C__ people." It's incredibly easy to
