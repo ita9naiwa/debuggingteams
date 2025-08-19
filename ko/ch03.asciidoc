@@ -1380,6 +1380,7 @@ well!"__(((range="endofrange", startref="ixch03asciidoc7")))(((range="endofrange
 [role="pagebreak-before"]
 [[people_are_like_plants]]
 === People Are Like Plants
+=== 사람들은 식물같다
 
 ((("leaders","and treating people like plants", id="ixch03asciidoc18", range="startofrange")))((("needs, of individual team members", id="ixch03asciidoc19", range="startofrange")))((("plants, people's similarity to", id="ixch03asciidoc20", range="startofrange")))Fitz's wife is the youngest of six children, and her mother was faced
 with the difficult task of figuring out how to raise six __very
@@ -1394,6 +1395,8 @@ water, light, and fertilizer, they'll all get equal treatment, but the
 odds are good that __none__ of them will get what they actually
 __need__.
 
+피츠의 아내는 여섯 자녀 중 막내이고, 그녀의 어머니는 여섯 명의 __매우 다른__ 자녀를 각각 다른 것들이 필요한 아이들을 어떻게 키울지 알아내는 어려운 과제에 직면했습니다. 피츠는 그의 장모에게 어떻게 이것을 관리했는지 물었고(우리가 거기서 뭘 했는지 보셨나요?), 그녀는 아이들은 식물과 같다고 대답했습니다: 어떤 아이는 선인장 같아서 물은 적게 필요하지만 햇빛은 많이 필요하고, 다른 아이는 아프리카 제비꽃 같아서 산란광과 촉촉한 흙이 필요하며, 또 다른 아이들은 토마토 같아서 약간의 비료만 주면 정말 뛰어나게 될 것입니다. 만약 당신이 여섯 명의 아이가 있고 각각에게 같은 양의 물, 빛, 비료를 준다면, 그들은 모두 동등한 대우를 받게 되지만, __아무도__ 실제로 __필요로 하는__ 것을 받지 못할 가능성이 높습니다.
+
 
 [[image_no_caption-id023]]
 image::images/dbtm_03in09.png[]
@@ -1403,7 +1406,11 @@ and some need more water (and some need more bullshit, er,
 fertilizer). It's your job as their leader to figure out who needs
 what and to then give it to them.
 
+그래서 당신의 팀원들도 식물과 같습니다:\ 어떤 이는 더 많은 빛이 필요하고, 어떤 이는 더 많은 물이 필요하며(그리고 어떤 이는 더 많은 헛소리, 아니, 비료가 필요합니다). 누가 무엇을 필요로 하는지 알아내고 그것을 제공하는 것이 그들의 리더로서 당신의 일입니다.
+
 Take a look at this matrix:
+
+이 모형을 살펴보죠.
 
 
 [[image_no_caption-id024]]
@@ -1420,6 +1427,8 @@ productive. And you don't want to give them too much of either—because
 if they don't need motivation or direction and you try giving it to
 them, you're just going to annoy them.(((range="endofrange", startref="ixch03asciidoc20")))(((range="endofrange", startref="ixch03asciidoc19")))(((range="endofrange", startref="ixch03asciidoc18")))
 
+모든 팀원들을 최적 상태로 만들기 위해서는, 모형의 "곤경에 빠진" 부분에 속하는 사람들을 동기부여하고, "주의 산만해!" 부분에 있는 사람들에게는 더 강한 방향성을 제공해야 합니다. 물론, "표류하는" 사람들은 동기부여 __그리고__ 방향성 모두가 필요합니다. 따라서, 물과 햇빛 대신, 팀원들을 행복하고 생산적으로 만들기 위해 동기부여와 방향성의 조합을 제공해야 합니다. 그리고 당신은 둘 다 너무 많이 주고 싶지 않습니다—왜냐하면 만약 그들이 동기부여나 방향성을 필요로 하지 않는데 당신이 그것을 주려고 한다면, 그저 그들을 짜증나게 할 뿐이기 때문입니다.
+
 Giving direction is fairly straightforward—it requires a basic
 understanding of what needs to be done, some simple organizational
 skills, and enough coordination to break it down into manageable
@@ -1428,8 +1437,11 @@ engineer in need of directional help (OK, there's more to it, but we
 covered a lot of that earlier in the chapter). Motivation, however, is
 a bit more sophisticated and merits some explanation.
 
+방향성을 제공하는 것은 상당히 직관적입니다. 무엇을 해야 하는지에 대한 기본적인 이해, 간단한 조직 기술, 그리고 그것을 관리 가능한 작업으로 나누는 충분한 조정이 필요합니다. 그 도구들을 손에 쥐고 있으면 방향성 도움이 필요한 엔지니어에게 충분한 안내를 제공할 수 있습니다(좋습니다, 그것보다 더 많은 것이 있지만, 우리는 이 장의 앞부분에서 그 많은 부분을 다뤘습니다). 하지만 동기부여는 조금 더 정교하고 설명이 필요한 가치가 있습니다.
+
 [[intrinsic_versus_extrinsic_motivation]]
 === Intrinsic Versus Extrinsic Motivation
+=== 내재적 vs 외재적 동기
 
 ((("extrinsic motivation")))((("intrinsic motivation")))((("leaders","intrinsic vs. extrinsic motivation")))((("motivation, intrinsic vs. extrinsic")))There are two types of motivation: extrinsic, which originates from outside((("Drive (Pink)")))((("Pink, Dan"))) forces
 (such as monetary compensation), and intrinsic, which comes from
@@ -1443,6 +1455,8 @@ increase intrinsic motivation by giving people three
 things: autonomy, mastery, and purpose.footnote:[This
 assumes that the people in question are being paid well enough that
 income is not a source of stress.]
+
+동기부여에는 두 가지 유형이 있습니다: 외부((("Drive (Pink)")))((("Pink, Dan")))에서 비롯되는 외재적 동기부여(예: 금전적 보상)와 내부에서 오는 내재적 동기부여입니다. 그의 저서 __Drive__footnote:[이 장의 앞부분에서 언급했듯이, 이 주제에 대한 Dan의 환상적인 TED 강연도 참조하세요.]에서 Dan Pink는 사람들을 가장 행복하고 생산적으로 만드는 방법이 외재적으로 동기부여하는 것(예: 그들에게 돈을 쏟아붓는 것)이 아니라, 그들의 __내재적__ 동기부여를 높이기 위해 노력하는 것이라고 설명합니다. Dan은 사람들에게 자율성, 숙달, 그리고 목적footnote:[이는 해당 사람들이 충분히 잘 지급받고 있어서 소득이 스트레스의 원인이 되지 않는다고 가정합니다.]이란 세 가지를 제공함으로써 내재적 동기부여를 높일 수 있다고 주장합니다.
 
 A person has __autonomy__ when she has the ability to act on her own
 without someone micromanaging her.footnote:[Of
@@ -1474,11 +1488,7 @@ useless. Ample opportunities for team members to learn new things and
 master their craft will keep them sharp, efficient, and
 effective.
 
-__숙련__의 가장 기초적인 의미는, 누군가가 새로운 기술을 배우고 기존 기술을 향상할 기회를 제공하는 것입니다.
-숙련의 기회를 넉넉히 주면 동기부여에 도움이 될 뿐 아니라 시간이 지날수록 사람을 더욱 성장시켜, 더 강한 팀을 만듭니다footnote:[물론 이는 그들의 시장 가치도 높여, 일이 즐겁지 않으면 더 쉽게 떠날 수 있게 만든다는 뜻이기도 합니다. <<track_happiness>> 패턴 참고].
-직원의 기술은 칼날과 같습니다.
-가장 예리한 기술을 가진 사람을 찾기 위해 수만 달러를 들이더라도, 그 칼을 수년간 갈지 않고 ‘사용’만 하면 결국 무뎌져 비효율적이고, 때로는 무용지물이 됩니다.
-팀원들이 새 것을 배우고 장인을 향해 숙련을 쌓을 기회를 넉넉히 제공하면, 그들은 예리하고 효율적이며 효과적인 상태를 유지합니다.
+__숙련__의 가장 기초적인 의미는, 누군가가 새로운 기술을 배우고 기존 기술을 향상할 기회를 제공하는 것입니다. 숙련의 기회를 넉넉히 주면 동기부여에 도움이 될 뿐 아니라 시간이 지날수록 사람을 더욱 성장시켜, 더 강한 팀을 만듭니다footnote:[물론 이는 그들의 시장 가치도 높여, 일이 즐겁지 않으면 더 쉽게 떠날 수 있게 만든다는 뜻이기도 합니다. <<track_happiness>> 패턴 참고]. 직원의 기술은 칼날과 같습니다. 가장 예리한 기술을 가진 사람을 찾기 위해 수만 달러를 들이더라도, 그 칼을 수년간 갈지 않고 ‘사용’만 하면 결국 무뎌져 비효율적이고, 때로는 무용지물이 됩니다. 팀원들이 새 것을 배우고 장인을 향해 숙련을 쌓을 기회를 넉넉히 제공하면, 그들은 예리하고 효율적이며 효과적인 상태를 유지합니다.
 
 Of course, all the autonomy and mastery in the world isn't going to
 help motivate someone if she's doing work for no reason at all, which
@@ -1499,15 +1509,11 @@ forwards it to the engineering team. This not only motivates the team,
 but also frequently inspires them to think about ways they can make
 their product even better.
 
-물론 세상의 모든 자율성과 숙련 기회도, 일이 __목적__ 없이 보인다면 동기부여에 도움이 되지 않습니다.
-많은 사람이 의미 있는 제품을 만들지만, 그 제품이 회사·고객·세상에 주는 긍정적 효과와는 일정 거리를 둔 채 일합니다.
-영향이 작은 제품이라 해도, 팀의 노력이 가진 이유를 찾아 명확히 알려 주면 동기부여할 수 있습니다.
-그들이 자신들의 일에서 그 목적을 보도록 도와주면, 동기와 생산성이 크게 높아질 것입니다footnote:[link:$$http://bit.ly/task_significance$$[]].
-우리가 아는 한 매니저는(영향이 '작은' 편에 속하는) 자사 제품에 대한 고객 이메일 피드백을 유심히 살피다가, 제품이 개인적으로 혹은 비즈니스에 얼마나 도움이 되었는지 전하는 메시지를 보면 즉시 엔지니어링 팀에 전달합니다.
-이는 팀의 동기를 북돋울 뿐 아니라, 제품을 더 좋게 만들 아이디어를 자주 불러일으킵니다.
+물론 세상의 모든 자율성과 숙련 기회도, 일이 __목적__ 없이 보인다면 동기부여에 도움이 되지 않습니다. 많은 사람이 의미 있는 제품을 만들지만, 그 제품이 회사·고객·세상에 주는 긍정적 효과와는 일정 거리를 둔 채 일합니다. 영향이 작은 제품이라 해도, 팀의 노력이 가진 이유를 찾아 명확히 알려 주면 동기부여할 수 있습니다. 그들이 자신들의 일에서 그 목적을 보도록 도와주면, 동기와 생산성이 크게 높아질 것입니다footnote:[link:$$http://bit.ly/task_significance$$[]]. 우리가 아는 한 매니저는(영향이 '작은' 편에 속하는) 자사 제품에 대한 고객 이메일 피드백을 유심히 살피다가, 제품이 개인적으로 혹은 비즈니스에 얼마나 도움이 되었는지 전하는 메시지를 보면 즉시 엔지니어링 팀에 전달합니다. 이는 팀의 동기를 북돋울 뿐 아니라, 제품을 더 좋게 만들 아이디어를 자주 불러일으킵니다.
 
 [[final_thoughts]]
 === Final Thoughts
+=== 마지막 생각들
 
 Regardless of whether you ever intend to lead a team, we hope this
 chapter has helped you understand what it takes to be a good team
@@ -1521,11 +1527,7 @@ these patterns and antipatterns your team leader applies to make your
 team succeed (or fail), and you'll have a more concrete understanding
 of what makes your team tick.(((range="endofrange", startref="ixch03asciidoc0")))
 
-당신이 언젠가 팀을 이끌 생각이 있든 없든, 이 장이 훌륭한 팀 리더에게 필요한 것이 무엇인지 이해하고, 리더가 팀을 위해 무엇을 하는지에 대한 몇 가지 신화를 걷어 내는 데 도움이 되었기를 바랍니다.
-설령 절대로 리더가 되지 않겠다고 단단히 마음먹었다 해도, 여기에 담긴 개념을 알아 두는 것은 좋습니다.
-당신 팀의 리더가, 능력이 뛰어나든 형편없든, 왜 그런 행동을 하는지 이해하는 데 도움이 되기 때문입니다.
-잠시 시간을 내어 당신의 팀을 살펴보고, 팀 리더가 팀의 성공(혹은 실패)을 위해 이 장의 어떤 패턴과 안티패턴을 적용하고 있는지 찾아보세요.
-그러면 팀이 어떻게 돌아가는지 훨씬 더 구체적으로 이해할 수 있을 것입니다.
+당신이 언젠가 팀을 이끌 생각이 있든 없든, 이 장이 훌륭한 팀 리더에게 필요한 것이 무엇인지 이해하고, 리더가 팀을 위해 무엇을 하는지에 대한 몇 가지 신화를 걷어 내는 데 도움이 되었기를 바랍니다. 설령 절대로 리더가 되지 않겠다고 단단히 마음먹었다 해도, 여기에 담긴 개념을 알아 두는 것은 좋습니다. 당신 팀의 리더가, 능력이 뛰어나든 형편없든, 왜 그런 행동을 하는지 이해하는 데 도움이 되기 때문입니다. 잠시 시간을 내어 당신의 팀을 살펴보고, 팀 리더가 팀의 성공(혹은 실패)을 위해 이 장의 어떤 패턴과 안티패턴을 적용하고 있는지 찾아보세요. 그러면 팀이 어떻게 돌아가는지 훨씬 더 구체적으로 이해할 수 있을 것입니다.
 
 But understanding the team and leader you work with every day is only
 one aspect of working with other people—crossing paths with someone
@@ -1533,8 +1535,6 @@ outside your team can be even more challenging, especially if this
 person is out to sabotage your team. We call these "poisonous people,"
 and we discuss them in the following chapter.
 
-하지만 매일 함께 일하는 팀과 리더를 이해하는 것은 타인과 함께 일하는 일의 한 측면일 뿐입니다.
-팀 밖의 사람과 마주치는 일은 훨씬 도전적일 수 있으며, 특히 그 사람이 당신의 팀을 망치려 든다면 더더욱 그렇습니다.
-우리는 이들을 “독성 인물”이라 부르며, 다음 장에서 자세히 다룹니다.
+하지만 매일 함께 일하는 팀과 리더를 이해하는 것은 타인과 함께 일하는 일의 한 측면일 뿐입니다. 팀 밖의 사람과 마주치는 일은 훨씬 도전적일 수 있으며, 특히 그 사람이 당신의 팀을 망치려 든다면 더더욱 그렇습니다. 우리는 이들을 “독성 인물”이라 부르며, 다음 장에서 자세히 다룹니다.
 
 
