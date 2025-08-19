@@ -1,401 +1,170 @@
 [[dealing_with_poisonous_people]]
 == Chapter 4. Dealing with Poisonous People
 
-((("poisonous people", id="ixch04asciidoc0", range="startofrange")))As the opening quote of our book suggests, the hardest part of
-creative work is __people__.
+((("poisonous people", id="ixch04asciidoc0", range="startofrange")))
 
-이 책의 머리말이 시사하듯, 창의적 일에서 가장 어려운 부분은 __사람__입니다.
+이 책의 머리말이 시사하듯, 창의적 일에서 가장 어려운 부분은 __사람__ 입니다.
 
-Up until now, we've taken an introspective approach. We began with an
-examination of your own private behaviors and how to focus them on the
-principles of humility, respect, and trust (HRT). We then explored
-ways to build a communicative team culture around these concepts. In
-the preceding chapter, we explained how to mold yourself into an
-effective leader of such a team, should the need arise.
+여기까지 우리는 내향적 접근을 취했습니다. 먼저 당신의 행동을 돌아보고 그것을 겸손·존중·신뢰(HRT)의 원칙에 맞추는 방법을 다루었습니다.
+또한 이 원칙들을 바탕으로 소통하는 팀 문화를 구축하는 법을 탐구했고, 바로 앞 장에서는 필요한 경우 당신 스스로가 이런 팀의 효과적인 리더가 되는 방법을 설명했습니다.
 
-여기까지 우리는 내향적 접근을 취했습니다. 먼저 당신의 행동을 돌아보고 그것을 겸손·존중·신뢰(HRT)의 원칙에 맞춰 집중시키는 법을 살폈습니다.
-이어 이 개념들을 바탕으로 소통형 팀 문화를 구축하는 법을 탐구했고, 앞 장에서는 필요한 경우 이런 팀의 효과적인 리더가 되는 방법을 설명했습니다.
-
-In the second half of this book we're going to shift gears and start
-looking outward. How does your team interact with people __outside__
-your immediate group? There are almost always folks wishing to join or
-collaborate with your team. There are issues in dealing with the
-politics of your larger organization. And, of course, you need to have
-a plan for dealing with the most important outsiders of all: the users
-of your software!
-
-이 책의 후반부에서는 기어를 바꿔 바깥을 바라보겠습니다. 당신의 팀은 가까운 범위를 __벗어난__ 사람들과 어떻게 상호작용하나요?
-늘 팀에 합류하거나 협업하길 원하는 이들이 있습니다. 더 큰 조직의 정치를 다루는 문제도 있습니다.
-그리고 무엇보다 중요한 외부자, 곧 소프트웨어의 사용자와의 관계를 다룰 계획도 필요합니다!
-
-In this chapter, we'll discuss the importance of preventing
-destructive outsiders from trashing the cooperative culture your team
-has worked hard to build. Perhaps more importantly, we'll also talk
-about how to deal with poisonous people already on your team.
+이 책의 후반부에서는 시선을 바깥으로 돌려 보려고 합니다. 당신의 팀은 가까운 범위를 __벗어난__ 사람들과 어떻게 상호작용하나요?
+언제나 당신의 팀에 합류하거나 협업하기를 원하는 이들이 존재합니다. 또한 더 큰 조직 안에서의 정치적 문제를 다루는 일도 피할 수 없습니다.
+그리고 무엇보다 중요한 외부인은 바로 당신이 만든 소프트웨어의 사용자들입니다. 따라서 이들과 관계를 맺고 대응할 수 있는 계획이 반드시 필요합니다.
 
 이 장에서는 파괴적인 외부자가 당신의 팀이 어렵게 만든 협력 문화를 망치지 못하도록 막는 일이 왜 중요한지 다룹니다.
-어쩌면 더 중요한 주제, 이미 팀 안에 있는 독이 되는 사람들을 어떻게 다룰지도 이야기합니다.
+그리고 더 중요한 것은, 이미 팀 안에 있는 독이 되는 사람을 어떻게 다뤄야 하는지도 함께 이야기할 것입니다.
 
 [[defining_poisonous]]
-=== Defining "Poisonous"
+=== “ ‘독이 되는 사람’ 의 정의 ”
 
-((("poisonous people","defined")))We've already reviewed the importance of building a solid,
-communicative team culture. We spent most of the time talking about
-what a good culture should include: things like consensus-based
-development, high-quality code, code reviews, and an environment where
-people feel comfortable enough to try new things and to fail
-fast.
+((("poisonous people","defined")))
+우리는 이미 견고하고 소통이 원활한 팀 문화를 만드는 것이 얼마나 중요한지 살펴 보았습니다.
+우리는 대부분의 시간을 좋은 문화가 무엇을 포함해야 하는지에 대해 이야기 했습니다.
+예를 들어 합의 기반 개발(consensus-based development), 고품질 코드, 코드 리뷰, 그리고 사람들이 새로운 것을 시도하고 빠르게 실패할 수 있을 만큼 편안함을 느끼는 환경 같은 것들을 말합니다.
 
-우리는 이미 견고하고 소통하는 팀 문화를 만드는 중요성을 살펴봤습니다.
-합의 기반 개발, 고품질 코드, 코드 리뷰, 그리고 새로운 시도를 하고 빠르게 실패해도 안전하다고 느끼는 환경처럼 좋은 문화가 포함해야 할 것들을 주로 이야기했죠.
-
-Just as important is the need to talk about what your culture should
-__not__ include. If you're trying to build a highly efficient,
-fast-moving team, it's important to focus on what you __don't__
-want. While brilliant engineers can make your team faster and more
-efficient, certain antibehaviors can make your team slower and less
-efficient, and make your company a less comfortable place to work—and
-eventually erode the bonds that hold the team together.
-
-그만큼 중요한 것은, 당신의 문화에 __포함되지 않아야 할__ 것들을 말하는 일입니다.
+그만큼 중요한 것은, 당신의 문화에 __포함되지 말아야 할__것들에 대해 이야기 하는 일입니다.
 매우 효율적이고 빠르게 움직이는 팀을 만들고자 한다면, __원하지 않는__ 것에 초점을 맞추는 게 중요합니다.
-뛰어난 엔지니어는 팀을 더 빠르고 효율적으로 만들 수 있지만, 특정 역행 행동은 팀을 더 느리고 비효율적으로 만들고,
-회사를 일하기 불편한 장소로 만들며—결국 팀을 묶는 끈을 닳게 합니다.
+뛰어난 엔지니어들은 팀을 더 빠르고 효율적으로 만들 수 있지만, 특정한 역행적 행동은 팀을 더 느리고 비효율적으로 만들고,
+회사를 일하기 불편한 장소로 만들고, 결국에는 팀을 하나로 묶어주는 결속력을 서서히 무너뜨리게 됩니다.
 
-When we first began speaking about the social challenges of software
-development, we came up with a presentation titled "How to Deal with
-Bad Eggs." A conference chair suggested we rename the talk to "How
-Projects Survive Poisonous People," with the hope that a more
-sensational title would draw a bigger audience. And he was right: we
-gave the presentation over and over at different conferences to
-standing-room-only crowds. It's not just the negativity of a word like
-__poisonous__ that attracted people, but the fact that everyone seems
-to have some sort of personal experience in dealing with irritating
-people. The talks would almost always turn into a group therapy
-session, with audience members swapping war stories and seeking
-advice.
-소프트웨어 개발의 사회적 도전 과제에 대해 처음 이야기하기 시작했을 때 우리는
-“How to Deal with Bad Eggs(말썽꾸러기를 다루는 법)”이라는 발표를 만들었습니다.
-한 컨퍼런스 의장은 더 선정적인 제목이 더 많은 청중을 끌 수 있다며
-“How Projects Survive Poisonous People(프로젝트가 독성 인물을 이겨내는 법)”로 바꾸자고 제안했습니다.
+
+소프트웨어 개발의 사회적 도전 과제에 대해 처음 이야기하기 시작했을 때, 우리는
+“How to Deal with Bad Eggs(악당을 다루는 법)”이라는 발표를 만들었습니다.
+한 컨퍼런스 의장이, 더 자극적인 제목이 더 많은 청중을 끌 수 있을 것이라며, 발표 제목을 "프로젝트가 독이 되는 사람(Poisonous People)으로부터 살아남는 법" 으로 바꾸자고 제안했습니다.
 그리고 그는 옳았습니다. 우리는 여러 컨퍼런스에서 서서 듣는 관객이 가득 찬 가운데 그 발표를 거듭했습니다.
-사람들을 끌어들인 것은 __poisonous__ 같은 부정적 단어 때문만이 아니라, 누구나 짜증나는 사람을 다뤄 본 개인적 경험이 어느 정도 있기 때문이었습니다.
+사람들을 끌어들인 것은 __독이 되는__ 같은 부정적 단어 때문만이 아니라, 누구나 짜증나는 사람을 다뤄 본 개인적 경험이 어느 정도 있기 때문이었습니다.
 발표는 거의 늘 청중이 전쟁담을 나누고 조언을 구하는 집단 치료 세션으로 바뀌곤 했습니다.
 
-But there's a danger here. In general, it's not healthy to spend your
-time stewing in an ocean of negativity—it tends to eat you up and can
-create more conflicts in the long run.footnote:[Yoda
-would probably have something to say here about avoiding the Dark
-Side.] The term __poisonous person__ is a nasty label and
-automatically creates a dividing line between "us" (the good guys) and
-"them" (those nasty jerks). There's a better way to think about the
-problem. Instead of running your((("negative behaviors"))) team as an elite fraternity with a
-mission to "repel mean people," it's healthier to create a culture
-that simply refuses to tolerate certain negative behaviors. It's the
-__behaviors__ you want to filter out, not particular individuals. It's
-naïve to think of individuals as purely good or bad; it's more
-constructive and practical to identify and reprimand the intolerable
-behaviors.
-하지만 여기에는 위험이 있습니다. 일반적으로 부정성의 바다에 빠져 시간을 보내는 것은 건강하지 않습니다.
-당신을 갉아먹고 장기적으로 더 많은 갈등을 낳기 쉽습니다.footnote:[요다는 아마도 어둠의 면을 피하라고 한마디 했을 겁니다.]
-__독성 인물__이라는 말은 불쾌한 꼬리표이며, 자동으로 “우리”(착한 사람)와 “그들”(고약한 사람들) 사이에 선을 긋습니다.
-더 나은 사고방식이 있습니다. 팀을 “못된 사람들을 격퇴하라”는 임무를 띤 엘리트 친목단처럼 운영하기보다,
-특정한 부정적 __행동__을 용납하지 않는 문화를 만드는 편이 더 건강합니다. 걸러내야 하는 것은 개인이 아니라 __행동__입니다.
-개인을 순수하게 선악으로 나누는 것은 순진한 생각이며, 용납할 수 없는 행동을 식별하고 경책하는 것이 더 건설적이고 실용적입니다.
+하지만 여기에는 위험이 있습니다.
+일반적으로 부정적인 감정의 바다에 빠져 시간을 보내는 것은 건강하지 않습니다.
+그것은 결국 당신을 갉아먹고, 장기적으로 더 많은 갈등을 일으킬 수 있습니다.footnote:[요다는 아마도 어둠의 면을 피하라고 한마디 했을 겁니다.]
+__독성 인물__ 이라는 말은 불쾌한 꼬리표이며, 자동으로 “우리”(좋은 사람들)와 “그들”(성가신 사람들) 사이에 선을 그어 버립니다.
+이 문제를 더 나은 방식으로 생각할 수 있습니다.
+“못된 사람들을 몰아내자”라는 사명을 가진 엘리트 집단처럼 팀을 운영하기보다는, 특정한 부정적 행동을 결코 용납하지 않는 문화를 만드는 것이 더 건강합니다. 걸러내야 할 것은 특정한 사람이 아니라, 바로 그 __행동__ 들입니다.
+개인을 순수하게 선악으로 나누는 것은 순진한 생각이며, 용납할 수 없는 행동을 식별하고 꾸짖는 것이 더 건설적이고 실용적입니다.
 
-For now, we'll continue to use the term __poisonous person__ as a
-simplifying piece of rhetoric, one that refers to a person who isn't
-behaving well. In practice, though, this is not a term you'd want to
-use in everyday conversations!
 당장은 설명을 단순하게 하기 위해 __독성 인물__이라는 표현을 계속 쓰겠습니다.
 이는 바람직하지 않은 행동을 하는 사람을 가리키는 수사적 표현입니다. 다만 실제로는 일상 대화에서 쓰고 싶은 용어는 아닙니다!
 
 [[fortifying_your_team]]
-=== Fortifying Your Team
+=== 팀을 더욱 견고하게 만들기
 
-((("poisonous people","fortifying your team against", id="ixch04asciidoc1", range="startofrange")))((("team building","fortifying against poisonous people", id="ixch04asciidoc2", range="startofrange")))Recall our yeast metaphor: how a team culture grows from an important
-starter culture. The biggest single influence
-on the long-term culture of your team is the team you start with, and
-if the founding team doesn't establish a strong enough culture,
-strains of other cultures will overgrow it. If your starter team
-builds a strong sense of acceptable and unacceptable behaviors, these
-expectations will endure.
-앞서 사용한 효모의 은유를 떠올려 보세요. 팀 문화는 중요한 시작 배양액에서 자라납니다.
-팀의 장기적 문화에 가장 큰 영향을 미치는 것은 당신이 __처음__ 함께하는 팀입니다.
-창립 팀이 충분히 강한 문화를 세우지 못하면, 다른 문화의 균주가 그 위로 번져 덮어버립니다.
-시작 팀이 받아들일 수 있는 행동과 받아들일 수 없는 행동에 대한 강한 기대치를 세우면, 그 기대는 오래간다는 뜻입니다.
+((("poisonous people","fortifying your team against", id="ixch04asciidoc1", range="startofrange")))((("team building","fortifying against poisonous people", id="ixch04asciidoc2", range="startofrange")))
+앞서 사용한 효모의 은유를 떠올려 보세요. 팀 문화는 중요한 시작 문화로부터 자라납니다.
+팀의 장기적인 문화에 가장 큰 영향을 미치는 것은 바로 당신이 __처음__ 함께 시작하는 팀입니다.
+그리고 창립 팀이 충분히 강한 문화를 세우지 못한다면, 다른 문화의 요소들이 그것을 덮어버릴 것입니다.
+만약 시작 팀이 받아들일 수 있는 행동과 받아들일 수 없는 행동에 대한 강한 기준치를 세운다면, 그 기대치는 오래도록 지속될 것입니다.
 
-The two of us have spent a lot of time in the world of open source
-projects, and our own experiences jibe with this idea pretty strongly.
 우리 둘은 오픈 소스 세계에서 많은 시간을 보냈고, 경험상 이 생각에 매우 강하게 공감합니다.
 
-The project we were most involved with—Subversion—was started by a
-very small group of people. They had a lot of humility and naturally
-trusted and respected one another. After 15-plus years, the project
-has gone through at least three or four generations of participants
-(the founders are mostly gone), and yet the same culture
-persists—everyone is kind, is polite, and expects that same behavior
-from everyone else. The culture perpetuates not just because of high
-standards, but because cultures tend to((("self-selection"))) be __self-selecting__. Nice
-people tend to be attracted to existing nice
-communities.
-우리가 가장 깊게 관여했던 프로젝트인 Subversion은 아주 소수의 사람들로 시작했습니다.
-그들은 많은 겸손을 갖추었고 서로를 자연스럽게 신뢰하고 존중했습니다.
+우리가 가장 깊이 관여했던 프로젝트인 서브버전(Subversion) 은 아주 작은 그룹의 사람들에 의해 시작되었습니다.
+그들은 많은 겸손을 갖추었고, 자연스럽게 서로를 신뢰하고 존중했습니다.
 15년이 넘는 시간이 흐르는 동안 프로젝트는 적어도 세대 교체를 세네 번 겪었고(창립자들은 대부분 떠났습니다),
 그럼에도 같은 문화가 지속되고 있습니다. 모두가 친절하고 예의 바르며, 서로에게서 같은 행동을 기대합니다.
 이런 문화는 높은 기준 때문만이 아니라, 문화가 대체로 __자기 선택적(self-selecting)__이기 때문이기도 합니다.
 좋은 사람들은 기존의 좋은 커뮤니티에 이끌립니다.
 
-Self-selection can easily work in the other direction as well. When a
-team is started by a group of angry jerks, the effort tends to attract
-more and more individuals of the same sort. Certain projects that we
-won't mention((("team efficiency"))) here (like the Linux kernel community) are keen examples
-of this—full of endless bickering and chest thumping. Yes, the team
-may get a lot of work done, but the overall __efficiency__ of its
-operation is doubtful. How much more work would get done if so much
-energy weren't being spent on personal attacks? How much potential
-contribution is lost because polite people are being driven away at
-the front door?
-자기 선택성은 반대 방향으로도 쉽게 작동합니다. 화가 난 불평꾼들의 무리로 팀이 시작되면,
+자체 선택(Self-selection)은 아주 쉽게 반대 방향으로도 작동할 수 있습니다. 만약 한 팀이 화난 무례한 사람들에 의해 시작된다면,
 그런 유형의 사람들이 점점 더 모여듭니다. 여기서 특정 프로젝트(예: 리눅스 커널 커뮤니티)의 이름을 굳이 언급하진 않겠지만,
-끝없는 말다툼과 가슴 두드리기가 가득한 대표적 사례들입니다. 일이 많이 처리될 수는 있겠지만, 전체 운영의 __효율성__은 의심스럽습니다.
-인신공격에 그렇게 많은 에너지를 쓰지 않았다면 얼마나 더 많은 일을 할 수 있었을까요?
-정중한 사람들이 초장부터 내쫓기지 않았다면 얼마나 많은 잠재적 기여가 있었을까요?
-
+끝없는 말다툼과 과시적인 행동으로 가득찬 대표적 사례들입니다. 물론 그 팀이 많은 일을 처리 할 수는 있겠지만, 전반적인 운영의 __효율성__은 의심스럽습니다.
+만약 인신공격에 그렇게 많은 에너지를 쓰이지 않았더라면 얼마나 더 많은 일을 할 수 있었을까요?
+그리고 정중한 사람들이 초장부터 내쫓기지 않았다면 얼마나 많은 잠재적 기여가 있었을까요?
 
 [[image_no_caption-id025]]
 image::images/dbtm_04in01.png[]
 
-We bring up this topic again because you need to understand what's at
-stake: poisonous
-people are a direct threat to your high-functioning team. If you allow
-bad behaviors to persist, not only does your productivity decrease,
-but you may also find your culture slowly changing for the worse. The
-best defense is to fortify your culture through a strong set of best
-practices and procedures. We covered them in
-<<building_an_awesome_team_culture>>, but here's a quick refresher:
+우리가 이 주제를 다시 꺼내는 이유는, 무엇이 걸려 있는지를 당신이 이해해야 하기 때문입니다. 독이 되는 사람(poisonous people) 은 고성과 팀에 직접적인 위협이 됩니다.
+나쁜 행동을 그대로 방치하면 생산성이 떨어질 뿐만 아니라, 팀 문화가 서서히 나쁜 쪽으로 변하는 걸 보게 될지도 모릅니다.
+최선의 방어는 강력한 모범 사례와 절차를 통해 문화를 견고하게 구성하는 것입니다.
+우리는 이미 <<building_an_awesome_team_culture>> 에서 다뤘지만, 간단히 상기해 보겠습니다.
 
-이 주제를 다시 꺼내는 이유는 무엇이 위태로운지 분명히 해야 하기 때문입니다.
-독이 되는 사람은 고기능 팀에 대한 직접적 위협입니다.
-나쁜 행동을 방치하면 생산성은 떨어질 뿐 아니라, 문화가 서서히 나쁜 쪽으로 변하는 걸 보게 될지도 모릅니다.
-최선의 방어는 강력한 모범 사례와 절차를 통해 문화를 단단히 하는 것입니다.
-<<building_an_awesome_team_culture>>에서 다뤘지만, 간단히 상기해 봅시다.
+* 눈앞에 보이는 mission statement를 두어, 추구할 목표와 추구하지 않을 비목표 모두에 집중하도록 도와줍니다.
 
+* 이메일 논의에 대한 올바른 에티켓을 정해라. 기록을 보관하고, 신규 참여자들이 읽게 하며, 시끄러운 소수에 의해 시간 끌림이 발생하지 않도록 해라.
 
-* Have a visible mission statement, to keep you focused on both your
-  goals and nongoals.
-* 눈앞에 보이는 미션 스테이트먼트를 두어, 추구할 목표와 추구하지 않을 비목표 모두에 집중하도록 하라.
-
-
-* Establish proper etiquette around email
-  discussions. Keep archives, get newcomers to read them, and prevent
-  filibustering by noisy minorities.
-* 이메일 논의에 대한 올바른 예절을 정하라. 아카이브를 보관하고, 신규자가 읽게 하며, 시끄러운 소수가 토론을 질질 끌지 못하게 하라.
-
-
-* Document all history: not just code history, but also design
-  decisions, important bug fixes, and prior mistakes.
 * 모든 이력을 문서화하라. 코드 이력만이 아니라, 설계 결정, 중요한 버그 수정, 과거의 실수까지 포함한다.
 
+* 효과적으로 협업하라. 버전 관리를 쓰고, 코드 변경을 작고 리뷰 가능하게 유지하며, 영역의식을 막기 위해 “버스 팩터(bus factor)”를 넓게 분산시켜라.
 
-* Collaborate effectively. Use version control, keep code changes
-  small and reviewable, and spread the "bus factor"
-  around to prevent territoriality.
-* 효과적으로 협업하라. 버전 관리를 쓰고, 코드 변경을 작고 리뷰 가능하게 유지하며, 영역의식을 막기 위해 “버스 팩터”를 넓게 분산시켜라.
-
-
-* Have clear policies and procedures around fixing bugs, testing, and releasing software.
 * 버그 수정, 테스트, 릴리스에 대한 명확한 정책과 절차를 마련하라.
 
-
-* Streamline the barrier to entry for newcomers.
 * 신규자가 쉽게 참여하도록 진입 장벽을 낮춰라.
 
-
-* Rely on consensus-based decisions, but also have a fallback process
-  for resolving conflicts when consensus can't be reached.
 * 합의 기반 의사결정에 의존하되, 합의가 어려울 때 갈등을 해결할 대비 절차를 마련하라.
 
-The bottom line is that the more ingrained these best practices are,
-the more intolerant of poisonous behavior your community will be. When
-troublemakers arrive, you'll be ready.(((range="endofrange", startref="ixch04asciidoc2")))(((range="endofrange", startref="ixch04asciidoc1")))
-핵심은 이 모범 사례들이 깊이 뿌리내릴수록 커뮤니티가 독성 행동을 더 단호히 거부하게 된다는 점입니다.
-말썽꾼이 나타나도 당신은 대비가 되어 있을 것입니다.(((range="endofrange", startref="ixch04asciidoc2")))(((range="endofrange", startref="ixch04asciidoc1")))
+핵심은 이 모범 사례들이 깊이 뿌리내릴수록 커뮤니티가 악이 되는 행동을 더 단호히 거부하게 된다는 점입니다.
+말썽꾼이 나타나도 당신은 대비가 되어 있을 것입니다.
+(((range="endofrange", startref="ixch04asciidoc2")))(((range="endofrange", startref="ixch04asciidoc1")))
 
 [[identifying_the_threat]]
-=== Identifying the Threat
+=== 위협 식별하기
 
-((("poisonous people","identifying threat of", id="ixch04asciidoc3", range="startofrange")))((("teams","threats posed by poisonous people", id="ixch04asciidoc4", range="startofrange")))((("threats, identifying", id="ixch04asciidoc5", range="startofrange")))If you're going to defend your team against poisonous people, the first thing you need to
-do is to understand exactly what constitutes a threat and when you
-should become concerned.
-
-독이 되는 사람들로부터 팀을 지키려면, 무엇이 위협을 이루는지, 언제 경계해야 하는지부터 정확히 이해해야 합니다.
-
-What's specifically at risk is your team's __attention__ and
-__focus__.
-
+((("poisonous people","identifying threat of", id="ixch04asciidoc3", range="startofrange")))((("teams","threats posed by poisonous people", id="ixch04asciidoc4", range="startofrange")))((("threats, identifying", id="ixch04asciidoc5", range="startofrange")))
+당신이 독이 되는 사람들로부터 팀을 지키려면, 무엇이 위협을 이루는지, 언제 경계해야 하는지부터 정확히 이해해야 합니다.
 구체적으로 위험에 처한 것은 팀의 __주의력__과 __집중력__입니다.
 
-Attention ((("focus")))and focus are the scarcest resources you have. The bigger
-the team, the more capacity the team has to focus on building things
-and solving interesting problems—but it's always a finite amount. If
-you don't actively protect these things, it's easy for poisonous
-people to disrupt your team's flow. Your team ends up bickering,
-distracted, and emotionally drained. Everyone ends up spending all
-their attention and focus on things __other__ than creating a great
-pass:[<span class="keep-together">product</span>].
-
-주의와 집중은 가장 희소한 자원입니다. 팀이 클수록 많은 것을 만들고 흥미로운 문제를 풀 수 있는 집중력의 총량도 커지지만,
-그 양은 언제나 유한합니다. 이를 적극적으로 보호하지 않으면, 독이 되는 사람들이 팀의 흐름을 깨기 쉽습니다.
-팀은 말다툼과 분산, 감정 소모로 이어지고, 모두가 훌륭한 pass:[<span class="keep-together">제품</span>]을 만드는 것 __외의__ 일에 주의와 집중을 탕진합니다.
+주의((("focus")))와 집중은 당신이 가진 가장 희소한 자원입니다.
+팀이 커질수록 무언가를 만들고 흥미로운 문제를 해결하는 데 집중할 수 있는 역량은 커지지만, 그것 역시 언제나 한정되어 있습니다.
+이 자원들을 적극적으로 보호하지 않는다면, 독이 되는 사람들이 팀의 흐름을 깨뜨리기는 아주 쉽습니다.
+결국 당신의 팀은 말다툼에 휘말리고, 집중을 잃으며, 감정적으로 소진됩니다.
+모두가 훌륭한 pass:[<span class="keep-together">제품</span>]을 만드는 것 __외의__ 일에 주의와 집중을 탕진합니다.
 
 [[image_no_caption-id026]]
 image::images/dbtm_04in02.png[]
 
-Meanwhile, one has to wonder: what does a poisonous person look like?
-To defend yourself, you need to know what to look out
-for.
+그러는 한편, 이런 의문이 생깁니다. 독이 되는 사람(poisonous person) 은 어떤 모습일까요? 스스로를 지키려면, 주의해야 할 것이 무엇인지 알아야 합니다.
 
-그렇다면 독이 되는 사람은 어떤 모습일까요? 스스로를 지키려면 무엇을 경계해야 하는지 알아야 합니다.
+우리의 경험에 따르면, 고의적으로 악의를 가지고 행동하는 사람(즉, 일부러 악당이 되는 사람)을 찾는 경우는 드뭅니다.
+우리는 그런 사람들을 “트롤” 이라고 부르며, 보통 무시합니다.
+그러나 대부분의 나쁘게 행동하는 사람들은 자신이 그런 행동을 하고 있다는 것을 인식하지 못하거나, 단순히 신경 쓰지 않을 뿐입니다.
+그것은 악의라기보다는 무지나 무관심의 문제입니다. 대부분의 나쁜 행동은 단순히 HRT(겸손, 존중, 신뢰) 의 부족으로 귀결됩니다.
 
-In our experiences, it's rare to find people who are deliberately
-being malicious (i.e., are trying to be jerks on purpose). We call
-such people "trolls" and typically ignore them. Most
-people who behave badly, however, either don't realize it or simply
-don't care. It's more an issue of ignorance or apathy, rather than
-malice. Most of the bad
-behaviors boil down to a simple lack of HRT.
-
-경험상, 고의로 악의를 드러내는 사람(일부러 악당이 되려는 사람)은 드뭅니다. 그런 이들을 우리는 “트롤”이라 부르고, 보통 무시합니다. 그러나 대부분의 문제 행위자는 자신이 잘못하고 있음을 모르거나, 그냥 신경 쓰지 않습니다. 악의라기보다 무지 혹은 무관심의 문제입니다. 나쁜 행동의 다수는 HRT 결핍으로 요약됩니다.
-
-Here are some classic signals and patterns to watch for. Whenever we
-see these patterns, we talk about "flipping the bozo bit" on the person—that is, we make a mental note that the
-person is consistently exhibiting poisonous behaviors and that we should be
-extremely careful in dealing with her.
-
-주의해야 할 전형적 신호와 패턴이 있습니다. 이런 패턴이 보이면 우리는 그 사람에게 “보조(bozo) 비트가 켜졌다”
-고 말하곤 합니다—지속적으로 독성 행동을 보이는 사람으로 마음속에 표시하고, 대응 시 극도로 주의한다는 뜻입니다.
+주의해야 할 전형적 신호와 패턴이 있습니다. 우리가 이런 패턴을 볼 때마다, 우리는 그 사람에게 “보조 비트를 뒤집는다(flipping the bozo bit)” 고 표현합니다.
+즉, 그 사람이 지속적으로 독이 되는 행동을 보이고 있으며, 그와 상대할 때 매우 조심해야 한다는 점을 마음속에 기록하는 것입니다.
 
 [[not_respecting_other_peoples_time]]
-==== Lack of Respect for Other People's Time
+==== 타인의 시간을 배려하지 않는 태도
 
-((("time, wasting")))There are certain people out there who simply are unable to figure out
-what's going on in a project. Their damage is most often in the form
-of wasting the team's time. Rather than spending a few minutes of
-their own time reading fundamental project documentation, mission
-statements, FAQs, or the latest email discussion threads, they
-repeatedly distract the entire team with questions about things they
-could easily figure out on their own.
-
-프로젝트의 현재 상황을 전혀 파악하지 못하는 사람들이 있습니다. 이들이 끼치는 피해는 주로 팀의 시간을 낭비하는 형태로 나타납니다.
+((("time, wasting")))프로젝트의 현재 상황을 전혀 파악하지 못하는 사람들이 있습니다. 이들이 끼치는 피해는 주로 팀의 시간을 낭비하는 형태로 나타납니다.
 기본 문서, 미션 스테이트먼트, FAQ, 최신 메일 스레드만 몇 분 읽으면 될 일을 하지 않고, 온 팀을 반복적으로 붙잡아 스스로도 쉽게 찾을 수 있는 질문을 던집니다.
 
-In the Subversion project, we once had a participant who decided to
-use the main developer discussion forum as a sounding board for his
-daily stream of consciousness. Charlie made no actual code
-contribution. Instead, every two or three hours, he'd send out his
-latest daydreams and brainstorms. There would inevitably be multiple
-responses explaining why his ideas were incorrect, impossible, already
-in progress, previously discussed, and/or already documented. To make
-things worse, Charlie even started answering questions from drive-by
-users, and answering them __incorrectly__. Core contributors had to
-repeatedly correct his replies. It took us quite a while to realize
-that this affable, enthusiastic participant was in fact poisonous and draining our collective energy.
-Later in this chapter we'll talk about how we dealt with the
-situation.
-
 Subversion 프로젝트에는 한 참여자가 있었는데, 메인 개발자 포럼을 자기 의식의 흐름을 떠보는 놀이터로 쓰기로 했습니다.
-찰리는 코드 기여를 전혀 하지 않았습니다. 대신 두세 시간마다 공상과 브레인스토밍을 뿌렸습니다.
+Charlie는 코드 기여를 전혀 하지 않았습니다. 대신 두세 시간마다 공상과 브레인스토밍을 뿌렸습니다.
 그의 아이디어가 왜 틀렸는지, 불가능한지, 이미 진행 중인지, 예전에 논의됐거나 문서화돼 있는지 설명하는 답글이 반드시 여러 개 달렸습니다.
-더 나쁜 건, 찰리가 지나가던 사용자들의 질문에 __틀린__ 답을 달기 시작했다는 점입니다.
+더 나쁜 건, Charlie가 지나가던 사용자들의 질문에 __틀린__ 답을 달기 시작했다는 점입니다.
 핵심 기여자들이 그의 답을 거듭 수정해야 했습니다. 우리는 이 상냥하고 열정적인 참여자가 실은 독이 되어 공동의 에너지를 빨아들이고 있음을 깨닫기까지 시간이 걸렸습니다.
 이 상황을 어떻게 처리했는지는 뒤에서 다룹니다.
 
 [[ego]]
 ==== Ego
 
-((("ego","of poisonous people")))Perhaps __ego__ isn't the perfect word here, but we're using the term
-to describe anyone who is incapable of accepting a consensus decision,
-listening to or respecting other points of view, or reaching compromises. This
-person will typically reopen discussions that have been long settled
-(and documented in email archives) because she wasn't around to
-participate in the decision. The person won't read or think about the
-history at all, demanding that the debate be replayed just for her
-sake. She will often make sweeping claims about the project's success,
-claiming that doom is imminent unless she gets her way.
-
+((("ego","of poisonous people")))
 여기서 __자아(에고)__라는 말이 완벽하진 않지만, 우리는 합의 결정을 받아들이지 못하고, 다른 관점을 경청하거나 존중하지 못하며,
 타협에 이르지 못하는 사람을 가리키는 용어로 씁니다.
 이런 사람은 자신이 그 자리에 없었다는 이유로 오래전에(그리고 메일 아카이브에 문서화되어) 끝난 논의를 다시 열곤 합니다.
 아예 기록을 읽지도, 생각하지도 않고 자기만을 위해 논쟁을 처음부터 다시 하자고 요구합니다.
 자기 방식대로 하지 않으면 곧 파멸이 임박했다고 프로젝트의 성공 가능성을 휘둘러 말하기도 합니다.
 
-The Subversion project had a notable episode in which an intelligent
-programmer showed up on the email list one day and declared that the
-entire product was ill-designed. He had seen the light, had radical
-ideas about how things should work, and insisted that the entire
-project start over from scratch. He even helpfully volunteered to lead
-the reboot himself. Without his leadership, he proclaimed that
-complete failure was looming just around the
-corner.
-
-Subversion 프로젝트에서는 어느 날 똑똑한 프로그래머가 메일 목록에 나타나 제품 전체가 잘못 설계되었다고 선언한 적이 있습니다.
+Subversion 프로젝트에서는 어느 날 똑똑한 프로그래머가 메일 목록에 나타나 제품 전체가 잘못 설계되었다고 발언한 적이 있습니다.
 그는 진리를 보았고, 사물이 작동해야 하는 급진적 구상을 가졌으며, 프로젝트를 처음부터 다시 시작해야 한다고 주장했습니다.
 심지어 자신이 재시작을 이끌겠다고 ‘도움’까지 자처했습니다. 자신의 리더십 없이는 완전한 실패가 코앞이라고도 공언했습니다.
-
-An entire week was wasted while the project founders endlessly argued
-with this person and defended their original design decisions. A huge
-amount of attention and focus was lost. It became clear that this
-person wasn't willing to compromise or integrate any of his ideas into
-the current product, and the product (which was already in beta and
-being used in the wild) wasn't about to start over. At some point we
-simply had to walk away from the debate and get back on
-track. Ironically, years later, this person's predictions turned out
-to be correct on many levels, but that didn't stop Subversion from
-becoming wildly successful anyway—at least in corporate software
-development. The point here isn't about who is right or wrong, but
-whether a disagreement is guaranteed to come to a conclusion and
-whether it's worthwhile to keep a debate going. Never stop asking
-yourself those sorts of questions; at some point you need to decide
-when it's time to cut your losses and move on.
 
 그 사람과 창립자들이 일주일 내내 논쟁하며 원래의 설계 결정을 방어하는 동안, 엄청난 주의와 집중이 소모됐습니다.
 그는 타협할 의사가 없었고, 자신의 아이디어를 현재 제품에 통합할 생각도 없다는 것이 분명해졌습니다.
 제품은 이미 베타였고, 현업에서 사용되고 있었습니다. 우리는 어느 시점에 토론을 떠나 본궤도로 돌아갈 수밖에 없었습니다.
-역설적으로 몇 년 뒤 그의 예측은 여러 면에서 맞았습니다. 그래도 Subversion은—적어도 기업 소프트웨어 세계에서는—엄청난 성공을 거뒀습니다.
+아이러니하게도 수년 후에 이 사람의 예측은 여러 측면에서 옳은 것으로 드러났습니다. 그러나 그렇다 해도 Subversion이 크게 성공하는 것을 막지는 못했습니다. 적어도 기업용 소프트웨어 개발 분야에서는 그렇습니다.
 요점은 옳고 그름 싸움이 아니라, 이견이 __언젠가__ 결말을 맺을 수 있는지, 논쟁을 계속할 __가치__가 있는지입니다.
 스스로에게 이런 질문을 멈추지 마세요. 언젠가는 손실을 줄이고 다음으로 넘어갈 때를 결정해야 합니다.
 
 [[Entitlement]]
-==== Entitlement
+==== 특권 의식
 
-((("entitlement")))Anytime you have a visitor who __demands__ that something be done,
-your alarm should go off. Something is wrong with a person who puts
-all her energy into complaining about the inadequacies of the
-software but is unwilling to directly contribute in any
-way.
+((("entitlement")))
+무언가가 반드시 이루어져야 한다고 __요구하는__ 방문자가 나타난다면, 경고 신호를 켜야 합니다.
+소프트웨어의 부족한 점을 불평하는 데 모든 에너지를 쏟으면서도, 어떤 방식으로든 직접 기여하려 하지 않는 사람에게는 분명 문제가 있습니다.
 
-무언가를 반드시 해내라고 __요구__하는 방문자가 나타나는 순간 경보를 울려야 합니다.
-소프트웨어의 부족함을 탓하는 데 온 에너지를 쏟으면서도 어떤 방식으로든 직접 기여하려 하지 않는다면 무언가 잘못된 것입니다.
-
-This((("Google Project Hosting service"))) sense of entitlement sometimes bleeds into troll-like
-behavior. While running Google's Project Hosting service, we once had
-a project owner ask us to ban a user for obscene behavior. The open
-source project, a video game emulator, didn't work properly for his
-favorite video game. The user started by filing a rather rude bug in
-the issue tracker. The project developers politely explained why the
-game didn't work yet, and why it was unlikely to be fixed for a good
-while. This answer was unacceptable to the user, who began to harass
-the developers daily. He would open bug after bug with the same
-complaint. He started adding comments to __other__ bugs saying what
-"idiots" the developers were for refusing to fix his problem. His
-language became increasingly obscene over time, despite repeated
-warnings from the developers and Google administrators. Regardless of
-all our efforts to eliminate his destructive behavior, he steadfastly
-refused to change, so we were eventually forced—as a last resort—to
-ban him entirely.
-
-이러한 권리의식은 때때로 트롤 같은 행동으로 번집니다. 우리가 구글의 Project Hosting 서비스를 운영할 때,
+이러한((("Google Project Hosting service"))) 권리의식은 때때로 트롤 같은 행동으로 번집니다. 우리가 구글의 Project Hosting 서비스를 운영할 때,
 한 프로젝트 소유자가 외설적 행동을 이유로 사용자를 차단해 달라고 요청했습니다.
 해당 오픈 소스 프로젝트는 비디오 게임 에뮬레이터였고, 그 사용자가 좋아하는 게임이 제대로 동작하지 않았습니다.
 그는 무례한 버그 리포트로 시작했고, 개발자들은 왜 아직 작동하지 않는지, 왜 당분간 고치기 어려운지 정중히 설명했습니다.
@@ -405,114 +174,48 @@ ban him entirely.
 파괴적 행동을 없애려는 모든 노력에도 그는 끝내 변하지 않았고, 결국 최후의 수단으로 전체 차단을 할 수밖에 없었습니다.
 
 [[immature_or_confusing_communication]]
-==== Immature or Confusing Communication
+==== 미숙하거나 혼란스러운 커뮤니케이션
 
-((("communication","confusing")))((("communication","immature")))((("confusing communication")))((("immature communication")))The person doesn't use her real name. Instead, you'll see only
-childish nicknames like "SuperCamel," "jubjub89," or "SirHacksalot."
-To make things worse, often the person will have different nicknames
-in different media—one name for email, a different one for instant
-messaging, and perhaps a different one for code submissions. In
-extreme cases, you'll see these people communicating in lol-speak,
-1337speak, ALL CAPS, or with excessive
-punctuation!??!1!!1!!
-
+((("communication","confusing")))((("communication","immature")))((("confusing communication")))((("immature communication")))
 실명 대신 “SuperCamel”, “jubjub89”, “SirHacksalot” 같은 유치한 닉네임만 씁니다.
-더 나쁜 건 미디어마다 별명이 다르기도 합니다—이메일용, 메신저용, 코드 제출용이 각각 다른 식이죠.
-극단적 경우에는 롤(LOL)체, 1337체, __모두 대문자__, 과한 구두점!??!1!!1!! 으로 소통합니다.
+더 나쁜 건 미디어마다 별명이 다르기도 합니다. 이메일용, 메신저용, 코드 제출용이 각각 다른 식이죠.
+사람들은 lol-speak(인터넷 은어), 1337speak(leetspeak), 모두 대문자, 혹은 과도한 문장 부호로 소통하는 모습을 보이게 됩니다.
 
 [[paranoia]]
-==== Paranoia
+==== 피해 의식
 
-((("paranoia")))As seen in the earlier example, sometimes an inappropriate sense of entitlement
-leads directly into open hostility toward a project. Many times we see
-it escalate into complete paranoia. When an existing
-team disagrees with the visitor, the poisonous person will sometimes
-start to throw accusations of a "cabal" and conspiracy. It's amusing
-to imagine that the project team finds him so important that they'd
-go through the effort of conspiring against the visitor. And if you
-already have an open and transparent culture of communication (as we
-pushed for in <<building_an_awesome_team_culture>>), this makes the
-accusation all the more hilarious, since every conversation is already
-a public record. The recommendation here is to not even bother
-responding to such charges. By the time the poisonous person goes this far over the edge, anything
-you say will only dig yourself a deeper hole in his mind, so why
-bother saying anything at all? It's time to get back to the important
-work of making things.
-
-앞선 예에서 보았듯, 과도한 권리의식은 프로젝트에 대한 노골적 적대로 곧장 이어지기도 합니다.
-그리고 종종 편집증으로까지 번집니다. 기존 팀이 방문자와 의견이 다르면, 독성 인물은 때로 “파벌”이나 음모를 운운하며 몰아붙입니다.
-팀이 그 사람을 얼마나 중요한 존재로 본다고 음모까지 벌이겠습니까.
+((("paranoia")))
+앞선 예시에서 보았듯이, 때로는 부적절한 특권 의식이 프로젝트에 대한 공개적인 적대감으로 곧바로 이어지기도 합니다.
+그것이 완전한 피해 의식으로 번지는 경우도 자주 봅니다. 기존 팀이 방문자와 의견이 다르면, 독이 되는 사람은 때땨로 “파벌”이나 음모가 있다고 비난하기 시작합니다.
+프로젝트 팀이 그 사람을 그렇게까지 중요하게 생각해서 방문자에게 대항하기 위해 음모를 꾸민다고 상상하는 것은 우스꽝스러운 일이겠습니까.
 이미 <<building_an_awesome_team_culture>> 에서 권한 것처럼 소통이 개방적이고 투명한 문화라면 모든 대화가 이미 공개 기록이라 이런 비난은 더 우스워집니다.
-우리의 권고는 간단합니다. 이런 주장에 굳이 답하지 마세요. 그 사람이 여기까지 갔다면, 당신이 무슨 말을 해도 그의 마음속 구덩이만 더 깊어집니다.
+우리의 권고는 간단합니다. 이런 주장에 굳이 답하지 마세요. 그 사람이 여기까지 갔다면, 당신이 무슨 말을 해도 그의 마음속 구덩이만 더 깊어집니다. 그러니 애초에 아무 말도 하지 않는 편이 낫습니다.
 중요한 __만들기__ 작업으로 돌아갈 때입니다.
 
 [[perfectionism]]
-==== Perfectionism
+==== 완벽주의
 
-((("perfectionists","as threat to team")))On the surface, perfectionists don't seem dangerous at all. Sure,
-there may be a touch of odd obsessive-compulsive behavior now and then, but usually
-the person is humble, polite, respectful, and a good listener. He
-seems stuffed full of happy HRT and good intentions. What's the
-problem, then? The problem is the threat of paralysis.
-
+((("perfectionists","as threat to team")))
 표면적으로 완벽주의자는 전혀 위험해 보이지 않습니다. 때로는 강박적 성향이 조금 보일 수도 있지만,
 보통 겸손하고 공손하며, 존중을 알고, 경청합니다. HRT와 선의로 가득 차 보이죠. 그럼 문제가 뭘까요? 문제는 ‘마비’의 위협입니다.
 
-Let's look at a person we've worked with in the past. Patrick was a
-brilliant engineer. He had great design chops, wrote high-quality code
-and tests, and was easy to get along with. Unfortunately, when it came
-time to design new software, he could spend the rest of his life
-tweaking and improving his design. He was never satisfied with the
-plans and seemingly was never ready to start coding. While he
-certainly had good points and excellent insights into the problems we
-were trying to solve, the rest of the team ended up becoming immensely
-frustrated; it became clear that we were never actually going to write
-any code. Several of us on the project deliberated quite a bit on what
-to do about this. On the one hand, Patrick was a huge help to our
-team. On the other hand, he was preventing us from making forward
-progress as a group. Every time we'd begin to code he'd politely veto
-and point out potential theoretical problems that could matter in the
-distant future. He was paralyzing us without realizing it. We'll talk
-about how we resolved this in the next section.(((range="endofrange", startref="ixch04asciidoc5")))(((range="endofrange", startref="ixch04asciidoc4")))(((range="endofrange", startref="ixch04asciidoc3")))
-
-과거에 함께했던 사람을 보죠. 패트릭은 뛰어난 엔지니어였습니다. 설계 감각이 탁월했고, 고품질 코드와 테스트를 썼으며,
+과거에 함께했던 사람을 보죠. Patrick은 뛰어난 엔지니어였습니다. 설계 감각이 탁월했고, 고품질 코드와 테스트를 썼으며,
 함께 일하기 편했습니다. 하지만 새 소프트웨어를 설계할 때면, 평생을 설계를 다듬고 개선하는 데 쓸 기세였습니다.
 계획에 결코 만족하지 않았고, 코딩을 시작할 준비가 __영원히__ 되지 않은 듯 보였습니다.
 우리가 풀려고 하던 문제에 대한 그의 통찰은 훌륭했지만, 팀은 엄청난 좌절을 겪었습니다.
 우리는 실제로는 코드를 절대 쓰지 못할 것 같았죠. 프로젝트의 몇몇이 이 문제를 어떻게 할지 오랜 논의를 했습니다.
-한편으로 패트릭은 팀에 큰 도움이었습니다. 다른 한편으로 그는 팀의 전진을 막고 있었습니다.
+한편으로 Patrick은 팀에 큰 도움이었습니다. 다른 한편으로 그는 팀의 전진을 막고 있었습니다.
 코딩을 막 시작하려 할 때마다 그는 공손하게 거부권을 행사하며, 먼 미래에 __어쩌면__ 문제가 될지 모를 이론적 위험을 지적했습니다.
-그는 자신도 모르게 우리를 마비시키고 있었습니다. 해결법은 다음 절에서 다룹니다.
+그는 자신도 모르게 우리를 마비시키고 있었습니다. 해결법은 다음 절에서 다룹니다.(((range="endofrange", startref="ixch04asciidoc5")))(((range="endofrange", startref="ixch04asciidoc4")))(((range="endofrange", startref="ixch04asciidoc3")))
 
 [[repelling_the_poison]]
-=== Repelling the Poison
+=== 해독시키기
 
-((("poisonous people","strategies for dealing with", id="ixch04asciidoc6", range="startofrange")))We don't advocate throwing people out of a community just because
-they're being antisocial or rude. As we mentioned earlier, it's not
-healthy to create a clique focused on "us" (the nice people) versus
-"them" (the mean people). In our prior examples we didn't focus on
-booting the person, but rather on booting the __behavior__. Make it
-clear that bad behaviors will not be tolerated. If, after repeated
-warnings, the behavior doesn't change, only then does it makes sense
-to consider formal rejection.
-
+((("poisonous people","strategies for dealing with", id="ixch04asciidoc6", range="startofrange")))
 반사회적이거나 무례하다는 이유만으로 사람을 커뮤니티에서 내쫓자고 권하지는 않습니다.
 앞서 말했듯 “우리(좋은 사람)” 대 “그들(나쁜 사람)”에 집착한 파벌을 만드는 것은 건강하지 않습니다.
 앞선 예들에서도 우리는 사람을 쫓아내는 데 집중하지 않고, __행동__을 쫓아내는 데 집중했습니다. 나쁜 행동은 용납되지 않는다는 것을 분명히 하세요. 반복 경고에도 행동이 바뀌지 않을 때에만, 공식적인 배제를 고려하는 것이 타당합니다.
 
-Concentrating your effort on removing toxic behavior is often enough
-to turn an intelligent (although perhaps socially awkward) person into
-a productive member of your team. A few years ago we had a team member
-who was an excellent engineer but had an annoying habit of
-accidentally insulting teammates. Rather than just ejecting him from
-the community, one of us pulled him aside and asked him if he was
-aware that his words were alienating people. He seemed somewhat
-surprised that this was happening and didn't exactly understand why
-his actions were having this effect. But he agreed that it would be
-worthwhile to try to temper his actions in the interest of being a
-better team member. And everything worked out perfectly. He changed
-his behavior, and the problem was resolved. Not every anecdote ends in
-exile!
 
 독성 행동을 제거하는 데 노력을 집중하는 것만으로도, (사회성이 조금 어색하더라도) 똑똑한 사람을 팀의 생산적 구성원으로 바꿀 수 있습니다.
 몇 해 전 우리 팀에는 훌륭한 엔지니어였지만 무심코 동료를 곤란하게 만드는 습관이 있는 사람이 있었습니다.
@@ -520,279 +223,141 @@ exile!
 그는 다소 놀랐고, 왜 그런 효과가 생기는지 정확히 이해하지 못했습니다. 하지만 더 나은 팀원이 되기 위해 행동을 누그러뜨려 보겠다고 동의했습니다.
 그리고 모든 것이 완벽히 풀렸습니다. 그는 행동을 바꾸었고 문제가 해결되었습니다. 모든 일화가 추방으로 끝나지는 않습니다!
 
-OK, so you've identified a poisonous person. Perhaps there's someone
-distracting and draining your team's energy right now. How do you deal
-effectively with the situation? Here are some useful strategies.
-
 이제 독성 인물을 식별했습니다. 어쩌면 지금도 팀의 에너지를 분산시키고 소모시키는 사람이 있을 겁니다.
 어떻게 효과적으로 다룰 수 있을까요? 아래 전략들이 도움이 됩니다.
 
 [[redirect_the_energy_of_perfectionists]]
-==== Redirect the Energy of Perfectionists
+==== 완벽주의자의 에너지를 전환하기
 
-((("perfectionists","redirecting energy of")))Once a good-enough solution is found for the original problem, point
-the perfectionist to a different problem that still needs attention.
+((("perfectionists","redirecting energy of")))원래 문제에 대해 ‘충분히 좋은’ 해법을 찾았다면, 완벽주의자의 에너지를 아직 손봐야 하는 __다른__ 문제로 돌리세요.
 
-원래 문제에 대해 ‘충분히 좋은’ 해법을 찾았다면, 완벽주의자의 에너지를 아직 손봐야 하는 __다른__ 문제로 돌리세요.
-
-In the case of Subversion's perfectionist, this strategy worked
-well. Eventually, we reached a point where we took Patrick aside and
-said, "OK, we're just going to start working from this design as it
-stands now, and see what happens. Hopefully you'll be able to help us
-navigate around any problems that crop up down the road." To our
-surprise, Patrick was OK with this and instead moved on to a different
-subject as the object of his obsession. No feelings were hurt either
-way, and Patrick kept contributing to the overall effort.
-
-Subversion의 완벽주의자에게도 이 전략이 통했습니다. 우리는 결국 패트릭을 따로 불러 이렇게 말했습니다.
+Subversion의 완벽주의자에게도 이 전략이 통했습니다. 우리는 결국 Patrick을 따로 불러 이렇게 말했습니다.
 “좋아요, 지금의 설계대로 그냥 시작해 보고, 일어나는 일을 보죠. 길에서 문제가 생기면 그때 당신이 우회로를 찾도록 도와주세요.”
-놀랍게도 패트릭은 이를 받아들였고, 집착의 대상을 다른 주제로 옮겼습니다. 누구의 감정도 상하지 않았고, 패트릭은 계속 전체 노력에 기여했습니다.
+놀랍게도 Patrick은 이를 받아들였고, 집착의 대상을 다른 주제로 옮겼습니다. 누구의 감정도 상하지 않았고, Patrick은 계속 전체 노력에 기여했습니다.
 
-There's an old saying to not let "the perfect be the enemy of the
-good," and in your quest to create a high-performing team, you need to
-be just as vigilant about avoiding perfectionism as you are about calling out more
-obvious disruptive behaviors.
-
-“완벽이 좋은 것을 망치게 하지 말라”는 옛말이 있습니다. 고성과 팀을 만들려면, 눈에 띄는 방해 행동을 지적하는 것 못지않게 완벽주의를 피하는 데 경계심을 가져야 합니다.
-
-This trick of redirecting energy
-also works on the overly entitled people who spend more time
-complaining and criticizing than helping out. It's tempting to respond
-to such a person with a standard "patches welcome" remark—the open
-source community's euphemistic version of telling someone to put up or
-shut up. Instead, try getting him to take an interest in formally
-testing the software and pointing out regressions. It allows him to
-keep complaining, but in a useful way.
+“완벽이 좋은 것의 적이 되게 하지 말라”는 오래된 속담이 있습니다. 성과 높은 팀을 만들고자 한다면, 더 분명하게 방해가 되는 행동들을 지적할 때만큼이나 완벽주의를 피하는 데에도 경계를 늦추지 않아야 합니다.
 
 에너지를 돌리는 요령은, 돕기보다 불평·비난에 시간을 더 쓰는 과도한 권리의식의 소유자에게도 통합니다.
 이런 사람에게 “패치 환영” 같은 상투적 응수(‘말만 하지 말고 기여하라’는 오픈 소스식 완곡 표현)를 하고 싶겠지만,
 대신 정식 테스트와 리그레션 지적에 관심을 두게 해 보세요. 불평을 계속하되 __유익한__ 방식으로 하게 됩니다.
 
 [[dont_feed_the_energy_creature]]
-==== Don't Feed the Energy Creature
+==== 에너지 괴물을 키우지 마라
 
-((("trolls","dangers of responding to")))This is an old adage((("Usenet"))) from Usenet.footnote:[Which may
-itself refer to that original __Star Trek__ episode, "Day of the
-Dove," in which negative emotions fed an energy creature. Kirk and his
-Klingon counterpart Kang ordered their men to stop feeding the energy creature,
-and it departed from the __Enterprise__. See, it all comes back to
-__Star Trek__.] In particular, this works best against deliberate
-trolls—people who are purposely trying to get a rise out of you or
-your team. The more you respond, the more the troll feeds off your
-energy, and the more time you've wasted. ((("silent treatment")))The simple silent treatment
-often works best. Regardless of how much you're dying to deliver that
-one-line zinger that'll put him in his place, resist the urge. When
-the person realizes nobody's paying attention, he typically loses
-interest and just leaves. Note that it often takes quite a bit of
-willpower to not respond. Stay strong!
-
-유즈넷에서 유래한 옛 격언입니다footnote:[원전은 __스타 트렉__ “Day of the Dove” 에피소드의 ‘에너지 생명체’일지도요.
-커크와 클링온 캥은 병사들에게 에너지 생명체를 ‘먹이지’ 말라고 명했고, 생명체는 __엔터프라이즈__를 떠났습니다.
-결국 다시 __스타 트렉__으로 돌아오네요.]. 특히 의도적으로 당신이나 팀의 분노를 끌어내려는 트롤에게 효과적입니다.
-응답할수록 트롤은 당신의 에너지를 더 빨아먹고, 당신의 시간은 더 낭비됩니다. 가장 좋은 대응은 __침묵__인 경우가 많습니다.
-한 방 먹이는 멋진 한 줄을 던지고 싶더라도, 참으세요. 아무도 신경 쓰지 않는다는 걸 깨닫는 순간, 그는 보통 흥미를 잃고 떠납니다.
-답하지 않기란 의지력이 꽤 필요하다는 점을 기억하세요. 버티세요!
-
+((("trolls","dangers of responding to")))Usenet에서((("Usenet"))) 유래한 옛 격언입니다.footnote:[이는 원래의 스타 트렉(Star Trek) 에피소드 “Day of the Dove” 를 가리키는 것일 수도 있습니다. 그 에피소드에서는 부정적인 감정이 에너지 생명체를 먹였습니다. Kirk와 그의 Klingon 동료 Kang은 부하들에게 에너지 생명체를 더 이상 먹이지 말라고 명령했고, 결국 그 생명체는 엔터프라이즈(Enterprise)를 떠났습니다.] 특히 이것은 의도적으로 당신이나 당신의 팀을 자극하려는 트롤(trolls) 에게 가장 잘 통합니다.
+당신이 반응하면 할수록 트롤은 당신의 에너지를 빨아들이고, 당신은 그만큼 더 많은 시간을 낭비하게 됩니다. ((("silent treatment")))가장 좋은 대응은 __침묵__인 경우가 많습니다.
+한 방 먹이는 멋진 한 줄을 던지고 싶더라도, 참으세요. 아무도 자신에게 관심을 주지 않는다는 걸 깨닫게 되면, 그는 보통 흥미를 잃고 그냥 떠납니다.
+대응하지 않기 위해서는 꽤 큰 의지가 필요하다는 점을 명심하십시오. 참고 버티세요!
 
 [[image_no_caption-id027]]
 image::images/dbtm_04in03.png[]
 
 [[dont_get_overly_emotional]]
-==== Don't Get Overly Emotional
+==== 과도하게 감정적이지 마라
 
-((("emotion","when dealing with poisonous people")))Even if the person isn't deliberately trolling, it's all too easy to
-get defensive. When somebody accuses you of making a bad design
-decision or of conspiracy, or simply wastes your time by asking too
-many questions whose answers are obvious, it's easy to get
-upset. Remember that your job is to build great things, not to appease
-every visitor or repeatedly justify your existence. The stronger your
-emotions are, the more likely you are to waste hours or days writing
-passionate replies to someone who doesn't deserve such
-attention. Choose your battles carefully and keep calm. Carefully decide who's worth
-replying to, and who you'll pass:[<span class="keep-together">let be</span>].
-
-상대가 의도적으로 트롤링하지 않더라도, 방어적으로 굴기 쉽습니다. 누군가가 나쁜 설계 결정을 했다거나 음모를 꾸몄다고 비난하거나,
+((("emotion","when dealing with poisonous people")))상대가 의도적으로 트롤링하지 않더라도, 방어적으로 굴기 쉽습니다. 누군가가 나쁜 설계 결정을 했다거나 음모를 꾸몄다고 비난하거나,
 자명한 질문을 너무 많이 해서 시간을 낭비하게 만들면 쉽게 화가 납니다. 기억하세요. 당신의 일은 훌륭한 것을 만드는 일이지,
 방문자 모두를 달래거나 존재 이유를 반복 입증하는 일이 아닙니다. 감정이 강할수록, 그만한 대우를 받을 자격이 없는 사람에게 격정적 답장을 쓰느라 시간과 날을 더 낭비하기 쉽습니다.
 싸움을 신중히 고르고, 침착함을 유지하세요. 누구에게 답할지, 누구는 pass:[<span class="keep-together">그냥 두고</span>] 넘어갈지 신중히 결정하세요.
 
 [[look_for_facts_in_the_bile]]
-==== Look for Facts in the Bile
+==== 쏟아내는 독설 속에서도 사실을 찾아라
 
-((("facts, when dealing with poisonous people")))Continuing on with the theme of staying clear of too much emotion, a
-corollary is to actively look for facts. If someone is complaining,
-listen carefully. Always start by giving the person the benefit of the
-doubt, despite the angry or rude language. Does the person have a real
-point? Is there something to learn from the person's experience, or is
-there an idea worth responding to? Very often the answer is "yes"—that
-despite a poisonous person's vitriolic prose, some wisdom really is
-buried in there. Always bring the argument back to a technical
-pass:[<span class="keep-together">discussion</span>].footnote:[For more on this subject, see
-((("Kerth, Norman")))Norman Kerth's "The Retrospective Prime
-Directive," in his book __Project Retrospectives__ (Dorset House).]
 
+((("facts, when dealing with poisonous people")))
 과도한 감정을 경계한다는 주제의 연장선에서, 또 하나의 보완점은 __사실__을 적극적으로 찾는 것입니다.
-누군가가 불평하면 주의 깊게 들으세요. 무례하고 분노에 찬 언어에도 불구하고, 일단 선의로 출발하세요.
+누군가가 불평하면 주의 깊게 들으세요. 화가 섞이거나 무례한 언어에도 불구하고, 언제나 먼저 그 사람에게 선의의 해석을 부여하는 것부터 시작해야 합니다.
 정말 일리가 있나요? 그 사람의 경험에서 배울 것이 있나요, 응답할 가치가 있는 아이디어가 있나요?
-종종 대답은 “그렇다”입니다—독성 인물의 독설 속에도 지혜가 묻혀 있는 경우가 많습니다.
+종종 대답은 “그렇다”입니다.독성 인물의 독설 속에도 실제로는 지혜가 묻혀 있는 경우가 많습니다.
 논의를 항상 기술적 pass:[<span class="keep-together">토론</span>]으로 되돌리세요footnote:[자세한 내용은 Norman Kerth의 저서 __Project Retrospectives__ 의 “Retrospective Prime Directive”를 참조].
 
-Our favorite example of this is the day we got a rancorous email from
-a well-known leader of the open source community. It was a bug report
-of sorts, but on the surface it was more like a rant about the team's
-overall intelligence. The post was chock-full of slander and
-hyperbole, and seemed intended to inflame the team rather than to get
-the bug fixed. One of our team members, however, responded to the
-report with just a few specific questions, focusing only on the
-bug. The bug reporter replied with more clarification, but still it
-was wrapped in over-the-top venom. Our team member continued to
-completely ignore the insults, investigated the issue, and replied
-with a simple "Thanks for the bug report, I see how to fix the
-problem—we'll release a patch soon."
 
 좋은 예가 하나 있습니다. 오픈 소스 커뮤니티의 유명 리더에게서 독설 가득한 이메일을 받은 날이었습니다.
 버그 리포트의 형식을 띠었지만, 표면상으로는 팀의 지능을 깎아내리는 분노의 글에 가까웠습니다.
 중상과 과장이 가득했고, 버그를 고치려는 의도보다 팀을 자극하려는 의도가 더 뚜렷해 보였습니다.
 하지만 우리 팀의 한 구성원은 버그에만 집중해 몇 가지 구체 질문으로 응답했습니다.
 리포터는 추가 설명을 보냈지만, 여전한 독설에 싸여 있었습니다. 팀원은 모욕을 완전히 무시한 채 이슈를 조사하고 간단히 답했습니다.
-“리포트 감사합니다. 고치는 방법이 보입니다—곧 패치를 배포하겠습니다.”
+“리포트 감사합니다. 고치는 방법이 보입니다. 곧 패치를 배포하겠습니다.”
 
-((("calmness, when dealing with poisonous people")))We were immensely proud of the way our team member handled the
-situation. Remaining utterly calm and fact-driven only made the
-original poster seem like more of a lunatic as the conversation
-progressed. By the end of the exchange, the bug reporter had lost all
-credibility with his audience and no longer had any interest in
-hanging around.
 
+((("calmness, when dealing with poisonous people")))
 그 팀원의 대처가 몹시 자랑스러웠습니다. 철저히 침착하고 사실 중심으로 임하자, 대화가 진행될수록 원 게시자는 더 광적으로 보였습니다.
 결국 교환의 끝에서 버그 리포터는 청중의 신뢰를 완전히 잃었고, 더는 머물 관심도 사라졌습니다.
 
 [[repel_trolls_with_niceness]]
-==== Repel Trolls with Niceness
+==== 상냥함으로 트롤을 물리쳐라
 
-((("niceness, repelling trolls with")))((("trolls","repelling with niceness")))To take the preceding approach (of remaining cool-headed and factual)
-even further, sometimes it's possible to scare people away just by
-being too kind! Here's an actual chat transcript from the Subversion
-IRC channel:
-
-앞서 말한(침착하고 사실에 충실한) 접근을 한 걸음 더 나아가면, __지나치게 친절함__만으로도 사람을 물러가게 만들 때가 있습니다!
+((("niceness, repelling trolls with")))((("trolls","repelling with niceness")))
+앞서 말한(침착하고 사실에 충실한) 접근을 한 걸음 더 나아가면, __지나치게 친절함__ 만으로도 사람을 물러가게 만들 때가 있습니다!
 아래는 Subversion IRC 채널의 실제 대화록입니다.
 
 [role="pagebreak-before"]
 [quote]
 ____
-harry: Subversion sucks. This is quite a nuisance.
+harry: Subversion 구려. 진짜 성가시네.
 
-sussman: If you need help, then ask.
+sussman: 도움이 필요하면 그냥 물어봐.
 
-harry: I want to cvs someone's files. No, I just want to gripe. But
-this person is hung up on this thing called Subversion so he has svn
-instead of cvs.
+harry: 난 그냥 cvs로 누군가의 파일을 가져오고 싶어. 아니, 사실 그냥 투덜대고 싶을 뿐이야. 근데 그 사람이 Subversion이라는 거에 꽂혀서 cvs 대신 svn을 쓰고 있거든.
 
-sussman: So get an svn client and checkout his sources.
+sussman: 그럼 svn 클라이언트 받아서 소스 체크아웃하면 되잖아.
 
-harry: So I go and download this Subversion thing…can you configure
-make make install Subversion like you can cvs? Of course not. I blame
-him more than the subversion people.
+harry: 그래서 이 Subversion이란 걸 다운로드했는데… cvs처럼 configure; make; make install로 설치할 수 있냐? 당연히 안 되지. 난 Subversion 사람들보다 그 인간을 더 탓할 거야.
 
-sussman: Just because *you* can't ./configure; make; make install
-doesn't mean there's a big widespread bug. People do that with the svn
-tarball every day.
+sussman: 네가 ./configure; make; make install 못한다고 해서, 큰 버그가 있는 건 아니야. 사람들은 매일 svn tarball로 그거 하고 있어.
 
-harry: I didn't say there was a bug.
+harry: 난 버그라고 말한 적 없어.
 
-sussman: Do you think we would have released the tarball if something
-that fundamental were broken?
+sussman: 그렇게 근본적인 게 깨져 있었다면 우리가 tarball을 배포했겠냐?
 
-harry: I am just griping about this bozo. I just have to install expat
-or libxml. *sigh*
+harry: 그냥 저 얼간이에 대해 불평하는 거야. expat이나 libxml을 설치해야 하잖아. 하아…
 
-sussman: Those things are usually pre-installed on most systems.
+sussman: 그런 건 보통 대부분 시스템에 기본으로 설치돼 있어.
 
-sussman: Is this guy using an apache server? Perhaps you should just grab a binary.
+sussman: 그 사람이 아파치 서버 쓰는 거야? 그냥 바이너리 받는 게 낫겠다.
 
-harry: I don't know, he just says svn…
+harry: 몰라, 그냥 svn이라고만 해.
 
-sussman: Which distro are you on?
+sussman: 어떤 배포판 쓰고 있어?
 
 harry: FreeBSD
 
-sussman: Just cd into the ports tree and make the port.
+sussman: 그럼 ports 트리 들어가서 그냥 port 빌드하면 돼.
 
-harry: You people are ruining my rant…I came here looking for an
-argument…you are too helpful and friendly.
+harry: 너희는 내 불평을 다 망치네… 난 싸우러 왔는데… 너희가 너무 친절하고 도움이 돼.
 
 sussman: :-)
 
-harry: When the hell do you come to an IRC channel and everyone tries to help you? Blah.
+harry: 대체 언제 IRC 채널에 와서 다들 도와주려고만 하냐? 에휴.
 
-— Harry has quit
-
+— Harry님이 나갔습니다.
 
 ____
 
 
 [[know_when_to_give_up]]
-==== Know When to Give Up
+==== 포기할 때를 알아라
 
-((("giving up, as strategy")))Sometimes no matter how hard you try, you simply need to flip the bozo
-bit and move on. Even if you've already spent a lot of attention and
-focus trying to correct bad behaviors, you need to know how to
-recognize a lost cause.
-
+((("giving up, as strategy")))
 아무리 노력해도, “보조 비트”를 켜고 지나가야 할 때가 있습니다. 나쁜 행동을 바로잡으려 주의와 집중을 많이 들였더라도, 가망이 없는 일을 알아보는 법을 알아야 합니다.
 
-Let's return to our story about Charlie, the friendly philosopher who
-was posting far too often to the Subversion email list. Eventually we
-did an analysis of the email discussions and discovered that this
-participant had grown into the third most frequent poster over the
-course of two months; the first and second most frequent posters were
-core project contributors, and 70% of their posts were spent
-__replying to Charlie__! Clearly our energy and focus were being
-sucked away, despite no ill will from Charlie himself. Our final
-solution was to privately email him and (politely) ask him to stop
-posting so often. It was a difficult conversation to have, mainly
-because he was unable to see the amount of disruption he was
-causing. After a few more weeks without a significant behavioral
-change, one of us actually had a long (and even more difficult)
-discussion with him over the phone where we asked him to stop posting
-altogether. He ultimately withdrew as requested, a bit sad and
-confused, but respectful of the team's wishes. Everyone felt a little
-guilty about it because he never quite understood the harm he was
-causing, but everyone also felt it was the right thing to do. It was a
-delicate situation to resolve, but we used a great deal of HRT to keep
-things civil and appropriate.(((range="endofrange", startref="ixch04asciidoc6")))
 
-메일을 너무 자주 올리던 친절한 철학자, 찰리의 이야기로 돌아갑시다. 우리는 결국 메일 토론을 분석했고,
+메일을 너무 자주 올리던 친절한 철학자, Charlie의 이야기로 돌아갑시다. 우리는 결국 메일 토론을 분석했고,
 두 달 사이 그가 세 번째로 많은 글을 올린 참가자가 되었음을 발견했습니다.
-1등과 2등은 핵심 기여자였고, 그들의 글 __70%__가 찰리에게 __답장__하는 데 쓰였습니다!
-찰리에게 악의가 없었음에도 우리의 에너지와 집중이 빨려나가고 있었습니다. 최종 해결책은 그에게 개인적으로 (정중히) 메일을 보내서,
+1등과 2등은 핵심 기여자였고, 그들의 글 __70%__가 Charlie에게 __답장__하는 데 쓰였습니다!
+Charlie에게 악의가 없었음에도 우리의 에너지와 집중이 빨려나가고 있었습니다. 최종 해결책은 그에게 개인적으로 (정중히) 메일을 보내서,
 그렇게 자주 글을 올리지 말아 달라고 요청하는 것이었습니다. 이는 어려운 대화였는데, 주로 그가 자신의 방해 규모를 이해하지 못했기 때문입니다.
 몇 주 더 큰 변화가 없자, 우리는 전화로 길고(더 어려운) 대화를 통해 아예 글을 멈춰 달라고 부탁했습니다.
 그는 약간 슬프고 혼란스러워했지만, 팀의 뜻을 존중해 물러났습니다. 그가 가한 피해를 끝내 완전히 이해하지 못했기에 모두가 약간 죄책감을 느꼈지만,
-동시에 옳은 일이라 느꼈습니다. 섬세한 상황이었지만, 우리는 HRT를 충분히 적용해 예의를 지키며 적절히 해결했습니다.
+동시에 옳은 일이라 느꼈습니다. 섬세한 상황이었지만, 우리는 HRT를 충분히 적용해 예의를 지키며 적절히 해결했습니다.(((range="endofrange", startref="ixch04asciidoc6")))
 
 [[focus_on_the_long_term]]
-==== Focus on the Long Term
+==== 장기적인 것에 집중하라
 
-((("long-term focus", id="ixch04asciidoc7", range="startofrange")))The path to a successful project is ((("distractions")))lined by thousands of
-distractions. If there's a common theme in dealing with the
-distraction of poisonous people, it's that it's all too easy to get
-caught up in the immediate drama of a situation. If you're witnessing
-what you think may be poisonous behavior, you need to ask yourself two
-critical questions:
-
-성공으로 가는 길에는 수천 가지 산만함이 늘어서 있습니다. 독성 인물로 인한 산만함을 다룰 때 공통 주제가 있다면,
+((("long-term focus", id="ixch04asciidoc7", range="startofrange")))성공으로 가는 길에는((("distractions"))) 수천 가지 산만함이 늘어서 있습니다. 독성 인물로 인한 산만함을 다룰 때 공통 주제가 있다면,
 눈앞의 드라마에 휘말리기 __너무__ 쉽다는 점입니다. 독성 행동으로 보이는 장면을 목격했다면, 자신에게 다음의 두 가지 핵심 질문을 던지세요.
 
-
-* Despite the short-term loss of your team's attention and focus, __do
-  you truly believe the project will still benefit in the long run__?
-
 * 단기적으로 팀의 주의와 집중을 잃더라도, __장기적으로 프로젝트가 이득을 볼 것이라고 진정 믿는가?__
-
-
-* Do you believe the conflict will ultimately resolve itself in a useful way?
 
 * 그 갈등이 궁극적으로 __유익한 방식__으로 해결될 것이라고 믿는가?
 
@@ -800,111 +365,50 @@ critical questions:
 [[image_no_caption-id028]]
 image::images/dbtm_04in04.png[]
 
-If your answer to either of these questions is "no," you need to
-intervene to stop the behavior as soon as possible. It's easy to
-persuade ourselves that the short-term gain of tolerating poison is
-worth it, but it usually isn't: for example, somebody may be a great
-technical contributor but still exhibit poisonous behavior. There's a
-temptation to turn a blind eye to the behavior in order to benefit
-from the technical advancement. But be careful! A strong culture based
-on HRT is irreplaceable, while technical contributions are
-__definitely__ replaceable. To quote a former teammate of ours:
-
 이 질문들 중 하나라도 답이 “아니오”라면, 가능한 한 빨리 개입해 그 행동을 멈춰야 합니다.
-독을 묵인하면 단기적 이득이 있다고 스스로를 설득하기 쉽지만, 대개 그렇지 않습니다. 누군가 훌륭한 기술 기여자일지라도 독성 행동을 보일 수 있습니다.
+독을 묵인하면 단기적 이득이 있다고 스스로를 설득하기 쉽지만, 보통은 그렇지 않습니다. 누군가 훌륭한 기술 기여자일지라도 독성 행동을 보일 수 있습니다.
 기술적 진보의 이익을 위해 행동을 못 본 척하고 싶겠지만, 조심하세요! HRT에 기반한 강한 문화는 대체 불가능하지만,
-기술 기여는 __충분히__ 대체 가능합니다. 우리 팀 동료의 말을 빌리면:
+기술 기여는 __충분히__ 대체 가능합니다. 우리 팀 동료의 말을 빌리면
 
 [quote,Greg Hudson]
 ____
-I have several friends who know him to some degree. One
-of them said, "He often walks the fine line between genius and
-lunatic." The problem is, genius is such a commodity these days that
-it's not acceptable to be an eccentric anymore.
+나는 그를 어느 정도 아는 친구들이 몇 명 있습니다. 그중 한 명은 이렇게 말했습니다. “그는 종종 천재와 광인의 경계선을 아슬아슬하게 걷는다.”문제는 요즘은 천재가 너무 흔한 자원이라, 더 이상 괴짜로 사는 것이 용납되지 않는다는 점입니다.
 ____
 
-
-Of course, Greg((("Hudson, Greg"))) isn't talking about literal "genius" here; he's
-pointing out that the world is full of highly competent
-programmers. If you find one who's offensive or threatens your culture
-over the long term, it's best to wait for another one to come along.
-
-물론 그렉이 말하는 ‘천재’는 문자 그대로의 천재가 아닙니다. 세상은 유능한 프로그래머로 가득합니다.
+물론 Greg((("Hudson, Greg")))이 말하는 ‘천재’는 문자 그대로의 천재가 아닙니다. 세상은 유능한 프로그래머로 가득합니다.
 장기적으로 불쾌감을 주거나 문화를 위협하는 사람이라면, 다른 사람을 기다리는 편이 낫습니다.
-
-We once encountered this sort of situation in the Subversion
-project. The team has a strict policy of not putting names into source
-code files (the very policy we discussed in
-<<building_an_awesome_team_culture>>!): we feel it creates
-unmanageable territoriality. People are afraid to change code if it
-has somebody else's name on it, and it keeps the bus factor
-artificially low. Instead, we allow the version control's history to
-credit people appropriately, and we keep a single top-level file with
-all the contributors' names in it.
 
 Subversion 프로젝트에서도 비슷한 상황을 겪었습니다.
 팀에는 소스 파일에 이름을 넣지 않는 엄격한 정책이 있습니다(<<building_an_awesome_team_culture>> 에서 다룬 바로 그 정책!).
 개인 명의는 통제하기 어려운 영역의식을 만듭니다. 누군가의 이름이 박힌 코드는 바꾸기 두렵고, 버스 팩터를 인위적으로 낮춥니다.
 대신 버전 관리 이력을 통해 적절히 공을 돌리고, 최상위에 모든 기여자의 이름을 모은 파일을 하나 둡니다.
 
-One day a smart programmer showed up and volunteered to write a
-sizable new feature that was sorely needed. He submitted the code for
-review, and our main feedback was simply requesting that he remove his
-name from the top of the file—that we'd credit him in the same places
-as everyone else. He refused to do this, however, and the debate led
-to an impasse. In the end, the decision was made to reject his code
-and he left, taking his toys with him. Of course everyone was
-disappointed, but we didn't want to violate our policy (and dilute our
-culture) just to get the new feature sooner. A couple of months later,
-someone else ended up reimplementing the feature anyway.
 
-어느 날 똑똑한 프로그래머가 나타나 절실한 큰 기능을 자원해 주었습니다.
-그는 리뷰를 위해 코드를 보냈고, 우리의 주요 피드백은 파일 상단의 자신의 이름을 지워 달라는 단순한 요청이었습니다—다른 이들과 같은 방식으로 공을 돌리겠다고요.
-하지만 그는 이를 거부했고, 논의는 교착에 빠졌습니다. 결국 우리는 그의 코드를 거절했고, 그는 자신의 장난감과 함께 떠났습니다.
-모두 실망했지만, 기능을 빨리 얻자고 정책을 깨뜨려(문화를 흐려) 버리고 싶지는 않았습니다. 두어 달 뒤, 다른 사람이 그 기능을 다시 구현했습니다.
+어느 날 똑똑한 프로그래머가 나타나 절실히 필요했던 큰 기능을 자원해 구현하겠다고 나섰습니다.
+그는 리뷰를 위해 코드를 제출했는데, 우리가 준 주요 피드백은 파일 상단에 적힌 자신의 이름을 지워 달라는 단순한 요청이었습니다. 다른 기여자들과 마찬가지로 동일한 방식으로 공로를 인정하겠다는 뜻이었습니다.
+그러나 그는 이를 거부했고, 논의는 교착 상태에 빠졌습니다.
+결국 우리는 그의 코드를 거절했고, 그는 자신의 코드를 챙겨 떠나 버렸습니다.
+물론 모두가 실망했지만, 새로운 기능을 빨리 얻자고 해서 우리의 정책을 어기고 문화를 희석하고 싶지는 않았습니다.
+그리고 두어 달 뒤, 다른 사람이 그 기능을 다시 구현했습니다.
 
-To be explicit: __it's not worth compromising your culture for the
-short-term__ pass:[<span class="keep-together"><em>gains</em>—</span>]particularly if it's about a brilliant contributor
-who doesn't acknowledge the importance of HRT.(((range="endofrange", startref="ixch04asciidoc7")))
-
-분명히 합시다. __단기적 이득을 위해 문화를 희생할 가치는 없습니다__—특히 HRT의 중요성을 인정하지 않는 ‘뛰어난’ 기여자 문제라면 더더욱요.
+분명히 말하자면, __단기적인 pass:[<span class="keep-together"><em>이익</em></span>]을 위해 문화를 희생할 가치는 없습니다.__ 특히 그것이 HRT의 중요성을 인정하지 않는 뛰어난 기여자에 관한 것이라면 더더욱 그렇습니다.(((range="endofrange", startref="ixch04asciidoc7")))
 
 [[a_final_thought]]
-=== A Final Thought
-
-This chapter discussed quite a number of scenarios, and after taking
-everything in it's easy to develop a deep sense of paranoia. Please
-remember that most of the world isn't overflowing with jerks.  A
-friend of ours once noted, "Yeah, there are only a few crazy people
-out there; the Internet just makes it seems like they all live next
-door."
+=== 마지막으로 드는 생각
 
 이 장은 다양한 시나리오를 다뤘고, 다 읽고 나면 편집증이 깊어지기 쉽습니다. 하지만 세상이 온통 못된 사람들로 가득 차 있지는 않다는 점을 기억하세요.
 어느 친구가 이렇게 말했습니다. “미친 사람은 몇 안 돼. 인터넷이 마치 다 옆집에 사는 것처럼 보이게 만들 뿐.”
 
-((("Hanlon, Robert J.")))((("ignorance, malice vs.")))((("malice, ignorance vs.")))((("stupidity, malice vs.")))Or, as the saying from Robert J. Hanlon goes:
+((("Hanlon, Robert J.")))((("ignorance, malice vs.")))((("malice, ignorance vs.")))((("stupidity, malice vs.")))로버트 J. 한론의 격언을 빌리면,
 
 [quote]
 ____
-Never attribute to malice that which is adequately explained by pass:[<span class="keep-together">stupidity</span>].
-로버트 J. 한론의 격언을 빌리면, “악의로 충분히 설명할 수 있는 일을 멍청함 탓으로 돌리지 마라.”
+ “악의로 충분히 설명할 수 있는 일을 '멍청함' 탓으로 돌리지 마라.”
 ____
 
-
-We prefer to use the term __ignorance__ rather than __stupidity__, but
-the idea is the same. As we mentioned in the beginning, it's naïve to
-think of people as Good or Bad. There are very few evil people out
-there trying to deliberately crush your culture—most of them are
-simply misinformed or misguided. Or perhaps they just want recognition
-and are too socially inept to fit in. Either way, your job isn't to
-cultivate condescension and lock out the less enlightened peasants
-from your project; rather, your job is to be intolerant of destructive
-behaviors and to be explicit about your expectations of HRT. It takes
-wisdom to understand the difference and real skill to carry it out.(((range="endofrange", startref="ixch04asciidoc0")))
-
 우리는 __멍청함__ 대신 __무지__라는 말을 쓰고 싶지만, 요점은 같습니다.
-앞서 말했듯, 사람을 선과 악으로 나누는 건 순진한 생각입니다. 문화를 고의로 박살 내려는 진짜 악인은 드뭅니다—대부분은 단지 잘못 알았거나 길을 잘못 든 사람들입니다.
+앞서 말했듯, 사람을 선과 악으로 나누는 건 순진한 생각입니다. 문화를 고의로 박살 내려는 진짜 악인은 드뭅니다. 대부분은 단지 잘못 알았거나 길을 잘못 든 사람들입니다.
 혹은 인정받고 싶지만 사회적으로 서툴러 어울리지 못하는 사람일 수도 있습니다. 어느 쪽이든, 당신의 일은 우쭐대며 계몽되지 않은 농노들을 프로젝트 밖으로 내치는 게 아니라,
-파괴적 행동을 용납하지 않고 HRT에 대한 기대를 분명히 하는 일입니다. 둘의 차이를 이해하는 데는 지혜가, 이를 실행하는 데는 진짜 기술이 필요합니다.
+파괴적 행동을 용납하지 않고 HRT에 대한 기대를 분명히 하는 일입니다. 둘의 차이를 이해하는 데는 지혜가, 이를 실행하는 데는 진짜 기술이 필요합니다.(((range="endofrange", startref="ixch04asciidoc0")))
 
 
