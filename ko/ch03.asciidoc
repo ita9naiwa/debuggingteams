@@ -92,7 +92,7 @@ of the hard-ass manager-as-mule-driver flourished in the middle part
 of the 20^th^ century when employees would work at the same job for
 years and years (frequently relying on their pension as well).
 
-관리자는 때로 노새몰이꾼처럼 직원을 대했습니다. 당근으로 앞에서 이끌다가, 듣지 않으면 채찍을 휘두르는 방식이었습니다. 이른바 ‘당근과 채찍’ 관리는 공장footnote:[공장 노동자의 동작을 최적화하려는 과학적 관리(테일러리즘)와, 그로 인한 사기 저하에 대한 더 흥미로운 이야기는 관련 자료를 찾아보세요.]에서 현대적인 직장으로 옮겨가도 살아남았습니다. 특히 직원이 같은 일을 수년간 하던 20세기 중반, ‘노새를 모는 독한 관리자’의 전형이 널리 퍼졌습니다.
+관리자는 때로 노새몰이꾼처럼 직원을 대했습니다. 당근으로 앞에서 이끌다가, 듣지 않으면 채찍을 휘두르는 방식이었습니다. 이른바 ‘당근과 채찍’ 관리는 공장footnote:[공장 노동자의 동작을 최적화하려는 과학적 관리(테일러리즘)와, 그로 인한 사기 저하에 대한 더 흥미로운 이야기는 관련 자료를 찾아보세요.]에서 현대적인 직장으로 옮겨가도 살아남았습니다. ((("scientific management")))((("taylorism"))) 특히 직원이 같은 일을 수년간 하던 20세기 중반, ‘노새를 모는 독한 관리자’의 전형이 널리 퍼졌습니다.
 
 This continues today in some industries—even in industries that
 require creative thinking and problem solving—despite numerous studies
@@ -128,7 +128,7 @@ out for their safety and well-being, all while making sure their needs
 are met. If there's one thing you remember from this chapter, make it
 this:
 
-많은 이들이 ‘관리자’라는 직함을 여전히 쓰지만, 이 말은 자주 시대착오적입니다. 우리는 __관리자__ 대신 __리더__라는 말을 써야 한다고 봅니다. 정치적 올바름을 외치는 부류와는 거리가 있지만, ‘관리자’는 네 글자 욕처럼 느껴질 정도입니다. 그 말의 존재 자체가 새 관리자로 하여금 __사람을 관리__하게 부추깁니다.관리자는 부모footnote:[아이를 키워 봤다면, 당신이 엄마(혹은 아빠)의 말을 똑같이 내뱉고는 “세상에, 내가 엄마가 됐네”라고(어쩌면 소리 내어) 외치던 순간을 생생히 기억할 가능성이 큽니다.]처럼 행동하게 되고 직원들은 아이처럼 반응합니다. HRT 맥락에서 말해 보죠. 관리자가 직원에 대한 신뢰를 분명히 보여 주면, 직원은 그 신뢰에 부응하려는 긍정적 압박을 느낍니다. 정말 간단합니다. 리더는 팀의 길을 열고, 안전과 행복을 살피며, 필요가 충족되도록 합니다. 이 장에서 하나만 기억한다면, 다음과 같습니다.
+많은 이들이 ‘관리자’라는 직함을 여전히 쓰지만, 이 말은 자주 시대착오적입니다. 우리는 __관리자__ 대신 __리더__라는 말을 써야 한다고 봅니다. 정치적 올바름을 외치는 부류와는 거리가 있지만, ‘관리자’는 네 글자 욕처럼 느껴질 정도입니다. 그 말의 존재 자체가 새 관리자로 하여금 __사람을 관리__하게 부추깁니다.관리자는 부모footnote:[아이를 키워 봤다면, 당신이 엄마(혹은 아빠)의 말을 똑같이 내뱉고는 “세상에, 내가 엄마가 됐네”라고(어쩌면 소리 내어) 외치던 순간을 생생히 기억할 가능성이 큽니다.]처럼 행동하게 되고 직원들은 아이처럼 반응합니다. ((("HRT (humility, respect, trust)","leadership and")))((("trust","leadership and")))HRT 맥락에서 말해 보죠. 관리자가 직원에 대한 신뢰를 분명히 보여 주면, 직원은 그 신뢰에 부응하려는 긍정적 압박을 느낍니다. 정말 간단합니다. 리더는 팀의 길을 열고, 안전과 행복을 살피며, 필요가 충족되도록 합니다. 이 장에서 하나만 기억한다면, 다음과 같습니다.
 
 [quote]
 ____
@@ -589,6 +589,7 @@ expensive than the price of a few pens and USB cables.(((range="endofrange", sta
 
 [[leadership_patterns]]
 === Leadership Patterns
+=== 리더쉽 패턴
 
 ((("leaders","patterns for effective", id="ixch03asciidoc6", range="startofrange")))((("patterns, leadership", id="ixch03asciidoc7", range="startofrange")))These are a collection of behavior patterns for successful leadership
 that we've learned from experience, from watching other successful
@@ -597,10 +598,11 @@ patterns are not only those that we've had great success implementing,
 but the patterns that we've always respected the most in the leaders
 that we follow.
 
-우리가 경험과 다른 훌륭한 리더들을 관찰하고, 무엇보다도 우리의 리더십 멘토들에게서 배워 온 성공적인 리더십 행동 패턴들을 모았습니다. 이는 우리가 직접 적용해 큰 성과를 거둔 패턴들이자, 우리가 따르는 리더들에서 가장 존경해 온 패턴들이기도 합니다.
+이것들은 우리가 경험과 다른 훌륭한 리더들을 관찰하고, 무엇보다도 우리의 리더십 멘토들에게서 배워 온 성공적인 리더십 행동 패턴들 입니다. 이는 우리가 직접 적용해 큰 성과를 거둔 패턴들이자, 우리가 따르는 리더들에서 가장 존경해 온 패턴들이기도 합니다.
 
 [[lose_the_ego-id001]]
 ==== Lose the Ego
+==== 자아를 내려놓기
 
 ((("ego","and effective leadership")))((("patterns, leadership","losing the ego")))We talked about "losing the ego" in
 <<the_myth_of_the_genius_programmer>> when we first examined HRT, but
@@ -615,7 +617,7 @@ egomaniac. Big personal egos are hard to handle on any team,
 especially in the team's leader. Instead, you should work to cultivate
 a strong((("team ego"))) collective __team__ ego and identity.
 
-HRT를 처음 다룰 때 <<the_myth_of_the_genius_programmer>> 에서 ‘자아를 내려놓기’에 대해 이야기했는데, 이는 서번트 리더 역할을 할 때 특히 중요합니다. 이 패턴을 ‘바닥걸레처럼 깔리고 팀이 마음대로 하게 두라’는 의미로 오해하곤 하지만 전혀 아닙니다. 겸손함과 남에게 휘둘림 사이에는 미묘한 경계가 있지만, 겸손은 자신감 부족과 __같지__ 않습니다. 자아도취자가 아니면서도 자신감과 의견을 가질 수 있습니다. 큰 개인적 자아는 어떤 팀에서도, 특히 리더에게서는 다루기 어렵습니다. 대신 강력한 집단적 __팀__ 자아와 정체성을 키워야 합니다.
+HRT를 처음 다룰 때 <<the_myth_of_the_genius_programmer>>에서 ‘자아를 내려놓기’에 대해 이야기했는데, 이는 서번트 리더 역할을 할 때 특히 중요합니다. 이 패턴을 ‘바닥걸레처럼 깔리고 팀이 마음대로 하게 두라’는 의미로 오해하곤 하지만 전혀 아닙니다. 겸손함과 남에게 휘둘림 사이에는 미묘한 경계가 있지만, 겸손은 자신감 부족과 같지 __않습니다.__ 자아도취자가 아니면서도 자신감과 의견을 가질 수 있습니다. 큰 개인적 자아는 어떤 팀에서도, 특히 리더에게서는 다루기 어렵습니다. 대신 강력한 집단적 __팀__ 자아와 정체성을 키워야 합니다.
 
 Part of "losing the ego" is
 something we've covered already: you need to trust your team. That
@@ -678,6 +680,7 @@ situations, and—coming back to HRT—humble.
 [role="pagebreak-before"]
 [[be_a_zen_master]]
 ==== Be a Zen Master
+==== 달인이 돼라
 
 ((("calm leadership", id="ixch03asciidoc8", range="startofrange")))((("patterns, leadership","being a Zen master", id="ixch03asciidoc9", range="startofrange")))((("patterns, leadership","maintaining calm", id="ixch03asciidoc10", range="startofrange")))((("Zen master, leader as", id="ixch03asciidoc11", range="startofrange")))As an engineer, you likely developed an excellent sense of skepticism
 and cynicism, but this can be a liability when you're trying to lead a
@@ -708,7 +711,7 @@ or seven gears, spinning wildly! The farther you move up the chain,
 the faster you can set the gears below you spinning, whether you
 intend to or not.
 
-이 효과를 시각화하는 간단한 방법은, 회사 조직도를 기어 사슬로 보는 것입니다. 한쪽 끝의 작은 개인 기여자 기어에서 시작해, 위로 올라갈수록 더 큰 매니저 기어가 이어지고, 최종적으로 수백 개 톱니를 가진 CEO 기어가 있습니다. 개인의 ‘매니저 기어’가 한 바퀴 돌면 개인 기어는 두세 바퀴 돕니다. CEO가 아주 작은 움직임만 보여도 여섯, 일곱 단계 말단의 직원은 미친 듯이 회전하게 됩니다! 사슬 위로 올라갈수록, 의도했든 아니든 아래 기어들을 더 빠르게 돌게 만듭니다.
+이 효과를 시각화하는 간단한 방법은, 회사 조직도를 기어 사슬로 보는 것입니다. 한쪽 끝의 작은 개인 기여자 기어에서 시작해, 위로 올라갈수록 더 큰 매니저 기어가 이어지고, 최종적으로 수백 개 톱니를 가진 CEO 기어가 있습니다. 하나의 ‘매니저 기어’가 한 바퀴 돌면 개인 기어는 두세 바퀴 돕니다. CEO가 아주 작은 움직임만 보여도 여섯, 일곱 단계 말단의 직원은 미친 듯이 회전하게 됩니다! 사슬 위로 올라갈수록, 의도했든 아니든 아래 기어들을 더 빠르게 돌게 만듭니다.
 
 
 [[image_no_caption-id019]]
@@ -725,7 +728,7 @@ job is to inspire, but inspiration is a 24/7 job.  Your visible
 attitude about absolutely everything--no matter how trivial--is
 unconsciously noticed and spreads infectiously to your team.
 
-또 다른 관점은 “__리더는 늘 무대 위에 있다__”는 격언입니다. 드러난 리더십 위치에 있다면 늘 누군가의 시선 아래 있습니다. 회의를 진행할 때만이 아니라, 책상에 앉아 이메일을 답할 때조차도요. 동료들은 당신의 몸짓, 스몰토크 반응, 점심시간의 작은 신호에서 미묘한 단서를 읽습니다. 그들은 자신감을 읽을까요, 두려움을 읽을까요? 리더의 일은 영감을 주는 일이고, 영감은 24/7입니다. 사소해 보이는 모든 것에 대한 당신의 태도는 무의식적으로 포착되어 전염되듯 팀으로 퍼집니다.
+또 다른 관점은 “__리더는 늘 무대 위에 있다__”는 격언입니다. 드러난 리더십 위치에 있다면 늘 누군가의 시선 아래 있습니다. 회의를 진행할 때만이 아니라, 책상에 앉아 이메일을 답할 때조차도요. 동료들은 당신의 몸짓, 스몰토크 반응, 점심시간의 작은 신호에서 미묘한 단서를 읽습니다. 그들은 자신감을 읽을까요, 두려움을 읽을까요? 리더의 일은 영감을 주는 일이고, 영감은 24시간 내내 찾아옵니다. 사소해 보이는 모든 것에 대한 당신의 태도는 무의식적으로 포착되어 전염되듯 팀으로 퍼집니다.
 
 Fitz had a manager, Bill,footnote:[His real name.]
 who truly mastered the ability to maintain calm at all times. No
@@ -740,11 +743,8 @@ came in and told Bill 19 of the company's offices had been attacked by
 space aliens, Bill's response would be, "Any idea why they didn't make
 it an even 20?"
 
-Fitz에게는 빌이라는footnote:[실명입니다.] 매니저가 있었는데, 그는 어떤 순간에도 침착함을 유지하는 능력을 완전히 체득한 사람이었습니다.
-무엇이 터지든, 얼마나 미친 사건이 벌어지든, 얼마나 큰 화재 폭풍이 닥치든 빌은 결코 당황하지 않았습니다.
-그는 한 팔을 가슴에 올리고 턱을 괴고는, 보통은 완전히 패닉 상태인 직원에게 문제를 묻곤 했습니다.
-그러면 직원은 진정하고, ‘목 잘린 닭’처럼 헤매지 않고 문제 해결에 집중할 수 있었습니다.
-Fitz는 농담처럼 말하곤 했습니다. 누가 와서 “회사 사무실 19곳이 외계인에게 공격당했습니다”라고 말한다면, 빌은 이렇게 답할 거라고요. “왜 20개를 채우지 않았을까요?”
+Fitz에게는 Bill이라는footnote:[실명입니다.] 매니저가 있었는데, 그는 어떤 순간에도 침착함을 유지하는 능력을 완전히 체득한 사람이었습니다. 무엇이 터지든, 얼마나 미친 사건이 벌어지든, 얼마나 큰 화재 폭풍이 닥치든 Bill은 결코 당황하지 않았습니다. 그는 한 팔을 가슴에 올리고 턱을 괴고는, 보통은 완전히 패닉 상태인 직원에게 문제를 묻곤 했습니다. 그러면 직원은 진정하고, ‘목 잘린 닭’처럼 헤매지 않고 문제 해결에 집중할 수 있었습니다.
+Fitz는 농담처럼 말하곤 했습니다. 누가 와서 “회사 사무실 19곳이 외계인에게 공격당했습니다”라고 말한다면, Bill은 이렇게 답할 거라고요. “왜 20개를 채우지 않았을까요?”
 
 ((("questions, asking","for effective leadership")))This brings us to another Zen
 management trick: asking questions. When a team member asks you for
@@ -768,17 +768,12 @@ the answer or not, using this technique will almost always leave the
 employee with the impression that you did. Tricky, eh? Socrates would
 be proud of you.(((range="endofrange", startref="ixch03asciidoc11")))(((range="endofrange", startref="ixch03asciidoc10")))(((range="endofrange", startref="ixch03asciidoc9")))(((range="endofrange", startref="ixch03asciidoc8")))
 
-여기서 또 하나의 선(禪)적 관리 요령으로 이어집니다.
-질문하기. 팀원이 조언을 구하면 흥분되기 쉽습니다.
-마침내 무엇인가를 고칠 기회니까요! 리더가 되기 전 수년간 해 오던 일이기도 하니, 보통은 __바로__ 해결 모드로 뛰어듭니다.
-하지만 그건 최악의 선택입니다. 조언을 구하는 사람은 보통 당신이 문제를 대신 해결하길 바라지 않습니다. 대신 __그 사람 자신이__ 해결하도록 돕기를 바랍니다.
-가장 쉬운 방법은 질문하는 것입니다. 물론 당신 자신을 Magic 8 Ball로 대체하라는 뜻은 아닙니다.
-그건 미치게 만들 뿐 도움이 되지 않습니다. 대신 HRT를 적용해, 문제를 더 정교하게 정의하고 탐색하도록 도와 그가 스스로 해결책에 이르도록 하세요.
-그러면 대개 답에 다다르게 됩니다footnote:[“Rubber duck debugging”도 참고하세요, link:$$http://en.wikipedia.org/wiki/Rubber_duck_debugging$$[].] 그리고 그 답은 __그 사람의__ 답이 됩니다. 앞서 말한 소유감과 책임으로 이어지죠.
-당신이 답을 알고 있든 없든, 이 기법을 쓰면 대부분의 경우 당신이 답을 알고 있었다는 인상을 남기게 됩니다. 교묘하죠? 소크라테스가 자랑스러워할 겁니다.
+여기서 또 하나의 "질문하기"란 달인 관리 요령으로 이어집니다. 팀원이 조언을 구하면 흥분되기 쉽습니다. 마침내 무엇인가를 고칠 기회니까요! 리더가 되기 전 수년간 해 오던 일이기도 하니, 보통은 __바로__ 해결 모드로 뛰어듭니다.
+하지만 그건 최악의 선택입니다. 조언을 구하는 사람은 보통 당신이 문제를 대신 해결하길 바라지 않습니다. 대신 __그 사람 자신이__ 해결하도록 돕기를 바랍니다. 가장 쉬운 방법은 질문하는 것입니다. 물론 당신 자신을 Magic 8 Ball(미국 장난감)로 대체하라는 뜻은 아닙니다. 그건 미치게 만들 뿐 도움이 되지 않습니다. 대신 HRT를 적용해, 문제를 더 정교하게 정의하고 탐색하도록 도와 그가 스스로 해결책에 이르도록 하세요. 그러면 대개 답에 다다르게 됩니다.footnote:[“Rubber duck debugging”도 참고하세요, link:$$http://en.wikipedia.org/wiki/Rubber_duck_debugging$$[].] 그리고 그 답은 __그 사람의__ 답이 됩니다. 앞서 말한 소유감과 책임으로 이어지죠. 당신이 답을 알고 있든 없든, 이 기법을 쓰면 대부분의 경우 당신이 답을 알고 있었다는 인상을 남기게 됩니다. 교묘하죠? 소크라테스가 자랑스러워할 겁니다.
 
 [[be_a_catalyst]]
 ==== Be a Catalyst
+==== 촉매가 돼라
 
 ((("catalyst, leader as", id="ixch03asciidoc12", range="startofrange")))((("patterns, leadership","being a catalyst", id="ixch03asciidoc13", range="startofrange")))In chemistry a catalyst is something that accelerates a chemical
 reaction, but which itself is not consumed in the reaction. One of the
@@ -789,10 +784,7 @@ with one another when the catalyst helps bring them together. This is
 a role you'll often need to play as a leader, and there are a number
 of ways you can go about it.
 
-화학에서 촉매는 반응을 가속하지만 스스로는 소모되지 않는 물질입니다.
-촉매(예: 효소)가 작동하는 방식 중 하나는 반응물들을 가까이 데려다 놓는 것입니다.
-용액 속에서 이리저리 튀던 반응물들이, 촉매의 도움으로 서로 가까워지면 유리한 상호작용을 할 가능성이 훨씬 커집니다.
-리더로서 당신도 자주 이런 역할을 하게 되며, 이를 위한 방법은 여럿 있습니다.
+화학에서 촉매는 반응을 가속하지만 스스로는 소모되지 않는 물질입니다. 촉매(예: 효소)가 작동하는 방식 중 하나는 반응물들을 가까이 데려다 놓는 것입니다. 용액 속에서 이리저리 튀던 반응물들이, 촉매의 도움으로 서로 가까워지면 유리한 상호작용을 할 가능성이 훨씬 커집니다. 리더로서 당신도 자주 이런 역할을 하게 되며, 이를 위한 방법은 여러가지입니다.
 
 ((("consensus building")))One of the most common things a team leader does is to build
 consensus. This may mean you drive the process from start to finish,
@@ -807,16 +799,12 @@ direction to one or more team leads. While this might look like a
 dictatorship or oligarchy, when it's done voluntarily it's a form of
 pass:[<span class="keep-together">consensus</span>].
 
-팀 리더가 가장 흔히 하는 일 중 하나는 합의를 만드는 것입니다.
-처음부터 끝까지 프로세스를 이끌 수도 있고, 속도를 내도록 올바른 방향으로 살짝 밀어 줄 수도 있습니다.
-팀 합의 형성은 비공식 리더들이 자주 쓰는 리더십 기술입니다.
-실제 권한 없이도 리드할 수 있는 방법이기 때문이죠.
-권한이 있다면 지시하고 명령할 수 있지만, 합의를 만드는 것에 비해 전체적으로 효과는 떨어집니다.
-팀이 빠르게 움직이고자 할 때는, 팀원들이 자발적으로 한두 명의 팀 리드에게 권한과 방향 결정을 위임하기도 합니다.
-겉으로는 독재나 과두정치처럼 보여도, 자발적으로 이루어진 것이라면 그것 역시 합의의 한 형태입니다.
+팀 리더가 가장 흔히 하는 일 중 하나는 합의를 만드는 것입니다. 처음부터 끝까지 프로세스를 이끌 수도 있고, 속도를 내도록 올바른 방향으로 살짝 밀어 줄 수도 있습니다. 팀 합의 형성은 비공식 리더들이 자주 쓰는 리더십 기술입니다.
+실제 권한 없이도 리드할 수 있는 방법이기 때문이죠. 권한이 있다면 지시하고 명령할 수 있지만, 합의를 만드는 것에 비해 전체적으로 효과는 떨어집니다. 팀이 빠르게 움직이고자 할 때는, 팀원들이 자발적으로 한두 명의 팀 리드에게 권한과 방향 결정을 위임하기도 합니다. 겉으로는 독재나 과두정치처럼 보여도, 자발적으로 이루어진 것이라면 그것 역시 합의의 한 형태입니다.
 
 [[note-4-5]]
 .Know Where to Put the Chalk Mark
+.분필 표시를 어디에 해야 하는지 알아라.
 ****
 There's a story about a Master of all things mechanical who had long
 since retired. His former company was having a problem that no one
@@ -832,14 +820,8 @@ chalk mark!  The Master responded with another invoice, showing a $1
 cost for the chalk to make the mark, and $9,999 for knowing where to
 put it.
 
-분필 표시를 어디에 해야 하는지.
-오래전에 은퇴한 ‘기계의 달인’ 이야기가 있습니다.
-그의 옛 회사에서 아무도 해결하지 못하는 문제가 생겨 달인을 불렀습니다.
-달인은 기계를 살펴보고 소리를 듣더니, 닳은 분필을 꺼내 기계 옆면에 작은 X 표시를 했습니다.
-그리고 바로 그 지점의 느슨해진 전선을 고치라고 기술자에게 알려 주었습니다.
-기술자가 기계를 열어 느슨한 전선을 조이자 문제는 해결됐습니다.
-곧 달인의 10,000달러짜리 청구서가 도착했고, 격분한 CEO는 “단순한 분필 표시”에 터무니없는 비용을 청구한 내역을 요구했습니다.
-달인은 분필값 1달러와, 표시할 곳을 __알아낸__ 대가 9,999달러로 적힌 청구서를 다시 보냈습니다.
+오래전에 은퇴한 ‘기계의 달인’ 이야기가 있습니다. 그의 옛 회사에서 아무도 해결하지 못하는 문제가 생겨 달인을 불렀습니다. 달인은 기계를 살펴보고 소리를 듣더니, 닳은 분필을 꺼내 기계 옆면에 작은 X 표시를 했습니다.
+그리고 바로 그 지점의 느슨해진 전선을 고치라고 기술자에게 알려 주었습니다. 기술자가 기계를 열어 느슨한 전선을 조이자 문제는 해결됐습니다. 곧 달인의 10,000달러짜리 청구서가 도착했고, 격분한 CEO는 “단순한 분필 표시”에 터무니없는 비용을 청구한 내역을 요구했습니다. 달인은 분필값 1달러와, 표시할 곳을 알아낸 비용 9,999달러로 적힌 청구서를 다시 보냈습니다.
 
 To us, this is a story about wisdom: that a single, carefully
 considered adjustment can have gigantic effects.  Ben tries to use
@@ -850,9 +832,9 @@ course corrections, he spends most of his week carefully watching and
 listening.  At the end of the week he makes a small chalk mark in a
 precise location on the blimp, then gives a small but critical
 "tap" to adjust the course.
-****
 
-우리에게 이 이야기는 지혜에 관한 것입니다. 신중한 __한 번의__ 조정이 거대한 효과를 낼 수 있다는 것. 벤은 사람을 관리할 때 이 기법을 씁니다. 그는 팀을 거대한 비행선으로 상상합니다. 느리지만 확실하게 한 방향으로 나아가는. 마이크로매니징으로 계속 진로를 수정하려 하기보다, 일주일 내내 주의 깊게 관찰하고 경청합니다. 그리고 주말에 비행선의 정확한 위치에 작은 분필 표시를 하고, 작지만 결정적인 “톡”으로 항로를 살짝 바꿉니다.
+우리에게 이 이야기는 지혜에 관한 것입니다. 신중한 한 번의 조정이 거대한 효과를 낼 수 있다는 것. Ben은 사람을 관리할 때 이 기법을 씁니다. 그는 팀을 거대한 비행선으로 상상합니다. 느리지만 확실하게 한 방향으로 나아가는. 마이크로매니징으로 계속 진로를 수정하려 하기보다, 일주일 내내 주의 깊게 관찰하고 경청합니다. 그리고 주말에 비행선의 정확한 위치에 작은 분필 표시를 하고, 작지만 결정적인 두드림으로 항로를 살짝 바꿉니다.
+****
 
 Sometimes your team already has consensus about what you need to do,
 but they hit a roadblock and get stuck. This could be a technical or
@@ -882,17 +864,11 @@ but it usually helps to know the people who do. __In many cases,
 knowing the right person is more valuable than knowing the right
 answer__.(((range="endofrange", startref="ixch03asciidoc13")))(((range="endofrange", startref="ixch03asciidoc12")))
 
-어느 날 Fitz의 팀은 법무 부서와의 장애물을 넘기 위해 몇 주를 보냈습니다.
-마침내 한계에 다다라 Fitz에게 도움을 청했을 때, 그는 연락해야 할 ‘적임자’를 알고 있었기에 두 시간도 안 되어 문제를 풀었습니다.
-또 다른 날, 벤의 팀은 서버 자원이 필요했지만 배정을 받을 수 없었습니다.
-다행히 벤은 회사 전체의 다른 팀들과 소통하고 있었고, 그날 오후 바로 팀이 필요로 하는 자원을 확보했습니다.
-또 한 번은 Fitz 팀의 엔지니어가 난해한 Java 코드에 막혔는데, Fitz는 자바 전문가가 아니었지만 문제를 정확히 아는 다른 엔지니어를 연결해 주었습니다.
-모든 답을 알아야 장애물을 치울 수 있는 것은 아닙니다.
-대신 답을 아는 사람을 아는 것이 대개 큰 도움이 됩니다.
-__많은 경우, ‘정답’을 아는 것보다 ‘정답을 아는 사람’을 아는 게 더 가치 있습니다__.
+어느 날 Fitz의 팀은 법무 부서와의 장애물을 넘기 위해 몇 주를 보냈습니다. 마침내 한계에 다다라 Fitz에게 도움을 청했을 때, 그는 연락해야 할 ‘적임자’를 알고 있었기에 두 시간도 안 되어 문제를 풀었습니다. 또 다른 날, Ben의 팀은 서버 자원이 필요했지만 배정을 받을 수 없었습니다. 다행히 Ben은 회사 전체의 다른 팀들과 소통하고 있었고, 그날 오후 바로 팀이 필요로 하는 자원을 확보했습니다. 또 한 번은 Fitz 팀의 엔지니어가 난해한 Java 코드에 막혔는데, Fitz는 자바 전문가가 아니었지만 문제를 정확히 아는 다른 엔지니어를 연결해 주었습니다. 모든 답을 알아야 장애물을 치울 수 있는 것은 아닙니다. 대신 답을 아는 사람을 아는 것이 대개 큰 도움이 됩니다. __많은 경우, ‘정답’을 아는 것보다 ‘정답을 아는 사람’을 아는 게 더 가치 있습니다__.
 
 [[failure_is_an_option]]
 ==== Failure Is an Option
+==== 실패는 선택지
 
 ((("failure","as an option")))((("patterns, leadership","failure as an option")))Another way to catalyze your team is to make them feel safe and secure
 so that they can take greater risks. Risk ((("risks","to catalyze team")))is a fascinating thing—most humans are __terrible__ at
@@ -907,13 +883,7 @@ merely attempted something you knew you could complete. A good way to
 build a culture where risk taking is
 accepted is to let your team __know__ it's OK to fail.
 
-팀의 촉매가 되는 또 다른 방법은, 더 큰 위험을 감수할 수 있도록 안전함과 심리적 안정감을 주는 것입니다.
-위험은 흥미로운 주제입니다.
-대부분의 인간은 위험 평가를 __형편없이__ 합니다.
-대부분의 회사는 어떤 대가를 치르더라도 위험을 피하려 하죠.
-그래서 보통은 보수적으로 일하고, 더 큰 위험이 기하급수적 성과를 가져올 수 있는 상황에서도 작은 성공에만 집중합니다.
-구글에선 자주 이렇게 말합니다.
-불가능해 보이는 목표에 도전하면 실패할 확률이 높다.
+팀의 촉매가 되는 또 다른 방법은, 더 큰 위험을 감수할 수 있도록 안전함과 심리적 안정감을 주는 것입니다. 위험((("risks","to catalyze team")))은 흥미로운 주제입니다. 대부분의 인간은 위험 평가를 __형편없이__ 합니다. 대부분의 회사는 어떤 대가를 치르더라도 위험을 피하려 하죠. 그래서 보통은 보수적으로 일하고, 더 큰 위험이 기하급수적 성과를 가져올 수 있는 상황에서도 작은 성공에만 집중합니다. 구글에선 자주 이렇게 말합니다. 불가능해 보이는 목표에 도전하면 실패할 확률이 높다.
 하지만 불가능에 도전하다 실패하면, 애초에 해낼 수 있는 일만 시도했을 때보다 훨씬 더 많은 것을 이루게 된다.
 위험 감수를 받아들이는 문화를 만들려면, 실패해도 괜찮다는 사실을 팀이 __알도록__ 하세요.
 
@@ -936,18 +906,7 @@ nor is it intended to introduce unnecessary bureaucratic checks; the goal is rat
 and for all. It's very difficult, but quite effective (and
 pass:[<span class="keep-together">cathartic</span>]!).
 
-그러니 분명히 합시다. 실패해도 괜찮습니다.
-사실 우리는 실패를 아주 빠르게 많은 것을 배우는 방법으로 봅니다(물론 같은 일을 반복해서 실패하지 않는다는 전제하에).
-실패를 비난이나 책임 추궁의 대상이 아니라 학습 기회로 보는 것이 중요합니다.
-빨리 실패하는 건 좋습니다.
-걸린 것이 많지 않으니까요footnote:[Alberto Savoia의 발표, http://bit.ly/pretotyping_manifesto["The Pretotyping Manifesto"] 참고].
-천천히 실패해도 배움은 있지만, 위험과 손실(대개 엔지니어링 시간)이 커서 더 아픕니다.
-고객에게 영향을 주는 방식의 실패는 우리가 가장 원치 않는 실패로, 그럴수록 실패에서 학습하기 위한 구조를 더 갖춰 둡니다.
-앞서 말했듯 구글은 프로덕션 실패가 있을 때마다 포스트모템을 진행합니다.
-이는 실제 실패로 이어진 사건들을 기록하고, 재발 방지를 위한 단계들을 만드는 절차입니다.
-이 과정은 책임을 따지거나 불필요한 관료적 점검을 들이밀기 위한 자리가 아닙니다.
-문제의 핵심에 강하게 집중해 __완전히__ 고치기 위한 자리입니다.
-매우 어렵지만, 아주 효과적입니다(그리고 일종의 카타르시스이기도 합니다!).
+그러니 분명히 합시다. 실패해도 괜찮습니다. 사실 우리는 실패를 아주 빠르게 많은 것을 배우는 방법으로 봅니다(물론 같은 일을 반복해서 실패하지 않는다는 전제하에). 실패를 비난이나 책임 추궁의 대상이 아니라 학습 기회로 보는 것이 중요합니다. 빨리 실패하는 건 좋습니다. 걸린 것이 많지 않으니까요footnote:[Alberto Savoia의 발표, http://bit.ly/pretotyping_manifesto["The Pretotyping Manifesto"] 참고].((("Savoia, Alberto"))) 천천히 실패해도 배움은 있지만, 위험과 손실(대개 엔지니어링 시간)이 커서 더 아픕니다. 고객에게 영향을 주는 방식의 실패는 우리가 가장 원치 않는 실패로, 그럴수록 실패에서 학습하기 위한 구조를 더 갖춰 둡니다. 앞서 말했듯 구글은 프로덕션 실패가 있을 때마다 포스트모템을 진행합니다. 이는 실제 실패로 이어진 사건들을 기록하고, 재발 방지를 위한 단계들을 만드는 절차입니다. 이 과정은 책임을 따지거나 불필요한 관료적 점검을 들이밀기 위한 자리가 아닙니다. 문제의 핵심에 강하게 집중해 완전히 고치기 위한 자리입니다. 매우 어렵지만, 아주 효과적입니다(그리고 pass:[<span class="keep-together">카타르시스</span>]입니다!).
 
 Individual successes and failures are a bit different. It's one thing
 to laud individual successes, but looking to assign individual blame
@@ -963,15 +922,12 @@ individual has failed, so there's no need to rub it in.] Whatever the
 case, take advantage of the opportunity and apply a liberal helping of
 HRT to help your team to learn from their failures.
 
-개인의 성공과 실패는 조금 다르게 다뤄야 합니다.
-개인의 성공을 칭찬하는 것은 좋지만, 실패했을 때 개인에게 책임을 전가하려 드는 건 팀을 분열시키고 전반적 위험 감수를 위축시키는 최선(?)의 방법입니다.
-실패해도 됩니다. 다만 팀으로서 실패하고, 거기서 배우세요.
-개인이 성공했다면 팀 앞에서 칭찬하고, 개인이 실패했다면 비공개로 건설적 비판을 제공하세요footnote:[개인을 공개적으로 비판할 일은 거의 없고, 대부분은 그저 모진 행동일 뿐입니다.
-팀은 이미 누가 실패했는지 알고 있으니 굳이 들쑤실 필요가 없습니다.].
-어떤 경우든 기회를 살려 HRT를 넉넉히 적용해, 팀이 실패에서 학습하도록 도우세요.
+개인의 성공과 실패는 조금 다르게 다뤄야 합니다. 개인의 성공을 칭찬하는 것은 좋지만, 실패했을 때 개인에게 책임을 전가하려 드는 건 팀을 분열시키고 전반적 위험 감수를 위축시키는 최악의 방법입니다. 실패해도 됩니다. 다만 팀으로서 실패하고, 거기서 배우세요. 개인이 성공했다면 팀 앞에서 칭찬하고, 개인이 실패했다면 비공개로 건설적 비판을 제공하세요.footnote:[개인을 공개적으로 비판할 일은 거의 없고, 대부분은 그저 모진 행동일 뿐입니다.
+팀은 이미 누가 실패했는지 알고 있으니 굳이 들쑤실 필요가 없습니다.] 어떤 경우든 기회를 살려 HRT를 넉넉히 적용해, 팀이 실패에서 학습하도록 도우세요.
 
 [[be_a_teacher_and_a_mentor]]
 ==== Be a Teacher and a Mentor
+==== 선생님과 멘토가 돼라
 
 ((("mentors, leaders as")))((("patterns, leadership","mentoring")))((("patterns, leadership","teaching")))((("teachers, leaders as")))One of the hardest things to do as a team leader is to watch a more
 junior-level team member spend three hours working on something you
@@ -982,9 +938,7 @@ especially important for new hires who, in addition to learning your
 team's technology and code base, are learning your team's culture and
 the appropriate level of responsibility to assume.
 
-팀 리더로서 가장 어려운 일 중 하나는, 당신이라면 20분이면 __끝낼__ 일을 주니어가 세 시간을 들여 씨름하는 모습을 지켜보는 것입니다.
-사람을 가르치고 스스로 배울 기회를 주는 일은 처음엔 몹시 어렵지만, 효과적인 리더십의 필수 구성 요소입니다.
-특히 신규 입사자에게 중요합니다. 그들은 팀의 기술과 코드베이스뿐 아니라 팀의 문화와 적절한 책임 수준까지 함께 배우고 있기 때문입니다.
+팀 리더로서 가장 어려운 일 중 하나는, 당신이라면 20분이면 __끝낼__ 일을 주니어가 세 시간을 들여 씨름하는 모습을 지켜보는 것입니다. 사람을 가르치고 스스로 배울 기회를 주는 일은 처음엔 몹시 어렵지만, 효과적인 리더십의 필수 구성 요소입니다. 특히 신규 입사자에게 중요합니다. 그들은 팀의 기술과 코드베이스뿐 아니라 팀의 문화와 적절한 책임 수준까지 함께 배우고 있기 때문입니다.
 
 Much like the role of manager, most people don't apply for the role of
 mentor—they usually become one when a team lead is looking for someone
@@ -998,14 +952,12 @@ supposed to be doing, but if you overexplain things or ramble on
 endlessly, your mentee will probably tune you out rather than politely
 tell you she got it.
 
-매니저 역할과 마찬가지로, 멘토 역할은 ‘지원’해서 맡기보다는 팀 리드가 신입을 도울 사람을 찾다가 자연스럽게 맡게 되는 경우가 많습니다.
-멘토에게 거창한 교육이나 준비는 필요하지 않습니다.
-본질적으로 세 가지가 중요합니다. 팀의 프로세스와 시스템에 대한 경험, 타인에게 설명하는 능력, 그리고 멘티가 어느 정도 도움을 필요로 하는지 가늠하는 능력.
-마지막이 아마 가장 중요합니다. 멘티에게 충분한 정보를 주는 것은 당신의 일입니다.
-하지만 지나치게 장황하게 설명하면, 멘티는 “알겠다”고 정중히 말하기보다, 그냥 귀를 닫아 버릴 것입니다.
+매니저 역할과 마찬가지로, 멘토 역할은 지원해서 맡기보다는 팀 리드가 신입을 도울 사람을 찾다가 자연스럽게 맡게 되는 경우가 많습니다. 멘토에게 거창한 교육이나 준비는 필요하지 않습니다. 본질적으로 세 가지가 중요합니다. 팀의 프로세스와 시스템에 대한 경험, 타인에게 설명하는 능력, 그리고 멘티가 어느 정도 도움을 필요로 하는지 가늠하는 능력.
+마지막이 아마 가장 중요합니다. 멘티에게 충분한 정보를 주는 것은 당신의 일입니다. 하지만 지나치게 장황하게 설명하면, 멘티는 “알겠다”고 정중히 말하기보다, 그냥 귀를 닫아 버릴 것입니다.
 
 [[set_clear_goals]]
 ==== Set Clear Goals
+==== 명확한 목표를 세워라
 
 ((("goals, setting clear")))((("patterns, leadership","setting clear goals")))This is one of those patterns that, as obvious as it sounds, is solidly
 ignored by an enormous number of leaders. If
@@ -1019,12 +971,7 @@ product) northbound as quickly as possible, you can't have team
 members pulling every which way—you want them all pulling the truck
 north.
 
-겉보기에는 너무나 자명하지만 놀라울 만큼 많은 리더들이 꾸준히 무시하는 패턴입니다.
-팀을 한 방향으로 빠르게 움직이게 하려면, 구성원 모두가 그 방향이 무엇인지 이해하고 동의하게 해야 합니다.
-제품을 거대한 트럭이라고 상상해 봅시다(파이프가 아니라).
-각 팀원이 트럭 앞에 묶인 밧줄을 손에 쥐고 있고, 일을 하면서 자신의 방향으로 트럭을 끕니다.
-당신의 목표가 트럭(혹은 제품)을 가능한 한 빨리 북쪽으로 끌고 가는 것이라면, 제각각으로 끌게 둘 수는 없습니다. 모두가 북쪽으로 끌어야 합니다.
-
+겉보기에는 너무나 자명하지만 놀라울 만큼 많은 리더들이 꾸준히 무시하는 패턴입니다. 팀을 한 방향으로 빠르게 움직이게 하려면, 구성원 모두가 그 방향이 무엇인지 이해하고 동의하게 해야 합니다. 제품을 거대한 트럭이라고 상상해 봅시다(파이프가 아니라). 각 팀원이 트럭 앞에 묶인 밧줄을 손에 쥐고 있고, 일을 하면서 자신의 방향으로 트럭을 끕니다. 당신의 목표가 트럭(혹은 제품)을 가능한 한 빨리 북쪽으로 끌고 가는 것이라면, 제각각으로 끌게 둘 수는 없습니다. 모두가 북쪽으로 끌어야 합니다.
 
 [[image_no_caption-id020]]
 image::images/dbtm_03in06.png[]
@@ -1045,12 +992,13 @@ direction. This frustrates you, slows progress for the team, and
 forces you to use more and more of your own energy to correct the
 course.
 
-명확한 목표를 세우고 팀이 같은 방향으로 제품을 끌도록 만드는 가장 쉬운 방법은,
+명확한 ((("mission statements")))목표를 세우고 팀이 같은 방향으로 제품을 끌도록 만드는 가장 쉬운 방법은,
 간결한 팀 미션 스테이트먼트를 만드는 것입니다(미션 스테이트먼트에 대해서는 <<building_an_awesome_team_culture>> 의 <<the_mission_statementmdashno_really>> 절을 참조하세요).
 팀의 방향과 목표를 정의하도록 도운 뒤에는 한 발 물러서 자율성을 부여하고, 주기적으로 점검해 올바른 궤도에 있는지 확인하세요. 이렇게 하면 리더십의 다른 과제에 시간을 쓸 여유가 생길 뿐 아니라, 팀의 효율이 __비약적으로 향상__됩니다. 명확한 목표 없이도 팀은 (실제로) 성공할 수 있지만, 대개는 각자가 약간씩 다른 방향으로 제품을 끌면서 엄청난 에너지를 낭비합니다. 이는 당신을 좌절시키고 팀의 진행을 늦추며, 당신이 진로를 바로잡기 위해 더 많은 에너지를 쓰게 만듭니다.
 
 [[be_honest]]
 ==== Be Honest
+==== 진실되라
 
 ((("honesty, leadership and")))((("patterns, leadership","honesty")))This doesn't mean we're assuming you are lying to your team, but it
 merits a mention because you'll inevitably find yourself in a position
@@ -1059,10 +1007,7 @@ tell them something they don't want to hear. A former manager of
 Fitz's would tell new team members, "I won't lie to you, but I will
 tell you when I can't tell you something or if I just don't know."
 
-당신이 팀에게 거짓말을 한다고 가정하는 것은 아닙니다.
-다만, 언젠가 반드시 팀에게 어떤 것을 말할 수 없거나, 더 나쁘게는 듣기 싫은 사실을 말해야 하는 상황이 오기 때문에 이 주제를 언급합니다.
-Fitz의 이전 매니저는 신입 팀원들에게 이렇게 말하곤 했습니다.
-“나는 너희에게 거짓말하지 않아. 하지만 어떤 건 말할 수 없을 때가 있고, 그냥 모를 때도 있다는 건 말해 줄게.”
+당신이 팀에게 거짓말을 한다고 가정하는 것은 아닙니다. 다만, 언젠가 반드시 팀에게 어떤 것을 말할 수 없거나, 더 나쁘게는 듣기 싫은 사실을 말해야 하는 상황이 오기 때문에 이 주제를 언급합니다. Fitz의 이전 매니저는 신입 팀원들에게 이렇게 말하곤 했습니다. “나는 너희에게 거짓말하지 않아. 하지만 어떤 건 말할 수 없을 때가 있고, 그냥 모를 때도 있다는 건 말해 줄게.”
 
 If a team member approaches you about something you can't share with
 her, it's OK to just tell her you know the answer but can't tell
@@ -1073,10 +1018,7 @@ read it, but many people move to a manager role and feel that if they
 don't know the answer to something it proves they're weak or out of
 touch. In reality, the only thing it proves is that they're human.
 
-팀원이 당신이 공유할 수 없는 것을 묻는다면, 답을 알고 있지만 말해 줄 수 없다고 말해도 괜찮습니다.
-더 흔한 상황은, 당신이 답을 모르는 질문을 받는 경우입니다. 모른다고 말하세요.
-글로 보면 너무나 자명하지만, 많은 이들이 매니저 역할로 이동하면 답을 모르는 것이 약하거나 둔감하다는 증거라고 느낍니다.
-현실에서 그게 증명하는 유일한 사실은 ‘인간’이라는 점뿐입니다.
+팀원이 당신이 공유할 수 없는 것을 묻는다면, 답을 알고 있지만 말해 줄 수 없다고 말해도 괜찮습니다. 더 흔한 상황은, 당신이 답을 모르는 질문을 받는 경우입니다. 모른다고 말하세요. 글로 보면 너무나 자명하지만, 많은 이들이 매니저 역할로 이동하면 답을 모르는 것이 약하거나 둔감하다는 증거라고 느낍니다. 현실에서 그게 증명하는 유일한 사실은 ‘인간’이라는 점뿐입니다.
 
 Giving hard feedback((("feedback","negative"))) is…well,
 __hard__. The first time you have to tell one of your reports that he
@@ -1091,8 +1033,7 @@ engineers. That being said, your code is incredibly convoluted and
 almost impossible for anyone else on the team to understand. But
 you've got great potential and a wicked cool neckbeard."__
 
-어려운 피드백을 주는 일은… 음, __어렵습니다__. 부하 직원에게 실수를 했거나 기대만큼 일을 잘하지 못했다고 처음 말해야 할 때는 엄청나게 스트레스를 받을 수 있습니다.
-대부분의 관리 서적은 어려운 피드백을 전할 때 충격을 완화하기 위해 "칭찬 샌드위치"를 사용하라고 조언합니다. 칭찬 샌드위치는 다음과 같습니다:
+어려운 피드백을 주는 일은… 음, __어렵습니다__. 부하 직원에게 실수를 했거나 기대만큼 일을 잘하지 못했다고 처음 말해야 할 때는 엄청나게 스트레스를 받을 수 있습니다. ((("compliment sandwich")))대부분의 관리 서적은 어려운 피드백을 전할 때 충격을 완화하기 위해 "칭찬 샌드위치"를 사용하라고 조언합니다. 칭찬 샌드위치는 다음과 같습니다:
 
 __"당신은 팀의 든든한 구성원이고 우리의 가장 똑똑한 엔지니어 중 한 명입니다. 그런데 말이지, 당신의 코드는 엄청나게 복잡하고 팀의 다른 누구도 이해하기 거의 불가능합니다. 하지만 당신은 엄청난 잠재력이 있고 멋진 턱수염도 있어요."__
 
@@ -1130,7 +1071,7 @@ performance with the previous team. Lo and behold, within a matter of
 weeks (and after a few more "refresher" meetings), Tim's performance
 improved dramatically. Tim just needed very clear feedback and pass:[<span class="keep-together">direction</span>].
 
-몇 년 전, Fitz는 다른 매니저로부터 팀원 Tim을 인수받았는데, 그 매니저는 Tim과 함께 일하는 것이 불가능하다고 주장했습니다. 그는 Fitz에게 Tim이 피드백이나 비판에 전혀 반응하지 않고, 대신 하지 말라고 들은 똑같은 일을 계속 한다고 말했습니다. Fitz는 매니저와 Tim 사이의 상호작용을 관찰하기 위해 몇 번의 회의에 참석했고, 그 매니저가 Tim의 감정을 상하게 하지 않으려고 칭찬 샌드위치를 광범위하게 사용한다는 것을 알아차렸습니다. Fitz가 Tim을 자신의 팀으로 데려왔을 때, 그는 Tim과 앉아서 팀과 더 효과적으로 일하기 위해 몇 가지 변화가 필요하다고 매우 명확하게 설명했습니다. Fitz는 Tim에게 어떤 칭찬도 하지 않았고 문제를 포장하지도 않았지만, 똑같이 중요한 것은 Fitz가 비정하지 않았다는 점입니다. 그는 단지 이전 팀에서의 Tim의 성과를 바탕으로 자신이 본 사실들을 제시했을 뿐입니다. 놀랍게도 몇 주 만에 (그리고 몇 번의 "복습" 회의 후에) Tim의 성과가 극적으로 향상되었습니다. Tim에게는 매우 명확한 피드백과 방향이 필요했을 뿐이었습니다.
+몇 년 전, Fitz는 다른 매니저로부터 팀원 Tim을 인수받았는데, 그 매니저는 Tim과 함께 일하는 것이 불가능하다고 주장했습니다. 그는 Fitz에게 Tim이 피드백이나 비판에 전혀 반응하지 않고, 대신 하지 말라고 들은 똑같은 일을 계속 한다고 말했습니다. Fitz는 매니저와 Tim 사이의 상호작용을 관찰하기 위해 몇 번의 회의에 참석했고, 그 매니저가 Tim의 감정을 상하게 하지 않으려고 칭찬 샌드위치를 광범위하게 사용한다는 것을 알아차렸습니다. Fitz가 Tim을 자신의 팀으로 데려왔을 때, 그는 Tim과 앉아서 팀과 더 효과적으로 일하기 위해 몇 가지 변화가 필요하다고 매우 명확하게 설명했습니다. Fitz는 Tim에게 어떤 칭찬도 하지 않았고 문제를 포장하지도 않았지만, 똑같이 중요한 것은 Fitz가 비정하지 않았다는 점입니다. 그는 단지 이전 팀에서의 Tim의 성과를 바탕으로 자신이 본 사실들을 제시했을 뿐입니다. 놀랍게도 몇 주 만에 (그리고 몇 번의 "복습" 회의 후에) Tim의 성과가 극적으로 향상되었습니다. Tim에게는 매우 명확한 피드백과 pass:[<span class="keep-together">방향</span>]이 필요했을 뿐이었습니다.
 
 When you're providing direct feedback or criticism, your delivery is key to
 making sure your message is heard and not deflected. If you put the
@@ -1148,7 +1089,7 @@ thought hard about how he could get Dean to understand how his actions
 were adversely affecting the team, and he came up with the following
 metaphor:
 
-직접적인 피드백이나 비판을 제공할 때, 메시지가 들리고 회피되지 않도록 하는 데 있어 전달 방식이 핵심입니다. 상대방을 방어적으로 만들면, 그는 어떻게 변화할 수 있을지 생각하는 대신 당신이 틀렸다는 것을 보여주기 위해 어떻게 논쟁할지를 생각하게 됩니다. Ben은 한때 Dean이라고 부를 엔지니어를 관리했습니다. Dean은 극도로 강한 의견을 가지고 있었고 팀의 나머지 구성원들과 __무엇이든__ 논쟁했습니다. 팀의 미션처럼 큰 것이든 웹 페이지의 위젯 배치처럼 작은 것이든 상관없이, Dean은 같은 확신과 격렬함으로 논쟁했고, 어떤 것도 그냥 넘어가게 두지 않았습니다. 몇 달간 이런 행동을 한 후, Ben은 Dean과 만나 그가 너무 호전적이라고 설명했습니다. 만약 Ben이 그냥 "Dean, 그렇게 짜증나게 굴지 마"라고 말했다면, Dean이 그것을 완전히 무시했을 것이 확실합니다. Ben은 Dean이 자신의 행동이 팀에 어떻게 악영향을 미치고 있는지 이해하게 할 방법을 열심히 생각했고, 다음과 같은 비유를 생각해냈습니다:
+직접적인 피드백이나 비판을 제공할 때, 메시지가 들리고 회피되지 않도록 하는 데 있어 전달 방식이 핵심입니다. 상대방을 방어적으로 만들면, 그는 어떻게 변화할 수 있을지 생각하는 대신 당신이 틀렸다는 것을 보여주기 위해 어떻게 논쟁할지를 생각하게 됩니다. Ben은 한때 Dean이란 엔지니어를 관리했습니다. Dean은 극도로 강한 의견을 가지고 있었고 팀의 나머지 구성원들과 __무엇이든__ 논쟁했습니다. 팀의 미션처럼 큰 것이든 웹 페이지의 위젯 배치처럼 작은 것이든 상관없이, Dean은 같은 확신과 격렬함으로 논쟁했고, 어떤 것도 그냥 넘어가게 두지 않았습니다. 몇 달간 이런 행동을 한 후, Ben은 Dean과 만나 그가 너무 호전적이라고 설명했습니다. 만약 Ben이 그냥 "Dean, 그렇게 짜증나게 굴지 마"라고 말했다면, Dean이 그것을 완전히 무시했을 것이 확실합니다. Ben은 Dean이 자신의 행동이 팀에 어떻게 악영향을 미치고 있는지 이해하게 할 방법을 열심히 생각했고, 다음과 같은 비유를 생각해냈습니다:
 
 [quote]
 ____
@@ -1162,6 +1103,8 @@ eventually one of the engineers driving the train is going to get mad
 enough to run right over you. So, while it's OK to jump in front of
 some trains, pick and choose the ones you want to stop to make sure
 you're only stopping the trains that really matter.
+
+의사결정이 이루어질 때마다, 마을을 지나가는 기차와 같습니다. 기차를 멈추려고 기차 앞에 뛰어들면 기차를 늦추게 되고 기차를 운전하는 기관사를 짜증나게 할 수 있습니다. 새로운 기차가 15분마다 지나가고, 만약 모든 기차 앞에 뛰어든다면, 기차를 멈추는 데 많은 시간을 보낼 뿐만 아니라 결국 기차를 운전하는 기관사 중 한 명이 당신을 그냥 밟아버릴 만큼 화가 날 것입니다. 따라서, 일부 기차 앞에 뛰어드는 것은 괜찮지만, 정말 중요한 기차만 멈추고 있다는 것을 확실히 하기 위해 멈추고 싶은 기차를 선택하세요.
 ____
 
 
@@ -1171,8 +1114,11 @@ also made it easier for Ben and Dean to discuss the effect that Dean's
 in addition to the energy Dean was spending on
 it.
 
+이 일화는 상황에 약간의 유머를 주입했을 뿐만 아니라, Dean의 "기차 멈추기"가 팀에 미치는 영향과 Dean이 그것에 들이는 에너지에 대해 Ben과 Dean이 더 쉽게 논의할 수 있게 했습니다.
+
 [[track_happiness]]
 ==== Track Happiness
+==== 행복을 추적하라
 
 ((("happiness, tracking", id="ixch03asciidoc14", range="startofrange")))((("patterns, leadership","tracking happiness", id="ixch03asciidoc15", range="startofrange")))((("tracking happiness", id="ixch03asciidoc16", range="startofrange")))As a leader, one way you can make your team more productive (and less
 likely to leave) in the long term is to take some time to gauge their happiness. The best
@@ -1204,6 +1150,7 @@ laundry list of things they need to make their job better.
 팀의 행복을 추적하는 데 가장 가치 있는 도구 중 하나는 각 일대일 회의가 끝날 때 팀원에게 "무엇이 필요하세요?"라고 묻는 것입니다. 이 간단한 질문은 마무리하고 각 팀원이 생산적이고 행복하게 지내는 데 필요한 것을 갖추고 있는지 확인하는 좋은 방법입니다. 세부 사항을 얻기 위해 조심스럽게 좀 더 파고들어야 할 수도 있지만 말입니다. 일대일 회의를 할 때마다 이렇게 묻는다면, 결국 팀이 이것을 기억하게 되고 때로는 자신의 일을 더 좋게 만들기 위해 필요한 것들의 목록을 가지고 당신에게 오기도 할 것입니다.
 
 .The Unexpected Question
+.예상치 못한 질문
 ****
 ((("Schmidt, Eric")))Shortly after Fitz started at Google he had his first meeting with
 then-CEO Eric Schmidt, and at the end Eric asked
@@ -1213,7 +1160,6 @@ unprepared for this. So he sat there dumbstruck and staring. But you
 can be sure Fitz had something ready the next time he was asked that
 question!
 
-.예상치 못한 질문
 Fitz가 구글에서 일을 시작한 직후, 당시 CEO였던 Eric Schmidt와 첫 회의를 가졌는데, 마지막에 Eric이 Fitz에게 "필요한 것이 있나요?"라고 물었습니다. 어려운 질문이나 도전에 대한 수백만 가지 방어적 답변을 준비했던 Fitz는 이 질문에 __완전히__ 준비가 되어 있지 않았습니다. 그래서 그는 그곳에 앉아 말문이 막힌 채 바라보기만 했습니다. 하지만 다음번에 그 질문을 받았을 때는 Fitz가 뭔가 준비되어 있었다는 것을 확신할 수 있습니다!
 ****
 
@@ -1247,23 +1193,22 @@ part of this is to take these implicit goals and make them
 __explicit__ so that when you're giving career advice you have a real
 set of metrics on which to evaluate situations and opportunities.
 
+팀원들의 행복을 추적하는 큰 부분은 그들의 커리어를 추적하는 것입니다. 팀원에게 5년 후 자신의 커리어를 어떻게 보는지 묻는다면,
+대부분의 경우 어깨를 으쓱하며 멍한 표정을 짓게 될 것입니다. 갑자기 그런 질문을 받으면 대부분의 사람들은 이에 대해 많이 말하지 않을 것이지만,
+보통 모든 사람이 향후 5년 동안 하고 싶어하는 몇 가지가 있습니다: 승진하기, 새로운 것 배우기, 중요한 것 출시하기, 그리고 똑똑한 사람들과 일하기.
+이것을 말로 표현하든 그렇지 않든, 대부분의 사람들은 이에 대해 생각하고 있습니다. 효과적인 리더가 되려면, 이 모든 것들이 일어나도록 어떻게 도울 수 있는지 생각하고 이에 대해 생각하고 있다는 것을 팀에게 알려야 합니다. 이 중 가장 중요한 부분은 이러한 암묵적 목표들을 __명시적으로__ 만드는 것입니다. 그래야 커리어 조언을 할 때 상황과 기회를 평가할 수 있는 실제 지표 세트를 갖게 됩니다.
+
 Tracking happiness comes down to not just monitoring
 careers, but also giving your team members opportunities to improve
 themselves, get recognized for the work they do, and have a little fun
 along the way.(((range="endofrange", startref="ixch03asciidoc16")))(((range="endofrange", startref="ixch03asciidoc15")))(((range="endofrange", startref="ixch03asciidoc14")))
 
-팀원들의 행복을 추적하는 큰 부분은 그들의 커리어를 추적하는 것입니다. 팀원에게 5년 후 자신의 커리어를 어떻게 보는지 묻는다면,
-대부분의 경우 어깨를 으쓱하며 멍한 표정을 짓게 될 것입니다. 갑자기 그런 질문을 받으면 대부분의 사람들은 이에 대해 많이 말하지 않을 것이지만,
-보통 모든 사람이 향후 5년 동안 하고 싶어하는 몇 가지가 있습니다: 승진하기, 새로운 것 배우기, 중요한 것 출시하기, 그리고 똑똑한 사람들과 일하기.
-이것을 말로 표현하든 그렇지 않든, 대부분의 사람들은 이에 대해 생각하고 있습니다.
-효과적인 리더가 되려면, 이 모든 것들이 일어나도록 어떻게 도울 수 있는지 생각하고 이에 대해 생각하고 있다는 것을 팀에게 알려야 합니다.
-이 중 가장 중요한 부분은 이러한 암묵적 목표들을 __명시적으로__ 만드는 것입니다.
-그래야 커리어 조언을 할 때 상황과 기회를 평가할 수 있는 실제 지표 세트를 갖게 됩니다.
 행복 추적은 단순히 커리어를 모니터링하는 것뿐만 아니라, 팀원들에게 자신을 개선하고, 그들이 하는 일에 대한 인정을 받으며,
 그 과정에서 약간의 재미를 느낄 기회를 주는 것으로 귀결됩니다.
 
 [[other_tips_and_tricks]]
 ==== Other Tips and Tricks
+==== 다른 팁과 비결들
 
 ((("delegation")))__Delegate, ((("patterns, leadership","various tips and tricks", id="ixch03asciidoc17", range="startofrange")))but get your hands dirty__. When moving from an individual
 contributor role to a leadership role, achieving a balance is one of
@@ -1283,14 +1228,7 @@ but nothing lets a team know how skillful and dedicated (and humble)
 you are like jumping in and actually doing some hard
 work.
 
-__위임하되, 손을 더럽혀라__. 개인 기여자 역할에서 리더십 역할로 이동할 때, 균형을 맞추는 것은 가장 어려운 일 중 하나입니다.
-처음에는 모든 일을 스스로 하려는 경향이 있고, 리더십 역할을 오래 맡은 후에는 일을 __전혀__ 하지 않는 습관에 빠지기 쉽습니다.
-리더십 역할이 처음이라면, 팀의 다른 엔지니어들에게 일을 위임하는 데 열심히 노력해야 할 것입니다.
-그들이 그 일을 완수하는 데 당신보다 훨씬 오래 걸릴지라도 말입니다. 이것은 당신의 정신 건강을 유지하는 한 가지 방법일 뿐만 아니라,
-팀의 나머지 구성원들이 배우는 방법이기도 합니다. 한동안 팀을 이끌어왔거나 새로운 팀을 맡게 된다면,
-팀의 존경을 얻고 그들이 하고 있는 일을 빠르게 파악하는 가장 쉬운 방법 중 하나는 손을 더럽히는 것입니다.
-보통 다른 누구도 하고 싶어하지 않는 더러운 작업을 맡는 것으로 말입니다.
-이력서와 성취 목록이 아무리 길어도, 실제로 뛰어들어 힘든 일을 하는 것만큼 팀에게 당신이 얼마나 숙련되고 헌신적이며 (그리고 겸손한지) 알려주는 것은 없습니다.
+__위임하되, ((("patterns, leadership","various tips and tricks", id="ixch03asciidoc17", range="startofrange")))손을 더럽혀라__. 개인 기여자 역할에서 리더십 역할로 이동할 때, 균형을 맞추는 것은 가장 어려운 일 중 하나입니다. 처음에는 모든 일을 스스로 하려는 경향이 있고, 리더십 역할을 오래 맡은 후에는 일을 __전혀__ 하지 않는 습관에 빠지기 쉽습니다. 리더십 역할이 처음이라면, 팀의 다른 엔지니어들에게 일을 위임하는 데 열심히 노력해야 할 것입니다. 그들이 그 일을 완수하는 데 당신보다 훨씬 오래 걸릴지라도 말입니다. 이것은 당신의 정신 건강을 유지하는 한 가지 방법일 뿐만 아니라, 팀의 나머지 구성원들이 배우는 방법이기도 합니다. 한동안 팀을 이끌어왔거나 새로운 팀을 맡게 된다면, 팀의 존경을 얻고 그들이 하고 있는 일을 빠르게 파악하는 가장 쉬운 방법 중 하나는 손을 더럽히는 것입니다. 보통 다른 누구도 하고 싶어하지 않는 더러운 작업을 맡는 것으로 말입니다. 이력서와 성취 목록이 아무리 길어도, 실제로 뛰어들어 힘든 일을 하는 것만큼 팀에게 당신이 얼마나 숙련되고 헌신적이며 (그리고 겸손한지) 알려주는 것은 없습니다.
 
 ((("replacing yourself")))__Seek to replace yourself__. Unless you want to keep doing the exact
 same job for the rest of your career, seek to replace yourself. This
@@ -1307,14 +1245,7 @@ been amazed at companies that take their best engineers and—against
 their wishes—throw these engineers into management roles. This usually
 subtracts a great engineer from your team and adds a subpar manager.
 
-__자신을 대체할 사람을 찾아라__. 평생 똑같은 일을 계속하고 싶지 않다면, 자신을 대체할 사람을 찾으세요.
-이는 앞서 언급했듯이 채용 과정에서 시작됩니다. 팀의 구성원이 당신을 대체하기를 원한다면, 당신을 대체할 수 있는 사람들을 고용해야 합니다.
-우리는 이를 보통 "당신보다 똑똑한 사람을 고용하라"고 요약합니다.
-당신의 일을 할 수 있는 팀원들이 있으면, 그들에게 더 많은 책임을 맡거나 때때로 팀을 이끌 기회를 주어야 합니다.
-이렇게 하면 누가 리더십에 가장 적성이 있는지, 그리고 누가 팀을 이끌고 __싶어하는지__ 빠르게 알 수 있을 것입니다.
-어떤 사람들은 그냥 고성과 개인 기여자로 있는 것을 선호한다는 것을 기억하세요. 그것도 괜찮습니다.
-우리는 항상 최고의 엔지니어들을 데려다가—그들의 의사에 반해—관리 역할에 던져넣는 회사들에 놀라왔습니다.
-이는 보통 팀에서 훌륭한 엔지니어를 빼고 평균 이하의 매니저를 추가하는 결과를 낳습니다.
+__자신을 대체할 사람을 찾아라__. 평생 똑같은 일을 계속하고 싶지 않다면, 자신을 대체할 사람을 찾으세요. 이는 앞서 언급했듯이 채용 과정에서 시작됩니다. 팀의 구성원이 당신을 대체하기를 원한다면, 당신을 대체할 수 있는 사람들을 고용해야 합니다. 우리는 이를 보통 "당신보다 똑똑한 사람을 고용하라"고 요약합니다. 당신의 일을 할 수 있는 팀원들이 있으면, 그들에게 더 많은 책임을 맡거나 때때로 팀을 이끌 기회를 주어야 합니다. 이렇게 하면 누가 리더십에 가장 적성이 있는지, 그리고 누가 팀을 이끌고 __싶어하는지__ 빠르게 알 수 있을 것입니다. 어떤 사람들은 그냥 고성과 개인 기여자로 있는 것을 선호한다는 것을 기억하세요. 그것도 괜찮습니다. 우리는 항상 최고의 엔지니어들을 데려다가—그들의 의사에 반해—관리 역할에 던져넣는 회사들에 놀라왔습니다. 이는 보통 팀에서 훌륭한 엔지니어를 빼고 평균 이하의 매니저를 추가하는 결과를 낳습니다.
 
 ((("waves, making")))__Know when to make waves__. You will (inevitably and frequently) have
 difficult situations crop up where every cell in your body is
@@ -1331,11 +1262,7 @@ of the team and the more they'll keep you up at night thinking about
 them. By waiting, you're only delaying the inevitable and causing
 untold damage in the process. So act, and act quickly.
 
-__언제 파장을 일으켜야 하는지 알아라__. (필연적이고 빈번하게) 몸의 모든 세포가 아무것도 하지 말라고 소리치는 어려운 상황들이 생길 것입니다.
-기술적 실력이 기준에 미치지 못하는 팀의 엔지니어일 수도 있습니다. 모든 기차 앞으로 뛰어드는 사람일 수도 있습니다.
-주 30시간만 일하는 동기 부족한 직원일 수도 있습니다. "조금만 기다리면 나아질 거야"라고 스스로에게 말할 것입니다.
-"저절로 해결될 거야"라고 합리화할 것입니다. 이 함정에 빠지지 마세요. 이런 상황들이야말로 가장 큰 파장을 일으켜야 하고 __지금__ 일으켜야 하는 상황들입니다.
-이런 문제들이 저절로 해결되는 경우는 거의 없으며, 해결을 미룰수록 팀의 나머지 구성원들에게 더 악영향을 미치고 밤에 그것들을 생각하며 잠 못 이루게 할 것입니다.
+__언제 변동을 일으켜야 하는지 알아라__. (필연적이고 빈번하게) 몸의 모든 세포가 아무것도 하지 말라고 소리치는 어려운 상황들이 생길 것입니다. 기술적 실력이 기준에 미치지 못하는 팀의 엔지니어일 수도 있습니다. 모든 기차 앞으로 뛰어드는 사람일 수도 있습니다. 주 30시간만 일하는 동기 부족한 직원일 수도 있습니다. "조금만 기다리면 나아질 거야"라고 스스로에게 말할 것입니다. "저절로 해결될 거야"라고 합리화할 것입니다. 이 함정에 빠지지 마세요. 이런 상황들이야말로 가장 큰 변동을 일으켜야 하고 __지금__ 일으켜야 하는 상황들입니다. 이런 문제들이 저절로 해결되는 경우는 거의 없으며, 해결을 미룰수록 팀의 나머지 구성원들에게 더 악영향을 미치고 밤에 그것들을 생각하며 잠 못 이루게 할 것입니다.
 기다리는 것은 불가피한 일을 지연시키고 그 과정에서 헤아릴 수 없는 피해를 일으킬 뿐입니다. 그러니 행동하세요. 그리고 빠르게 행동하세요.
 
 
@@ -1354,11 +1281,7 @@ calm company, and the other manager laughed hysterically at Fitz's
 naïveté: the chaos had always been present, but Fitz's previous
 manager had shielded Fitz and the rest of the team from it.
 
-__팀을 혼돈으로부터 보호하라__. 리더십 역할을 맡으면,
-보통 가장 먼저 발견하게 되는 것은 팀 밖에는 개인 기여자였을 때 결코 보지 못했던 혼돈과 불확실성(또는 심지어 광기)의 세계가 있다는 것입니다.
-Fitz가 1990년대에 처음 매니저가 되었을 때(다시 개인 기여자로 돌아가기 전), 그는 회사에서 일어나고 있는 엄청난 양의 불확실성과 조직적 혼돈에 깜짝 놀랐습니다.
-그는 다른 매니저에게 평소 차분했던 회사에 갑자기 이런 불안정함이 생긴 원인이 무엇인지 물었고, 그 매니저는 Fitz의 순진함에 히스테리컬하게 웃었습니다.
-혼돈은 항상 존재했지만, Fitz의 이전 매니저가 Fitz와 팀의 나머지 구성원들을 그것으로부터 보호해왔던 것입니다.
+__팀을 혼돈으로부터 보호하라__. 리더십 역할을 맡으면, 보통 가장 먼저 발견하게 되는 것은 팀 밖에는 개인 기여자였을 때 결코 보지 못했던 혼돈과 불확실성(또는 심지어 광기)의 세계가 있다는 것입니다. Fitz가 1990년대에 처음 매니저가 되었을 때(다시 개인 기여자로 돌아가기 전), 그는 회사에서 일어나고 있는 엄청난 양의 불확실성과 조직적 혼돈에 깜짝 놀랐습니다. 그는 다른 매니저에게 평소 차분했던 회사에 갑자기 이런 불안정함이 생긴 원인이 무엇인지 물었고, 그 매니저는 Fitz의 순진함에 히스테리컬하게 웃었습니다. 혼돈은 항상 존재했지만, Fitz의 이전 매니저가 Fitz와 팀의 나머지 구성원들을 그것으로부터 보호해왔던 것입니다.
 
 ((("air cover, for your team")))__Give your team air cover__. While it's important that you keep your
 team informed about what's going on "above" them in the company, it's
@@ -1368,9 +1291,7 @@ team. Share as much information as you can with your team, but don't
 distract them with organizational craziness that is extremely unlikely
 to ever actually affect them.
 
-__팀에게 엄호를 제공하라__. 회사에서 그들 "위에서" 무슨 일이 일어나고 있는지 팀에게 알려주는 것이 중요하지만,
-팀 외부에서 당신에게 부과될 수 있는 많은 불확실성과 사소한 요구들로부터 그들을 방어하는 것도 똑같이 중요합니다.
-팀과 가능한 한 많은 정보를 공유하되, 실제로 그들에게 영향을 미칠 가능성이 극히 낮은 조직적 광기로 그들을 산만하게 하지는 마세요.
+__팀에게 엄호를 제공하라__. 회사에서 그들 "위에서" 무슨 일이 일어나고 있는지 팀에게 알려주는 것이 중요하지만, 팀 외부에서 당신에게 부과될 수 있는 많은 불확실성과 사소한 요구들로부터 그들을 방어하는 것도 똑같이 중요합니다. 팀과 가능한 한 많은 정보를 공유하되, 실제로 그들에게 영향을 미칠 가능성이 극히 낮은 조직적 광기로 그들을 산만하게 하지는 마세요.
 
 ((("feedback","positive")))((("positive feedback")))__Let your team know when they're doing well__. Many new team leads
 can get so caught up in dealing with the shortcomings of their team
@@ -1379,6 +1300,8 @@ enough. Just as you let someone know when he screws up, be sure to let
 him know when he does well, and be sure to let him (and the rest of
 the team) know when he knocks one out of the
 park.
+
+__팀이 잘하고 있을 때 알려주라__. 많은 새로운 팀 리드들은 팀원들의 부족한 점을 다루는 데 너무 몰두한 나머지 충분히 자주 긍정적인 피드백을 제공하는 것을 소홀히 할 수 있습니다. 누군가 실수했을 때 알려주는 것처럼, 잘했을 때도 반드시 알려주고, 홈런을 쳤을 때는 그 사람(과 팀의 나머지 구성원들)에게 반드시 알려주세요.
 
 Lastly, here's something the best leaders
 know and use often when they have adventurous team members who want to
@@ -1391,17 +1314,11 @@ product that you're going to have to support for the next 10 years,
 you'll likely want to give it a bit more thought. Really good leaders
 have a good sense for when something can be undone.(((range="endofrange", startref="ixch03asciidoc17")))
 
-__팀이 잘하고 있을 때 알려주라__. 많은 새로운 팀 리드들은 팀원들의 부족한 점을 다루는 데 너무 몰두한 나머지 충분히 자주 긍정적인 피드백을 제공하는 것을 소홀히 할 수 있습니다.
-누군가 실수했을 때 알려주는 것처럼, 잘했을 때도 반드시 알려주고, 홈런을 쳤을 때는 그 사람(과 팀의 나머지 구성원들)에게 반드시 알려주세요.
-
-마지막으로, 새로운 것을 자주 시도하고 싶어하는 모험적인 팀원들이 있을 때 최고의 리더들이 알고 자주 사용하는 것이 있습니다.
-무언가를 되돌리기 쉽다면 "예"라고 말하기도 쉽다는 것입니다.
-제품 속도를 높일 수 있는 새로운 도구나 라이브러리를 하루나 이틀 시도해보고 싶어하는 팀원이 있다면(그리고 촉박한 마감일이 없다면),
-"물론, 해보세요"라고 말하기 쉽습니다. 반면에, 향후 10년간 지원해야 할 제품을 출시하는 것 같은 일을 하고 싶어한다면,
-좀 더 신중하게 생각해보고 싶을 것입니다. 정말 좋은 리더들은 언제 무언가를 되돌릴 수 있는지에 대한 좋은 감각을 가지고 있습니다.
+마지막으로, 새로운 것을 자주 시도하고 싶어하는 모험적인 팀원들이 있을 때 최고의 리더들이 알고 자주 사용하는 것이 있습니다. 무언가를 되돌리기 쉽다면 "예"라고 말하기도 쉽다는 것입니다. 제품 속도를 높일 수 있는 새로운 도구나 라이브러리를 하루나 이틀 시도해보고 싶어하는 팀원이 있다면(그리고 촉박한 마감일이 없다면), "물론, 해보세요"라고 말하기 쉽습니다. 반면에, 향후 10년간 지원해야 할 제품을 출시하는 것 같은 일을 하고 싶어한다면, 좀 더 신중하게 생각해보고 싶을 것입니다. 정말 좋은 리더들은 언제 무언가를 되돌릴 수 있는지에 대한 좋은 감각을 가지고 있습니다.
 
 [[imposter_phenomenon]]
 .Imposter Phenomenon
+.가면 증후군
 ****
 
 ((("imposter phenomenon")))((("leaders","and imposter phenomenon")))Much has been written about((("Clance, Pauline Rose"))) the so-called "imposter syndrome" or "imposter
@@ -1413,10 +1330,15 @@ external evidence of their competence, those with the syndrome remain
 convinced that they are frauds and do not deserve the success they
 have achieved."__
 
+소위 "가면 증후군" 또는 "가면 현상"에 대해 많은 글이 쓰여졌습니다footnote:[Dr. Pauline Rose Clance가 처음 문서화했습니다, http://paulineroseclance.com/impostor_phenomenon.html.]. 위키피디아에 따르면 이는 __"사람들이 자신의 성취를 내재화할 수 없는 심리적 현상입니다. 그들의 능력에 대한 외부적 증거에도 불구하고,
+이 증후군을 가진 사람들은 자신이 사기꾼이며 달성한 성공을 받을 자격이 없다고 확신합니다."__
+
 We prefer the "phenomenon" nomenclature because, even though this may
 make you feel like a fraud who will be discovered at any time, the imposter
 phenomenon often drives you to work much harder and achieve goals that
 you might never have achieved otherwise.
+
+우리는 "현상"이라는 명명법을 선호합니다. 왜냐하면 이것이 언제든 발각될 사기꾼처럼 느끼게 할 수 있을지라도, 가면 현상은 종종 당신이 훨씬 더 열심히 일하고 그렇지 않았다면 결코 달성하지 못했을 목표들을 달성하도록 이끌기 때문입니다.
 
 This problem is extremely common in people new to management,
 especially those thrust into leadership positions (official or not) by
@@ -1426,6 +1348,8 @@ doing,"__ people will say, __"so what can I do to stop feeling like a
 phony?"__ Our answer is that everyone feels like a phony at some point
 in their career; one could even argue that a little bit of insecurity
 makes us work harder and helps improve our success.
+
+이 문제는 관리직이 처음인 사람들, 특히 필요에 의해 (공식적이든 아니든) 리더십 위치에 떠밀린 사람들에게 극히 흔합니다. 이 현상은 너무 광범위해서 우리는 강연 후에 거의 항상 이에 대한 질문을 받습니다. __"실제로 내가 뭘 하고 있는지 모르겠어요"__ 사람들이 말합니다. __"그럼 가짜 같은 느낌을 멈추려면 어떻게 해야 하나요?"__ 우리의 답은 모든 사람이 커리어의 어느 시점에서는 가짜 같은 느낌을 받는다는 것입니다. 약간의 불안감이 우리를 더 열심히 일하게 만들고 성공을 개선하는 데 도움이 된다고 주장할 수도 있습니다.
 
 Ben likes to share the story of his parents' marriage. The night
 before they got married, they both got cold feet and admitted to each
@@ -1438,6 +1362,8 @@ that, and the month after that.  Eventually it became a running joke
 in their marriage.  Every year on their anniversary they would say,
 "Let's give this trial another year, eh?"
 
+Ben은 부모님의 결혼 이야기를 공유하기를 좋아합니다. 결혼 전날 밤, 두 분 모두 겁이 나서 서로에게 끔찍한 실수를 했다고 인정했지만, 결혼식을 취소하기에는 분명히 너무 늦었다고 생각했습니다. 그래서 그들은 결혼식을 위해 "가짜로 하기로", 행복한 신혼부부의 무대 역할을 하고, 며칠 후에 관계를 정리하기로 약속했습니다. 몇 주 후, 그들은 한 달 더 결혼 생활을 시도해보기로 결정했습니다. 그리고 그 다음 달, 그 다음 달도. 결국 그것은 그들의 결혼에서 계속되는 농담이 되었습니다. 매년 결혼기념일에 그들은 "이 시도를 한 해 더 해볼까요?"라고 말하곤 했습니다.
+
 Whatever sort of leadership you're involved in, the same "fake it till
 you make it" technique tends to work very well.  When Ben first got
 asked to manage a large team, a similar script went through his mind:
@@ -1447,28 +1373,7 @@ performance-review time, he'd look back at his success and and say,
 __"Yeah, I guess I'll keep pretending a bit longer—seems to be going
 well!"__(((range="endofrange", startref="ixch03asciidoc7")))(((range="endofrange", startref="ixch03asciidoc6")))
 
-.가면 증후군
-소위 "가면 증후군" 또는 "가면 현상"에 대해 많은 글이 쓰여졌습니다footnote:[Dr. Pauline Rose Clance가 처음 문서화했습니다, http://paulineroseclance.com/impostor_phenomenon.html.].
-위키피디아에 따르면 이는 __"사람들이 자신의 성취를 내재화할 수 없는 심리적 현상입니다. 그들의 능력에 대한 외부적 증거에도 불구하고,
-이 증후군을 가진 사람들은 자신이 사기꾼이며 달성한 성공을 받을 자격이 없다고 확신합니다."__
-
-우리는 "현상"이라는 명명법을 선호합니다. 왜냐하면 이것이 언제든 발각될 사기꾼처럼 느끼게 할 수 있지만,
-가면 현상은 종종 당신이 훨씬 더 열심히 일하고 그렇지 않았다면 결코 달성하지 못했을 목표들을 달성하도록 이끌기 때문입니다.
-
-이 문제는 관리직이 처음인 사람들, 특히 필요에 의해 (공식적이든 아니든) 리더십 위치에 떠밀린 사람들에게 극히 흔합니다.
-이 현상은 너무 광범위해서 우리는 강연 후에 거의 항상 이에 대한 질문을 받습니다. __"실제로 내가 뭘 하고 있는지 모르겠어요"__ 사람들이 말합니다.
-__"그럼 가짜 같은 느낌을 멈추려면 어떻게 해야 하나요?"__ 우리의 답은 모든 사람이 커리어의 어느 시점에서는 가짜 같은 느낌을 받는다는 것입니다.
-약간의 불안감이 우리를 더 열심히 일하게 만들고 성공을 개선하는 데 도움이 된다고 주장할 수도 있습니다.
-
-Ben은 부모님의 결혼 이야기를 공유하기를 좋아합니다.
-결혼 전날 밤, 두 분 모두 겁이 나서 서로에게 끔찍한 실수를 했다고 인정했지만—결혼식을 취소하기에는 분명히 너무 늦었다고 생각했습니다.
-그래서 그들은 결혼식을 위해 "가짜로 하기로", 행복한 신혼부부의 무대 역할을 하고, 며칠 후에 관계를 정리하기로 약속했습니다.
-몇 주 후, 그들은 한 달 더 결혼 생활을 시도해보기로 결정했습니다. 그리고 그 다음 달, 그 다음 달도. 결국 그것은 그들의 결혼에서 계속되는 농담이 되었습니다.
-매년 결혼기념일에 그들은 "이 시험을 한 해 더 해볼까요?"라고 말하곤 했습니다.
-
-어떤 종류의 리더십에 관여하든, 같은 "될 때까지 가짜로 하기" 기법이 매우 잘 작동하는 경향이 있습니다.
-Ben이 처음 큰 팀을 관리해달라는 요청을 받았을 때, 비슷한 생각이 그의 마음을 스쳐갔습니다: __"이 프로젝트를 맡으라고요? 미친 일이지만,
-좋아요, 잠시 리더인 척해보겠습니다."__ 그리고 매년 성과 평가 시간에, 그는 자신의 성공을 돌아보며 말했습니다: __"네, 조금 더 오래 가짜로 해보겠습니다—잘 되고 있는 것 같네요!"__
+어떤 종류의 리더십에 관여하든, 같은 "될 때까지 가짜로 하기" 기법이 매우 잘 작동하는 경향이 있습니다. Ben이 처음 큰 팀을 관리해달라는 요청을 받았을 때, 비슷한 생각이 그의 마음을 스쳐갔습니다: __"이 프로젝트를 맡으라고요? 미친 일이지만, 좋아요, 잠시 리더인 척해보겠습니다."__ 그리고 매년 성과 평가 시간에, 그는 자신의 성공을 돌아보며 말했습니다: __"네, 조금 더 오래 가짜로 해보겠습니다. 잘 되고 있는 것 같네요!"__
 
 ****
 
