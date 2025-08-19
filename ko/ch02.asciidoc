@@ -11,37 +11,15 @@
 사용할 수 있는지 살펴보겠습니다.
 
 [[what_is_culture]]
-=== What Is Culture?
+=== 문화란 무엇인가?
 
-((("culture","about", id="ixch02asciidoc2", range="startofrange")))When you hear the word __culture__, your thoughts typically wander to
-either an evening at the opera or the dish of jelly growing bacteria
-that you had back in high school biology. It turns out that
-engineering team culture isn't all that different from the latter.
-
-‘문화’라는 말을 들으면 대개 오페라 같은 공연이나, 고등학교 생물 시간에 봤던 박테리아가 자라던 젤리 접시를 떠올리게 됩니다. 사실 엔지니어링 팀 문화는 후자와 그리 다르지 않습니다.
+‘문화’라는 말을 들으면 대개 오페라 같은 공연이나, 고등학교 생물 시간에 봤던 박테리아가 자라던 젤리 접시를 떠올리게 됩니다. 사실 엔지니어링 팀 문화는 박테리아 배양실험과 그리 다르지 않습니다.
 
 
 [[image_no_caption-id009]]
 image::images/dbtm_02in01.png[]
 
 ((("culture","sourdough bread analogy")))((("sourdough bread analogy")))
-If you've ever had a really delicious piece of sourdough bread and
-took the time to hunt down the person who baked it, you would find
-that the key ingredient to the bread is a starter containing yeast and
-lactobacillus bacteria living on a diet of flour and water. The yeast
-is what makes the bread rise, and the bacterium is what gives the
-bread that amazing tangy, sour flavor. However, not all lactobacillus
-strains are alike, and some create a more desirable flavor than
-others, so when a baker finds a starter (i.e., a bacteria
-culture/yeast mixture) that gives a really great sourdough flavor,
-she'll take care to maintain and grow the same bacterial culture by
-adding more flour and water to it. She'll then take small amounts of
-the starter and inoculate the ingredients for a loaf of bread, and
-__voilà__, she's got a great loaf of sourdough! This works because the
-culture in the starter not only creates the taste that she wants, but
-is strong enough to overtake any other wild strains of yeast or
-bacteria that might be in the bread ingredients or the air of the
-bakery.
 
 정말 맛있는 사워도우 빵을 먹어보고 굽는 사람을 일부러 찾아가 본 적이 있다면, 그 빵의 핵심 재료가 밀가루와 물을 먹고 사는 효모와 유산균이 들어 있는 ‘스타터’라는 사실을 알게 될 것입니다. 효모는 빵을 부풀게 하고, 박테리아는 그 놀라운 톡 쏘는 새콤한 풍미를 만듭니다. 하지만 모든 유산균이 똑같지는 않아서, 어떤 균주는 더 바람직한 맛을 내기도 합니다. 그래서 어느 제빵사가 정말 훌륭한 사워도우 풍미를 내는 스타터(즉, 박테리아/효모 혼합 배양)를 발견하면, 같은 배양을 유지·증식시키기 위해 밀가루와 물을 보충하며 정성껏 돌봅니다. 그런 다음 스타터를 조금씩 덜어 한 덩이의 빵 재료에 접종하고, __짜잔__, 훌륭한 사워도우 한 덩이가 나옵니다! 이는 스타터의 배양이 원하는 맛을 만들어낼 뿐 아니라, 반죽 재료나 제과점 공기 중에 있을 수 있는 다른 야생 효모나 박테리아의 균주들을 제압할 만큼 충분히 강하기 때문입니다.
 
@@ -65,116 +43,35 @@ culture.
 
 여러분의 팀 문화는 좋은 사워도우 한 덩이와도 같습니다. 스타터 배양(창업자와 초기 구성원)은 새 반죽(신규 입사자)을 문화로 ‘접종’하고, 효모와 박테리아(팀원)가 자라면서 훌륭한 빵(팀)이 나옵니다. 스타터 문화가 강하면, 신입이 가져올 수 있는 바람직하지 않은 ‘야생 균주’의 문화까지도 충분히 제압할 수 있습니다.footnote:[물론 강한 문화는 신입이 가져오는 바람직한 ‘야생 균주’를 받아들이는 선택지도 언제나 갖고 있습니다.] 반대로 스타터 문화가 약하면, 팀은 신입이 가져올지 모르는 미지의 문화 균주에 취약해집니다. 낯선 문화는 예측 불가능한 결과를 동반하므로, 알려진 스타터 문화로 시작하는 편이 더 낫습니다.
 
-But a team's culture isn't just the way in which team members tackle
-their work, write code, or treat one another: it's a set of shared
-experiences, values, and goals that is unique to every engineering
-team we've ever been on or observed. The founding members of a team or
-company define the biggest part of a team's culture, but it will
-continue to change and develop over the life of the team.
-
-하지만 팀 문화는 팀원들이 일을 다루는 방식이나 코드를 작성하는 방식, 서로를 대하는 태도만을 의미하지 않습니다. 우리가 몸담았거나 관찰했던 모든 엔지니어링 팀마다 고유한, 공유된 경험·가치·목표의 집합이 곧 문화입니다. 팀이나 회사의 창립 구성원이 팀 문화의 큰 부분을 규정하지만, 문화는 팀의 삶 전체 동안 계속 변하고 발전합니다.
-
-The elements that make up a
-team culture vary
-wildly. Some are directly relevant to the __process__ of doing work:
-in the case of writing software, you might set up code reviews and test-driven development, and place a high value on having good design
-docs before starting to crank out reams of code. Some elements might
-be more social, like going out to a particular restaurant for lunch
-every Thursday, or going out for drinks at a favorite bar on
-Fridays. Some of them might seem pass:[<span class="keep-together">completely</span>] silly or outlandish to an
-outsider: the Google Pittsburgh engineering office used to be located
-next to a freight train track, and every time a train would come by
-(mind you, a very loud train), everyone would jump up and shoot Nerf
-darts at one another.footnote:[This scared the
-__hell__ out of Fitz the first time he visited the Google Pittsburgh
-office.] All of these things make up a team's culture and affect the team's productivity
-and ability to attract and retain good team members.
+하지만 팀 문화는 팀원들이 일을 다루는 방식이나 코드를 작성하는 방식, 서로를 대하는 태도만을 의미하지 않습니다. 우리가 몸담았거나 관찰했던 모든 엔지니어링 팀마다 고유한, 공유된 경험·가치·목표의 집합이 곧 문화입니다. 팀이나 회사의 창립 구성원이 팀 문화의 큰 부분을 규정하지만, 문화는 팀이 존속하는 동안 계속 변하고 발전합니다.
 
 팀 문화를 이루는 요소는 실로 제각각입니다. 어떤 것은 일하는 __과정__과 직접적으로 관련이 있습니다. 소프트웨어 개발의 경우 코드 리뷰와 테스트 주도 개발을 도입하고, 산더미 같은 코드를 양산하기 전에 좋은 디자인 문서를 중시할 수 있습니다. 어떤 요소는 더 사회적입니다. 예를 들어 매주 목요일마다 특정 식당에 점심을 먹으러 가거나, 금요일마다 단골 바에 가서 한잔하는 것처럼요. 외부인의 눈에는 어떤 것들은 완전히 엉뚱하거나 우스꽝스러워 보일 수도 있습니다. 구글 피츠버그 엔지니어링 오피스는 한때 화물열차 선로 바로 옆에 있었는데, 기차가 지나갈 때마다(정말 엄청 시끄럽습니다) 모두가 벌떡 일어나 서로에게 너프 다트를 쏘곤 했습니다.footnote:[저희 중 한 명인 Fitz가 구글 피츠버그 오피스를 처음 방문했을 때 이 장면을 보고 __엄청__ 놀랐습니다.] 이 모든 것이 팀 문화를 구성하며, 팀의 생산성과 훌륭한 인재를 끌어들이고 유지하는 능력에 영향을 미칩니다.
 
-Take a look at any wildly successful software company today—Google,
-Apple, Microsoft, Oracle—and you'll find that each company has a very
-different culture: one that has its roots in the culture that was set
-by the founders and earliest employees. As these companies have grown
-and matured, their cultures have evolved and changed, but they've
-still retained a unique identity that trickles down to just about
-every aspect of how they develop products, treat their employees, and
-compete with other companies.(((range="endofrange", startref="ixch02asciidoc2")))
+(((range="endofrange", startref="ixch02asciidoc2")))
 
 오늘날 엄청난 성공을 거둔 소프트웨어 회사들—구글, 애플, 마이크로소프트, 오라클—을 보면, 각 회사가 매우 다른 문화를 가지고 있음을 알 수 있습니다. 그 문화는 창업자와 초기 직원들이 세운 문화에 뿌리를 두고 있습니다. 회사들이 성장하고 성숙해 오면서 문화도 진화하고 변해 왔지만, 제품을 개발하는 방식, 직원을 대하는 방식, 다른 회사와 경쟁하는 방식 등 거의 모든 측면에 스며드는 고유한 정체성은 여전히 유지되고 있습니다.(((range="endofrange", startref="ixch02asciidoc2")))
 
 [[why_should_you_care]]
-=== Why Should You Care?
+=== 그게 왜 중요한가?
 
-((("team culture","importance of", id="ixch02asciidoc3", range="startofrange")))In short, you should care because if you don't put effort into
-building and maintaining your culture, your team will eventually be
-overtaken by strong personalities that cultivate __their__ culture in
-your team. This ((("cultivating culture")))culture may turn out to be a productive, healthy
-culture that cranks out piles of great code, but more often than not,
-it won't turn out as such, and you'll suddenly find a lot of your
-energy that used to go into designing and creating your product is
-suddenly expended in arguments and infighting. Beyond that, it's
-important to have a culture that your team values and is willing to
-defend. If your team doesn't value your culture, not only is it
-difficult to build a strong team identity and collective pride in your
-work, but also it's very easy for a newcomer to change your culture
-into something that sucks.
+((("team culture","importance of", id="ixch02asciidoc3", range="startofrange")))
 
-요약하면, 여러분은 문화에 신경 써야 합니다. 문화에 공을 들여 만들고 유지하지 않으면, 언젠가 강한 개성을 지닌 사람들이 들어와 팀 안에 __그들만의__ 문화를 키워 버릴 것이기 때문입니다. 이렇게 길러진 문화가 운 좋게도 생산적이고 건강해서 훌륭한 코드를 쏟아내는 경우도 있겠지만, 대체로 그렇지 않습니다. 그러면 제품을 설계하고 만드는 데 쓰이던 에너지가 갑자기 논쟁과 내분으로 소모되기 시작합니다. 게다가 팀이 가치 있게 여기고 지키고자 하는 문화가 있어야 합니다. 팀이 문화를 소중히 여기지 않으면 강한 팀 정체성과 공동의 자부심을 쌓기 어렵고, 신입이 들어와 문화를 엉망으로 바꾸어 버리기 아주 쉬워집니다.
+// Beyond that 부분이 개인 -> 팀으로 문화에 대한 관점이 확장된다고 생각해 더 나아가로 수정했습니다.
+// newcomer이 신입보다 신규 입사한 팀원이 왔을 경우라고 생각해 새로운 팀원으로 수정했습니다.
+요약하면, 여러분은 문화에 신경 써야 합니다. 문화에 공을 들여 만들고 유지하지 않으면, 언젠가 강한 개성을 지닌 사람들이 들어와 팀 안에 __그들만의__ 문화를 키워 버릴 것이기 때문입니다. 이렇게 길러진  ((("cultivating
+  culture")))문화가 운 좋게도 생산적이고 건강해서 훌륭한 코드를 쏟아내는 경우도 있겠지만, 대체로 그렇지 않습니다. 그러면 제품을 설계하고 만드는 데 쓰이던 에너지가 갑자기 논쟁과 내분으로 소모되기 시작합니다. 더 나아가 팀이 가치 있게 여기고 지키고자 하는 문화가 있어야 합니다. 팀이 문화를 소중히 여기지 않으면 강한 팀 정체성과 공동의 자부심을 쌓기 어렵고, 새로운 팀원이 들어와 문화를 엉망으로 바꾸어 버리기 아주 쉬워집니다.
 
-((("leaders","and team culture")))((("team culture","and leaders")))The first mistake most team __members__ make is to assume the team
-__leader__ curates the culture of a team. Nothing could be further
-from the truth: while the founders and leads usually tend to the
-health of your culture, every member of your team participates in the
-culture and bears some responsibility for defining, maintaining, and
-defending the culture. When someone joins your team, she doesn't pick
-up the culture from the team leader alone, but from every team member
-she works with. For example, when you carefully review your new team
-member's work and explain to her why your team does something in a
-certain way, she'll quickly figure out what the team values in their
-product. She'll also learn about your culture from observing how the
-rest of your team works, interacts, and deals with conflict.
+((("leaders","and team culture")))((("team culture","and leaders")))
+대부분의 팀 __구성원__이 저지르는 첫 번째 실수는 팀의 문화는 팀 __리더__가 관리한다고 가정하는 것입니다. 사실과 정반대입니다. 창업자나 리더들이 보통 문화의 건강을 돌보긴 하지만 팀의 모든 구성원이 문화를 함께 만들고, 유지하고, 지켜낼 책임을 나눠 갖습니다. 누군가 팀에 합류하면, 그 사람은 리더에게서만 문화를 배우는 것이 아니라 같이 일하는 모든 팀원에게서 문화를 받아들입니다. 예를 들어, 새로운 팀원의 작업을 꼼꼼히 리뷰하며 왜 우리 팀이 그렇게 하는지 설명해 주면, 새로운 팀원은 팀이 제품에서 무엇을 가치 있게 여기는지 빠르게 깨닫습니다. 또한 팀의 나머지 구성원들이 어떻게 일하고 상호작용하며 갈등을 다루는지를 관찰하면서 문화 전반을 배우게 됩니다.
 
-대부분의 팀 __구성원__이 저지르는 첫 번째 실수는 팀의 문화는 팀 __리더__가 관리한다고 가정하는 것입니다. 사실과 정반대입니다. 창업자나 리더들이 보통 문화의 건강을 돌보긴 하지만, 팀의 모든 구성원이 문화를 함께 만들고, 유지하고, 지켜낼 책임을 나눠 갖습니다. 누군가 팀에 합류하면, 그 사람은 리더에게서만 문화를 배우는 것이 아니라 같이 일하는 모든 팀원에게서 문화를 받아들입니다. 예를 들어, 신입의 작업을 꼼꼼히 리뷰하며 왜 우리 팀이 그렇게 하는지 설명해 주면, 신입은 팀이 제품에서 무엇을 가치 있게 여기는지 빠르게 깨닫습니다. 또한 팀의 나머지 구성원들이 어떻게 일하고 상호작용하며 갈등을 다루는지를 관찰하면서 문화 전반을 배우게 됩니다.
+((("strong culture")))
+“강한 문화”란, 문화를 더 좋게 만드는 변화에는 열려 있으면서도, 해를 끼치는 급진적 변화에는 단호히 저항하는 문화를 말합니다. 가장 성공적인 팀 문화는 팀의 노력을 위대한 소프트웨어를 출시하는 데 집중시킵니다. 팀의 주된 초점이 소프트웨어를 만드는 일이 아니라면(예: 파티, 회의 참석, 자기 과시 경쟁), 팀 결속은 강해질지 몰라도 소프트웨어는 거의 만들어지지 않을 것입니다. 코드 작성과 제품 출시가 가장 즐겁다면, 그 가치를 중시하는 팀을 찾고 그런 환경을 유지하기 위해 노력하는 것이 분명 여러분에게 이롭습니다. 강하고 생산적인 문화 없이도 훌륭한 무언가를 만들 수는 있겠지만, 그 경우 훨씬 더 많은 시간과 에너지가 듭니다. 강한 문화는 집중, 효율, 그리고 힘을 줍니다. 이것이 팀을 더 행복하게 만듭니다.
 
-((("strong culture")))A "strong culture" is one that is open to change that improves it, yet
-is resistant to radical change that harms it. The team cultures that are most successful are
-those that focus the majority of the team's effort on shipping great
-software. If your team's primary focus is anything other than that
-(e.g., partying, attending meetings, practicing one-upmanship) your
-team may bond tightly, but you won't get very much software
-written. If you're happiest when writing code and shipping product,
-it's definitely in your best interest to find a team that values that,
-and to work to maintain that environment. It's not that you can't
-create something great without a strong and productive culture, but
-it's going to cost you a lot more time and energy to do so without
-one. A strong culture gives you focus, efficiency, and strength, and
-these things make for a happier team.
+팀 문화의 흥미로운 점은 한 번 뚜렷하게 정립되면,
+그 문화에 어울리는 사람만 남게 되는 특성이 있습니다. 오픈 소스 세계에서 HRT를 기반으로 깔끔하고 우아하며 유지보수하기 쉬운 코드를 지향하는 프로젝트는—놀랍게도—서로를 존중하고 신뢰하며 그런 코드를 작성하고자 하는 엔지니어를 끌어들입니다. 반대로 공격성, 괴롭힘, 인신공격이 만연한 문화 위에 팀이 세워졌다면, 그런 사람들만 더 모이게 될 것입니다.
 
-“강한 문화”란, 문화를 더 좋게 만드는 변화에는 열려 있으면서도, 해를 끼치는 급진적 변화에는 단호히 저항하는 문화를 말합니다. 가장 성공적인 팀 문화는 팀의 노력을 위대한 소프트웨어를 출시하는 데 집중시킵니다. 팀의 주된 초점이 그것이 아니라면(예: 파티, 회의 참석, 유세 경쟁), 팀 결속은 강해질지 몰라도 소프트웨어는 별로 쓰지 못할 것입니다. 코드 작성과 제품 출시가 가장 즐겁다면, 그 가치를 중시하는 팀을 찾고 그런 환경을 유지하기 위해 노력하는 것이 분명 여러분에게 이롭습니다. 강하고 생산적인 문화 없이도 훌륭한 무언가를 만들 수는 있겠지만, 그 경우 훨씬 더 많은 시간과 에너지가 듭니다. 강한 문화는 집중, 효율, 그리고 힘을 줍니다. 이것이 팀을 더 행복하게 만듭니다.
-
-The interesting thing about team culture is that, if you build a
-strongly defined one, it will become self-selecting. In the open source world, projects that
-are built on HRT and focused on writing clean, elegant, maintainable
-code will attract engineers who are interested in—surprise,
-surprise—working with people they respect and trust, and writing
-clean, elegant, maintainable code. If, however, your team is built on
-a culture of aggression, hazing, and ad hominem attacks, you're going
-to wind up attracting more people like that.
-
-팀 문화의 흥미로운 점은, 명확하게 구축하면 스스로를 선별하는(self-selecting) 성질을 띤다는 것입니다. 오픈 소스 세계에서 HRT를 기반으로 깔끔하고 우아하며 유지보수하기 쉬운 코드를 지향하는 프로젝트는—놀랍게도—서로를 존중하고 신뢰하며 그런 코드를 쓰고자 하는 엔지니어를 끌어들입니다. 반대로 공격성, 신고식, 인신공격이 만연한 문화 위에 팀이 세워졌다면, 그런 사람들만 더 모이게 될 것입니다.
-
-((("self-selecting cultures")))We've seen self-selecting cultures many times in the Apache Software
-Foundation: the ASF is a collection of software development teams that
-are community-based and that run on a consensus model. Many times a
-new contributor will join the mailing list and, through either
-ignorance or malice, will behave in a manner contrary to the team's
-culture. Community members will usually attempt to educate the
-newcomer (sometimes gently, sometimes, um, well, "not so gently"), and
-if the newcomer is not interested in how the ASF team does things,
-they'll usually head off in search of a more compatible project.
-
-우리는 아파치 소프트웨어 재단에서 자기 선택적(self-selecting) 문화가 작동하는 모습을 여러 번 보았습니다. ASF는 커뮤니티 기반의 합의 모델로 운영되는 소프트웨어 개발 팀들의 모음입니다. 새로운 기여자가 메일링 리스트에 들어와 무지나 악의로 팀 문화에 어긋나는 행동을 보일 때가 종종 있습니다. 커뮤니티 구성원들은 보통 그 신입을 교육하려고 시도합니다(가끔은 부드럽게, 가끔은 음… 그다지 부드럽지 않게). 그리고 그 신입이 ASF 팀의 방식에 관심이 없다면, 보통은 더 잘 맞는 프로젝트를 찾으러 떠납니다.
+((("self-selecting cultures")))
+우리는 아파치 소프트웨어 재단에서 자기 선택적(self-selecting) 문화가 작동하는 모습을 여러 번 보았습니다. ASF는 커뮤니티 기반의 합의 모델로 운영되는 소프트웨어 개발 팀들의 모음입니다. 새로운 기여자가 메일링 리스트에 들어와 무지나 악의로 팀 문화에 어긋나는 행동을 보일 때가 종종 있습니다. 커뮤니티 구성원들은 보통 그 새로운 기여자을 교육하려고 시도합니다(가끔은 부드럽게, 가끔은 음… 그다지 부드럽지 않게). 그리고 그 새로운 기여자가 ASF 팀의 방식에 관심이 없다면, 보통은 더 잘 맞는 프로젝트를 찾으러 떠납니다.
 
 In the corporate world, teams self-select through the hiring process,
 whether implicitly in the skills and strengths that are valued in
@@ -187,35 +84,16 @@ working with a team of people or
 requires a very structured environment, the interviewers will raise a
 red flag in their feedback.
 
-기업 세계에서도 팀은 채용 과정을 통해 자기 선택을 이룹니다. 이는 후보자에게서 중시하는 기술과 강점이라는 암묵적 기준일 수도 있고, 채용 과정에서 문화 적합도를 명시적으로 평가하는 절차일 수도 있습니다. 구글은 명시적 접근을 택합니다. 면접에서 문화 적합도를 구체적으로 확인합니다. 모든 면에서 뛰어난 엔지니어처럼 보여도, 사람들과 팀으로 일하지 못하거나 지나치게 구조화된 환경만을 요구한다면, 면접관들은 피드백에 경고(red flag)를 남깁니다.
+기업 세계에서도 팀은 채용 과정을 통해 자기 선택을 이룹니다. 이는 후보자에게서 중시하는 기술과 강점이라는 암묵적 기준일 수도 있고, 채용 과정에서 문화 적합성을 명시적으로 평가하는 절차일 수도 있습니다. 구글은 명시적 접근을 택합니다. 면접에서 문화 적합성을 구체적으로 확인합니다. 모든 면에서 뛰어난 엔지니어처럼 보여도, 사람들과 팀으로 일하지 못하거나 지나치게 구조화된 환경만을 요구한다면, 면접관들은 피드백에 경고(red flag)를 남깁니다.
 
-If you don't pay attention to culture fit as part of the hiring
-process and hire someone who isn't a fit, you'll wind up expending a
-tremendous amount of energy either getting the new hire to fit in or
-getting him to leave your team. Regardless of the result, the cost is high
-enough that it's definitely worthwhile to make sure new team members will work well with your
-existing team.
-
-채용에서 문화 적합도를 살피지 않고 맞지 않는 사람을 뽑는다면, 그 사람이 팀에 맞도록 적응시키거나 팀을 떠나게 만드는 데 엄청난 에너지를 쓰게 됩니다. 결과가 어떻든 비용이 매우 크기 때문에, 새 팀원이 기존 팀과 잘 맞을지를 미리 확인하는 것이 확실히 그만한 가치가 있습니다.
+채용에서 문화 적합성을 살피지 않고 맞지 않는 사람을 뽑는다면, 그 사람이 팀에 맞도록 적응시키거나 팀을 떠나게 만드는 데 엄청난 에너지를 쓰게 됩니다. 결과가 어떻든 비용이 매우 크기 때문에, 새 팀원이 기존 팀과 잘 맞을지를 미리 확인하는 것이 확실히 그만한 가치가 있습니다.
 
 [[note-1]]
 .Interviewing for culture
 [NOTE]
 ====
 
-((("interviews")))The only way to make sure new team members will be a culture fit is to
-interview for it. Many companies (like Google) have culture fit as one
-of the criteria that interviewers look out for as they're speaking to
-a candidate. Some companies take it even further in their quest to
-avoid a hiring mistake: they have a separate interview for culture fit
-__before__ doing the technical interviews because they don't want to
-even consider people who would fit technically but not
-culturally. This sort of process involvement is critical for creating
-and preserving a strong culture and it doesn't happen by accident; in
-fact, it is usually consciously created by the company's founders and
-early employees.(((range="endofrange", startref="ixch02asciidoc3")))
-
-새 팀원이 문화적으로 맞는지 확실히 하려면, 그 자체를 위한 인터뷰를 해야 합니다. 많은 회사(구글 같은)는 면접에서 문화 적합도를 후보자 평가 기준 중 하나로 둡니다. 어떤 회사는 채용 실수를 피하려고 한 발 더 나아갑니다. 기술 면접 __이전에__ 문화 적합도만 따로 보는 면접을 진행해, 기술적으로는 맞아도 문화적으로 맞지 않는 사람은 아예 고려하지 않으려는 것입니다. 이런 과정에의 개입은 강한 문화를 만들고 지키는 데 결정적입니다. 우연히 이루어지지 않습니다. 보통 회사의 창립자와 초기 직원들이 의식적으로 설계합니다.(((range="endofrange", startref="ixch02asciidoc3")))
+((("interviews"))) 새 팀원이 문화적으로 맞는지 확실히 하려면, 그 자체를 위한 인터뷰를 해야 합니다. 많은 회사(구글 같은)는 면접에서 문화 적합성을 후보자 평가 기준 중 하나로 둡니다. 어떤 회사는 채용 실수를 피하려고 한 발 더 나아갑니다. 기술 면접 __이전에__ 문화 적합성만 따로 보는 면접을 진행해, 기술적으로는 맞아도 문화적으로 맞지 않는 사람은 아예 고려하지 않으려는 것입니다. 이런 과정에의 개입은 강한 문화를 만들고 지키는 데 결정적입니다. 우연히 이루어지지 않습니다. 보통 회사의 창립자와 초기 직원들이 의식적으로 설계합니다.(((range="endofrange", startref="ixch02asciidoc3")))ㄴ
 
 ====
 
