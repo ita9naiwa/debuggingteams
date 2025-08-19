@@ -342,7 +342,7 @@ Fitz's manager, a long-time industry veteran, replied, "Sometimes you
 get to be the tooth fairy, other times you have to be the
 dentist."
 
-구글에서 팀 리더로서 Fitz의 커리어 초기에, 팀에게 보너스 편지를 나눠줄 때가 되었고, 그는 매니저에게 "매니저가 되는 게 __정말 좋아요__!"라고 말하며 활짝 웃었습니다. 오랜 업계 베테랑이었던 Fitz의 매니저는 주저하지 않고 답했습니다. "때로는 이빨 요정이 되어야 하고, 때로는 치과의사가 되어야 하지."
+구글에서 팀 리더로서 Fitz의 커리어 초기에, 팀에게 보너스 편지를 나눠줄 때가 되었고, 그는 관리자에게 "관리자가 되는 게 __정말 좋아요__!"라고 말하며 활짝 웃었습니다. 오랜 업계 베테랑이었던 Fitz의 관리자는 주저하지 않고 답했습니다. "때로는 이빨 요정이 되어야 하고, 때로는 치과의사가 되어야 하지."
 
 It's never any fun to pull teeth. We've seen team leaders do all the
 right things to build incredibly strong teams, only to have these
@@ -456,7 +456,7 @@ people have kids __all the time__. You need to go into the office."
 Needless to say, Jake (normally a mild-mannered engineer) was enraged
 and lost a lot of respect for Pablo.
 
-팀에서 인간적 요소를 무시하는 리더의 예시부터 시작해보겠습니다. 몇 년 전, Fitz의 친한 친구—Jake라고 부르겠습니다—가 첫 아이를 가졌습니다. Jake와 Fitz는 원격으로도, 같은 사무실에서도 수년간 함께 일해왔기 때문에, 새 아기가 태어난 후 몇 주 동안 Jake는 집에서 일했습니다. 이는 Jake와 그의 아내에게 훌륭하게 작동했고, Fitz는 이미 Jake와 원격으로 일하는 데 익숙했기 때문에 전혀 문제없었습니다. 그들은 평소처럼 생산적이었습니다. 그런데 (다른 사무실에서 일하는) 그들의 매니저 Pablo가 Jake가 일주일 대부분을 집에서 일하고 있다는 것을 알게 되었습니다. Jake가 평소처럼 생산적이고 Fitz도 그 상황에 만족함에도 불구하고, Pablo는 Jake가 Fitz와 함께 일하기 위해 사무실에 나오지 않는다고 화를 냈습니다. Jake는 Pablo에게 사무실에 나와서 일하는 것만큼 생산적이고, 몇 주 동안 주로 집에서 일하는 것이 자신과 아내 모두에게 훨씬 쉽다고 설명하려 했습니다. Pablo는 "야, 사람들은 __항상__ 아이를 가져. 너는 사무실에 나와야 해."라고 반응했습니다. 말할 필요도 없이, (평소에는 온화한 엔지니어인) Jake는 분노했고 Pablo에 대한 존경을 많이 잃었습니다.
+팀에서 인간적 요소를 무시하는 리더의 예시부터 시작해보겠습니다. 몇 년 전, Fitz의 친한 친구—Jake라고 부르겠습니다—가 첫 아이를 가졌습니다. Jake와 Fitz는 원격으로도, 같은 사무실에서도 수년간 함께 일해왔기 때문에, 새 아기가 태어난 후 몇 주 동안 Jake는 집에서 일했습니다. 이는 Jake와 그의 아내에게 훌륭하게 작동했고, Fitz는 이미 Jake와 원격으로 일하는 데 익숙했기 때문에 전혀 문제없었습니다. 그들은 평소처럼 생산적이었습니다. 그런데 (다른 사무실에서 일하는) 그들의 관리자 Pablo가 Jake가 일주일 대부분을 집에서 일하고 있다는 것을 알게 되었습니다. Jake가 평소처럼 생산적이고 Fitz도 그 상황에 만족함에도 불구하고, Pablo는 Jake가 Fitz와 함께 일하기 위해 사무실에 나오지 않는다고 화를 냈습니다. Jake는 Pablo에게 사무실에 나와서 일하는 것만큼 생산적이고, 몇 주 동안 주로 집에서 일하는 것이 자신과 아내 모두에게 훨씬 쉽다고 설명하려 했습니다. Pablo는 "야, 사람들은 __항상__ 아이를 가져. 너는 사무실에 나와야 해."라고 반응했습니다. 말할 필요도 없이, (평소에는 온화한 엔지니어인) Jake는 분노했고 Pablo에 대한 존경을 많이 잃었습니다.
 
 There are numerous ways that Pablo could have handled this
 differently: he could have showed some understanding that Jake wanted
@@ -711,7 +711,7 @@ or seven gears, spinning wildly! The farther you move up the chain,
 the faster you can set the gears below you spinning, whether you
 intend to or not.
 
-이 효과를 시각화하는 간단한 방법은, 회사 조직도를 기어 사슬로 보는 것입니다. 한쪽 끝의 작은 개인 기여자 기어에서 시작해, 위로 올라갈수록 더 큰 매니저 기어가 이어지고, 최종적으로 수백 개 톱니를 가진 CEO 기어가 있습니다. 하나의 ‘매니저 기어’가 한 바퀴 돌면 개인 기어는 두세 바퀴 돕니다. CEO가 아주 작은 움직임만 보여도 여섯, 일곱 단계 말단의 직원은 미친 듯이 회전하게 됩니다! 사슬 위로 올라갈수록, 의도했든 아니든 아래 기어들을 더 빠르게 돌게 만듭니다.
+이 효과를 시각화하는 간단한 방법은, 회사 조직도를 기어 사슬로 보는 것입니다. 한쪽 끝의 작은 개인 기여자 기어에서 시작해, 위로 올라갈수록 더 큰 관리자 기어가 이어지고, 최종적으로 수백 개 톱니를 가진 CEO 기어가 있습니다. 하나의 ‘관리자 기어’가 한 바퀴 돌면 개인 기어는 두세 바퀴 돕니다. CEO가 아주 작은 움직임만 보여도 여섯, 일곱 단계 말단의 직원은 미친 듯이 회전하게 됩니다! 사슬 위로 올라갈수록, 의도했든 아니든 아래 기어들을 더 빠르게 돌게 만듭니다.
 
 
 [[image_no_caption-id019]]
@@ -743,7 +743,7 @@ came in and told Bill 19 of the company's offices had been attacked by
 space aliens, Bill's response would be, "Any idea why they didn't make
 it an even 20?"
 
-Fitz에게는 Bill이라는footnote:[실명입니다.] 매니저가 있었는데, 그는 어떤 순간에도 침착함을 유지하는 능력을 완전히 체득한 사람이었습니다. 무엇이 터지든, 얼마나 미친 사건이 벌어지든, 얼마나 큰 화재 폭풍이 닥치든 Bill은 결코 당황하지 않았습니다. 그는 한 팔을 가슴에 올리고 턱을 괴고는, 보통은 완전히 패닉 상태인 직원에게 문제를 묻곤 했습니다. 그러면 직원은 진정하고, ‘목 잘린 닭’처럼 헤매지 않고 문제 해결에 집중할 수 있었습니다.
+Fitz에게는 Bill이라는footnote:[실명입니다.] 관리자가 있었는데, 그는 어떤 순간에도 침착함을 유지하는 능력을 완전히 체득한 사람이었습니다. 무엇이 터지든, 얼마나 미친 사건이 벌어지든, 얼마나 큰 화재 폭풍이 닥치든 Bill은 결코 당황하지 않았습니다. 그는 한 팔을 가슴에 올리고 턱을 괴고는, 보통은 완전히 패닉 상태인 직원에게 문제를 묻곤 했습니다. 그러면 직원은 진정하고, ‘목 잘린 닭’처럼 헤매지 않고 문제 해결에 집중할 수 있었습니다.
 Fitz는 농담처럼 말하곤 했습니다. 누가 와서 “회사 사무실 19곳이 외계인에게 공격당했습니다”라고 말한다면, Bill은 이렇게 답할 거라고요. “왜 20개를 채우지 않았을까요?”
 
 ((("questions, asking","for effective leadership")))This brings us to another Zen
@@ -952,7 +952,7 @@ supposed to be doing, but if you overexplain things or ramble on
 endlessly, your mentee will probably tune you out rather than politely
 tell you she got it.
 
-매니저 역할과 마찬가지로, 멘토 역할은 지원해서 맡기보다는 팀 리드가 신입을 도울 사람을 찾다가 자연스럽게 맡게 되는 경우가 많습니다. 멘토에게 거창한 교육이나 준비는 필요하지 않습니다. 본질적으로 세 가지가 중요합니다. 팀의 프로세스와 시스템에 대한 경험, 타인에게 설명하는 능력, 그리고 멘티가 어느 정도 도움을 필요로 하는지 가늠하는 능력.
+관리자 역할과 마찬가지로, 멘토 역할은 지원해서 맡기보다는 팀 리드가 신입을 도울 사람을 찾다가 자연스럽게 맡게 되는 경우가 많습니다. 멘토에게 거창한 교육이나 준비는 필요하지 않습니다. 본질적으로 세 가지가 중요합니다. 팀의 프로세스와 시스템에 대한 경험, 타인에게 설명하는 능력, 그리고 멘티가 어느 정도 도움을 필요로 하는지 가늠하는 능력.
 마지막이 아마 가장 중요합니다. 멘티에게 충분한 정보를 주는 것은 당신의 일입니다. 하지만 지나치게 장황하게 설명하면, 멘티는 “알겠다”고 정중히 말하기보다, 그냥 귀를 닫아 버릴 것입니다.
 
 [[set_clear_goals]]
@@ -1007,7 +1007,7 @@ tell them something they don't want to hear. A former manager of
 Fitz's would tell new team members, "I won't lie to you, but I will
 tell you when I can't tell you something or if I just don't know."
 
-당신이 팀에게 거짓말을 한다고 가정하는 것은 아닙니다. 다만, 언젠가 반드시 팀에게 어떤 것을 말할 수 없거나, 더 나쁘게는 듣기 싫은 사실을 말해야 하는 상황이 오기 때문에 이 주제를 언급합니다. Fitz의 이전 매니저는 신입 팀원들에게 이렇게 말하곤 했습니다. “나는 너희에게 거짓말하지 않아. 하지만 어떤 건 말할 수 없을 때가 있고, 그냥 모를 때도 있다는 건 말해 줄게.”
+당신이 팀에게 거짓말을 한다고 가정하는 것은 아닙니다. 다만, 언젠가 반드시 팀에게 어떤 것을 말할 수 없거나, 더 나쁘게는 듣기 싫은 사실을 말해야 하는 상황이 오기 때문에 이 주제를 언급합니다. Fitz의 이전 관리자는 신입 팀원들에게 이렇게 말하곤 했습니다. “나는 너희에게 거짓말하지 않아. 하지만 어떤 건 말할 수 없을 때가 있고, 그냥 모를 때도 있다는 건 말해 줄게.”
 
 If a team member approaches you about something you can't share with
 her, it's OK to just tell her you know the answer but can't tell
@@ -1018,7 +1018,7 @@ read it, but many people move to a manager role and feel that if they
 don't know the answer to something it proves they're weak or out of
 touch. In reality, the only thing it proves is that they're human.
 
-팀원이 당신이 공유할 수 없는 것을 묻는다면, 답을 알고 있지만 말해 줄 수 없다고 말해도 괜찮습니다. 더 흔한 상황은, 당신이 답을 모르는 질문을 받는 경우입니다. 모른다고 말하세요. 글로 보면 너무나 자명하지만, 많은 이들이 매니저 역할로 이동하면 답을 모르는 것이 약하거나 둔감하다는 증거라고 느낍니다. 현실에서 그게 증명하는 유일한 사실은 ‘인간’이라는 점뿐입니다.
+팀원이 당신이 공유할 수 없는 것을 묻는다면, 답을 알고 있지만 말해 줄 수 없다고 말해도 괜찮습니다. 더 흔한 상황은, 당신이 답을 모르는 질문을 받는 경우입니다. 모른다고 말하세요. 글로 보면 너무나 자명하지만, 많은 이들이 관리자 역할로 이동하면 답을 모르는 것이 약하거나 둔감하다는 증거라고 느낍니다. 현실에서 그게 증명하는 유일한 사실은 ‘인간’이라는 점뿐입니다.
 
 Giving hard feedback((("feedback","negative"))) is…well,
 __hard__. The first time you have to tell one of your reports that he
@@ -1071,7 +1071,7 @@ performance with the previous team. Lo and behold, within a matter of
 weeks (and after a few more "refresher" meetings), Tim's performance
 improved dramatically. Tim just needed very clear feedback and pass:[<span class="keep-together">direction</span>].
 
-몇 년 전, Fitz는 다른 매니저로부터 팀원 Tim을 인수받았는데, 그 매니저는 Tim과 함께 일하는 것이 불가능하다고 주장했습니다. 그는 Fitz에게 Tim이 피드백이나 비판에 전혀 반응하지 않고, 대신 하지 말라고 들은 똑같은 일을 계속 한다고 말했습니다. Fitz는 매니저와 Tim 사이의 상호작용을 관찰하기 위해 몇 번의 회의에 참석했고, 그 매니저가 Tim의 감정을 상하게 하지 않으려고 칭찬 샌드위치를 광범위하게 사용한다는 것을 알아차렸습니다. Fitz가 Tim을 자신의 팀으로 데려왔을 때, 그는 Tim과 앉아서 팀과 더 효과적으로 일하기 위해 몇 가지 변화가 필요하다고 매우 명확하게 설명했습니다. Fitz는 Tim에게 어떤 칭찬도 하지 않았고 문제를 포장하지도 않았지만, 똑같이 중요한 것은 Fitz가 비정하지 않았다는 점입니다. 그는 단지 이전 팀에서의 Tim의 성과를 바탕으로 자신이 본 사실들을 제시했을 뿐입니다. 놀랍게도 몇 주 만에 (그리고 몇 번의 "복습" 회의 후에) Tim의 성과가 극적으로 향상되었습니다. Tim에게는 매우 명확한 피드백과 pass:[<span class="keep-together">방향</span>]이 필요했을 뿐이었습니다.
+몇 년 전, Fitz는 다른 관리자로부터 팀원 Tim을 인수받았는데, 그 관리자는 Tim과 함께 일하는 것이 불가능하다고 주장했습니다. 그는 Fitz에게 Tim이 피드백이나 비판에 전혀 반응하지 않고, 대신 하지 말라고 들은 똑같은 일을 계속 한다고 말했습니다. Fitz는 관리자와 Tim 사이의 상호작용을 관찰하기 위해 몇 번의 회의에 참석했고, 그 관리자가 Tim의 감정을 상하게 하지 않으려고 칭찬 샌드위치를 광범위하게 사용한다는 것을 알아차렸습니다. Fitz가 Tim을 자신의 팀으로 데려왔을 때, 그는 Tim과 앉아서 팀과 더 효과적으로 일하기 위해 몇 가지 변화가 필요하다고 매우 명확하게 설명했습니다. Fitz는 Tim에게 어떤 칭찬도 하지 않았고 문제를 포장하지도 않았지만, 똑같이 중요한 것은 Fitz가 비정하지 않았다는 점입니다. 그는 단지 이전 팀에서의 Tim의 성과를 바탕으로 자신이 본 사실들을 제시했을 뿐입니다. 놀랍게도 몇 주 만에 (그리고 몇 번의 "복습" 회의 후에) Tim의 성과가 극적으로 향상되었습니다. Tim에게는 매우 명확한 피드백과 pass:[<span class="keep-together">방향</span>]이 필요했을 뿐이었습니다.
 
 When you're providing direct feedback or criticism, your delivery is key to
 making sure your message is heard and not deflected. If you put the
@@ -1245,7 +1245,7 @@ been amazed at companies that take their best engineers and—against
 their wishes—throw these engineers into management roles. This usually
 subtracts a great engineer from your team and adds a subpar manager.
 
-__자신을 대체할 사람을 찾아라__. 평생 똑같은 일을 계속하고 싶지 않다면, 자신을 대체할 사람을 찾으세요. 이는 앞서 언급했듯이 채용 과정에서 시작됩니다. 팀의 구성원이 당신을 대체하기를 원한다면, 당신을 대체할 수 있는 사람들을 고용해야 합니다. 우리는 이를 보통 "당신보다 똑똑한 사람을 고용하라"고 요약합니다. 당신의 일을 할 수 있는 팀원들이 있으면, 그들에게 더 많은 책임을 맡거나 때때로 팀을 이끌 기회를 주어야 합니다. 이렇게 하면 누가 리더십에 가장 적성이 있는지, 그리고 누가 팀을 이끌고 __싶어하는지__ 빠르게 알 수 있을 것입니다. 어떤 사람들은 그냥 고성과 개인 기여자로 있는 것을 선호한다는 것을 기억하세요. 그것도 괜찮습니다. 우리는 항상 최고의 엔지니어들을 데려다가—그들의 의사에 반해—관리 역할에 던져넣는 회사들에 놀라왔습니다. 이는 보통 팀에서 훌륭한 엔지니어를 빼고 평균 이하의 매니저를 추가하는 결과를 낳습니다.
+__자신을 대체할 사람을 찾아라__. 평생 똑같은 일을 계속하고 싶지 않다면, 자신을 대체할 사람을 찾으세요. 이는 앞서 언급했듯이 채용 과정에서 시작됩니다. 팀의 구성원이 당신을 대체하기를 원한다면, 당신을 대체할 수 있는 사람들을 고용해야 합니다. 우리는 이를 보통 "당신보다 똑똑한 사람을 고용하라"고 요약합니다. 당신의 일을 할 수 있는 팀원들이 있으면, 그들에게 더 많은 책임을 맡거나 때때로 팀을 이끌 기회를 주어야 합니다. 이렇게 하면 누가 리더십에 가장 적성이 있는지, 그리고 누가 팀을 이끌고 __싶어하는지__ 빠르게 알 수 있을 것입니다. 어떤 사람들은 그냥 고성과 개인 기여자로 있는 것을 선호한다는 것을 기억하세요. 그것도 괜찮습니다. 우리는 항상 최고의 엔지니어들을 데려다가—그들의 의사에 반해—관리 역할에 던져넣는 회사들에 놀라왔습니다. 이는 보통 팀에서 훌륭한 엔지니어를 빼고 평균 이하의 관리자를 추가하는 결과를 낳습니다.
 
 ((("waves, making")))__Know when to make waves__. You will (inevitably and frequently) have
 difficult situations crop up where every cell in your body is
@@ -1281,7 +1281,7 @@ calm company, and the other manager laughed hysterically at Fitz's
 naïveté: the chaos had always been present, but Fitz's previous
 manager had shielded Fitz and the rest of the team from it.
 
-__팀을 혼돈으로부터 보호하라__. 리더십 역할을 맡으면, 보통 가장 먼저 발견하게 되는 것은 팀 밖에는 개인 기여자였을 때 결코 보지 못했던 혼돈과 불확실성(또는 심지어 광기)의 세계가 있다는 것입니다. Fitz가 1990년대에 처음 매니저가 되었을 때(다시 개인 기여자로 돌아가기 전), 그는 회사에서 일어나고 있는 엄청난 양의 불확실성과 조직적 혼돈에 깜짝 놀랐습니다. 그는 다른 매니저에게 평소 차분했던 회사에 갑자기 이런 불안정함이 생긴 원인이 무엇인지 물었고, 그 매니저는 Fitz의 순진함에 히스테리컬하게 웃었습니다. 혼돈은 항상 존재했지만, Fitz의 이전 매니저가 Fitz와 팀의 나머지 구성원들을 그것으로부터 보호해왔던 것입니다.
+__팀을 혼돈으로부터 보호하라__. 리더십 역할을 맡으면, 보통 가장 먼저 발견하게 되는 것은 팀 밖에는 개인 기여자였을 때 결코 보지 못했던 혼돈과 불확실성(또는 심지어 광기)의 세계가 있다는 것입니다. Fitz가 1990년대에 처음 관리자가 되었을 때(다시 개인 기여자로 돌아가기 전), 그는 회사에서 일어나고 있는 엄청난 양의 불확실성과 조직적 혼돈에 깜짝 놀랐습니다. 그는 다른 관리자에게 평소 차분했던 회사에 갑자기 이런 불안정함이 생긴 원인이 무엇인지 물었고, 그 관리자는 Fitz의 순진함에 히스테리컬하게 웃었습니다. 혼돈은 항상 존재했지만, Fitz의 이전 관리자가 Fitz와 팀의 나머지 구성원들을 그것으로부터 보호해왔던 것입니다.
 
 ((("air cover, for your team")))__Give your team air cover__. While it's important that you keep your
 team informed about what's going on "above" them in the company, it's
@@ -1509,7 +1509,7 @@ forwards it to the engineering team. This not only motivates the team,
 but also frequently inspires them to think about ways they can make
 their product even better.
 
-물론 세상의 모든 자율성과 숙련 기회도, 일이 __목적__ 없이 보인다면 동기부여에 도움이 되지 않습니다. 많은 사람이 의미 있는 제품을 만들지만, 그 제품이 회사·고객·세상에 주는 긍정적 효과와는 일정 거리를 둔 채 일합니다. 영향이 작은 제품이라 해도, 팀의 노력이 가진 이유를 찾아 명확히 알려 주면 동기부여할 수 있습니다. 그들이 자신들의 일에서 그 목적을 보도록 도와주면, 동기와 생산성이 크게 높아질 것입니다footnote:[link:$$http://bit.ly/task_significance$$[]]. 우리가 아는 한 매니저는(영향이 '작은' 편에 속하는) 자사 제품에 대한 고객 이메일 피드백을 유심히 살피다가, 제품이 개인적으로 혹은 비즈니스에 얼마나 도움이 되었는지 전하는 메시지를 보면 즉시 엔지니어링 팀에 전달합니다. 이는 팀의 동기를 북돋울 뿐 아니라, 제품을 더 좋게 만들 아이디어를 자주 불러일으킵니다.
+물론 세상의 모든 자율성과 숙련 기회도, 일이 __목적__ 없이 보인다면 동기부여에 도움이 되지 않습니다. 많은 사람이 의미 있는 제품을 만들지만, 그 제품이 회사·고객·세상에 주는 긍정적 효과와는 일정 거리를 둔 채 일합니다. 영향이 작은 제품이라 해도, 팀의 노력이 가진 이유를 찾아 명확히 알려 주면 동기부여할 수 있습니다. 그들이 자신들의 일에서 그 목적을 보도록 도와주면, 동기와 생산성이 크게 높아질 것입니다footnote:[link:$$http://bit.ly/task_significance$$[]]. 우리가 아는 한 관리자는(영향이 '작은' 편에 속하는) 자사 제품에 대한 고객 이메일 피드백을 유심히 살피다가, 제품이 개인적으로 혹은 비즈니스에 얼마나 도움이 되었는지 전하는 메시지를 보면 즉시 엔지니어링 팀에 전달합니다. 이는 팀의 동기를 북돋울 뿐 아니라, 제품을 더 좋게 만들 아이디어를 자주 불러일으킵니다.
 
 [[final_thoughts]]
 === Final Thoughts
