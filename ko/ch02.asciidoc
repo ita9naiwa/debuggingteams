@@ -93,95 +93,34 @@ red flag in their feedback.
 [NOTE]
 ====
 
-((("interviews"))) 새 팀원이 문화적으로 맞는지 확실히 하려면, 그 자체를 위한 인터뷰를 해야 합니다. 많은 회사(구글 같은)는 면접에서 문화 적합성을 후보자 평가 기준 중 하나로 둡니다. 어떤 회사는 채용 실수를 피하려고 한 발 더 나아갑니다. 기술 면접 __이전에__ 문화 적합성만 따로 보는 면접을 진행해, 기술적으로는 맞아도 문화적으로 맞지 않는 사람은 아예 고려하지 않으려는 것입니다. 이런 과정에의 개입은 강한 문화를 만들고 지키는 데 결정적입니다. 우연히 이루어지지 않습니다. 보통 회사의 창립자와 초기 직원들이 의식적으로 설계합니다.(((range="endofrange", startref="ixch02asciidoc3")))ㄴ
+((("interviews"))) 새 팀원이 문화적으로 맞는지 확실히 하려면, 그 자체를 위한 인터뷰를 해야 합니다. 많은 회사(구글 같은)는 면접에서 문화 적합성을 후보자 평가 기준 중 하나로 둡니다. 어떤 회사는 채용 실수를 피하려고 한 발 더 나아갑니다. 기술 면접 __이전에__ 문화 적합성만 따로 보는 면접을 진행해, 기술적으로는 맞아도 문화적으로 맞지 않는 사람은 아예 고려하지 않으려는 것입니다. 이런 과정에의 개입은 강한 문화를 만들고 지키는 데 결정적입니다. 우연히 이루어지지 않습니다. 보통 회사의 창립자와 초기 직원들이 의식적으로 설계합니다.(((range="endofrange", startref="ixch02asciidoc3")))
 
 ====
 
 [[culture_and_people]]
 === Culture and People
+문화와 사람
 
 ((("people","culture and", id="ixch02asciidoc4", range="startofrange")))((("team culture","and people", id="ixch02asciidoc5", range="startofrange")))
-Creative work like writing software is different from simply knocking out widgets on an
-assembly line. Some types of work can be done with a few days of
-training and some basic tools, and if your worker quits and leaves (or
-doesn't work out), you just drop another worker in and on you go. In
-the assembly line environment, employees are accomplishing simple
-tasks, often by rote, with little creative-thinking or problem-solving
-skills required. In the software world, a great deal of creative
-thinking is required of engineers working on a
-product,footnote:[Some people think they can hire a
-whiz-bang architect and a bunch of mediocre programmers and create a
-good product. We think you can do that, but it's considerably less
-exciting and fun than working with a team of great people who inspire, challenge, and
-teach you.] and if you want a great product, you need great
-engineers. If you want great engineers to do great work (and to stick
-around), you need to create a culture for them that allows them to
-safely share ideas and have a voice in the decision-making process.
-
-소프트웨어를 쓰는 것 같은 창의적 일은 단순히 조립 라인에서 부품을 찍어내는 일과 다릅니다.
-어떤 일은 며칠 교육과 기본 도구만으로도 해낼 수 있고, 사람이 그만두거나 맞지 않으면 다른 사람을 투입해 이어갈 수도 있습니다.
+소프트웨어를 개발하는 것과 같은 창의적 일은 단순히 조립 라인에서 부품을 찍어내는 일과 다릅니다.
+어떤 일은 며칠간의 교육과 기본 도구만으로도 해낼 수 있고, 사람이 그만두거나 맞지 않으면 다른 사람을 투입해 이어갈 수도 있습니다.
 조립 라인 환경에서는 창의적 사고나 문제 해결 능력이 거의 요구되지 않는 단순 작업을 종종 반복합니다.
 반면 소프트웨어 세계에서는 제품을 만드는 엔지니어에게 많은 창의적 사고가 요구됩니다.footnote:[‘초특급 아키텍트’와 평범한 프로그래머 몇 명만 뽑아도 좋은 제품을 만들 수 있다고 생각하는 사람들이 있습니다.
 할 수는 있겠지만, 우리 생각에 그것은 훌륭한 사람들과 함께 서로 영감을 주고 도전하고 배울 수 있는 팀과 일하는 것에 비해 훨씬 덜 흥미롭고 재미없습니다.]
 훌륭한 제품을 원한다면, 훌륭한 엔지니어가 필요합니다. 훌륭한 엔지니어가 좋은 일을 하고 오래 함께하도록 하려면, 아이디어를 안전하게 공유하고 의사결정 과정에서 목소리를 낼 수 있는 문화를 만들어야 합니다.
 
-If you want to get excellent engineers to work on your team, you need
-to start by hiring, well, some great engineers! That may sound weird,
-but the fact of the matter is that most great engineers want to be on
-teams with __other__ great engineers. Many great engineers we know
-gravitate toward teams where they can learn from giants of the
-industry.footnote:[Great engineers also demand great
-team leaders, because crappy leaders not only tend to be too insecure
-to deal with great engineers, but also tend to boss people around.] So
-how do you attract these engineers in the first place?
-
-뛰어난 엔지니어들을 팀으로 데려오고 싶다면, 우선은… 네, 뛰어난 엔지니어를 채용하는 것부터 시작해야 합니다!
+뛰어난 엔지니어들을 팀으로 데려오고 싶다면, 우선은.. 네, 뛰어난 엔지니어를 채용하는 것부터 시작해야 합니다!
 다소 이상하게 들릴지 몰라도 사실입니다. 대부분의 훌륭한 엔지니어는 __다른__ 훌륭한 엔지니어들과 함께하는 팀을 원합니다.
 우리가 아는 많은 뛰어난 엔지니어는 업계의 거인들에게서 배울 수 있는 팀으로 모여듭니다.footnote:[훌륭한 엔지니어는 훌륭한 리더도 요구합니다. 형편없는 리더는 훌륭한 엔지니어를 감당할 자신이 없고, 사람들을 좌지우지하려 드는 경향이 있기 때문입니다.]
 그럼 애초에 이들을 어떻게 끌어들일 수 있을까요?
 
-For starters, they're going to want to be able to not only contribute
-to the development of
-your product, but also participate in the product's decision-making
-process, and that usually means some level of consensus-driven
-management. In the case of top-down management, the alpha engineer is
-the team lead and lesser engineers are hired as team members. This is
-because subservient team members cost less and are easier to push
-around. And you're going to have a hard time finding great engineers
-to be on this team because, after all, what really great engineer
-wants to __ride__ the bus when she can __drive__ the bus at another
-company? But in the case of consensus-driven management, the entire
-team participates in the decision-making process.
-
-먼저, 이들은 단지 제품 개발에 기여하는 것을 넘어, 제품에 대한 의사결정 과정에도 참여하길 원합니다.
-이는 대개 일정 수준의 합의 주도형 경영을 의미합니다.
-반면 상명하복식(top-down) 관리에서는 알파 엔지니어가 팀 리드가 되고, 그보다 낮은 엔지니어들이 팀원으로 채용됩니다.
+먼저, 이들은 단지 제품 개발에 기여하는 것을 넘어, 제품에 대한 의사결정 과정에도 참여하길 원합니다. 이는 대개 일정 수준의 합의 주도형 경영을 의미합니다. 반면 상명하복식(top-down) 관리에서는 알파 엔지니어가 팀 리드가 되고, 그보다 낮은 엔지니어들이 팀원으로 채용됩니다.
 순응적인 팀원일수록 비용이 적게 들고 다루기 쉽기 때문입니다.
 하지만 이렇게 하면 훌륭한 엔지니어를 팀으로 데려오기 어렵습니다.
 다른 회사에서는 __운전석__에 앉을 수 있는데 굳이 여기서 __승객__이 되려 할 훌륭한 엔지니어가 누가 있겠습니까?
 반면 합의 주도형 경영에서는 팀 전체가 의사결정 과정에 참여합니다.
 
-((("consensus-based team")))Many people hear "consensus-based team" and immediately think of a
-bunch of hippies singing "Kumbaya" around a campfire and never making
-a decision or getting anything done, but that stereotype is
-symptomatic of a dysfunctional team much more than a consensus-based
-team. What we mean by "consensus" is that everyone has a strong sense
-of ownership and responsibility for the product's success and that the
-leaders really listen to the team (with an emphasis on the "respect"
-component of HRT). This may mean there are times when extended
-discussion and reflection is what the product needs to succeed, and
-there are other times when the team
-agrees they need to move quickly. In the latter case, team members may
-decide to entrust a great deal of the nitty-gritty day-to-day
-decision making to one or more team
-leads.footnote:[When consensus can't be reached, some
-teams have their leads decide, while other teams put it to a vote. The
-process your team uses is less important than having a process and
-sticking with it when there's conflict.] In order for this to happen,
-the team as a whole needs to agree on the general mission of the team,
-and believe it or not, the key to that is the development of a team
-mission statement (more on that later in this chapter).
-
+((("consensus-based team")))
 “합의 기반 팀”이라고 하면, 모닥불 옆에서 ‘쿰바야’를 부르며 결정 하나 못 내리고 아무것도 못 하는 히피 무리를 떠올리는 사람이 많습니다.
 그러나 그런 고정관념은 합의 기반 팀이 아니라 기능장애 팀의 징후에 가깝습니다.
 우리가 말하는 “합의”란 모든 구성원이 제품의 성공에 대해 강한 소유감과 책임감을 갖고, 리더가 팀의 목소리를 진지하게 귀 기울여 듣는 것(HRT의 “존중” 요소를 강조)입니다.
@@ -207,25 +146,11 @@ prevent this sort of situation in <<dealing_with_poisonous_people>>.
 팀의 의사결정 과정만큼이나 중요한 것은 팀원들이 서로를 대하는 방식입니다.
 이는 무엇보다도 자기 선택적이기 때문입니다.
 가슴을 치며 고함치고 서로에게 소리를 지르는 문화에서는, 강한 __개인__의 자아가 지배적인 환경에 익숙한 공격적인 유형의 사람들만 끌리고(그리고 남게) 됩니다(실제로 우리가 아는 많은 여성들은 이런 환경을 특히 불쾌해합니다).
-반대로 HRT에 기반한, 서로를 친절히 대하고 건설적 피드백을 주기 위해 노력하는 문화를 만들면, 훨씬 더 넓은 사람들을 끌어들일 수 있고, 소프트웨어를 쓰는 데 훨씬 더 많은 에너지를 쏟게 됩니다.
+반대로 서로를 친절히 대하고 건설적 피드백을 주기 위해 노력하는 HRT에 기반한 문화를 만들면, 훨씬 더 넓은 사람들을 끌어들일 수 있고, 소프트웨어를 개발하는 데 훨씬 더 많은 에너지를 쏟게 됩니다.
 강한 팀 자아footnote:[즉, 팀의 자부심]는 좋습니다. 그러나 __개인__의 자아가 팀 전체를 가리는 상황은 재앙의 처방전입니다.
 이런 상황을 어떻게 막을지는 <<dealing_with_poisonous_people>>에서 다루겠습니다.
 
-((("constructive criticism")))((("criticism","and team culture")))Constructive criticism is essential
-to the growth and development of any person or team, but many people
-will go to great lengths to avoid soliciting criticism.  In some cases
-this is due to insecurity, but in most cases that we've seen it is
-because a person thinks that they are required to take action on any
-criticism received, even if they disagree with it.  The best part
-about getting good constructive criticism is that you can pick and
-choose which pieces you want to act on. Let's say, for example, that
-you're getting ready for an important job interview and put on your
-favorite suit. You approach a trusted friend and ask how you look. If
-they say, "You've got spinach in your teeth, and I really hate your
-suit" you can take a quick floss break, but you don't __have__ to
-change clothes as well. Criticism is a gift that you can either accept
-or reject.
-
+((("constructive criticism")))((("criticism","and team culture")))
 건설적 비판은 개인이나 팀의 성장과 발전에 필수적입니다.
 하지만 많은 사람들은 비판을 구하는 일을 어떻게든 피하려 듭니다.
 어떤 경우엔 불안감 때문이지만, 우리가 보기엔 대체로 받은 비판에 동의하지 않더라도 반드시 행동으로 옮겨야 한다고 생각하기 때문입니다.
@@ -234,59 +159,22 @@ or reject.
 신뢰하는 친구에게 어떻게 보이는지 묻습니다. “이 사이에 시금치 끼었고, 솔직히 옷은 별로야”라고 하면, 바로 치실로 해결하면 됩니다.
 옷까지 __바꿀 필요는 없습니다__. 비판은 여러분이 받아들일 수도, 거절할 수도 있는 선물입니다.
 
-If you're interested in improving your work or fixing your own
-personal bugs, these very friends and colleagues are the ones that can
-make you aware of things you do that might be hindering your
-effectiveness. Unless you have a truly remarkable level of
-self-awareness or introspection, without criticism, you'll just go on
-making the same mistakes no one wants to tell you about. For example,
-in the process of going to press with this book, we've had no fewer
-than a dozen people look at it and give us constructive criticism on our writing, and most of it was
-incredibly detailed and completely invaluable. Regardless of whether
-you think the book is good or bad, it would have been __considerably
-worse__ if we had ignored this valuable feedback or been afraid to ask
-for it.
-
 여러분의 일을 더 잘하고 개인적인 결함을 고치는 데 관심이 있다면, 바로 그런 친구와 동료들이 여러분의 효율을 떨어뜨리는 습관을 자각하게 만들어 줄 사람들입니다.
 아주 놀라운 수준의 자기 인식이나 성찰 능력이 있지 않은 한, 비판이 없으면 아무도 말해 주지 않는 같은 실수를 계속 반복하게 됩니다.
 예컨대 이 책을 출간하는 과정에서 우리는 12명 넘는 사람들이 우리 글을 읽고 건설적 비판을 해주었고, 그 대부분이 믿을 수 없을 만큼 세밀하고 정말 귀중했습니다.
 여러분이 이 책을 좋다고 보든 나쁘다고 보든, 우리가 이 귀중한 피드백을 무시했거나 묻기를 두려워했다면 책은 __훨씬 더 형편없어졌을__ 것입니다.
 
 [role="pagebreak-before"]
-It requires a certain amount of self-confidence
-to take any kind of criticism, and we think constructive criticism is
-the easiest kind to receive. On the downside, it's a lot harder to
-give someone constructive criticism than to simply lambast her or
-ridicule something she did. Of course, we realize it's incredibly
-difficult to solicit and then receive constructive criticism from most
-people—they assume that when you ask them to criticize your work,
-you're only looking for compliments and assurance. If you can find
-friends or colleagues who will constructively criticize your work when
-you ask them, hang on to these people because they're worth their
-weight in unobtainium.
-
 어떤 비판이든 받아들이려면 일정 수준의 자신감이 필요하고, 그중에서도 건설적 비판이 가장 받아들이기 쉽다고 생각합니다.
 반면 남에게 건설적 비판을 해주는 일은, 그저 몰아붙이거나 조롱하는 것보다 훨씬 어렵습니다.
 대부분의 사람에게 건설적 비판을 부탁하고 실제로 받는 일은 매우 어렵다는 것도 잘 알고 있습니다.
 많은 사람들이 여러분이 비판을 요청하면 사실 칭찬과 안심만을 원한다고 생각하기 때문입니다.
 여러분이 요청할 때 건설적으로 비판해 줄 수 있는 친구나 동료를 찾았다면, 그들은 ‘언옵테이니엄(unobtainium)’만큼 귀한 사람들이니 꼭 붙잡으세요.
 
-((("aggressive people")))Aggressive people can (usually) be productive
-in a quieter environment, but quieter, more introverted people rarely
-excel (or enjoy working) in an aggressive environment—it's not only
-harder to hear their voices over the noise, but it also tends to
-discourage them from being ((("Cain, Susan")))active
-participants.footnote:[See Susan Cain's excellent TED Talk, http://www.youtube.com/watch?v=c0KYU2j0TM4["The Power of
-Introverts"], or her book,
-__Quiet: The Power of Introverts__ (Crown).] If you're looking for a
-culture that allows the broadest range of people to work most
-efficiently, you should build that culture on humility, respect, and
-trust.
-
-공격적인 사람은(보통) 더 조용한 환경에서도 생산적으로 일할 수 있습니다.
+((("aggressive people"))) 공격적인 사람은(보통) 더 조용한 환경에서도 생산적으로 일할 수 있습니다.
 하지만 조용하고 내향적인 사람은 공격적인 환경에서 뛰어나기(혹은 즐겁게 일하기) 어렵습니다.
-소음 속에서 그들의 목소리를 듣기 어려울 뿐 아니라, 적극적으로 참여하지 않게 만들기 때문입니다.footnote:[수잔 케인의 훌륭한 TED 강연 ‘The Power of Introverts’(http://www.youtube.com/watch?v=c0KYU2j0TM4) 또는 저서 __Quiet: The Power of Introverts__(Crown)을 참고하세요.]
-가장 넓은 범위의 사람들이 가장 효율적으로 일할 수 있는 문화를 원한다면, 그 문화는 겸손, 존중, 신뢰 위에 세워져야 합니다.
+소음 속에서 그들의 목소리를 듣기 어려울 뿐 아니라, ((("Cain, Susan")))적극적으로 참여하지 않게 만들기 때문입니다.footnote:[수잔 케인의 훌륭한 TED 강연 ‘The Power of Introverts’(http://www.youtube.com/watch?v=c0KYU2j0TM4) 또는 저서 __Quiet: The Power of Introverts__(Crown)을 참고하세요.]
+가장 넓은 범위의 사람들이 가장 효율적으로 일할 수 있는 문화를 원한다면, 그 문화는 겸손, 존중, 신뢰 위에 세워야 합니다.
 
 ((("calm cultures")))Calm, easygoing cultures built on respect are more vulnerable to
 disruption by aggressive people than ((("aggressive cultures")))aggressive cultures are
@@ -300,67 +188,31 @@ with these sorts of "poisonous people" in
 <<dealing_with_poisonous_people>>.(((range="endofrange", startref="ixch02asciidoc5")))(((range="endofrange", startref="ixch02asciidoc4")))
 
 존중을 바탕으로 한 차분하고 느긋한 문화는, 공격적인 문화가 느긋한 사람에게서 방해받는 것보다 공격적인 사람에게서 방해받기 더 쉽습니다.
-느긋한 문화는 이를 인지하고, 보통은 공격적인 어조로 맞대응하지 않음으로써, 공격적인 신입이 주도권을 잡지 못하게 해야 합니다.
-경우에 따라서는 더 선임인 팀원이 나서서 그 신입을 정면으로 상대해, 팀의 온화한 문화를 해치지 못하도록 막아야 할 수도 있습니다.
+느긋한 문화는 이를 인지하고, 보통은 공격적인 어조로 맞대응하지 않음으로써, 공격적인 새로운 팀원이 주도권을 잡지 못하게 해야 합니다.
+경우에 따라서는 더 선임인 팀원이 나서서 그 새로운 팀원을 정면으로 상대해, 팀의 온화한 문화를 해치지 못하도록 막아야 할 수도 있습니다.
 이런 “독이 되는 사람들”을 다루는 법은 <<dealing_with_poisonous_people>>에서 더 자세히 이야기하겠습니다.(((range="endofrange", startref="ixch02asciidoc5")))(((range="endofrange", startref="ixch02asciidoc4")))
 
 [[communication_patterns_of_successful_cul]]
 === Communication Patterns of Successful Cultures
+=== 성공적인 문화의 커뮤니케이션 패턴
 
-((("communication","in successful cultures", id="ixch02asciidoc6", range="startofrange")))((("team culture","communication patterns for", id="ixch02asciidoc7", range="startofrange")))Communication can often be a challenge when working with a team,
-particularly for engineers, who would rather spend an afternoon with a
-(predictable, logical) compiler than spend three minutes with a
-(unpredictable, emotional) human being. In many cases, engineers see
-communication work as an obstacle to be overcome on the road to
-writing more code, but if your team isn't in agreement or is uninformed, there's no way to
-know if you're writing the right code in the first place.
-
+((("communication","in successful cultures", id="ixch02asciidoc6", range="startofrange")))((("team culture","communication patterns for", id="ixch02asciidoc7", range="startofrange")))
 팀으로 일할 때 커뮤니케이션은 종종 어려운 과제가 됩니다.
 특히 예측 가능하고 논리적인 컴파일러와 오후 내내 씨름하는 편이, 예측 불가능하고 감정적인 인간과 3분 대화하는 것보다 낫다고 느끼는 엔지니어에게는 더 그렇습니다.
 많은 경우 엔지니어는 커뮤니케이션을 더 많은 코드를 쓰기 위해 넘어야 할 장애물로 봅니다.
-하지만 팀이 합의하지 않았거나 정보가 공유되지 않았다면, 애초에 여러분이 올바른 코드를 쓰고 있는지조차 알 수 없습니다.
-
+하지만 팀이 합의하지 않았거나 정보가 공유되지 않았다면, 애초에 여러분이 올바른 코드를 작성하고 있는지조차 알 수 없습니다.
 
 [[image_no_caption-id011]]
 image::images/dbtm_02in03.png[]
-
-If you examine any successful, efficient culture, you'll find high
-value placed on numerous channels of communication, such as mailing
-lists, design docs, chat rooms, mission statements, code comments,
-production how-tos, and more. It takes considerable effort to make
-sure everyone on a team agrees on the team's direction and understands
-exactly what the team needs to do. All this effort, however, is an
-investment that pays off in increased productivity and team happiness.
 
 성공적이고 효율적인 문화를 살펴보면, 메일링 리스트, 디자인 문서, 채팅방, 미션 문서, 코드 주석, 운영 방법서 등 수많은 커뮤니케이션 채널에 높은 가치를 두고 있음을 알 수 있습니다.
 팀의 모든 구성원이 팀의 방향에 동의하고 무엇을 해야 하는지 정확히 이해하도록 만드는 데는 상당한 노력이 듭니다.
 그러나 이 모든 노력은 생산성과 팀의 행복을 높여주는 투자입니다.
 
-((("asynchronous communication")))((("communication","synchronous vs. asynchronous")))((("synchronous communication")))A good general rule around communication is to include as few people
-as necessary in __synchronous__ communication (like meetings and phone
-calls), and to go for a broader audience in __asynchronous__
-communication (like email, issue trackers, and document
-comments). Synchronous communications have a high cost: they require
-that participants interrupt their workday and receive information on
-your schedule. Asynchronous communications, however, can be dealt with
-at a time and place most convenient for the recipient.  Every time you
-interrupt someone's work it will take some amount of time for them to
-get back up to speed—always be conscious of when you're doing this.
+((("asynchronous communication")))((("communication","synchronous vs. asynchronous")))((("synchronous communication")))
+커뮤니케이션의 일반적인 규칙은 회의, 통화와 같은 __동기식__ 커뮤니케이션에는 꼭 필요한 최소한의 사람만 포함하고, 이메일, 이슈 트래커, 문서 댓글과 같은 __비동기식__ 커뮤니케이션에는 더 폭넓은 대상을 포함하라는 것입니다. 동기식 커뮤니케이션은 비용이 큽니다. 상대의 업무 시간을 끊고 여러분의 일정에 맞춰 정보를 받도록 요구하기 때문입니다. 반대로 비동기식 커뮤니케이션은 수신자가 가장 편한 시간과 장소에서 처리할 수 있습니다. 누군가의 일을 방해할 때마다 다시 몰입 상태로 돌아오려면 시간이 걸립니다—여러분이 방해를 만드는 순간을 항상 의식하세요.
 
-커뮤니케이션의 일반적인 규칙은, __동기식__ 커뮤니케이션(회의, 통화 등)에는 꼭 필요한 최소한의 사람만 포함하고, __비동기식__ 커뮤니케이션(이메일, 이슈 트래커, 문서 댓글 등)에는 더 폭넓은 대상을 포함하라는 것입니다. 동기식 커뮤니케이션은 비용이 큽니다. 상대의 업무 시간을 끊고 여러분의 일정에 맞춰 정보를 받도록 요구하기 때문입니다. 반대로 비동기식 커뮤니케이션은 수신자가 가장 편한 시간과 장소에서 처리할 수 있습니다. 누군가의 일을 방해할 때마다 다시 몰입 상태로 돌아오려면 시간이 걸립니다—여러분이 방해를 만드는 순간을 항상 의식하세요.
-
-But most importantly, you should make certain that all
-information is available to as many people as possible in your
-project's documentation. Let's cover the primary communication mechanisms that
-people use in the process of writing software with a
-team. Some of these may seem
-obvious, but there are many nuances that make them worth
-reviewing. One thing is certain: if you don't expend any effort on
-good communication, you'll
-waste considerable effort doing work that's either unnecessary or
-already being done by other members of your team.
-
-하지만 가장 중요한 것은, 모든 정보를 프로젝트 문서에 가능한 한 많은 사람이 접근할 수 있도록 보장하는 일입니다. 이제 팀으로 소프트웨어를 만드는 과정에서 사람들이 활용하는 주요 커뮤니케이션 수단들을 살펴보겠습니다. 언뜻 당연해 보이는 것들도 있겠지만, 다시 짚을 만한 미묘한 차이가 많습니다. 한 가지는 분명합니다. 커뮤니케이션에 노력을 들이지 않으면, 불필요한 일을 하거나 이미 다른 팀원이 하고 있는 일을 되풀이하느라 엄청난 노력이 낭비됩니다.
+하지만 가장 중요한 것은, 프로젝트 문서를 통해 모든 정보를 가능한 한 많은 사람이 접근할 수 있도록 보장하는 것입니다. 이제 팀으로 소프트웨어를 만드는 과정에서 사람들이 활용하는 주요 커뮤니케이션 수단들을 살펴보겠습니다. 언뜻 당연해 보이는 것들도 있겠지만, 다시 짚을 만한 미묘한 차이가 많습니다. 한 가지는 분명합니다. 커뮤니케이션에 노력을 들이지 않으면, 불필요한 일을 하거나 이미 다른 팀원이 하고 있는 일을 되풀이하느라 엄청난 노력이 낭비됩니다.
 
 [[high-level_synchronization]]
 === High-Level Synchronization
@@ -372,206 +224,67 @@ communicating their progress.
 가장 높은 수준에서는, 팀이 공통의 목표를 일치시키고 진행 상황을 소통하는 모범 사례를 따를 필요가 있습니다.
 
 [[the_mission_statementmdashno_really]]
-==== The Mission Statement—No, Really
+==== 사명선언문—정말로
 
-((("communication","and mission statements", id="ixch02asciidoc11", range="startofrange")))((("mission statements", id="ixch02asciidoc12", range="startofrange")))When you hear someone say "mission statement," the odds are good that
-the first thing that springs to mind are the insipid, overhyped,
-marketing-speak mission statements that are bandied about by a lot of
-big companies. An example is the following mission statement from a
-very large telecommunications company that will remain nameless:
-
-누군가 “미션 스테이트먼트”라고 말하면, 대기업들이 흔히 내세우는 싱겁고 과장된 마케팅 문구가 먼저 떠오르기 마련입니다. 예를 들어, 이름은 밝히지 않을 어느 대형 통신사의 미션 문구를 보시죠:
+((("communication","and mission statements", id="ixch02asciidoc11", range="startofrange")))((("mission statements", id="ixch02asciidoc12", range="startofrange")))
+누군가 “사명선언문”이라고 말하면, 대기업들이 흔히 내세우는 싱겁고 과장된 마케팅 문구가 먼저 떠오르기 마련입니다. 예를 들어, 이름은 밝히지 않을 어느 대형 통신사의 미션 문구를 보시죠:
 
 [quote]
 ____
-We aspire to be the most admired and valuable company in the
-world. Our goal is to enrich our customers' personal lives and to make
-their businesses more successful by bringing to market exciting and
-useful communications services, building shareowner value in the
-process.
+우리는 세계에서 가장 존경받고 가치 있는 회사가 되기를 열망합니다. 우리의 목표는 흥미롭고 유용한 통신 서비스를 시장에 출시함으로써 고객의 개인 생활을 풍요롭게 하고 그들의 비즈니스를 더욱 성공적으로 만들며, 이 과정에서 주주 가치를 창출하는 것입니다.
 ____
 
 
-Oddly enough, I've yet to meet __anyone__ who admires that company!
-Here's another example from another major corporation:
-
-아이러니하게도, 우리는 그 회사를 __존경한다__고 말하는 사람을 아직 못 만났습니다! 다음은 다른 대기업의 예입니다:
+아이러니하게도, 우리는 그 회사를 __존경한다__고 말하는 사람을 아직 못 만났습니다! 다음은 다른 대기업의 예시입니다:
 
 [quote]
 ____
-Providing solutions in real time to meet our customers' needs.
+고객의 요구사항을 충족하기 위한 실시간 솔루션을 제공합니다.
 ____
 
+도대체 무슨 __뜻__일까요? 문자 그대로 아무 의미로나 해석될 수 있습니다—우리가 그 회사에서 일한다면, 차를 닦는 일이 중요한지, 새는 파이프를 고치는 게 중요한지, 아니면 피자를 배달하는 게 중요한지조차 알 수 없을 겁니다. 바로 이런 기업식 이중언어 때문에 사명선언문이 나쁜 평판을 얻게 됩니다.
 
-What does that even __mean__? It could mean absolutely anything at
-all—if we worked for that company, we wouldn't know if it was more
-important to wash the car, fix a leaky pipe, or deliver a pizza. It's
-this kind of corporate doublespeak that gives mission statements a bad
-name.
-
-도대체 무슨 __뜻__일까요? 문자 그대로 아무 의미로나 해석될 수 있습니다—우리가 그 회사에서 일한다면, 차를 닦는 일이 중요한지, 새는 파이프를 고치는 게 중요한지, 아니면 피자를 배달하는 게 중요한지조차 알 수 없을 겁니다. 바로 이런 기업식 이중언어 때문에 미션 스테이트먼트가 나쁜 평판을 얻게 됩니다.
-
-For an effective, efficient team, writing a mission statement is a way
-to concisely define the direction and limit the scope of your
-product. Writing a good mission statement takes some time and effort,
-but it can potentially save you __years__ of work by clarifying what
-your team should and shouldn'tfootnote:[We can't
-stress enough how important this is—saying no to all of the
-distractions is what keeps you focused.] be working on.
-
-효과적이고 효율적인 팀에게 미션 스테이트먼트 작성은, 제품의 방향을 간결하게 정의하고 범위를 제한하는 방법입니다. 좋은 미션 문서를 쓰려면 시간과 노력이 들지만, 팀이 해야 할 일과 하지 말아야 할 일을 명확히 함으로써 잠재적으로 __수년__의 일을 절약할 수 있습니다.footnote:[이 점은 아무리 강조해도 지나치지 않습니다—온갖 산만함에 ‘아니오’라고 말하는 것이 집중을 지키는 핵심입니다.]
-
-When Google decided to move development of the((("Google Web Toolkit (GWT)"))) Google Web Toolkit (GWT) to an open source project, we acted
-as the team mentors. We reviewed the many differences between open and
-closed source development, paying specific attention to the
-difficulties of designing, discussing, and writing software in an
-environment where anyone can poke their nose in to offer an opinion,
-contribute a patch, or criticize the most minute aspect of your
-product.footnote:[We've often likened writing open
-source software to building card houses on a trampoline. It takes a
-steady hand, a lot of patience, and a willingness to deal with people
-who leap before looking.] After going over these challenges, we told
-the team they needed to come up with a mission statement as a way to
-describe to the public at large what their product goals (and nongoals!) were.
+효과적이고 효율적인 팀에게 사명선언문 작성은, 제품의 방향을 간결하게 정의하고 범위를 제한하는 방법입니다. 좋은 미션 문서를 쓰려면 시간과 노력이 들지만, 팀이 해야 할 일과 하지 말아야 할 일을 명확히 함으로써 잠재적으로 __수년간의__의 일을 절약할 수 있습니다.footnote:[이 점은 아무리 강조해도 지나치지 않습니다—온갖 산만함에 ‘아니오’라고 말하는 것이 집중을 지키는 핵심입니다.]
 
 구글이 ((("Google Web Toolkit (GWT)")))Google Web Toolkit(GWT)의 개발을 오픈 소스 프로젝트로 전환하기로 했을 때, 우리는 팀의 멘토를 맡았습니다. 오픈 소스와 폐쇄형 개발 사이의 여러 차이를 검토하며, 누구나 끼어들어 의견을 내고, 패치를 기여하며, 제품의 사소한 부분까지 비판할 수 있는 환경에서 설계·토론·코드 작성이 얼마나 어려운지에 특히 주목했습니다.footnote:[오픈 소스 소프트웨어를 쓰는 일은 트램펄린 위에 카드로 집을 짓는 것과 비슷하다고 자주 비유해 왔습니다. 꾸준한 손놀림과 많은 인내, 그리고 앞서 뛰어드는 사람들을 상대할 각오가 필요합니다.] 이런 도전들을 살펴본 뒤, 우리는 팀에 미션 스테이트먼트를 만들어 대중에게 제품의 목표(그리고 비목표)를 설명하라고 권했습니다.
 
-Some of the team members balked at this for many of the reasons
-outlined earlier, but others seemed curious, and the team lead seemed
-to think it was a great idea. However, when we sat down to start
-writing the mission statement, a lot of debate about the content,
-substance, and style of the mission statement ensued. After a great
-deal of discussion (and a few more meetings), the team came up not
-only with a great, concise mission statement, but also an entire
-document called "Making GWT Better"footnote:["Making GWT Better" is
-located at
-link:$$http://code.google.com/webtoolkit/makinggwtbetter.html$$[] and
-is worth a read as a model mission statement document.] explaining the
-statement phrase by phrase. They even included a section that
-described what the project's
-__nongoals__ were. Here's the mission statement:
-
-팀원들 중 일부는 앞서 말한 이유들로 난색을 보였지만, 다른 이들은 호기심을 보였고 팀 리드는 훌륭한 제안이라 여기는 듯했습니다. 그러나 막상 미션 문서를 쓰기 시작하자, 내용과 골자, 문체를 두고 논쟁이 이어졌습니다. 충분한 토론(과 몇 번의 추가 회의) 끝에 팀은 훌륭하고 간결한 미션 문서뿐 아니라, 해당 문장을 구절별로 설명한 “Making GWT Better”라는 전체 문서를 만들었습니다.footnote:[“Making GWT Better”는 link:$$http://code.google.com/webtoolkit/makinggwtbetter.html$$[]에서 볼 수 있으며, 모범적인 미션 문서로 읽어볼 가치가 있습니다.] 심지어 프로젝트의 __비목표__가 무엇인지 설명하는 섹션까지 포함했습니다. 다음이 그 미션입니다:
+팀원들 중 일부는 앞서 말한 이유들로 난색을 보였지만, 다른 이들은 호기심을 보였고 팀 리드는 훌륭한 제안이라 여기는 듯했습니다. 그러나 막상 사명선언문을 쓰기 시작하자, 내용과 골자, 문체를 두고 논쟁이 이어졌습니다. 충분한 토론(과 몇 번의 추가 회의) 끝에 팀은 훌륭하고 간결한 사명선언문 뿐만 아니라, 해당 문장을 구절별로 설명한 “Making GWT Better”라는 전체 문서를 만들었습니다.footnote:[“Making GWT Better”는 link:$$http://code.google.com/webtoolkit/makinggwtbetter.html$$[]에서 볼 수 있으며, 모범적인 사명선언문으로 읽어볼 가치가 있습니다.] 심지어 프로젝트의 __비목표__가 무엇인지 설명하는 섹션까지 포함했습니다. 다음이 그 사명내용입니다:
 
 [quote]
 ____
-GWT's mission is to radically improve the web experience for users
-by enabling developers to use existing Java tools to build
-no-compromise AJAX for any modern browser.
+GWT의 사명은 개발자가 기존 Java 도구를 사용해 모든 최신 브라우저에서 동작하는 타협 없는 AJAX를 구축할 수 있도록 함으로써 사용자의 웹 경험을 획기적으로 개선하는 것입니다.
 ____
 
-There's a ton of substance packed into that sentence, and we think
-it's an excellent example of a mission statement: it includes both a
-direction (improve the web experience…by enabling developers) and a
-scope limiter (Java tools). Several years later we were having dinner
-with the team lead, and Fitz told him how thankful we were that he had
-supported us so strongly in our effort to get the team to write a
-mission statement. He
-responded that he had actually thought the entire exercise was a waste
-of time when we first proposed it, but that once he started debating
-it with the team, he discovered something he'd never known: his lead
-engineers did not agree on the direction of the product!
+저 짧은 문장에 실질적인 내용이 가득합니다. 방향(“개발자가 사용할 수 있도록 하여 웹 경험을 개선”)과 범위 제한(“Java 도구”)이 모두 담겼다는 점에서 사명선언문의 훌륭한 본보기입니다. 수년 뒤 팀 리드와 저녁을 먹으며, Fitz는 팀이 사명선언문을 쓰도록 한 노력에 그가 강력히 힘을 실어 준 데 대해 고맙다고 말했습니다. 그는 처음에는 이 모든 과정이 시간 낭비라고 생각했지만, 팀과 논의를 시작하고 나서야 자신도 몰랐던 사실—리드 엔지니어들이 제품의 방향에 합의하지 못하고 있었다—는 것을 알게 되었다고 답했습니다.
 
-저 짧은 문장에 실질적인 내용이 가득합니다. 방향(“개발자가 사용할 수 있도록 하여 웹 경험을 개선”)과 범위 제한(“Java 도구”)이 모두 담겼다는 점에서 미션 문서의 훌륭한 본보기입니다. 수년 뒤 팀 리드와 저녁을 먹으며, Fitz는 팀이 미션 문서를 쓰도록 한 노력에 그가 강력히 힘을 실어 준 데 대해 고맙다고 말했습니다. 그는 처음에는 이 모든 과정이 시간 낭비라고 생각했지만, 팀과 논의를 시작하고 나서야 자신도 몰랐던 사실—리드 엔지니어들이 제품의 방향에 합의하지 못하고 있었다—을 알게 되었다고 답했습니다.
-
-In this case, writing a mission statement forced them to confront
-their differences and come to an agreement on their product's
-direction, a problem that could have slowed down (or stopped)
-development of the product as time went on. They posted their mission
-statement on the Web, and not only did the entire team have a laser
-focus on what they wanted to do with their product, but it saved them
-months of time arguing with potential contributors about the product's
-direction—they just pointed newcomers to "Making GWT Better" and most questions were
-answered.
-
-이 경우 미션 문서를 쓰는 과정이 팀의 이견을 마주하게 했고, 제품의 방향에 합의하도록 만들었습니다. 그렇지 않았다면 시간이 지날수록 개발이 느려지거나 멈췄을 수도 있는 문제였습니다. 그들은 미션 문서를 웹에 게시했고, 전 팀이 제품에서 무엇을 하려는지에 ‘레이저처럼’ 집중하게 되었을 뿐 아니라, 기여 희망자들과 제품 방향을 두고 몇 달을 소모할 논쟁도 줄었습니다—신규 참여자에게 “Making GWT Better”를 안내하면 대부분의 질문이 해결됐습니다.
+이 경우 사명선언문을 쓰는 과정이 팀의 이견을 마주하게 했고, 제품의 방향에 합의하도록 만들었습니다. 그렇지 않았다면 시간이 지날수록 개발이 느려지거나 멈췄을 수도 있는 문제였습니다. 그들은 사명선언문을 웹에 게시했고, 전 팀이 제품에서 무엇을 하려는지에 ‘레이저처럼’ 집중하게 되었을 뿐 아니라, 기여 희망자들과 제품 방향을 두고 몇 달을 소모할 논쟁도 줄었습니다—신규 팀원에게 “Making GWT Better”를 안내하면 대부분의 질문이 해결됐습니다.
 
 
 [[image_no_caption-id012]]
 image::images/dbtm_02in04.png[]
 
-As your project progresses, the mission statement keeps things on
-track. It shouldn't become an insurmountable impediment to change,
-however. If radical changes happen to the environment or business plan
-(say, at a startup company), software team members need to be honest
-with themselves and reevaluate whether the mission still makes
-sense. Changing a constitution is a deliberately difficult process, as
-it prevents people from doing so whimsically. But in dramatic times
-it's at least __possible__ to change it and it should be
-considered. If a company or product pivots suddenly, the mission
-statement needs to keep up.(((range="endofrange", startref="ixch02asciidoc12")))(((range="endofrange", startref="ixch02asciidoc11")))
-
-프로젝트가 진행되는 동안, 미션 문서는 궤도를 유지하게 합니다. 다만 변화에 대한 넘을 수 없는 장벽이 되어서는 안 됩니다. 환경이나 사업 계획에 급격한 변화가 생기면(예: 스타트업), 팀은 스스로에게 솔직해져 그 미션이 여전히 유효한지 재평가해야 합니다. 헌법을 바꾸기 어렵게 만든 이유는, 변덕으로 바꾸지 못하게 하기 위해서입니다. 하지만 격변의 시기에는 적어도 바꿀 __가능성__이 있어야 하며, 검토되어야 합니다. 회사나 제품이 급격히 피벗한다면, 미션 문서도 그에 맞춰 업데이트되어야 합니다.(((range="endofrange", startref="ixch02asciidoc12")))(((range="endofrange", startref="ixch02asciidoc11")))
+프로젝트가 진행되는 동안, 미션 문서는 궤도를 유지하게 합니다. 다만 변화에 대한 넘을 수 없는 장벽이 되어서는 안 됩니다. 환경이나 사업 계획에 급격한 변화가 생기면(예: 스타트업), 팀은 스스로에게 솔직해져 그 미션이 여전히 유효한지 재평가해야 합니다. 헌법을 변경하기 어렵게 만든 이유는, 변덕으로 변경하지 못하게 하기 위해서입니다. 하지만 격변의 시기에는 적어도 변경할 __가능성__이 있어야 하며, 검토되어야 합니다. 회사나 제품이 급격히 피벗한다면, 미션 문서도 그에 맞춰 업데이트되어야 합니다.(((range="endofrange", startref="ixch02asciidoc12")))(((range="endofrange", startref="ixch02asciidoc11")))
 
 [[efficient_meetings]]
 ==== Efficient Meetings
+==== 효율적인 회의
 
-((("communication","efficient meetings", id="ixch02asciidoc13", range="startofrange")))((("meetings","efficient", id="ixch02asciidoc14", range="startofrange")))Most people would classify meetings as a necessary evil. While they
-can be highly effective when used skillfully, they're frequently
-abused, usually disorganized, and almost always too long. We like our
-meetings like we like our sewage treatment plants: few, far between,
-and downwind. So we'll keep this section brief and just cover team
-meetings.
-
+((("communication","efficient meetings", id="ixch02asciidoc13", range="startofrange")))((("meetings","efficient", id="ixch02asciidoc14", range="startofrange")))
 대부분의 사람은 회의를 ‘필요악’으로 분류합니다. 잘만 쓰면 매우 효과적일 수 있지만, 회의는 자주 남용되고, 보통 정리가 안 되어 있으며, 거의 언제나 너무 깁니다. 우리는 회의를 하수처리장처럼 대합니다. 적고, 드물며, 바람 아래에 있길 바랍니다. 그래서 이 섹션은 짧게, 팀 회의만 다루겠습니다.
 
-((("daily standups (standing meetings)")))((("meetings","standups")))((("standups (standing meetings)")))Let's start with the most dreaded meeting of
-all: the standing meeting. This meeting
-usually takes place every week, and should absolutely be kept to basic
-announcements and introductions—going around the room for a status
-update from every attendee (whether they have something important to
-add or not) is a recipe for wasted time, rolling eyes, and a burning
-desire to punch yourself in the throat just to make it end.
-
+((("daily standups (standing meetings)")))((("meetings","standups")))((("standups (standing meetings)")))
 모든 회의 중 가장 두려운 것부터 시작해 봅시다. 정기 회의입니다. 이 회의는 보통 매주 열리며, 기본적인 공지와 소개로 __딱__ 제한해야 합니다. 참석자 전원을 돌며(중요한 말이 있든 없든) 현황을 말하게 하는 관행은 시간을 낭비하고, 눈을 굴리게 만들며, 빨리 끝내려고 목을 치고 싶은 욕망을 불러일으키는 지름길입니다.
-
-Anything worth deeper discussion should take place after the meeting,
-with only the relevant people sticking around for it. This is also a
-great way to avoid derailing a meeting when someone starts to do a
-deep dive into a particular meeting topic: the person running the
-meeting should just add the topic to a list((("sidebars"))) of "sidebars" and once the
-meeting is over, review them one at a time. If your team makes this a
-habit, it's easy to call "sidebar" on something that's getting
-off-track without putting anyone off. The key to making this meeting
-work is that people should be happy to leave the meeting once the main
-part of it is done, and if there's nothing that needs to be covered,
-or information that can be disseminated by email, don't hesitate to
-cancel the meeting. We've seen some cultures where meeting attendance
-is equated with status, so nobody wanted to be left out. Not to put
-too fine a point on it, but that is patently insane.
 
 더 깊은 논의가 필요한 건 회의 후에, 관련자만 남겨서 진행하세요. 누군가 특정 주제로 깊이 파고들어 회의를 탈선시키려 할 때도 같은 방식이 좋습니다. 진행자는 그 주제를 “사이드바(sidebar)” 목록에 추가하고, 본회의가 끝난 뒤 하나씩 검토하면 됩니다. 이를 습관화하면, 주제가 벗어나기 시작할 때 누구의 기분도 상하지 않게 “사이드바”를 선언하기 쉬워집니다. 이 회의를 잘 굴리는 핵심은, 본 파트가 끝나면 사람들이 기꺼이 자리를 떠나도록 하는 것입니다. 다룰 게 없거나 이메일로 충분히 전파할 수 있으면, 주저 말고 회의를 취소하세요. 참석이 곧 지위인 양 여겨져 모두가 빠지기 싫어하는 문화도 봤습니다. 노골적으로 말해, 그건 명백히 미친 일입니다.
 
 [[note-2]]
-.Daily standups
+.데일리 스탠드업
 [NOTE]
 ====
-
-Some engineers swear by daily standups that are promoted by
-development methodologies like ((("Agile")))Agile, and
-these are acceptable if they are kept short and on point. These
-meetings usually start their lives short—15 minutes—with everyone
-actually standing up and giving a brief update on what they're working
-on, but without constant vigilance they tend to quickly turn into
-30-minute-long sit-down meetings where people ramble on and on like
-they're in a group therapy session. If your team is going to have
-these meetings, __someone__ needs to run them with authority and keep
-their growth in check.
 
 어떤 엔지니어들은 ((("Agile")))애자일 같은 개발 방법론이 권하는 데일리 스탠드업을 강력히 신봉합니다. 짧고 핵심만 지킨다면 괜찮습니다. 이런 회의는 보통 15분 내외로, 모두가 실제로 서서 자신이 하는 일을 간단히 공유하는 것으로 시작합니다. 하지만 엄격한 경계가 없으면 곧장 30분짜리 앉은 회의로 변해, 그룹 치료처럼 주절거리는 자리가 되기 쉽습니다. 이런 회의를 할 거라면, __누군가__ 권위를 갖고 운영하며, 회의가 비대해지지 않게 억제해야 합니다.
 
 ====
-
-If you're trying to design something new, try to include no more than
-five people in your meeting—it's practically impossible to come up
-with new designs and make decisions with more than five people in a
-room unless there's only one person in the room making the
-decisions. If you don't believe us, get five of your friends together,
-go downtown, and try to decide among the six of you how to do a
-walking tour that hits half a dozen tourist sites. The odds are good
-that you'll stand on the street corner arguing for most of the day
-unless you simply declare one person to be the final arbiter and then
-follow her wherever she goes.
 
 새로운 것을 설계하려면 회의는 다섯 명 이내로 유지하세요. 다섯 명이 넘으면, 한 사람이 독단적으로 결정하지 않는 이상 새로운 설계를 내고 결정을 내리기가 사실상 불가능합니다. 믿기지 않으면 친구 다섯을 불러 여섯이 함께 시내로 나가, 관광지 여섯 곳을 도는 도보 여행 코스를 정해 보세요. 한 사람을 최종 심판으로 정해 그를 따라다니는 게 아니라면, 하루 종일 길모퉁이에서 언쟁만 하게 될 확률이 높습니다.
 
@@ -579,52 +292,15 @@ follow her wherever she goes.
 [[image_no_caption-id013]]
 image::images/dbtm_02in05.png[]
 
-((("make time")))Meetings are frequently an interruption to what many refer to as "make
-time," inspired by ((("Graham, Paul")))Paul Graham's "Maker's
-Schedule, Manager's
-Schedule."footnote:[link:$$http://www.paulgraham.com/makersschedule.html$$[]] It can be hard for anyone, especially
-engineers, to get into the zone if they're constantly stopping work to
-attend meetings. Schedule time on your calendar in three- to four-hour
-blocks and label these blocks as "busy" or even "make time," and get
-your work done. If you have to set up a meeting, try to set it up near another natural break in
-the day, like lunchtime, or at the very end of the day. At Google,
-there's a long (and unfortunately, often ignored) tradition of
-"No-meeting Thursdays"footnote:[Google Engineering
-VP ((("Rosing, Wayne")))Wayne Rosing started this in 2001 in an
-attempt to improve the engineers' quality of life. Fitz blocked off
-his Thursdays for years, and it worked fairly well but required
-pretty rigorous monitoring and the occasional grumpy email when
-someone scheduled over it.] in the interest of clearing time to just
-get work done. This is a good first step on the path to having 20 to
-30 hours of make time set aside in larger blocks.
-
+((("make time"))) 
 회의는 흔히 많은 이들이 “메이크 타임(make time)”이라고 부르는 시간을 방해합니다. 이는 ((("Graham, Paul")))폴 그레이엄의 “Maker's Schedule, Manager's Schedule”에서 영감을 받은 개념입니다.footnote:[link:$$http://www.paulgraham.com/makersschedule.html$$[]] 특히 엔지니어에게는 회의 때문에 일을 계속 끊어야 하면 몰입 상태에 들어가기 어렵습니다. 캘린더에 3~4시간짜리 블록을 잡아 “바쁨” 혹은 아예 “메이크 타임”으로 표시하고, 그 시간에 일을 끝내세요. 회의를 잡아야 한다면 점심시간 같은 자연스러운 휴식 지점이나 하루의 맨 끝에 배치하세요. 구글에는 “목요일 회의 금지” 전통이 오래(그리고 안타깝게도 자주 무시되면서) 이어져 왔습니다.footnote:[구글 엔지니어링 부사장 ((("Rosing, Wayne")))웨인 로징이 2001년에 엔지니어의 삶의 질을 높이기 위해 시작했습니다. Fitz는 수년간 목요일을 막아두었고, 꽤 잘 작동했지만 엄격한 모니터링과 가끔은 회의를 잡은 사람에게 퉁명스러운 이메일을 보내는 일도 필요했습니다.] 그냥 일만 하는 시간을 확보하기 위한 취지입니다. 이것은 더 긴 블록으로 20~30시간의 메이크 타임을 확보하는 첫걸음입니다.
 
 [[note-3]]
 [NOTE]
 ====
-Five simple rules for running a meeting:
-
-
-. Only invite people who absolutely need to be there.
-
-
-. Have an agenda and distribute it well before the meeting starts.
-
-
-. End the meeting early if you've accomplished the meeting's
-goals.
-
-
-. Keep the meeting on track.
-
-
-. Try to schedule the meeting near other interrupt points in your day
-(e.g., lunch, end of day).
-
 회의 운영을 위한 간단한 다섯 가지 규칙:
 
-. 꼭 필요하지 않은 사람은 초대하지 말 것.
+. 반드시 참석해야 하는 사람들만 초대할 것.
 
 . 안건을 준비하고, 회의 전에 충분히 공유할 것.
 
@@ -636,36 +312,15 @@ goals.
 
 ====
 
-If you're going to have a meeting, create an agenda and distribute it
-to all attendees at least a day before the meeting so that they'll
-know what to expect. Invite as few people as possible (remember the
-cost of synchronous communication). We know team members, managers,
-and even directors and VPs who will flat out ignore invitations to a
-meeting that has no agenda.
-
-회의를 해야 한다면, 안건을 만들고 최소 하루 전에 참석자 모두에게 배포하세요. 무엇을 기대해야 하는지 알게 하려는 것입니다. 동기식 커뮤니케이션의 비용을 기억하며, 가능한 적은 인원만 초대하세요. 우리는 안건이 없는 회의 초대는 단칼에 무시하는 팀원, 매니저, 심지어 디렉터와 VP들도 알고 있습니다.
-
-Only invite people to the meeting who actually need to be there for
-the meeting to accomplish its goal. Some people have taken to banning
-laptops in meetings
-after they've noticed attendees reading email instead of paying
-attention, but this is attacking the symptom and not the cause—people
-start reading email in a meeting because they probably __don't need to
-be in the meeting in the first place__.
+회의를 해야 한다면, 안건을 만들고 최소 하루 전에 참석자 모두에게 배포하세요. 무엇을 기대해야 하는지 알게 하려는 것입니다. 동기식 커뮤니케이션의 비용을 기억하며 가능한 적은 인원만 초대하세요. 우리가 아는 팀원, 관리자, 심지어 이사와 부사장급까지도 안건 없는 회의 초대는 단호하게 거절합니다.
 
 회의의 목표를 달성하는 데 실제로 필요한 사람만 초대하세요. 참석자들이 집중하지 않고 이메일을 본다는 이유로 회의장 노트북 반입을 금지하는 사람들도 있습니다. 하지만 이는 원인이 아니라 증상을 공격하는 일입니다—사람들이 회의에서 이메일을 보기 시작하는 이유는, 아마도 __그들이 애초에 그 회의에 있을 필요가 없기 때문__입니다.
 
-Whoever's running the meeting should actually run the meeting and not
-hesitate to (gently) cut off someone who veers off-topic or, even
-worse, tries to monopolize the conversation. Doing this well can be
-tricky, but is worthwhile. And most importantly, don't be afraid to
-end a meeting early if you've completed the
-agenda.(((range="endofrange", startref="ixch02asciidoc14")))(((range="endofrange", startref="ixch02asciidoc13")))
-
-회의를 운영하는 사람은 정말로 회의를 운영해야 합니다. 주제에서 벗어나거나, 더 나쁘게는 대화를 독점하려 드는 사람을 (부드럽지만) 과감히 제지하세요. 잘 해내기 어렵지만 그만한 가치가 있습니다. 그리고 가장 중요한 점. 안건을 마쳤다면 겁내지 말고 회의를 일찍 끝내세요.(((range="endofrange", startref="ixch02asciidoc14")))(((range="endofrange", startref="ixch02asciidoc13")))
+회의를 운영하는 사람은 정말로 회의를 운영해야 합니다. 주제에서 벗어나거나, 더 나쁘게는 대화를 독점하려 드는 사람을 (부드럽지만) 과감히 제지하세요. 잘 해내기 어렵지만 그만한 가치가 있습니다. 그리고 가장 중요한 점은 안건을 마쳤다면 겁내지 말고 회의를 일찍 끝내세요.(((range="endofrange", startref="ixch02asciidoc14")))(((range="endofrange", startref="ixch02asciidoc13")))
 
 [[working_in_a_geographically_challenged_t]]
 ==== Working in a "Geographically Challenged" Team
+==== "지리적으로 분산된" 팀에서 일하기
 
 ((("communication","for geographically challenged teams", id="ixch02asciidoc15", range="startofrange")))((("distributed teams", id="ixch02asciidoc16", range="startofrange")))((("geographically challenged teams", id="ixch02asciidoc17", range="startofrange")))((("teams","geographically challenged", id="ixch02asciidoc18", range="startofrange")))When you're part of a distributed team or
 working remotely from them, you not only need to find different ways
@@ -683,123 +338,36 @@ laptops have built in webcams.
 
 분산된 팀의 일원이거나 원격으로 일한다면, 단지 다른 소통 방법을 찾는 데 그치지 않고, 아예 커뮤니케이션 자체에 더 많은 노력을 기울여야 합니다. 팀에 원격 근무자가 있다면, 보통 이메일을 통해 의사결정을 문서화하고 공유해야 한다는 뜻입니다. 온라인 채팅, 인스턴트 메시지, 복도 대화에서 많은 논의가 이루어질 수 있지만, 이런 관련 논의를 모두에게 전파해 모두가 정보를 받아보고 참여하도록 만드는 장치가 필요합니다(게다가 메일링 리스트 아카이브는 문서화라는 보너스도 제공합니다). 영상 통화도 빠른 대화를 이끌어내는 데 매우 유용하고, 요즘은 대부분의 노트북에 웹캠이 달려 있습니다.
 
-In the Subversion project we had a motto: "If the discussion didn't
-happen on the email list, then it never really happened." People spent
-lots of time bandying around ideas in chat rooms, but in order to
-make the resolutions "real" we had to be mindful of everyone else who
-didn't witness them. By forcing conversations to repost to email
-lists, we gave the entire distributed team a chance to see how
-decisions were arrived at (and to speak up if they wanted to). This is
-particularly critical if you're trying to encourage a consensus-based
-team culture.
-
-서브버전(Subversion) 프로젝트에는 이런 모토가 있었습니다. “메일링 리스트에서 일어나지 않은 논의는, 실제로는 일어나지 않은 것이다.” 사람들은 채팅방에서 아이디어를 주고받는 데 많은 시간을 썼지만, 결정을 “진짜”로 만들려면 그 장면을 보지 못한 모두를 고려해야 했습니다. 대화를 메일링 리스트로 재게시하게 만들면서, 분산된 팀 전체가 의사결정이 어떻게 이뤄졌는지 볼 기회를 얻었고(원한다면 의견도 낼 수 있었습니다), 합의 기반 팀 문화를 장려하려 한다면 특히 중요했습니다.
-
-Talking to someone from a remote location should be as frictionless as
-walking over to their desk. If you're working remotely,
-overcommunicate with your team using every available medium (e.g.,
-online chat, instant
-messages, email, video chat, phone calls, etc.) to make sure everyone
-knows not only that you exist, but also what you're working on. And
-most important of all, __do not underestimate the bandwidth of a
-face-to-face conversation__.
+서브버전(Subversion) 프로젝트에는 이런 모토가 있었습니다. “메일링 리스트에서 일어나지 않은 논의는, 실제로는 일어나지 않은 것이다.” 사람들은 채팅방에서 아이디어를 주고받는 데 많은 시간을 썼지만, 결정을 “진짜”로 만들려면 그 장면을 보지 못한 모두를 고려해야 했습니다. 대화 내용을 메일링 리스트에 다시 올리도록 함으로써, 분산된 팀 전체가 의사결정 과정을 확인할 수 있는 기회를 제공했고(원한다면 의견을 제시할 수도 있었습니다). 이는 합의 기반의 팀 문화를 장려하려 할 때 특히 중요합니다.
 
 원격지의 누군가와 대화하는 일은, 그 사람 책상으로 걸어가 말을 거는 만큼이나 마찰이 없어야 합니다. 원격으로 일한다면, 온라인 채팅, 인스턴트 메시지, 이메일, 영상 통화, 전화 등 가능한 모든 수단으로 팀과 과하게 소통하세요. 여러분이 ‘존재’한다는 사실뿐 아니라 지금 무엇을 하고 있는지도 모두가 알도록 하기 위해서입니다. 그리고 무엇보다도, __대면 대화의 대역폭을 과소평가하지 마세요__.
 
-Fitz once had an engineer who was working with a team in Colorado, and
-she was having trouble getting momentum on the project that she was
-sharing with them. She pulled Fitz aside to tell him this and he told
-her that she should hop on a flight to Colorado and spend a week with
-the team to kickstart their project. Two weeks later, she emailed Fitz
-from Colorado, after spending only a day there, with great news—not only
-had she gained great momentum on the project, but she was getting
-along great with the team after joining them for lunch and drinks
-after work.
-
 Fitz가 한번은 콜로라도 팀과 함께 일하는 엔지니어를 둔 적이 있습니다. 그녀는 공동 프로젝트의 동력을 얻는 데 어려움을 겪고 있었습니다. 그녀가 Fitz에게 이를 털어놓자, Fitz는 비행기를 타고 콜로라도로 가 팀과 일주일을 함께 보내며 프로젝트에 시동을 걸라고 조언했습니다. 2주 뒤, 그녀는 콜로라도에서 단 하루만 보낸 후 좋은 소식과 함께 이메일을 보냈습니다. 프로젝트에 큰 동력을 얻었을 뿐 아니라, 점심을 함께 먹고 퇴근 뒤에 한잔하면서 팀과 아주 잘 지내게 되었다는 소식이었습니다.
 
-Ben once had a team member, Corey, who started a new project with a
-team in another office. Corey was having a bit of a tough time getting
-traction with the new team and lamented this to Ben in their weekly
-one-on-one. Ben told Corey that he should fly out to the team's office
-and sit with them for a week to kick off the project. Corey was
-hesitant because of the cost of a flight and hotel, but
-he wasn't accounting for the __benefit__ of the trip. Corey took a
-two-day trip to work with the team and he immediately realized how
-valuable it was to be there with the team. Not only did he gain the
-benefit of the additional bandwidth of in-person conversation, but, by
-having lunch together, and going out together after work one
-day, Corey and the team all got to know each other as __people__. As a result,
-future interactions with the team went much more smoothly, despite the
-fact that Corey was a thousand miles
-away.
-
-Ben에게는 다른 오피스 팀과 새 프로젝트를 시작한 Corey라는 팀원이 있었습니다. Corey는 새 팀에서 동력을 얻기 어렵다며, 둘의 주간 1:1에서 이를 하소연했습니다. Ben은 비행기를 타고 그 팀의 오피스로 가 일주일간 함께 앉아 프로젝트를 시작하라고 했습니다. Corey는 항공료와 숙박비 때문에 주저했지만, 그 여행의 __이익__을 고려하지 못하고 있었습니다. Corey는 이틀 일정으로 팀과 함께 일했고, 현장에 함께 있는 것이 얼마나 가치 있는지 곧바로 깨달았습니다. 대면 대화의 높은 대역폭이 주는 이점뿐 아니라, 점심을 먹고 하루는 퇴근 뒤에 함께 나가며, Corey와 팀은 서로를 __사람__으로 알게 되었습니다. 그 결과 Corey가 천 마일이나 떨어져 있었음에도, 이후 팀과의 상호작용은 훨씬 원활해졌습니다.
+Ben에게는 다른 사무실 팀과 새 프로젝트를 시작한 Corey라는 팀원이 있었습니다. Corey는 새 팀에서 동력을 얻기 어렵다며, 둘의 주간 1:1에서 이를 하소연했습니다. Ben은 비행기를 타고 그 팀의 사무실로 가 일주일간 함께 앉아 프로젝트를 시작하라고 했습니다. Corey는 항공료와 숙박비 때문에 주저했지만, 그 여행의 __이익__을 고려하지 못하고 있었습니다. Corey는 이틀 일정으로 팀과 함께 일했고, 현장에 함께 있는 것이 얼마나 가치 있는지 즉시 깨달았습니다. 대면 대화의 추가적인 대역폭이 주는 이점뿐 아니라, 점심을 먹고 하루는 퇴근 뒤에 함께 나가며, Corey와 팀은 서로를 __사람__으로 알게 되었습니다. 그 결과 Corey가 천 마일이나 떨어져 있었음에도, 이후 팀과의 상호작용은 훨씬 원활해졌습니다.
 
 [[note-3a]]
-.Nothing replaces being in the same room
+.같은 공간에 있는 것을 대체할 수 있는 것은 없다
+
 [NOTE]
 ====
-((("communication","face-to-face")))((("face-to-face communication")))One thing to note about all of these people is that, despite all the
-advances in social media and videoconferencing technology, nothing
-even comes close to the bandwidth and the intimacy of being face to
-face with someone else in real life. If you're starting a new project
-or have an important meeting with someone in your company and you have
-the budget to be there in person, it's almost always worth the hassle
-of traveling. The impact of an in-person discussion etches itself into
-memory in ways that phone or video chats can't compete with.
-
+((("communication","face-to-face")))((("face-to-face communication")))
 여기서 언급된 모든 사람과 사례를 통해 알 수 있는 점이 하나 있습니다. 소셜 미디어와 화상회의 기술이 아무리 발전해도, 현실에서 서로 얼굴을 맞대는 대면 대화의 대역폭과 친밀함에 비할 바가 못 된다는 것입니다. 새 프로젝트를 시작하거나 회사 내 중요한 만남이 있고, 직접 갈 예산이 있다면, 번거롭더라도 이동할 가치는 거의 언제나 충분합니다. 대면 대화의 여운은 전화나 화상 통화가 따라올 수 없는 방식으로 기억에 새겨집니다.
 
-A frequent argument against business travel is that it's too expensive
-or, in some cases, not affordable. While this may be the case for
-small geographically distributed companies, most large companies can
-afford this expense. The cost of not spending face time with your
-colleagues is higher than you think.
-
-출장에 반대하는 흔한 주장 중 하나는 비용이 너무 많이 든다는 것입니다(혹은 아예 감당이 안 된다는 것). 지리적으로 분산된 소규모 회사에는 그럴 수 있습니다. 하지만 대부분의 대기업은 그 비용을 감당할 수 있습니다. 동료들과 얼굴을 맞대고 시간을 보내지 않는 데 드는 비용은 여러분이 생각하는 것보다 큽니다.
+출장에 반대하는 흔한 주장 중 하나는 비용이 너무 많이 들거나 아예 감당할 수 없다는 것입니다. 지리적으로 분산된 소규모 회사에는 그럴 수 있습니다. 하지만 대부분의 대기업은 그 비용을 감당할 수 있습니다. 동료들과 얼굴을 맞대고 시간을 보내지 않는 데 드는 비용은 여러분이 생각하는 것보다 큽니다.
 
 ====
-
-
-
-No matter how much you email, chat, or call, don't be afraid to
-regularly get on a plane and visit the rest of your team. This goes
-for remote employees, remote teams, and remote offices as well—make
-the time to get out to the home office and talk to
-people.(((range="endofrange", startref="ixch02asciidoc18")))(((range="endofrange", startref="ixch02asciidoc17")))(((range="endofrange", startref="ixch02asciidoc16")))(((range="endofrange", startref="ixch02asciidoc15")))
 
 이메일을 얼마나 하고, 채팅과 통화를 얼마나 하든, 주기적으로 비행기를 타고 팀을 방문하는 일을 두려워하지 마세요. 이는 원격 직원, 원격 팀, 원격 오피스 모두에 해당합니다—본사로 나가 사람들과 직접 대화할 시간을 만드세요.(((range="endofrange", startref="ixch02asciidoc18")))(((range="endofrange", startref="ixch02asciidoc17")))(((range="endofrange", startref="ixch02asciidoc16")))(((range="endofrange", startref="ixch02asciidoc15")))
 
 [[design_docs]]
 ==== Design Docs
+==== 디자인 문서
 
-((("communication","and design docs")))((("design docs")))((("software","design docs for")))If you're an engineer, it's sometimes difficult to resist the urge to
-take a running leap into writing code for a new project, but this is
-rarely fruitful (unless you're throwing together a quick and dirty
-prototype). Just the same, many engineers rush right into coding
-before designing the software they intend to write, and this usually
-ends very badly.
+((("communication","and design docs")))((("design docs")))((("software","design docs for")))
+엔지니어라면 새 프로젝트에서 당장 코드 작성으로 뛰어들고 싶은 충동을 참기 어려울 때가 있습니다. 하지만 이는 (대충 뚝딱 만든 프로토타입이 아니라면) 거의 결실을 맺지 못합니다. 그럼에도 많은 엔지니어가 설계 전에 코드 작성부터 서두르고, 보통은 아주 좋지 않은 결말로 이어집니다.
 
-엔지니어라면 새 프로젝트에서 당장 코딩으로 뛰어들고 싶은 충동을 참기 어려울 때가 있습니다. 하지만 이는 (대충 뚝딱 만든 프로토타입이 아니라면) 거의 결실을 맺지 못합니다. 그럼에도 많은 엔지니어가 설계 전에 코딩부터 서두르곤 하고, 보통은 아주 좋지 않은 결말로 이어집니다.
-
-A design doc is typically owned by one person, authored by two or
-three, and reviewed by a larger set. It serves not only as a
-high-level blueprint of your future project, but also as a low-cost
-way to communicate to your larger team what you want to do and how you
-intend to do it. Since you haven't spent weeks (or months) writing
-code, it's a lot easier to accept criticism at this point and you'll
-wind up with a better product and a better implementation. In
-addition, once you've nailed down the design doc, it will serve as
-your guide for both scheduling and dividing the work on your
-project. Once you start coding, however, you should treat your design
-doc as a living document and not one carved in stone: you and your
-team __should__ update the document as your project grows and changes,
-not once you've shipped, although this is easier said than done. Most
-teams have no docs at all, while the rest have a short period of
-awesome docs, followed by a long period of out-of-date docs.
-
-디자인 문서는 보통 한 사람이 소유하고, 두세 사람이 작성하며, 더 많은 인원이 리뷰합니다. 이는 미래 프로젝트의 상위 청사진일 뿐 아니라, 무엇을 어떻게 할 것인지 더 큰 팀에 알리는 저비용의 커뮤니케이션 수단이기도 합니다. 아직 몇 주(혹은 몇 달)간 코드를 쓰지 않았기 때문에, 이 시점에는 비판을 받아들이기가 훨씬 쉽고 결국 더 나은 제품과 구현으로 이어집니다. 또한 디자인 문서를 확정하고 나면, 일정 수립과 작업 분할의 길잡이가 됩니다. 다만 코딩을 시작하고 나서는 디자인 문서를 돌에 새긴 것처럼 다루지 말고 살아 있는 문서로 여겨야 합니다. 프로젝트가 성장하고 변함에 따라 문서를 __반드시__ 업데이트해야지, 출시 후에야 고치는 것이 아닙니다. 말은 쉽지만 실천은 어렵습니다. 대부분의 팀은 아예 문서가 없고, 나머지는 짧은 전성기 이후 오래도록 낡은 문서를 둔 채로 지냅니다.
+디자인 문서는 보통 한 사람이 소유하고, 두세 사람이 작성하며, 더 많은 인원이 리뷰합니다. 이는 미래 프로젝트의 상위 청사진일 뿐 아니라, 무엇을 어떻게 할 것인지 더 큰 팀에 알리는 저비용의 커뮤니케이션 수단이기도 합니다. 아직 몇 주(혹은 몇 달)간 코드를 쓰지 않았기 때문에, 이 시점에는 비판을 받아들이기가 훨씬 쉽고 결국 더 나은 제품과 구현으로 이어집니다. 또한 디자인 문서를 확정하고 나면, 일정 수립과 작업 분할의 길잡이가 됩니다. 다만 코드 작성을 시작하고 나서는 디자인 문서를 돌에 새긴 것처럼 다루지 말고 살아 있는 문서로 여겨야 합니다. 프로젝트가 성장하고 변함에 따라 문서를 __반드시__ 업데이트해야지, 출시 후에야 고치는 것이 아닙니다. 말은 쉽지만 실천은 어렵습니다. 대부분의 팀은 아예 문서가 없고, 나머지는 짧은 전성기 이후 오래도록 낡은 문서를 둔 채로 지냅니다.
 
 Having said that, make sure you don't take the "design doc religion"
 to the opposite extreme. We've seen control freaks write a four-page
@@ -809,7 +377,7 @@ of time it takes to write a design doc, a design doc is clearly a
 waste of time. Use experience and judgment when making these time
 calculations and trade-offs.(((range="endofrange", startref="ixch02asciidoc10")))(((range="endofrange", startref="ixch02asciidoc9")))(((range="endofrange", startref="ixch02asciidoc8")))
 
-그렇다고 “디자인 문서 교”의 반대 극단으로 치닫지는 마세요. 100줄짜리 프로그램에 4페이지짜리 설계 에세이를 쓰는 통제광도 봤습니다. 디자인 문서를 쓰는 데 걸리는 시간에 프로젝트를 처음부터 여러 번 다시 쓸 수 있다면, 디자인 문서는 분명 시간 낭비입니다. 이런 시간 계산과 트레이드오프에서는 경험과 판단을 사용하세요.(((range="endofrange", startref="ixch02asciidoc10")))(((range="endofrange", startref="ixch02asciidoc9")))(((range="endofrange", startref="ixch02asciidoc8")))
+그렇다고 “디자인 문서 교”의 반대 극단으로 치닫지는 마세요. 100줄짜리 프로그램에 4페이지짜리 설계 에세이를 쓰는 통제광도 봤습니다. 디자인 문서를 작성하는 데 걸리는 시간에 프로젝트를 처음부터 여러 번 다시 쓸 수 있다면, 디자인 문서는 분명 시간 낭비입니다. 이런 시간 계산과 트레이드오프에서는 경험과 판단을 사용하세요.(((range="endofrange", startref="ixch02asciidoc10")))(((range="endofrange", startref="ixch02asciidoc9")))(((range="endofrange", startref="ixch02asciidoc8")))
 
 [[day-to-day_discussions]]
 === Day-to-Day Discussions
