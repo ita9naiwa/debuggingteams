@@ -369,104 +369,34 @@ Ben에게는 다른 사무실 팀과 새 프로젝트를 시작한 Corey라는 �
 
 디자인 문서는 보통 한 사람이 소유하고, 두세 사람이 작성하며, 더 많은 인원이 리뷰합니다. 이는 미래 프로젝트의 상위 청사진일 뿐 아니라, 무엇을 어떻게 할 것인지 더 큰 팀에 알리는 저비용의 커뮤니케이션 수단이기도 합니다. 아직 몇 주(혹은 몇 달)간 코드를 쓰지 않았기 때문에, 이 시점에는 비판을 받아들이기가 훨씬 쉽고 결국 더 나은 제품과 구현으로 이어집니다. 또한 디자인 문서를 확정하고 나면, 일정 수립과 작업 분할의 길잡이가 됩니다. 다만 코드 작성을 시작하고 나서는 디자인 문서를 돌에 새긴 것처럼 다루지 말고 살아 있는 문서로 여겨야 합니다. 프로젝트가 성장하고 변함에 따라 문서를 __반드시__ 업데이트해야지, 출시 후에야 고치는 것이 아닙니다. 말은 쉽지만 실천은 어렵습니다. 대부분의 팀은 아예 문서가 없고, 나머지는 짧은 전성기 이후 오래도록 낡은 문서를 둔 채로 지냅니다.
 
-Having said that, make sure you don't take the "design doc religion"
-to the opposite extreme. We've seen control freaks write a four-page
-design essay for a program that's only 100 lines of code. If the
-project can be rewritten from scratch several times in the same amount
-of time it takes to write a design doc, a design doc is clearly a
-waste of time. Use experience and judgment when making these time
-calculations and trade-offs.(((range="endofrange", startref="ixch02asciidoc10")))(((range="endofrange", startref="ixch02asciidoc9")))(((range="endofrange", startref="ixch02asciidoc8")))
-
 그렇다고 “디자인 문서 교”의 반대 극단으로 치닫지는 마세요. 100줄짜리 프로그램에 4페이지짜리 설계 에세이를 쓰는 통제광도 봤습니다. 디자인 문서를 작성하는 데 걸리는 시간에 프로젝트를 처음부터 여러 번 다시 쓸 수 있다면, 디자인 문서는 분명 시간 낭비입니다. 이런 시간 계산과 트레이드오프에서는 경험과 판단을 사용하세요.(((range="endofrange", startref="ixch02asciidoc10")))(((range="endofrange", startref="ixch02asciidoc9")))(((range="endofrange", startref="ixch02asciidoc8")))
 
 [[day-to-day_discussions]]
 === Day-to-Day Discussions
+=== 일상적인 논의
 
-((("communication","day-to-day discussions", id="ixch02asciidoc19", range="startofrange")))((("day-to-day discussions", id="ixch02asciidoc20", range="startofrange")))((("discussions, day-to-day", id="ixch02asciidoc21", range="startofrange")))Assuming high-level goals are agreed upon, you need to worry about the tools your
-team uses for everyday coordination. These tools are useful, but they
-tend to have narrow communication bandwidth and, usually, a complete
-lack of metadata and secondary communication channels such as facial
-expressions and body language. As a result, they're more conducive to
-miscommunication and an inherent threat to HRT. Still, these tools are
-invaluable to most teams and (with a little effort) can give a good
-boost to productivity.
-
+((("communication","day-to-day discussions", id="ixch02asciidoc19", range="startofrange")))((("day-to-day discussions", id="ixch02asciidoc20", range="startofrange")))((("discussions, day-to-day", id="ixch02asciidoc21", range="startofrange")))
 상위 목표에 합의했다면, 이제 일상적 협업에 팀이 사용하는 도구를 신경 써야 합니다. 이 도구들은 유용하지만, 커뮤니케이션 대역폭이 좁고, 보통은 표정과 몸짓 같은 메타데이터와 보조 채널이 전무합니다. 그 결과 오해를 낳기 쉽고 HRT에 본질적 위협이 되기도 합니다. 그럼에도 대부분의 팀에 없어서는 안 될 도구이며, 약간의 노력만으로도 생산성을 크게 끌어올릴 수 있습니다.
 
 [[mailing_lists]]
 ==== Mailing Lists
+==== 메일링 리스트들
 
-((("communication","mailing lists for")))((("mailing lists")))We don't know of anyone who works with a team these days that doesn't
-use at least one mailing list, but there are a few things you can do
-with your mailing lists
-to make them more useful.
+((("communication","mailing lists for")))((("mailing lists")))
+요즘 팀으로 일하는 사람 중에 메일링 리스트를 하나도 안 쓰는 사람은 없다고 봅니다. 다만 메일링 리스트를 더 유용하게 만드는 몇 가지 방법이 있습니다.
 
-요즘 팀으로 일하면서 메일링 리스트를 하나도 쓰지 않는 사람을 우리는 모르겠습니다. 다만 메일링 리스트를 더 유용하게 만드는 몇 가지 방법이 있습니다.
-
-Many big successful projects have multiple mailing lists, separating
-development discussions, code reviews, user discussions,
-announcements, pager emails, and miscellaneous
-administrivia. Sometimes smaller projects attempt to emulate this as
-they're just getting started and create half a dozen mailing lists
-when they've only got three engineers and two users. This is the
-mailing list equivalent of providing six conference rooms for five
-people to carry on a discussion—you wind up with little coherence, a
-lot of echoes, and mostly empty rooms. It's really best to start with
-one list, and to add lists only when the amount of traffic on one list
-gets unmanageable (which is typically indicated by list members
-begging for mercy). An exception to that rule is to have automated
-emails and "bot" notifications go to their own list or at the very
-least use identifiers that make them easy to filter.
-
-큰 성공을 거둔 프로젝트는 메일링 리스트를 여러 개 두는 경우가 많습니다. 개발 논의, 코드 리뷰, 사용자 토론, 공지, 페이저 이메일, 기타 행정 등을 분리합니다. 종종 소규모 프로젝트가 이를 흉내 내며 시작부터 여섯 개의 리스트를 만들기도 하는데, 엔지니어 셋과 사용자 둘뿐인 상황에서 벌어지는 일입니다. 이는 다섯 사람이 논의하자고 회의실을 여섯 개 마련하는 것과 같습니다—일관성은 떨어지고, 메아리만 많고, 방은 대체로 비게 됩니다. 실제로는 리스트 하나로 시작하고, 한 리스트의 트래픽이 감당하기 어려울 때(보통 리스트 구성원들이 살려달라고 할 때)만 리스트를 추가하는 것이 가장 좋습니다. 예외적으로 자동 이메일과 봇 알림은 별도 리스트로 보내거나, 최소한 쉽게 필터링할 수 있도록 식별자를 사용하세요.
-
-Take some time to establish proper etiquette around email
-discussions—keep discussions civil, and prevent filibustering by a
-((("noisy minority")))"noisy minority."footnote:[A
-"noisy minority" is usually characterized by one or two people who
-repeatedly respond to every single post in a thread, refuting every
-argument that doesn't align with theirs. A cursory examination of the
-thread in question might lead you to believe you've got a tremendous
-amount of dissent when, in fact, it's coming from just one or two
-disgruntled people. You need to address this behavior quickly and
-carefully (see <<dealing_with_poisonous_people>> for more information
-on dealing with these sorts of people).]
+큰 성공을 거둔 프로젝트는 메일링 리스트를 여러 개 두는 경우가 많습니다. 개발 논의, 코드 리뷰, 사용자 토론, 공지, 긴급 알림 이메일, 기타 행정 등을 분리합니다. 종종 소규모 프로젝트가 이를 흉내 내며 시작부터 여섯 개의 리스트를 만들기도 하는데, 엔지니어 셋과 사용자 둘뿐인 상황에서 벌어지는 일입니다. 이는 다섯 사람이 논의하자고 회의실을 여섯 개 마련하는 것과 같습니다—일관성은 떨어지고, 메아리만 많고, 방은 대체로 비게 됩니다. 실제로는 리스트 하나로 시작하고, 하나의 리스트의 트래픽이 감당하기 어려울 때(보통 리스트 구성원들이 살려달라고 할 때)만 리스트를 추가하는 것이 가장 좋습니다. 예외적으로 자동 이메일과 봇 알림은 별도 리스트로 보내거나, 최소한 쉽게 필터링할 수 있도록 식별자를 사용하세요.
 
 이메일 토론의 예절을 마련하는 데 시간을 쓰세요—토론을 예의 바르게 유지하고, ((("noisy minority")))“시끄러운 소수”의 필리버스터를 막으세요.footnote:[“시끄러운 소수”는 보통 한두 사람이 스레드의 모든 글에 일일이 답하며, 자신의 입장과 맞지 않는 모든 주장을 반박하는 행태를 보입니다. 얼핏 보면 반대가 엄청나게 많은 것처럼 보이겠지만, 실제로는 불만을 품은 한두 명일 뿐입니다. 이런 행동은 빠르고 주의 깊게 다뤄야 합니다(이런 사람들을 다루는 법은 <<dealing_with_poisonous_people>>에서 더 자세히 설명합니다).]
 
-A mailing((("searchable indexes"))) list isn't going to be your first choice for a discussion in
-a team that shares an office, but it's a good idea to send a copy of
-meeting agendas, meeting notes, decisions
-made, design docs, and any other relevant textual information to your
-team's mailing list so that you have a convenient central record. Set
-up these lists to archive all posts in a __searchable__ index, either
-publicly available in the case of open source projects or on your
-company's intranet if you're working on a closed source project. Now
-you have a system of record for the history of your project, and it's
-easy to refer back to it when a newcomer asks about the reasoning
-behind one or more decisions that you made in the past. If you don't
-have these discussions archived somewhere, you'll find yourself
-repeating them again and again and again and again.
-
-사무실을 함께 쓰는 팀에서 메일링 리스트가 1차 토론 수단은 아닐 수 있지만, 회의 안건, 회의록, 의사결정, 디자인 문서, 기타 관련 텍스트 정보를 팀의 메일링 리스트에 보내 중앙 기록으로 남기는 것이 좋습니다. 오픈 소스 프로젝트라면 공개 색인으로, 폐쇄형이라면 사내망 색인으로, 모든 글을 __검색 가능__하게 아카이브하세요. 이제 프로젝트의 역사를 기록하는 시스템이 생기고, 신입이 과거 의사결정의 근거를 물을 때도 쉽게 참고할 수 있습니다. 이런 논의가 어딘가에 아카이브되지 않으면, 여러분은 똑같은 이야기를 반복하고 또 반복하게 될 것입니다.
+사무실을 함께 쓰는 팀에서 메일링 리스트((("searchable indexes")))가 1차 토론 수단은 아닐 수 있지만, 회의 안건, 회의록, 의사결정, 디자인 문서, 기타 관련 텍스트 정보를 팀의 메일링 리스트에 보내 중앙 기록으로 남기는 것이 좋습니다. 모든 게시물을 __검색 가능한__ 인덱스로 보관하도록 설정하세요—오픈 소스 프로젝트는 공개 인덱스로, 폐쇄형 프로젝트는 사내망 인덱스로 말입니다. 이제 프로젝트의 역사를 기록하는 시스템이 생기고, 새로운 팀원이 과거 의사결정의 근거를 물을 때도 쉽게 참고할 수 있습니다. 이런 논의가 어딘가에 아카이브되지 않으면, 여러분은 똑같은 이야기를 반복하고 또 반복하게 될 것입니다.
 
 [[online_chat]]
 ==== Online Chat
+==== 온라인 채팅
 
-((("chat, online", id="ixch02asciidoc22", range="startofrange")))((("communication","online chat for", id="ixch02asciidoc23", range="startofrange")))((("online chat", id="ixch02asciidoc24", range="startofrange")))Online chat is an incredibly convenient way for teams to communicate,
-especially since it provides a way to send a quick request to a
-teammate without interrupting her work (providing, of course, she has
-her chat program configured to not interrupt her work!). It's a good
-tool for teams to use if they're moving quickly on a new project,
-doing some light work in the evening or on the weekend, or if one team
-member is out of the office for a day or two. One-on-one chat is
-useful and certainly has its place in team communication, but we
-strongly recommend that teams use some sort of group chat
-mechanism.footnote:[Of course, when an engineer
-needs uninterrupted time and can't afford the costs of context
-switching, it's totally acceptable to ignore chat.]
-
-온라인 채팅은 팀 커뮤니케이션에 믿을 수 없을 만큼 편리합니다. 특히 동료의 업무를 방해하지 않고도 빠르게 요청을 보낼 수 있기 때문입니다(물론 채팅 프로그램이 방해하지 않도록 설정되어 있어야 합니다!). 새 프로젝트를 빠르게 진행할 때, 저녁이나 주말에 가볍게 일할 때, 팀원이 하루 이틀 자리를 비울 때 유용합니다. 일대일 채팅도 쓸모가 있고 제자리가 있지만, 우리는 어떤 형태로든 그룹 채팅 메커니즘을 사용할 것을 강력히 권장합니다.footnote:[물론 한 엔지니어가 방해받지 않아야 하고 문맥 전환 비용을 감당할 수 없는 상황이라면, 채팅을 무시해도 완전히 괜찮습니다.]
+((("chat, online", id="ixch02asciidoc22", range="startofrange")))((("communication","online chat for", id="ixch02asciidoc23", range="startofrange")))((("online chat", id="ixch02asciidoc24", range="startofrange")))
+온라인 채팅은 팀 커뮤니케이션에 믿을 수 없을 만큼 편리합니다. 특히 동료의 업무를 방해하지 않고도 빠르게 요청을 보낼 수 있기 때문입니다(물론 채팅 프로그램이 방해하지 않도록 설정되어 있어야 합니다!). 새로운 프로젝트를 빠르게 진행할 때, 저녁이나 주말에 가볍게 일할 때, 팀원이 하루 이틀 자리를 비울 때 유용합니다. 일대일 채팅도 유용하고 팀 커뮤니케이션에서 분명히 역할이 있지만, 우리는 어떤 형태로든 그룹 채팅 메커니즘을 사용할 것을 강력히 권장합니다.footnote:[물론 한 엔지니어가 방해받지 않아야 하고 문맥 전환 비용을 감당할 수 없는 상황이라면, 채팅을 무시해도 완전히 괜찮습니다.]
 
 ((("IRC (Internet Relay Chat)")))Years before instant messaging became wildly
 popular, teams would hang out in an Internet Relay Chat (IRC)
@@ -522,6 +452,7 @@ additional communication bandwidth in your team.
 
 [[note-4]]
 .Group chat versus 1:1 instant messages
+. 그룹채팅 vs 1:1 인스턴트 메시지
 [NOTE]
 ====
 
