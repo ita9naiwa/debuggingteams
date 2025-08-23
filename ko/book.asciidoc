@@ -1,5 +1,5 @@
 :imagesdir: ..
-= Debugging Teams (Korean Working Copy)
+= Debugging Teams
 Brian W. Fitzpatrick and Ben Collins-Sussman
 :doctype: book
 :front-cover-image: image::./images/crew.jpeg[]
