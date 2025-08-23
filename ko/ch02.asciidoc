@@ -392,263 +392,107 @@ Ben에게는 다른 사무실 팀과 새 프로젝트를 시작한 Corey라는 �
 사무실을 함께 쓰는 팀에서 메일링 리스트((("searchable indexes")))가 1차 토론 수단은 아닐 수 있지만, 회의 안건, 회의록, 의사결정, 디자인 문서, 기타 관련 텍스트 정보를 팀의 메일링 리스트에 보내 중앙 기록으로 남기는 것이 좋습니다. 모든 게시물을 __검색 가능한__ 인덱스로 보관하도록 설정하세요—오픈 소스 프로젝트는 공개 인덱스로, 폐쇄형 프로젝트는 사내망 인덱스로 말입니다. 이제 프로젝트의 역사를 기록하는 시스템이 생기고, 새로운 팀원이 과거 의사결정의 근거를 물을 때도 쉽게 참고할 수 있습니다. 이런 논의가 어딘가에 아카이브되지 않으면, 여러분은 똑같은 이야기를 반복하고 또 반복하게 될 것입니다.
 
 [[online_chat]]
-==== Online Chat
 ==== 온라인 채팅
 
 ((("chat, online", id="ixch02asciidoc22", range="startofrange")))((("communication","online chat for", id="ixch02asciidoc23", range="startofrange")))((("online chat", id="ixch02asciidoc24", range="startofrange")))
 온라인 채팅은 팀 커뮤니케이션에 믿을 수 없을 만큼 편리합니다. 특히 동료의 업무를 방해하지 않고도 빠르게 요청을 보낼 수 있기 때문입니다(물론 채팅 프로그램이 방해하지 않도록 설정되어 있어야 합니다!). 새로운 프로젝트를 빠르게 진행할 때, 저녁이나 주말에 가볍게 일할 때, 팀원이 하루 이틀 자리를 비울 때 유용합니다. 일대일 채팅도 유용하고 팀 커뮤니케이션에서 분명히 역할이 있지만, 우리는 어떤 형태로든 그룹 채팅 메커니즘을 사용할 것을 강력히 권장합니다.footnote:[물론 한 엔지니어가 방해받지 않아야 하고 문맥 전환 비용을 감당할 수 없는 상황이라면, 채팅을 무시해도 완전히 괜찮습니다.]
 
-((("IRC (Internet Relay Chat)")))Years before instant messaging became wildly
-popular, teams would hang out in an Internet Relay Chat (IRC)
-channel and most of their discussions would be in a group chat. This
-could be noisy at times, and it was easy enough for team members to
-break off to have a private chat if they were discussing something
-that was not of interest to the larger team, but in most cases
-discussions happened "in front of" the rest of the team. This allowed
-other people to join in on the conversation, lurk in the background
-and follow the discussion, or even catch up on discussions they missed
-earlier. This is convenient not only because of the ease with which ad
-hoc group discussions can start, but also because it helps to build
-community even in teams that are geographically dispersed. It's often
-surprising how much a newer team member can learn just by watching (or
-later reading) various discussions he's not necessarily participating
-in.
+((("IRC (Internet Relay Chat)")))
+인스턴트 메시징이 대중화되기 한참 전부터, 팀들은 IRC(Internet Relay Chat) 채널에 모여 대부분의 토론을 그룹 채팅으로 진행했습니다. 때로는 시끄러웠지만, 팀원들이 전체의 관심사가 아닌 주제를 논의할 때는 사적인 대화로 쉽게 빠져나갈 수 있었습니다. 하지만 대부분의 경우 토론은 팀의 다른 모두가 "보는 앞에서" 진행되었습니다. 덕분에 다른 사람들이 대화에 참여하거나, 배경에서 지켜보며 흐름을 따라가거나, 나중에 놓친 토론을 따라잡을 수 있었습니다. 이는 즉석 그룹 토론을 쉽게 시작할 수 있기 때문만이 아니라, 지리적으로 흩어진 팀에서도 공동체 의식을 형성하는 데 도움이 되기 때문입니다. 새 팀원이 자신이 직접 참여하지 않는 다양한 논의를 그저 지켜보는 것만으로도(또는 나중에 읽기만 해도) 많은 것을 배울 수 있다는 점은 종종 놀라운 일입니다.
 
-인스턴트 메시징이 대중화되기 한참 전부터, 팀들은 IRC(Internet Relay Chat) 채널에 모여 대부분의 토론을 그룹 채팅으로 진행했습니다. 때로는 시끄러웠지만, 팀원들이 전체의 관심사가 아닌 주제를 논의할 때는 사적인 대화로 쉽게 빠져나갈 수 있었습니다. 하지만 대부분의 경우 토론은 팀의 다른 모두가 ‘보는 앞에서’ 진행되었습니다. 덕분에 다른 사람들이 대화에 참여하거나, 배경에서 지켜보며 흐름을 따라가거나, 나중에 놓친 토론을 따라잡을 수 있었습니다. 이는 즉석 그룹 토론을 쉽게 시작할 수 있기 때문만이 아니라, 지리적으로 흩어진 팀에서도 공동체 의식을 형성하는 데 도움이 되기 때문입니다. 새 팀원은 자신이 적극 참여하지 않은(혹은 나중에 읽기만 한) 다양한 토론을 지켜보는 것만으로도 놀랄 만큼 많은 것을 배웁니다.
+인스턴트 메시징이 등장하면서, 예전 같으면 그룹 채팅방에서 이뤄졌을 대화가 1:1로 옮겨갔습니다. 인스턴트 메신저의 기본이 1:1 대화였기 때문입니다. 팀 앞에서 망신을 살 위험을 감수하기보다는, 스스로 불안함을 달래며 ‘어리석게 보일지 모를’ 질문을 1:1로 가져가고 싶은 유혹이 큽니다. 안타깝게도 이렇게 하면 공유된 지식이 축적되지 않아 팀의 부담이 커집니다. 서로 다른 팀원들이 같은 질문을 다른 사람들에게 계속해서 반복하게 되기 때문입니다.
 
-With the advent of instant messaging, many of these conversations that
-would previously take place in the group chat room moved to private
-chat, which was the default for instant messenger. It's very tempting
-to indulge your insecurity and take what might be perceived as a
-stupid question to a one-on-one discussion rather than risk
-embarrassment in front of the rest of the team. Unfortunately, this
-increases the burden on the team because there's no shared lore
-created and different team members may ask other team members the same
-question over and over again.
-
-인스턴트 메시징이 등장하면서, 예전 같으면 그룹 채팅방에서 이뤄졌을 대화가 1:1로 옮겨갔습니다. 인스턴트 메신저의 기본이 1:1 대화였기 때문입니다. 팀 앞에서 망신을 살 위험을 감수하기보다는, 스스로 불안함을 달래며 ‘어리석게 보일지 모를’ 질문을 1:1로 가져가고 싶은 유혹이 큽니다. 안타깝게도 이렇게 하면 공유된 지식이 생기지 않아 팀의 부담이 커집니다. 서로 다른 팀원들이 같은 질문을 여러 사람에게 반복해서 묻게 되기 때문입니다.
-
-Fortunately, group chat has seen a renaissance in 2014/2015 with the
-rise of Slack, a free (but not free software or open source) group
-messaging client that feels a lot like a modern-day IRC.  Slack
-integrates with dozens of other products and has become the messaging
-tool of choice in smaller companies, startups, and even loosely
-connected groups of acquaintances on the Internet.  While it still
-provides a means to send private messages, team owners get a weekly
-report telling them the percentage of private messages versus group
-messages.  This makes it easy to give your team a gentle "push" to
-have more discussions in the group channels rather than one-on-one.
-
-다행히 2014/2015년경 슬랙(Slack)의 부상과 함께 그룹 채팅이 부흥을 맞았습니다. 슬랙은 무료(하지만 자유 소프트웨어나 오픈 소스는 아님) 그룹 메시징 클라이언트로, 현대판 IRC에 가깝습니다. 수십 종의 제품과 통합되며, 소규모 회사, 스타트업, 심지어 인터넷상 느슨한 지인 그룹에서도 선호하는 도구가 되었습니다. 사적인 메시지도 보낼 수 있지만, 팀 소유자는 주간 리포트를 통해 사적 메시지와 그룹 메시지의 비율을 확인할 수 있습니다. 덕분에 팀이 1:1보다 그룹 채널에서 더 많이 대화하도록 부드럽게 “유도”하기가 쉬워졌습니다.
-
-Regardless of the application you use for chat, we __strongly__
-recommend that your team have a convenient and accessible mechanism
-for group chat. It's well worth the effort in order to have this
-additional communication bandwidth in your team.
+다행히 2014/2015년경 슬랙(Slack)의 부상과 함께 그룹 채팅이 부흥을 맞았습니다. 슬랙은 무료(하지만 무료 소프트웨어나 오픈 소스는 아님) 그룹 메시징 클라이언트로, 현대판 IRC에 가깝습니다. 수십 종의 제품과 통합되며, 소규모 회사, 스타트업, 심지어 인터넷상 느슨한 지인 그룹에서도 선호하는 도구가 되었습니다. 사적인 메시지도 보낼 수 있지만, 팀 소유자는 주간 리포트를 통해 사적 메시지와 그룹 메시지의 비율을 확인할 수 있습니다. 덕분에 팀이 1:1보다 그룹 채널에서 더 많이 대화하도록 부드럽게 “유도”하기가 쉬워졌습니다.
 
 어떤 채팅 애플리케이션을 쓰든, 우리는 팀이 편리하고 접근성 높은 그룹 채팅 수단을 갖추길 __강력히__ 권합니다. 팀에 이 추가적인 커뮤니케이션 대역폭을 확보하는 일은 그만한 노력을 들일 가치가 충분합니다.
 
 
 
 [[note-4]]
-.Group chat versus 1:1 instant messages
-. 그룹채팅 vs 1:1 인스턴트 메시지
+.그룹채팅 vs 1:1 인스턴트 메시지
 [NOTE]
 ====
 
-When many people first hear about IRC
-these days, they scoff at its primitive text-based environment because
-even the most modern of IRC clients tend to be less whizzy than
-outdated versions of iChat or Google Talk. Don't be fooled by the
-outdated look and feel of IRC—its killer features are that it was
-designed for multiperson chat and it's asynchronous; most clients
-keep an unlimited scroll-back record so that you can read back to see
-conversations among others that you missed. Slack is basically the
-modern-day version of IRC, and despite its whizzy integration of
-graphics, avatars, and emoji, at its heart it's still a text-based
-messaging system like IRC. It may be tempting to try out fancy
-videoconferencing packages, shared whiteboard systems, and more, but
-these systems often tend to be ineffective and can eliminate the
-asynchronous advantage of text-based group chat. If you're going to
-use something other than Slack or IRC, find something that is actually
-designed for group chat and isn't just an instant messaging system
-with group chat bolted on.
-
-요즘 IRC 얘기를 처음 들은 사람들은 원시적인 텍스트 기반 환경을 비웃곤 합니다. 최신 IRC 클라이언트조차도 오래된 iChat이나 Google Talk보다 덜 번지르르해 보이기 때문입니다. 외양에 속지 마세요. IRC의 결정적 장점은 다인 채팅을 위해 설계되었고 비동기적이라는 점입니다. 대부분의 클라이언트는 무제한 스크롤백을 제공해, 놓친 대화를 나중에 읽을 수 있습니다. 슬랙은 본질적으로 현대판 IRC입니다. 멋진 그래픽, 아바타, 이모지 통합에도 불구하고, 핵심은 여전히 IRC처럼 텍스트 기반 메시징 시스템입니다. 화려한 화상 회의나 공유 화이트보드 같은 도구를 시도해 보고 싶을 수 있지만, 이런 시스템은 비효율적인 경우가 많고 텍스트 기반 그룹 채팅의 비동기 장점을 없애버리기도 합니다. 슬랙이나 IRC가 아닌 다른 도구를 쓰려면, 실제로 그룹 채팅을 위해 설계된 도구인지, 1:1 메신저에 그룹 채팅을 덧대기만 한 것은 아닌지 확인하세요.
+요즘 IRC 얘기를 처음 들은 사람들은 원시적인 텍스트 기반 환경을 비웃곤 합니다. 가장 최신 IRC 클라이언트조차도 오래된 iChat이나 Google Talk보다 덜 번지르르해 보이기 때문입니다. 외양에 속지 마세요. IRC의 핵심 장점은 다중 사용자 채팅을 위해 설계되었고 비동기적이라는 점입니다. 대부분의 클라이언트는 무제한 스크롤백을 제공해서 놓친 대화를 나중에 읽어볼 수 있습니다. 슬랙은 본질적으로 현대판 IRC입니다. 멋진 그래픽, 아바타, 이모지 통합에도 불구하고, 핵심은 여전히 IRC와같은 텍스트 기반 메시징 시스템입니다. 화려한 화상 회의나 공유 화이트보드 같은 도구를 시도해 보고 싶을 수 있지만, 이런 시스템은 비효율적인 경우가 많고 텍스트 기반 그룹 채팅의 비동기적 장점을 없애버리기도 합니다. 슬랙이나 IRC가 아닌 다른 도구를 쓰려면, 실제로 그룹 채팅을 위해 설계된 도구인지, 1:1 메신저에 그룹 채팅을 덧대기만 한 것은 아닌지 확인하세요.
 
 ====
-
-Sometimes people are more comfortable chatting online: we remember the first time we went to a hackathon
-where a number of open source contributors were going to meet (many
-for the first time) face to face and work on their projects
-together. We walked into an almost silent room to find a dozen
-tables—with six to eight people per table—furiously typing away at
-their laptops. We figured that, well, we were late, and everyone was
-already busy writing code, so we sat down, opened our laptops, fired
-up our editors, and signed on to the project's IRC channel to see if
-folks who couldn't make it to the hackathon were "virtually" there. We found a number of conversations taking place in the IRC
-channel. We said hello and mentioned that we'd just arrived at the
-hackathon room, and imagine our surprise when several people said
-hello in the IRC channel when they turned out to be sitting less than
-10 feet away from us! Some of this was purely inertia as we were all
-used to chatting online, but in many cases it was
-just the most comfortable way for some people to communicate with the
-rest of the group. Fresh off a four-hour flight and desperate for some
-communication bandwidth, we got up and went from table to table to
-talk with people face to face.
-
-There are no hard and fast rules for when to use chat versus email. Chat
-is more useful for fast-moving real-time discussions where a decision
-can be made easily and all participants are currently available.(((range="endofrange", startref="ixch02asciidoc24")))(((range="endofrange", startref="ixch02asciidoc23")))(((range="endofrange", startref="ixch02asciidoc22"))) If
-some participants aren't around or the discussion is less pressing,
-email might be better.(((range="endofrange", startref="ixch02asciidoc21")))(((range="endofrange", startref="ixch02asciidoc20")))(((range="endofrange", startref="ixch02asciidoc19"))) Just keep in mind the costs of synchronous
-versus asynchronous communication that we reviewed in
-<<communication_patterns_of_successful_cul>>.(((range="endofrange", startref="ixch02asciidoc7")))(((range="endofrange", startref="ixch02asciidoc6")))
 
 사람들은 온라인에서 대화하는 편이 더 편할 때가 있습니다. 우리는 여러 오픈 소스 기여자가(그중 다수는 처음으로) 얼굴을 맞대고 프로젝트를 함께 하던 첫 해커톤을 기억합니다. 방에는 6~8명씩 앉은 12개 테이블이 있었지만, 거의 침묵 속에 모두 노트북을 두드리고 있었습니다. 우리는 늦게 도착해 다들 코드를 쓰고 있구나 싶어, 자리에 앉아 에디터를 열고 프로젝트 IRC 채널에 접속했습니다. 현장에 오지 못한 이들이 “가상으로” 와 있는지 보려던 것이었죠. 그런데 채널에선 여러 대화가 진행 중이었고, 우리가 방에 막 도착했다고 인사하자 몇몇이 IRC에서 인사를 건넸습니다. 확인해 보니 그들은 우리로부터 3미터도 떨어지지 않은 곳에 앉아 있었습니다! 관성 탓도 있었겠지만, 많은 이들에게는 온라인이 그룹과 소통하기 가장 편안한 방식이었기 때문입니다. 4시간 비행을 마치고 더 넓은 대역폭의 소통이 절실했던 우리는 자리에서 일어나 테이블마다 돌아다니며 직접 인사를 나눴습니다.
 
 채팅과 이메일 중 무엇을 언제 써야 하는지에 대한 철칙은 없습니다. 실시간으로 빠르게 진행되는 논의에서, 결정이 쉽게 내려지고 모든 참여자가 현재 자리에 있다면 채팅이 더 유용합니다.(((range="endofrange", startref="ixch02asciidoc24")))(((range="endofrange", startref="ixch02asciidoc23")))(((range="endofrange", startref="ixch02asciidoc22"))) 일부가 자리에 없거나 논의의 긴급성이 낮다면 이메일이 더 나을 수 있습니다.(((range="endofrange", startref="ixch02asciidoc21")))(((range="endofrange", startref="ixch02asciidoc20")))(((range="endofrange", startref="ixch02asciidoc19"))) 앞서 <<communication_patterns_of_successful_cul>>에서 살펴본 동기식 대 비동기식 커뮤니케이션의 비용을 기억하세요.(((range="endofrange", startref="ixch02asciidoc7")))(((range="endofrange", startref="ixch02asciidoc6")))
 
 [[using_an_issue_tracker]]
-=== Using an Issue Tracker
+=== 이슈 트래커 사용하기
 
-((("bug trackers")))((("communication","issue trackers")))((("issue trackers")))If you're going to use an issue/bug tracker (and you should), it's important that you
-have some sort of process in place for processing and triaging bugs to
-encourage people to file and fix important bugs in a timely manner. If
-your bug tracker is neglected and not prioritized, people will stop
-filing bugs and begin shouting complaints into the void; and when your
-team eventually digs
-into the bug tracker, more than likely they will be fixing unimportant
-bugs and ignoring important ones.
-
+((("bug trackers")))((("communication","issue trackers")))((("issue trackers")))
 이슈/버그 트래커를 쓸 것이라면(그리고 써야 합니다), 버그를 처리하고 분류하는 프로세스를 갖춰 사람들이 중요한 버그를 제때 등록하고 고치도록 장려해야 합니다. 버그 트래커가 방치되고 우선순위가 없다면, 사람들은 버그 등록을 멈추고 허공을 향해 불만을 외치기 시작합니다. 그러다 팀이 결국 트래커를 파헤치면, 정작 중요한 버그는 무시하고 중요하지 않은 버그만 고치게 될 가능성이 큽니다.
 
-Keep in mind that a bug tracker is really just a slightly specialized
-"Internet forum" or "bulletin board." As such, it shares most
-properties in common with email lists and the same best practices
-apply. Hallway conversations about bugs
-should be recorded as updates in the bug tracker, making thoughts and
-decisions "official" for all to see. Keep the tone civil and don't
-tolerate trollish behaviors.
-
-버그 트래커는 본질적으로 약간 특화된 “인터넷 포럼” 혹은 “게시판”일 뿐임을 기억하세요. 따라서 메일링 리스트와 공통점이 많고, 같은 모범 사례가 적용됩니다. 복도에서 나눈 버그 대화도 트래커 업데이트로 기록해, 생각과 결정을 모두가 볼 수 있는 “공식 기록”으로 남기세요. 어조는 정중히 유지하고, 트롤링은 용납하지 마세요.
-
-We've also seen numerous occasions where a project manager is assigned
-the task of checking in on all open issues in the issue tracker. This
-can often not only create a great deal of churn, but also lead team members
-to start lengthy conversations in the issue tracker. If conversations
-get overly long or fragmented, take the discussion temporarily to the
-main email list—an email client is a much better tool for complex
-threads.
+버그 트래커는 본질적으로 약간 특화된 “인터넷 포럼” 혹은 “게시판”일 뿐임을 기억하세요. 따라서 메일링 리스트와 공통점이 많고, 같은 모범 사례가 적용됩니다. 복도에서 나눈 버그 대화도 트래커 업데이트로 기록해, 생각과 결정을 모두가 볼 수 있는 “공식 기록”으로 남기세요. 어조는 정중히 유지하고, 악의적인 행동은 용납하지 마세요.
 
 프로젝트 매니저가 트래커의 모든 오픈 이슈를 순회 점검하는 일이 맡겨지는 경우도 자주 봤습니다. 이는 큰 소용돌이를 만들 뿐 아니라, 팀원들이 트래커에서 장황한 대화를 시작하게 만들기도 합니다. 대화가 지나치게 길어지거나 뿔뿔이 흩어지면, 잠시 메인 메일링 리스트로 옮기세요—복잡한 스레드에는 이메일 클라이언트가 훨씬 더 좋은 도구입니다.
 
 [[communication_as_part_of_engineering]]
 === Communication as Part of Engineering
+=== 엔지니어링의 일부로서의 커뮤니케이션
 
-((("communication","as part of engineering", id="ixch02asciidoc25", range="startofrange")))((("engineering","communication as part of", id="ixch02asciidoc26", range="startofrange")))Hundreds and hundreds of books have been written about the
-software development process. While we're not
-going to dig into them all here, there are a few communication-related
-highlights that deserve mention, regardless of the development methodology you use. Even if
-you don't write software, there are a few lessons to be learned
-here—especially lessons about what __not__ to do.
-
-소프트웨어 개발 프로세스에 관한 책은 수백, 수천 권에 이릅니다. 여기서 모두 파헤칠 수는 없지만, 어떤 개발 방법론을 쓰든 꼭 짚고 넘어가야 할 커뮤니케이션 관련 요점이 몇 가지 있습니다. 설령 소프트웨어를 쓰지 않더라도 배울 점이 있습니다—특히 __하지 말아야 할 일__에 관한 교훈이요.
+((("communication","as part of engineering", id="ixch02asciidoc25", range="startofrange")))((("engineering","communication as part of", id="ixch02asciidoc26", range="startofrange")))
+소프트웨어 개발 프로세스에 관한 책은 수백, 수천 권에 이릅니다. 여기서 모두 파헤칠 수는 없지만, 어떤 개발 방법론을 쓰던지 꼭 짚고 넘어가야 할 커뮤니케이션 관련 요점이 몇 가지 있습니다. 설령 소프트웨어를 쓰지 않더라도 배울 점이 있습니다—특히 __하지 말아야 할 일__에 관한 교훈이요.
 
 [[code_comments]]
 ==== Code Comments
+==== 코드 주석
 
-((("code comments")))((("communication","code comments")))((("engineering","code comments")))Code commenting style is very subjective. Verbose
-comments can often provide clues regarding the intent and reasoning of
-the original programmer and can be very useful, but at the cost of
-ongoing maintenance: out-of-date or incorrect comments drastically
-hinder understanding of a code base. Similarly, terse or nonexistent
-comments can cause future maintainers or API consumers to waste time
-sleuthing. Comments are often used to point out missing structure and
-bad naming, and then go on to reexplain what the code already says. Comments should be focused on __why__
-the code is doing what it's doing, not __what__ the code is
-doing.
-
+((("code comments")))((("communication","code comments")))((("engineering","code comments")))
 코드 주석 스타일은 매우 주관적입니다. 장황한 주석은 원 작성자의 의도와 이유에 대한 실마리를 제공해 유용할 때가 많지만, 그만큼 유지보수 비용이 듭니다. 낡거나 틀린 주석은 코드베이스 이해를 크게 해칩니다. 반대로 너무 짧거나 아예 없는 주석은, 미래의 유지보수자나 API 소비자가 추리하느라 시간을 낭비하게 만듭니다. 주석은 흔히 빠진 구조와 나쁜 네이밍을 지적한 뒤, 코드가 이미 말하는 바를 다시 설명하는 데 쓰입니다. 주석은 코드가 __무엇__을 하는지가 아니라, 왜 __그렇게__ 하는지에 집중해야 합니다.
-
-Comments are most useful at the function or method level, especially
-as a means of documenting an API, and without going into exhaustive
-details, comments can be summed up with the popular Greek maxim,
-"μηδέν άγαν," or "nothing in excess."
-Beyond that, take the time to come up with a commenting style for your team and have everyone stick to it—we think being
-consistent is more important than the ((("Art of Readable Code, The (Boswell)")))((("Boswell, Dustin")))((("Foucher, Trevor")))actual
-choice.footnote:[See the excellent section on
-comments in pass:[<a class="orm:hideurl" href="http://shop.oreilly.com/product/9780596802301.do"><em>The Art of Readable Code</em></a>] by Dustin Boswell and Trevor Foucher
-(O'Reilly).] Your style guide should also explain the reason the guide
-exists and what it intends to prescribe—for example, here's the
-introduction to the ((("Google C$$++$$ Style Guide")))Google C++ Style
-Guide:footnote:[Find this and several other style
-guides at link:$$http://code.google.com/p/google-styleguide/$$[].]
 
 주석은 함수나 메서드 수준에서 가장 유용합니다. 특히 API를 문서화하는 수단으로서요. 장황함을 피하라는 뜻에서, “μηδέν άγαν(과유불급)”이라는 유명한 그리스 격언으로 요약할 수 있습니다. 그다음으로 중요한 것은 팀의 주석 스타일을 정해 모두가 따르도록 하는 것입니다—우리 생각에 일관성이 ((("Art of Readable Code, The (Boswell)")))((("Boswell, Dustin")))((("Foucher, Trevor")))실제 선택지보다 더 중요합니다.footnote:[더스틴 보스웰과 트레버 파우처의 The Art of Readable Code(O'Reilly) 주석 챕터를 참고하세요: pass:[<a class="orm:hideurl" href="http://shop.oreilly.com/product/9780596802301.do"><em>The Art of Readable Code</em></a>].] 스타일 가이드는 왜 존재하는지와 무엇을 규정하려는지 설명해야 합니다. 예컨대 ((("Google C$$++$$ Style Guide")))Google C++ 스타일 가이드는 이렇게 시작합니다.footnote:[이 가이드와 다른 여러 스타일 가이드는 link:$$http://code.google.com/p/google-styleguide/$$[]에서 찾을 수 있습니다.]
 
 [quote]
 ____
-C$$++$$ is the main development language used by many of Google's
-open-source projects. As every C$$++$$ programmer knows, the language
-has many powerful features, but this power brings with it complexity,
-which in turn can make code more bug-prone and harder to read and
-maintain.
+C$$++$$는 Google의 많은 오픈 소스 프로젝트에서 사용하는 주요 개발 언어입니다. 
+모든 C$$++$$ 프로그래머가 알고 있듯이, 이 언어는 강력한 기능을 많이 제공하지만 
+그만큼 복잡성도 따라오며, 이는 코드를 더 버그가 발생하기 쉽고 읽기 어렵고 
+유지보수하기 힘들게 만들 수 있습니다.
 
-The goal of this guide is to manage this complexity by describing in
-detail the dos and don'ts of writing C$$++$$ code. These rules exist
-to keep the code base manageable while still allowing coders to use
-C$$++$$ language features productively.
+이 가이드의 목표는 C$$++$$ 코드 작성 시 해야 할 것과 하지 말아야 할 것을 
+자세히 설명함으로써 이러한 복잡성을 관리하는 것입니다. 이 규칙들은 코드베이스를 
+관리 가능하게 유지하면서도 개발자들이 C$$++$$ 언어 기능을 생산적으로 사용할 수 
+있도록 하기 위해 존재합니다.
 
-Style, also known as readability, is what we call the conventions
-that govern our C$$++$$ code. The term Style is a bit of a misnomer,
-since these conventions cover far more than just source file
-formatting.
+가독성(readability)이라고도 알려진 스타일은 우리의 C$$++$$ 코드를 다스리는 
+규약을 말합니다. 스타일이라는 용어는 약간 부적절한데, 이러한 규약들이 소스 
+파일 포맷팅보다 훨씬 많은 것을 다루기 때문입니다.
 
-One way in which we keep the code base manageable is by enforcing
-consistency. It is very important that any programmer be able to look
-at another's code and quickly understand it. Maintaining a uniform
-style and following conventions means that we can more easily use
-"pattern-matching" to infer what various symbols are and what
-invariants are true about them. Creating common, required idioms and
-patterns makes code much easier to understand. In some cases there
-might be good arguments for changing certain style rules, but we
-pass:[<span class="keep-together">nonetheless</span>] keep things as they are in order to preserve
-consistency.
+코드베이스를 관리 가능하게 유지하는 방법 중 하나는 일관성을 강제하는 것입니다. 
+모든 프로그래머가 다른 사람의 코드를 보고 빠르게 이해할 수 있다는 것은 매우 
+중요합니다. 균일한 스타일을 유지하고 규약을 따르는 것은 "패턴 매칭"을 더 쉽게 
+사용하여 다양한 심볼이 무엇인지, 그리고 그것들에 대해 어떤 불변조건이 참인지를 
+추론할 수 있게 해줍니다. 공통적이고 필수적인 관용구와 패턴을 만드는 것은 코드를 
+훨씬 더 이해하기 쉽게 만듭니다. 경우에 따라 특정 스타일 규칙을 변경하는 것에 
+대한 좋은 논거가 있을 수 있지만, 우리는 일관성을 유지하기 위해 
+pass:[<span class="keep-together">그럼에도</span>] 기존 방식을 유지합니다.
 
-Another issue this guide addresses is that of pass:[<span class="keep-together">C++</span>] feature
-bloat. C$$++$$ is a huge language with many advanced features. In some
-cases we constrain, or even ban, use of certain features. We do this
-to keep code simple and to avoid the various common errors and
-problems that these features can cause. This guide lists these
-features and explains why their use is pass:[<span class="keep-together">restricted</span>].
+이 가이드가 다루는 또 다른 문제는 pass:[<span class="keep-together">C++</span>] 
+기능 비대화입니다. C$$++$$는 많은 고급 기능을 가진 거대한 언어입니다. 경우에 
+따라 우리는 특정 기능의 사용을 제한하거나 심지어 금지하기도 합니다. 이는 코드를 
+단순하게 유지하고 이러한 기능들이 야기할 수 있는 다양한 일반적인 오류와 문제를 
+피하기 위해서입니다. 이 가이드는 이러한 기능들을 나열하고 그 사용이 
+pass:[<span class="keep-together">제한되는</span>] 이유를 설명합니다.
 
-Open-source projects developed by Google conform to the requirements
-in this guide.
+Google에서 개발한 오픈 소스 프로젝트들은 이 가이드의 요구사항을 준수합니다.
 
-Note that this guide is not a C$$++$$ tutorial: we assume that the
-reader is familiar with the language.
+이 가이드는 C$$++$$ 튜토리얼이 아님에 주의하세요: 독자가 이 언어에 익숙하다고 
+가정합니다.
 ____
-
-Note that the guide doesn't make claims about enforcing the best or fastest way
-to write C$$++$$, but merely the importance of having consistency
-across the code base.
 
 이 가이드는 C$$++$$를 쓰는 가장 좋거나 가장 빠른 방법을 강제하려는 것이 아니라, 코드베이스 전반의 일관성 유지가 얼마나 중요한지를 강조할 뿐임을 유념하세요.
 
 
 [[putting_your_name_in_source_code_files_a]]
-==== Putting Your Name on Your Work
+==== 작업에 이름 남기기
 
-((("attribution", id="ixch02asciidoc27", range="startofrange")))((("authorship, of code", id="ixch02asciidoc28", range="startofrange")))((("communication","putting your name on work", id="ixch02asciidoc29", range="startofrange")))((("name, putting on code", id="ixch02asciidoc30", range="startofrange")))Everyone wants to get credit for work they do, from the artist who
-signs her painting to the author who puts her name on the spine of her
-book or the top of her blog. It's human nature to crave recognition in
-one way or another, but littering source files with your name is, in
-our opinion, more trouble than it's worth. We've all seen these
-attributions at the top of source files, nestled snugly against the
-copyright declarations:
-
-누구나 자신이 한 일에 대한 공로를 인정받고 싶어 합니다. 그림에 사인을 남기는 화가에서부터, 책 등이나 블로그 상단에 이름을 올리는 저자까지 말이죠. 어떤 식으로든 인정받고 싶은 마음은 인간의 본성입니다. 하지만 소스 파일마다 이름을 도배하는 일은, 우리 생각에 얻는 것보다 잃는 것이 큽니다. 저작권 표시 옆에 바싹 붙은 이름 줄들을 모두가 본 적 있을 겁니다.
+((("attribution", id="ixch02asciidoc27", range="startofrange")))((("authorship, of code", id="ixch02asciidoc28", range="startofrange")))((("communication","putting your name on work", id="ixch02asciidoc29", range="startofrange")))((("name, putting on code", id="ixch02asciidoc30", range="startofrange")))
+누구나 자신이 한 일에 대한 공로를 인정받고 싶어 합니다. 그림에 사인을 남기는 화가에서부터, 책 등이나 블로그 상단에 이름을 올리는 저자까지 말이죠. 어떤 식으로든 인정받고 싶은 마음은 인간의 본성입니다. 하지만 소스 파일마다 이름을 도배하는 일은, 우리가 보기에 얻는 것보다 잃는 것이 큽니다. 저작권 표시 옆에 바싹 붙은 이름 줄들을 모두가 본 적 있을 겁니다.
 
 
 [listing]
@@ -658,137 +502,38 @@ copyright declarations:
 # ----------------------------------
 ....
 
-The tradition of putting your name at the top of your source code is
-an old one (heck, both of us have done it in the past), and may have
-been appropriate in an age where programs were written by individuals
-and not teams. Today, however, many people may touch a particular
-piece of code, and the issue of name attribution in a file is the
-cause of much discussion, wasted time, and hurt feelings. As a result,
-we advocate strongly against names as a sign of ownership in source
-code files (at best, include a name to designate a first choice to
-review any changes you might make to the file, but be careful that you
-don't imply pass:[<span class="keep-together">ownership</span>]).
-
-소스 코드 상단에 이름을 넣는 전통은 오래되었습니다(우리도 과거에 그랬습니다). 개인이 프로그램을 쓰던 시절에는 타당했을지도 모릅니다. 하지만 오늘날에는 같은 코드에 많은 사람이 손을 댑니다. 파일의 이름 표기는 끝없는 논쟁과 시간 낭비, 그리고 상처받은 감정의 온상이 됩니다. 따라서 우리는 소스 파일에 소유권의 표시로 이름을 넣는 것을 강하게 반대합니다(굳이 넣는다면, 변경 시 우선 리뷰어 지정을 위한 정도로만, 결코 소유권을 암시하지 않도록 조심하세요).
+소스 코드 상단에 이름을 넣는 전통은 오래되었습니다(우리도 과거에 그랬습니다). 개인이 프로그램을 쓰던 시절에는 타당했을지도 모릅니다. 하지만 오늘날에는 같은 코드에 많은 사람이 손을 댑니다. 파일의 이름 표기는 끝없는 논쟁과 시간 낭비, 그리고 상처받은 감정의 온상이 됩니다. 따라서 우리는 소스 파일에 소유권의 표시로 이름을 넣는 것을 강하게 반대합니다(굳이 넣는다면, 변경 시 우선 리뷰어 지정을 위한 정도로만, 결코 pass:[<span class="keep-together">소유권을</span>] 암시하지 않도록 조심하세요).
 
 [[image_no_caption-id014]]
 image::images/dbtm_02in06.png[]
 
-Let's imagine, for example, that you create a new file in your
-team's pass:[<span class="keep-together">project—</span>]you
-write a few hundred lines of code, smack your name and the appropriate
-copyright header at the top of the file and send it off for code
-review, and later, commit it to the repository. No problems, no drama,
-no disagreements so far. Let's say that your teammate Adrian comes
-along and makes some changes to the file: at what point does he get to
-put his name at the top of the file? Does he have to fix a bug? Five
-bugs? Does he have to write a function? Two functions? How many lines
-of code does he have to write? What if he writes a function, slaps his
-name on the file, and then someone else comes along and rewrites "his"
-function? Does this person now get to put her name on the file? Does
-she get to take Adrian's name off? Unlike other collaborative pieces
-of creative work—plays, novels, films—software keeps changing even after it's
-"done." So, while listing contributor credits at the end of a movie is
-a safe and static thing, attempting to add and remove names from a
-source file is a never-ending exercise in
-insanity.
-
-예를 들어 봅시다. 여러분이 팀의 pass:[<span class="keep-together">프로젝트—</span>]새 파일을 만들고 수백 줄의 코드를 씁니다. 파일 상단에 이름과 적절한 저작권 표시를 넣어 코드 리뷰에 보내고, 이후 저장소에 커밋합니다. 지금까지는 문제도, 드라마도, 이견도 없습니다. 그런데 동료 Adrian이 와서 파일을 고칩니다. 언제 그가 파일 상단에 자신의 이름을 올릴 수 있을까요? 버그를 한 개 고치면? 다섯 개? 함수를 하나 쓰면? 두 개는? 몇 줄을 써야 할까요? 그가 함수를 하나 쓰고 이름을 올렸는데, 다른 누군가가 와서 그 “그의” 함수를 다시 쓴다면? 그 사람도 이름을 올려야 할까요? Adrian의 이름은 지워야 할까요? 연극, 소설, 영화 같은 다른 협업 창작물과 달리, 소프트웨어는 “완성” 이후에도 계속 변합니다. 영화 끝에 올라가는 참여자 목록은 안전하고 정적인 일이지만, 소스 파일의 이름을 더했다 뺐다 하는 일은 끝없는 광기로 흐르기 쉽습니다.
-
-
-Certainly you can answer all these questions and extensively document
-every possible edge case, but maintaining this, tracking it, and
-keeping an eye out for violations is an incredible waste of time—time
-that could be spent actually writing code. It's for this very reason
-that we advocate tracking credit at the __project level__, not in the
-code itself. Most projects that we've
-seen have an &quot;Authors&quot; or &quot;Contributors&quot; file that lists everyone who
-has done work. If you need more detail, your version control system
-can tell you.(((range="endofrange", startref="ixch02asciidoc30")))(((range="endofrange", startref="ixch02asciidoc29")))(((range="endofrange", startref="ixch02asciidoc28")))(((range="endofrange", startref="ixch02asciidoc27"))) Of course, if you __don't__ use version control, all
-those moments will be lost in time, like tears in
-rain.footnote:[Roy, __Blade Runner__, 1982.]
+예를 들어 봅시다. 여러분이 팀의 pass:[<span class="keep-together">프로젝트—</span>]새 파일을 만들고 수백 줄의 코드를 씁니다. 파일 상단에 이름과 적절한 저작권 표시를 넣어 코드 리뷰에 보내고, 이후 저장소에 커밋합니다. 지금까지는 문제도, 드라마도, 이견도 없습니다. 그런데 동료 Adrian이 와서 파일을 고칩니다. 언제 그가 파일 상단에 자신의 이름을 올릴 수 있을까요? 버그를 한 개 고치면? 버그 다섯 개? 함수를 하나 작성하면? 함수 두 개는? 코드 몇 줄을 작성해야 할까요? 그가 함수를 하나 작성하고 이름을 올렸는데, 다른 누군가가 와서 “그의” 함수를 다시 쓴다면? 그 사람도 이름을 올려야 할까요? Adrian의 이름은 지워야 할까요? 연극, 소설, 영화 같은 다른 협업 창작물과 달리, 소프트웨어는 “완성” 이후에도 계속 변합니다. 영화 끝에 올라가는 참여자 목록은 안전하고 정적인 일이지만, 소스 파일의 이름을 더했다 뺐다 하는 일은 끝없는 광기로 흐르기 쉽습니다.
 
 물론 위 질문들에 답을 정하고 가능한 모든 엣지 케이스를 상세히 문서화할 수는 있습니다. 하지만 이를 유지·추적하고 위반을 감시하는 일은—원래 코드 작성에 썼어야 할—엄청난 시간 낭비입니다. 바로 이 때문에, 우리는 공로를 코드가 아닌 __프로젝트 수준__에서 추적할 것을 권합니다. 우리가 본 대부분의 프로젝트에는 일을 한 모든 사람을 나열한 “Authors”나 “Contributors” 파일이 있습니다. 더 자세한 내용이 필요하면, 버전 관리 시스템이 알려줄 것입니다.(((range="endofrange", startref="ixch02asciidoc30")))(((range="endofrange", startref="ixch02asciidoc29")))(((range="endofrange", startref="ixch02asciidoc28")))(((range="endofrange", startref="ixch02asciidoc27"))) 물론 버전 관리를 __하지 않는다면__, 그 모든 순간은 빗속의 눈물처럼 시간 속에 사라질 것입니다.footnote:[영화 블레이드 러너(1982) Roy의 대사]
 
 [[require_code_reviews_for_every_commit]]
-==== Require Code Reviews for Every Commit
+==== 모든 커밋에 코드 리뷰 적용하기
 
-((("code reviews")))((("commits, code reviews for")))((("engineering","code reviews")))If you're going to have coding standards, you need to have a means of
-monitoring code going into your product. Whether you review the code
-before committing it or after committing it, you should make sure
-every line of code that goes into your repository gets a second pair
-of eyes on it to check for style, quality, and, of course, careless
-mistakes. Keep code changes small and pass:[<span class="keep-together">reviewable—</span>]changesets that are
-thousands of lines long are unreviewable for anything but formatting
-nits. This not only results in a higher-quality code base, but also
-goes a long way toward instilling a strong sense of group pride in the
-quality of your code. For more information, see
-the section on feedback loops in <<hiding_is_considered_harmful>>.
-
-코딩 표준을 둘 것이라면, 제품으로 들어오는 코드를 감시할 수단이 필요합니다. 커밋 전이든 후든, 저장소로 들어오는 __모든__ 코드 한 줄 한 줄이 두 번째 눈의 검토를 거쳐, 스타일, 품질, 그리고 물론 부주의한 실수를 확인하도록 하세요. 변경은 작고 pass:[<span class="keep-together">리뷰 가능</span>]하게 유지하세요—수천 줄짜리 체인지셋은 포맷 잔소리 말고는 리뷰할 수 없습니다. 이는 더 높은 품질의 코드베이스를 만들 뿐만 아니라, 코드 품질에 대한 강한 집단적 자부심을 심는 데도 크게 기여합니다. 더 자세한 내용은 <<hiding_is_considered_harmful>>의 피드백 루프 섹션을 참고하세요.
+((("code reviews")))((("commits, code reviews for")))((("engineering","code reviews")))
+코딩 표준을 둘 것이라면, 제품으로 들어오는 코드를 감시할 수단이 필요합니다. 커밋 전이든 후든, 저장소로 들어오는 __모든__ 코드 한 줄 한 줄이 두 번째 시선의 검토를 거쳐, 스타일, 품질, 그리고 물론 부주의한 실수를 확인하도록 하세요. 변경사항은 작고 pass:[<span class="keep-together">리뷰 가능</span>]하게 유지하세요—수천 줄짜리 변경세트는 포맷팅 문제 외에는 제대로 리뷰할 수 없습니다. 이는 더 높은 품질의 코드베이스를 만들 뿐만 아니라, 코드 품질에 대한 강한 집단적 자부심을 심어주는 데도 크게 기여합니다. 더 자세한 내용은 <<hiding_is_considered_harmful>>의 피드백 루프 섹션을 참고하세요.
 
 [[have_real_test_and_release_processes]]
-==== Have Real Test and Release Processes
+==== 실질적인 테스트 및 릴리스 프로세스 구축하기
 
-((("communication","and test/release processes")))((("engineering","test/release processes")))((("release processes")))((("test processes")))Whether you're a full-on test-driven development shop or you just have some simple
-regression tests for your product, the more automated tests you have
-for your product, the more confident you can be when you're tearing
-through fixing bugs or adding new features. Once your team determines
-the role that testing will play, it should be
-part of the coding and review process. Just as importantly, your
-release process should be lightweight enough that you can do frequent
-releases (e.g., weekly), but thorough enough that you catch brokenness
-before it hits your users.(((range="endofrange", startref="ixch02asciidoc26")))(((range="endofrange", startref="ixch02asciidoc25")))
-
-풀 TDD를 하는 팀이든, 간단한 회귀 테스트만 있는 팀이든, 자동화된 테스트가 많을수록 버그를 고치고 기능을 추가할 때 더 큰 확신을 갖게 됩니다. 테스트의 역할을 정했다면, 그것이 코딩과 리뷰 과정의 일부가 되어야 합니다. 못지않게 중요한 점은, 릴리스 프로세스가 충분히 가벼워서(예: 주간) 자주 릴리스할 수 있어야 하면서도, 사용자에게 문제를 전파하기 전에 깨짐을 잡아낼 만큼 충분히 철저해야 한다는 것입니다.(((range="endofrange", startref="ixch02asciidoc26")))(((range="endofrange", startref="ixch02asciidoc25")))
+((("communication","and test/release processes")))((("engineering","test/release processes")))((("release processes")))((("test processes")))
+풀 TDD를 하는 팀이든, 간단한 회귀 테스트만 있는 팀이든, 자동화된 테스트가 많을수록 버그를 고치고 기능을 추가할 때 더 큰 확신을 갖게 됩니다. 당신의 팀에서 테스트의 역할을 정했다면, 그것이 코딩과 리뷰 과정의 일부가 되어야 합니다. 못지않게 중요한 점은, 릴리스 프로세스가 충분히 가벼워서(예: 주단위) 자주 릴리스할 수 있어야 하면서도, 사용자에게 문제를 전파하기 전에 깨짐을 잡아낼 만큼 충분히 철저해야 한다는 것입니다.(((range="endofrange", startref="ixch02asciidoc26")))(((range="endofrange", startref="ixch02asciidoc25")))
 
 [[it_really_is_about_the_code_after_all]]
-=== It Really Is About Your Product, After All
+=== 결국 중요한 것은 제품입니다
 
-((("product","and team culture")))((("team culture","and product")))Although these habits of culture and communication may seem to represent a certain amount of bias, as
-they reflect the manner in which we prefer to work, it's not as
-subjective as you might think. We've found that building a strong,
-productive team culture and taking some time
-to pay attention to communication in the team creates a team that will
-spend more time writing and shipping product and less time arguing about
-what product to ship.
+((("product","and team culture")))((("team culture","and product")))
+문화와 커뮤니케이션의 이런 습관들이 우리가 선호하는 작업 방식을 반영하므로 어느 정도 편향을 나타내는 것처럼 보일 수 있습니다. 그러나 여러분이 생각하는 만큼 주관적이지만은 않습니다. 우리는 강하고 생산적인 팀 문화를 만들고, 팀 내 커뮤니케이션에 시간을 들이는 일이, 제품을 쓰고 출시하는 데 더 많은 시간을 쓰고, 무엇을 출시할지 언쟁하는 데는 더 적은 시간을 쓰는 팀을 만든다는 사실을 확인했습니다.
 
-문화와 커뮤니케이션의 이런 습관은, 우리가 선호하는 일하는 방식을 반영하므로 어느 정도의 편향처럼 보일 수 있습니다. 그러나 여러분이 생각하는 만큼 주관적이지만은 않습니다. 우리는 강하고 생산적인 팀 문화를 만들고, 팀 내 커뮤니케이션에 시간을 들이는 일이, 제품을 쓰고 출시하는 데 더 많은 시간을 쓰고, 무엇을 출시할지 언쟁하는 데는 더 적은 시간을 쓰는 팀을 만든다는 사실을 확인했습니다.
+((("self-selecting cultures")))
+강한 팀은 저절로 생기지 않습니다. 기능 장애 팀으로 소프트웨어를 개발하는 데 드는 높은 비용을 이해하는 팀 리더와 창업자들이 정성껏 씨를 뿌리고 가꾸어야 합니다. 처음부터 이런 노력을 들이면, 문화를 규정하고 방어하는 데보다 제품을 설계하고 만드는 데 훨씬 더 많은 시간을 쓰는 자기 선택적 문화를 만들 수 있습니다. 이 노력—커뮤니케이션과 프로세스—의 큰 부수 효과는, 새로운 팀원이 팀에 합류하는 장벽을 크게 낮춘다는 것입니다. 이런 요소가 없으면, 새로운 팀원은 팀이 어떻게 일하는지 배우느라 많은 시간을 낭비하거나, 포기하고 이전 팀 방식대로 일하게 만들려고 시도할 것입니다(좋든 나쁘든).
 
-((("self-selecting cultures")))Strong teams don't arise spontaneously; they're carefully seeded and
-cultivated by team leads and
-founders who understand the high cost of trying to write software with
-a dysfunctional team. Putting this work in from the outset helps to
-create a self-selecting culture that builds a team that will spend
-much more time designing and creating a product than defining and defending
-their culture. A big side benefit of this effort—communication and process—is that it
-drastically reduces the barrier to entry for newcomers to your
-team. Without these elements in place, newcomers will either waste a
-lot of time struggling to learn how your team works or give up and try
-to make your team work like their last team did (for good or for bad).
-
-강한 팀은 저절로 생기지 않습니다. 기능 장애 팀으로 소프트웨어를 쓰는 데 드는 높은 비용을 이해하는 리드와 창업자들이 정성껏 씨를 뿌리고 가꾸어야 합니다. 처음부터 이런 노력을 들이면, 문화를 규정하고 방어하는 데보다 제품을 설계하고 만드는 데 훨씬 더 많은 시간을 쓰는 자기 선택적 문화를 만들 수 있습니다. 이 노력(커뮤니케이션과 프로세스)의 큰 부수 효과는, 신입이 팀에 합류하는 장벽을 크게 낮춘다는 것입니다. 이런 요소가 없으면, 신입은 팀이 어떻게 일하는지 배우느라 시간을 낭비하거나, 포기하고 지난 팀처럼 일하게 만들려고 들 것입니다(좋든 나쁘든).
-
-((("communication")))While getting the right people on your team and the right values
-instilled in your team is important, the overwhelming majority of
-effort that goes into a culture turns out to be communication. Mission
-statements, meetings, mailing lists, online chat, code comments,
-documentation, and even decision-making processes all make up the many
-different ways your team communicates, both with itself and with
-others. It's often a surprise to people that it takes so much
-communication—including emotional time and effort—to build a strong
-team for the sole purpose of creating a product, but it's true. Your
-product is ultimately about communications with __people__, not just
-with a machine.
-
-적절한 사람을 팀에 모으고 올바른 가치를 심는 일은 중요하지만, 문화에 들어가는 노력의 압도적 다수는 커뮤니케이션입니다. 미션 문서, 회의, 메일링 리스트, 온라인 채팅, 코드 주석, 문서, 심지어 의사결정 과정까지—이 모든 것이 팀이 내부와 외부에 소통하는 다양한 방식입니다. 오직 제품을 만들기 위해 강한 팀을 세우는 데 이렇게 많은 커뮤니케이션—감정적 시간과 노력까지 포함해서—이 필요하다는 사실은 종종 사람들을 놀라게 하지만, 사실입니다. 제품은 결국 __사람__과의 커뮤니케이션이지, 기계와만의 커뮤니케이션이 아니기 때문입니다.
-
-No matter what your team's culture is, and regardless of how well your
-team communicates, every effective team that we've ever seen has a
-leader. In the next chapter, we'll look into what makes the most
-effective team leader, why her role is probably not what you think,
-and why it's important for every team member to understand the basics
-of leading a team.(((range="endofrange", startref="ixch02asciidoc1")))(((range="endofrange", startref="ixch02asciidoc0")))
+((("communication")))
+적절한 사람을 팀에 모으고 올바른 가치를 심는 일은 중요하지만, 문화에 들어가는 노력의 압도적 다수는 커뮤니케이션입니다. 사명 선언서, 회의, 메일링 리스트, 온라인 채팅, 코드 주석, 문서, 심지어 의사결정 과정까지—이 모든 것이 팀이 내부와 외부에 소통하는 다양한 방식입니다. 오직 제품을 만들기 위해 강한 팀을 세우는 데 이렇게 많은 커뮤니케이션—감정적 시간과 노력까지 포함해서—이 필요하다는 사실은 종종 사람들을 놀라게 하지만, 사실입니다. 제품은 결국 __사람__과의 커뮤니케이션이지, 기계와만의 커뮤니케이션이 아니기 때문입니다.
 
 팀의 문화가 무엇이든, 커뮤니케이션이 얼마나 잘되든 간에, 우리가 본 모든 효과적인 팀에는 리더가 있었습니다. 다음 장에서는 가장 효과적인 팀 리더를 만드는 요소가 무엇인지, 그 역할이 여러분이 생각하는 것과 왜 다를 수 있는지, 그리고 팀의 모든 구성원이 리더십의 기본을 이해하는 것이 왜 중요한지를 살펴보겠습니다.(((range="endofrange", startref="ixch02asciidoc1")))(((range="endofrange", startref="ixch02asciidoc0")))
 
