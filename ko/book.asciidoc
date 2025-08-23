@@ -1,5 +1,5 @@
 :imagesdir: ..
-= Debugging Teams
+= 디버깅 팀(Debugging Teams)
 Brian W. Fitzpatrick and Ben Collins-Sussman
 :doctype: book
 :front-cover-image: image::./images/crew.jpeg[]
