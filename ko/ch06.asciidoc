@@ -95,25 +95,11 @@ Apple Inc.는 비기술자의 감정에 호소하는 기술을 만드는 데 있
 공정한 기회를 줄 의향이 생깁니다. 제품의 잘 설계된 첫 사용감이 주는 감정적 충격을 과소평가하지 마세요.
 iPad나 Nest 온도조절기를 개봉해본 적이 있다면 우리가 무슨 말인지 정확히 알 것입니다.
 
-What is your product like to a newbie? Is it welcoming and does it
-encourage exploration? Conversely, for an expert who sits down to an
-initial session with your software, does it appear familiar and
-sensible? At first glance, does your app scream instant productivity,
-or steep learning curve and countless tears? More specifically, what
-does a user experience in the first 30 seconds after launching your
-software? Don't just give an intellectual answer ("she sees a menu of
-choices, with a login box") but give an emotional answer too. How does
-a new user __feel__ after a minute? Empowered or just confused? What
-can you do to improve that feeling? Step back a level and look at your
-product's website. Does it seem professional and inviting, like a good
-storefront? You need to take these things seriously for your software
-to be taken seriously.
-
-초보자에게 당신의 제품은 어떤가요? 환영받는 느낌이고 탐색을 장려하나요?
+초보자에게 당신의 제품은 어떤 모습일까요? 환영받는 느낌을 주고, 탐색을 장려하나요?
 반대로 소프트웨어 첫 세션을 시작하는 전문가에게는 익숙하고 합리적으로 보이나요?
-첫눈에 앱이 즉각적 생산성을 외치나요, 아니면 가파른 학습 곡선과 끝없는 눈물을 암시하나요?
+첫눈에, 당신의 앱은 즉각적인 생산성을 외치나요? 아니면 가파른 학습 곡선과 끝없는 눈물을 예고하나요?
 더 구체적으로, 사용자가 소프트웨어를 실행한 후 첫 30초 동안 무엇을 경험하나요?
-지적인 답변("선택 메뉴와 로그인 박스가 보입니다")만 하지 말고 감정적 답변도 하세요.
+단순히 지적인 답변(“선택 메뉴와 로그인 박스를 본다”)만 하지 말고, 감정적인 답변도 해보세요.
 새로운 사용자가 1분 후에 어떻게 __느끼나요__? 힘을 얻나요, 아니면 그저 혼란스러우나요?
 그 느낌을 개선하기 위해 무엇을 할 수 있을까요? 한 단계 물러서서 제품 웹사이트를 보세요.
 좋은 상점가처럼 전문적이고 매력적으로 보이나요? 소프트웨어가 진지하게 받아들여지려면
@@ -121,64 +107,30 @@ to be taken seriously.
 
 [role="pagebreak-before"]
 [[underpromise_and_overdeliver]]
-==== Underpromise and Overdeliver
+==== 적게 약속하고, 더 많이 제공하라
 
-((("overdelivering")))((("public perception","underpromising and overdelivering")))((("underpromising")))Don't let your marketing people preempt you here. If users ask about
-upcoming features or release timelines, take the opportunity to give
-overly conservative estimates. If you let marketers spread rumors,
-you'll end up with a __Duke Nukem Forever__ situation—software that's
-teased for shipping __15 years__ late. But if your own (more accurate)
-message gets out first, your users will
-always be thrilled. Google is great at this; it has a deliberate
-policy of __not__ preannouncing features for any product. When new
-features roll out they're often a delightful surprise. It also
-prevents internal death marches to meet unrealistic advertised launch
-dates. The software is released when it's actually ready and usable.
-
+((("overdelivering")))((("public perception","underpromising and overdelivering")))((("underpromising")))
 여기서 마케팅 담당자들이 선수를 치지 못하게 하세요. 사용자가 곧 출시될 기능이나 릴리스 일정을 물어보면
-지나치게 보수적인 추정을 할 기회로 삼으세요. 마케터들이 소문을 퍼뜨리게 하면
-__듀크 뉴켐 포에버__ 상황—__15년__ 늦게 출시되는 소프트웨어—에 처하게 됩니다.
-하지만 당신 자신의 (더 정확한) 메시지가 먼저 나가면 사용자들은 항상 기뻐할 것입니다.
+지나치게 보수적인 추정을 할 기회로 삼으세요.
+마케터들이 소문을 퍼뜨리도록 두면, __Duke Nukem Forever__ 같은 상황, "무려 15년이나 늦게 출시된 소프트웨어"에 처하게 됩니다.
+그러나 당신의 (더 정확한) 메시지가 먼저 전해진다면, 사용자는 언제나 환호할 것입니다.
 구글이 이걸 잘합니다. 어떤 제품에 대해서도 기능을 미리 발표하지 __않는__ 신중한 정책이 있습니다.
 새 기능이 출시될 때는 종종 기분 좋은 놀라움이 됩니다. 또한 비현실적으로 광고된 출시일에 맞추려는
 내부 죽음의 행진도 방지합니다. 소프트웨어는 실제로 준비되고 사용 가능할 때 출시됩니다.
 
 [[work_with_industry_analysts_respectfully]]
-==== Work with Industry Analysts Respectfully
+==== 업계 애널리스트와 존중하는 태도로 협력하라
 
-((("industry analysts")))((("media, news")))((("public perception","and industry analysts")))((("reviews/reviewers")))A lot of programmers hate the media
-industry—it's just marketing in another guise. When a trade magazine
-or research firm comes knocking on the door, a lot of companies will
-drop everything and kowtow to their requests. They realize that a good
-(or bad) review can make or break a product's perception. Engineers
-tend to resent this sort of power and deference, though.
-
-많은 프로그래머가 미디어 업계를 싫어합니다—그냥 다른 모습의 마케팅일 뿐이라고 여기죠.
+((("industry analysts")))((("media, news")))((("public perception","and industry analysts")))((("reviews/reviewers")))
+많은 프로그래머가 미디어 업계를 싫어합니다. 그냥 다른 모습의 마케팅일 뿐이라고 여기죠.
 업계 잡지나 리서치 회사가 문을 두드리면 많은 회사가 모든 걸 제쳐두고 그들의 요청에 굴복합니다.
 좋은 (또는 나쁜) 리뷰가 제품 인식을 좌우할 수 있다는 걸 알기 때문입니다.
 하지만 엔지니어들은 이런 권력과 복종을 못마땅해하는 경향이 있습니다.
 
-For example, there was a time when members of the Apache ((("Apache Software Foundation (ASF)")))Software
-Foundation (ASF) had problems interacting with analysts. An analyst
-would ask the ASF for industry-standard white papers describing their
-Apache HTTPD server, and the typical snarky response might be, "Go
-read the documentation on the website, like everyone else." While this
-satisfied the open source developers' deep commitment to meritocracy,
-overall it was counterproductive to public perception—particularly
-among corporate users. Eventually the ASF "PR person" worked to
-reeducate a number of community members about this attitude and deal
-more productively with analysts. Passive-aggressively fighting the
-system—no matter how irritating it is—just doesn't make sense. It's no
-different from telling the restaurant reviewer to get back at the end
-of the line. Should the reviewer get preferential treatment?
-Probably not. But is it worth sticking it to him as a matter of
-principle? __Definitely__ not. You're only hurting yourself in the
-process. Choose your battles carefully.(((range="endofrange", startref="ixch06asciidoc2")))(((range="endofrange", startref="ixch06asciidoc1")))
-
-예를 들어, Apache 소프트웨어 재단(ASF) 구성원들이 분석가와 상호작용하는 데 문제가 있었던 때가 있었습니다.
+예를 들어, Apache 소프트웨어 재단(ASF)((("Apache Software Foundation (ASF)"))) 구성원들이 분석가와 상호작용하는 데 문제가 있었던 때가 있었습니다.
 분석가가 ASF에 Apache HTTPD 서버를 설명하는 업계 표준 백서를 요청하면, 전형적인 비아냥거리는 대답은
 "다른 사람들처럼 웹사이트의 문서를 읽어보세요"였습니다. 이런 반응은 오픈 소스 개발자들의 실력주의에 대한
-깊은 신념을 만족시키긴 했지만, 전체적으로는—특히 기업 사용자들 사이에서—대중 인식에 역효과를 낳았습니다.
+깊은 신념을 만족시키긴 했지만, 전체적으로는 "특히 기업 사용자들 사이에서" 대중 인식에 역효과를 낳았습니다.
 결국 ASF의 "PR 담당자"가 커뮤니티 구성원들에게 이런 태도에 대해 재교육하고 분석가들과 더 생산적으로
 일하도록 노력했습니다. 아무리 짜증나더라도 수동공격적으로 시스템과 싸우는 것은 말이 안 됩니다.
 레스토랑 리뷰어에게 줄 맨 뒤로 가라고 말하는 것과 다를 바 없습니다. 리뷰어가 특별 대우를 받아야 할까요?
@@ -190,28 +142,16 @@ process. Choose your battles carefully.(((range="endofrange", startref="ixch06as
 === How Usable Is Your Software?
 
 
-((("software","usability of", id="ixch06asciidoc3", range="startofrange")))((("usability", id="ixch06asciidoc4", range="startofrange")))((("users","and usability", id="ixch06asciidoc5", range="startofrange")))Here's a hard truth: unless you're developing software tools,
-engineers are not the audience of your software. The corollary is that
-you, as an engineer, are a terrible evaluator of your software's
-usability. An interface that seems totally reasonable to you may very
-likely make your nontechie neighbor pull out her hair in
-frustration.
-
+((("software","usability of", id="ixch06asciidoc3", range="startofrange")))((("usability", id="ixch06asciidoc4", range="startofrange")))((("users","and usability", id="ixch06asciidoc5", range="startofrange")))
 가혹한 진실을 말하자면, 소프트웨어 도구를 개발하는 게 아니라면 엔지니어는 소프트웨어의 대상 사용자가 아닙니다.
 따라서 엔지니어인 당신은 소프트웨어 사용성의 끔찍한 평가자입니다. 당신에게는 완전히 합리적으로 보이는
 인터페이스가 비기술자인 이웃을 좌절시켜 머리카락을 뽑게 만들 가능성이 높습니다.
-
-If we assume that "successful software" means "lots of people use and
-love your software," you need to pay deep attention to your
-users. Google has a famous motto:
 
 "성공적인 소프트웨어"가 "많은 사람이 소프트웨어를 사용하고 좋아하는 것"을 뜻한다고 가정하면,
 사용자에게 깊이 주의를 기울여야 합니다. 구글에는 유명한 모토가 있습니다:
 
 [quote]
 ____
-Focus on the user, and all else will follow.
-
 사용자에 집중하라, 그러면 모든 것이 따라올 것이다.
 ____
 
@@ -221,23 +161,8 @@ ____
 image::images/dbtm_06in02.png[]
 
 [role="pagebreak-before"]
-It sounds fairly campy, but over our careers we've watched this maxim
-play out over and over across multiple projects. We've witnessed
-projects succeed and fail based on this truth.
-
 다소 진부하게 들리지만, 경력을 통해 우리는 이 격언이 여러 프로젝트에서 반복적으로 실현되는 것을 봤습니다.
 이 진리에 기반해 프로젝트가 성공하고 실패하는 것을 목격했습니다.
-
-One of Google's big breakthroughs was to begin measuring the
-effectiveness of search ads. If users click on a particular ad, it
-must be useful to them; if it never gets clicks, it must be annoying
-or useless. Bad ads get removed from the system and feedback is given
-to the advertiser to improve its ads. At first this seems
-counterproductive for the short term: Google is actively rejecting
-revenue sources. But by making the __searcher__ (rather than the
-advertiser) the focus of attention, it dramatically increases the
-usefulness (and usage) of Google's search advertising system over the
-long term.
 
 구글의 큰 돌파구 중 하나는 검색 광고의 효과를 측정하기 시작한 것이었습니다. 사용자가 특정 광고를 클릭하면
 그들에게 유용한 것이고, 클릭을 전혀 받지 못하면 짜증스럽거나 쓸모없는 것입니다. 나쁜 광고는 시스템에서
@@ -245,18 +170,12 @@ long term.
 구글이 적극적으로 수익원을 거부하는 셈이니까요. 하지만 (광고주가 아닌) __검색자__에게 관심의 초점을 맞춤으로써
 장기적으로는 구글 검색 광고 시스템의 유용성과 사용량을 극적으로 증가시킵니다.
 
-Let's talk about some important ways you can focus directly on your users.
-
-사용자에게 직접 집중할 수 있는 중요한 방법들을 이야기해 봅시다.
-
 사용자에게 직접 집중할 수 있는 몇 가지 중요한 방법을 이야기해 봅시다.
 
 [[choose_your_audience]]
-==== Choose Your Audience
+==== 누구를 상대로 할지 정하라
 
-((("audience, software")))((("software","choosing audience for")))((("users","as audience for software")))First things first: imagine your users fall across a spectrum of
-technical pass:[<span class="keep-together">competence</span>].
-
+((("audience, software")))((("software","choosing audience for")))((("users","as audience for software")))
 우선 첫째로, 사용자들이 기술적 pass:[<span class="keep-together">역량</span>] 스펙트럼에 걸쳐 분포한다고 상상해 보세요.
 
 // TODO: change graphic below to say "Stephen Hawking" instead of "Donald Knuth"
@@ -269,17 +188,10 @@ through the center of the bell curve means that about half of all
 computer users would be happy using your product (i.e., those to the
 right of the line).
 
-제품에 가장 적합한 __사용자 집합__을 보여주는 수직선을 그린다면 어디에 둘 건가요?
-종모양 곡선의 중앙을 지나는 수직선은 전체 컴퓨터 사용자의 약 절반이 제품을 기꺼이 사용한다는 뜻입니다(즉, 선의 오른쪽에 있는 사용자들).
+만약 제품에 가장 잘 맞는 __사용자 집단__을 표시하는 수직선을 그린다면, 그 선은 어디에 두시겠습니까?
+종 모양 곡선의 한가운데를 지나는 선은 전체 컴퓨터 사용자의 절반가량이 당신의 제품을 기꺼이 사용한다는 의미입니다. (즉, 선의 오른쪽에 있는 사용자들이죠.)
 
 [role="pagebreak-before"]
-As an example, let's take the problem of wanting to display Internet
-content on your large TV screen.  How has the "usability" of competing
-solutions widened potential audiences?   Initially people had to plug their laptop
-computers directly into their televisions.  This involved
-understanding analog versus digital inputs and having the right sort of
-audio and video cables.
-
 예를 들어, 큰 TV 화면에 인터넷 콘텐츠를 표시하고 싶은 문제를 생각해 봅시다.
 경쟁 솔루션들의 "사용성"이 어떻게 잠재적 사용자층을 넓혔을까요? 처음에 사람들은
 노트북 컴퓨터를 TV에 직접 연결해야 했습니다. 이는 아날로그 대 디지털 입력을 이해하고
@@ -295,38 +207,16 @@ TV'로 바꾸고, 선은 대부분 오른쪽에 두세요.
 [[image_no_caption-id040]]
 image::images/dbtm_06in04.png[]
 
-((("Apple TV")))Apple then came out with an Apple TV product--a small computer-like
-appliance that you left permanently plugged into your TV.  It could be
-controlled from a computer or smartphone, and you could stream either your
-private media or live Internet content.  This solved the problem for a
-much larger (and less technical) audience:  it came with the proper
-cables, and you plugged it in once and left it there.
-
-그다음 애플이 Apple TV 제품을 내놨습니다—TV에 영구히 연결해 두는 작은 컴퓨터형 기기였죠.
+((("Apple TV")))
+그다음 애플이 Apple TV 제품을 내놨습니다. TV에 영구히 연결해 두는 작은 컴퓨터형 기기였죠.
 컴퓨터나 스마트폰에서 제어할 수 있었고, 개인 미디어나 실시간 인터넷 콘텐츠를 스트리밍할 수 있었습니다.
 이는 훨씬 더 큰(그리고 덜 기술적인) 사용자층의 문제를 해결했습니다. 적절한 케이블이 함께 제공됐고,
 한 번 연결하면 그냥 두면 되었습니다.
 
-Google then one-upped things by coming out with the((("Chromecast"))) Chromecast, a
-small stick that plugs directly into a TV's HDMI port.  It was even
-easier to install and allowed people to "cast" their screen from a
-wider array of both Apple __and__ non-Apple devices.  At the time of writing,
-we're now seeing new TVs being shipped with built-in WiFi and
-Internet streaming.  It's likely that Ben's kids will never remember a
-time when TVs didn't have Netflix built in!
-
-그러자 구글이 한 수 더 뜨며 Chromecast를 출시했습니다—TV의 HDMI 포트에 바로 꽂는 작은 스틱이었죠.
-설치가 더욱 쉬웠고, 애플 기기 __와__ 비애플 기기 모두에서 더 넓은 범위로 화면을 "캐스트"할 수 있었습니다.
+그러자 구글이 한 수 더 뜨며 Chromecast를((("Chromecast"))) 출시했습니다. TV의 HDMI 포트에 바로 꽂는 작은 스틱이었죠.
+설치가 더욱 쉬웠고, __애플 기기__ 와 __비애플 기기__ 모두에서 더 넓은 범위로 화면을 "캐스트"할 수 있었습니다.
 이 글을 쓰는 시점에 우리는 WiFi와 인터넷 스트리밍이 내장된 새 TV들이 출시되는 것을 보고 있습니다.
 벤의 아이들은 아마도 Netflix가 내장되지 않은 TV 시절을 기억하지 못할 것 같습니다!
-
-The point here is that good product development aims to move the
-vertical line to the __left__ as much as possible. In general, the
-more users you have, the more successful you are (and the more money
-your company makes!). The moral here is that when you're considering
-your users, think hard about who your audience is. Is your work usable by the
-biggest group possible? This is why simple and thoughtful user interfaces matter so much—as well as things like
-polished documentation and accessible tutorials.
 
 여기서 요점은 좋은 제품 개발은 수직선을 가능한 한 __왼쪽으로__ 이동시키는 것을 목표로 한다는 것입니다.
 일반적으로 사용자가 많을수록 더 성공적이고(회사가 더 많은 돈을 벌죠!), 사용자를 고려할 때의 교훈은
@@ -344,32 +234,15 @@ image::images/dbtm_06in05.png[]
 [[consider_barrier_to_entry]]
 ==== Consider Barrier to Entry
 
-((("barriers to entry","for first-time users")))((("design","and first-time users")))((("first-time users")))((("software","barriers to entry for first-time users")))((("software","first-time users of")))Now think about the first-time users of your software. How hard is it
-to get going for the first time? If your users can't easily try it
-out, you won't have any. A first-time user usually isn't thinking
-about whether your software is more or less powerful than a
-competitor's; she just wants to get something
-done. Quickly.
-
+((("barriers to entry","for first-time users")))((("design","and first-time users")))((("first-time users")))((("software","barriers to entry for first-time users")))((("software","first-time users of")))
 이제 소프트웨어의 첫 사용자들을 생각해 보세요. 처음 시작하기가 얼마나 어려운가요?
 사용자가 쉽게 사용해 볼 수 없다면 사용자는 없을 것입니다. 첫 사용자는 보통 당신의 소프트웨어가
 경쟁자보다 더 강력한지 덜 강력한지는 생각하지 않습니다. 그냥 뭔가를 해내고 싶을 뿐입니다. 빠르게요.
 
-((("PHP")))To illustrate, take a ((("Perl")))((("Python")))((("Ruby")))look at popular scripting languages. A majority of programmers will
-espouse that Perl or Python is a "better" language than PHP. They'll
-claim that Perl/Python/Ruby programs are easier to read and maintain
-over the long run, have more mature libraries, and are inherently
-safer and more secure when exposed to the open Web. Yet PHP is far
-more popular—at least for web development. Why? Because any high
-school student can just pick it up through osmosis by copying his
-buddy's website. There's no need to read books, do extensive
-tutorials, or learn serious programming patterns. It's conducive to
-tinkering: just start hacking on your site and figure out different
-PHP tricks from your peers.
 
 동료들로부터 PHP 요령을 익히면 됩니다.
 
-예를 들어 인기 있는 스크립트 언어들을 보세요. 대다수 프로그래머는 Perl이나 Python이 PHP보다
+예를 들어 인기 있는 스크립트 언어들을 보세요. ((("PHP")))((("Perl")))((("Python")))((("Ruby")))대다수 프로그래머는 Perl이나 Python이 PHP보다
 "더 좋은" 언어라고 지지할 것입니다. Perl/Python/Ruby 프로그램이 장기적으로 읽고 유지보수하기 더 쉽고,
 성숙한 라이브러리를 갖추고 있으며, 오픈 웹에 노출될 때 본질적으로 더 안전하고 보안이 좋다고 주장할 것입니다.
 그런데도 PHP가 훨씬 더 인기 있습니다—적어도 웹 개발에서는요. 왜일까요? 고등학생이라도 친구의
@@ -377,45 +250,16 @@ PHP tricks from your peers.
 진지한 프로그래밍 패턴을 배울 필요가 없습니다. 만지작거리기에 적합합니다. 그냥 사이트를 해킹하기
 시작해서 동료들에게서 다양한 PHP 요령을 알아내면 됩니다.
 
-((("Emacs")))((("vi (text editor)")))Another example can be found in text editors. Should
-programmers use Emacs or vi? Does it matter? Not really, but why would
-a person choose one over the other? Here's a true anecdote: when Ben
-first started learning Unix (during an
-internship in 1990) he was looking for a text editor to launch. He
-opened an existing file by launching vi for the first time, and was
-utterly frustrated within 20 seconds—he could move around within the
-file, but couldn't type anything! Of course, vi users know that one
-has to enter "edit" mode to change the file, but it was still a
-horrible first experience for a newbie. When Ben launched Emacs
-instead, he could immediately begin editing a file just like he would
-do on his familiar home word processor. Because the initial behavior
-of Emacs was identical to his previous experiences, Ben decided to
-become an Emacs user within his first
-minute. It's a silly reason to choose one product over another, but
-this sort of thing happens all the time! That first minute with a
-product is __critical__.footnote:[Of course
-__overall__ Emacs is probably just as complex to learn as vi--but
-we're talking about first impressions rather than logic.]
-
+((("Emacs")))((("vi (text editor)")))
 또 다른 예는 텍스트 편집기에서 찾을 수 있습니다. 프로그래머는 Emacs를 써야 할까요, vi를 써야 할까요?
 중요할까요? 꼭 그렇지는 않지만, 왜 어떤 사람은 하나를 다른 것보다 선택할까요?
 여기 실제 일화가 있습니다. Ben이 처음 Unix를 배우기 시작했을 때(1990년 인턴 기간), 실행할 텍스트 편집기를 찾고 있었습니다.
-그는 생애 처음으로 vi를 실행해 기존 파일을 열었고, 20초 만에 완전히 좌절했습니다—파일 안에서 움직일 수는 있었지만 아무것도 입력할 수 없었습니다!
+그는 생애 처음으로 vi를 실행해 기존 파일을 열었고, 20초 만에 완전히 좌절했습니다. 파일 안에서 움직일 수는 있었지만 아무것도 입력할 수 없었습니다!
 물론 vi 사용자들은 파일을 변경하려면 "편집" 모드로 들어가야 한다는 걸 압니다. 하지만 초보자에겐 여전히 끔찍한 첫 경험이었습니다.
 대신 Ben이 Emacs를 실행했을 때는, 집에서 익숙한 워드 프로세서를 쓰듯 즉시 파일 편집을 시작할 수 있었습니다.
 Emacs의 초기 동작이 그의 이전 경험과 동일했기 때문에, Ben은 첫 __1분__ 안에 Emacs 사용자가 되기로 결정했습니다.
 한 제품을 다른 제품보다 선택하는 이유로는 바보 같아 보일 수 있지만, 이런 일은 늘 일어납니다!
 제품과 함께하는 그 첫 1분은 __치명적__입니다.footnote:[물론 __전반적으로__ Emacs를 배우는 것이 vi만큼이나 복잡할 수 있습니다—하지만 여기서는 논리가 아니라 첫인상에 대해 이야기하는 것입니다.]
-
-Of course, there are other ways to destroy the first impression. The
-first time your software runs, don't present the user with a giant form
-to fill out or a giant panel of mandatory preferences to set. Forcing
-the user to create some sort of new account is pretty off-putting as
-well; it implies long-term commitment before the user has even done
-anything. Another personal pet peeve is a website instantly blasting a
-visitor with a modal "Subscribe to us!" dialog box within the first
-two seconds.  All these things send the user screaming in the other
-direction.
 
 물론 첫인상을 망치는 다른 방법들도 있습니다. 소프트웨어를 처음 실행할 때 사용자에게 거대한 양식을
 작성하게 하거나 필수 설정의 거대한 패널을 설정하게 하지 마세요. 사용자가 새로운 계정을 만들도록
@@ -423,20 +267,7 @@ direction.
 개인적으로 짜증나는 것은 웹사이트가 방문자에게 처음 2초 안에 "구독하세요!" 모달 대화상자를 즉시
 터뜨리는 것입니다. 이런 모든 것들이 사용자를 반대 방향으로 비명을 지르며 도망가게 만듭니다.
 
-A great example of a nearly invisible ((("TripIt")))barrier to entry is the
-TripIt web service, which is designed to
-manage travel itineraries. To start using the service simply forward
-your existing travel-confirmation emails (airplane, hotel, rental car,
-etc.) to __plans@tripit.com__. Poof, you're now using TripIt. The service
-creates a temporary account for you, parses your emails, creates a
-gorgeous itinerary page, and then sends an email to tell you it's
-ready. It's like a personal assistant instantly showing up, and all
-you did was forward a few messages! With almost no effort on your
-part, you've been sucked in and are browsing the website as an
-involved user. At this point, you're willing to create a real service
-account.
-
-거의 보이지 않는 진입 장벽의 훌륭한 예는 여행 일정을 관리하도록 설계된 TripIt 웹 서비스입니다.
+거의 보이지 않는 진입 장벽의 훌륭한 예는 여행 일정을 관리하도록 설계된 ((("TripIt")))TripIt 웹 서비스입니다.
 서비스를 사용하기 시작하려면 기존 여행 확인 이메일(비행기, 호텔, 렌터카 등)을
 __plans@tripit.com__으로 단순히 전달하기만 하면 됩니다. 짜잔, 이제 TripIt을 사용하고 있습니다.
 서비스가 임시 계정을 만들어주고, 이메일을 파싱하고, 멋진 일정 페이지를 만들어서, 준비됐다고
@@ -444,56 +275,26 @@ __plans@tripit.com__으로 단순히 전달하기만 하면 됩니다. 짜잔, �
 몇 개의 메시지를 전달한 것뿐입니다! 거의 노력을 들이지 않고도 빨려들어가서 관심 있는 사용자로
 웹사이트를 둘러보고 있습니다. 이 시점에서 당신은 진짜 서비스 계정을 만들 의향이 생깁니다.
 
-If you're skeptical about your own product's barrier to entry, try
-doing some simple tests. Give your software to ordinary humans—both technical and
-nontechnical—and observe their first minute or two. You may be
-surprised at what you discover.
-
 자신의 제품의 진입 장벽에 대해 의심스럽다면 간단한 테스트를 해보세요. 일반 사람들—기술적 및
 비기술적 모두—에게 소프트웨어를 주고 처음 1-2분을 관찰해 보세요. 발견하는 것에
 놀랄지도 모릅니다.
 
 [role="pagebreak-before"]
 [[measure_usage_not_users]]
-==== Measure Usage, Not Users
+==== 사용자 수가 아니라 사용 행태를 측정하라
 
-((("software","users vs. usage")))((("usage, users vs.")))((("users","usage vs.")))In pondering the size of your user base and whether it's easy to get
-started, you should also consider how you measure usage. Notice that we said "usage," not "number of installs"—you want a high number of users who
-__use__ your product, not a high number of times people __download__
-your product. You'll often hear someone say, "Hey, my product has had
-3 million downloads—that's 3 million happy users!" Wait; back up. How
-many of those 3 million users are __actually using__ your software?
-That's what we mean by "usage."
-
+((("software","users vs. usage")))((("usage, users vs.")))((("users","usage vs.")))
 사용자층의 크기와 시작하기 쉬운지 여부를 생각할 때, 사용량을 어떻게 측정하는지도 고려해야 합니다.
-우리가 "설치 횟수"가 아닌 "사용량"이라고 했다는 점에 주목하세요—제품을 __다운로드__하는 횟수가 많은 것이 아니라
+우리가 "설치 횟수"가 아닌 "사용량"이라고 했다는 점에 주목하세요. 제품을 __다운로드__하는 횟수가 많은 것이 아니라
 제품을 __사용하는__ 사용자 수가 많은 것을 원합니다. "야, 내 제품이 300만 다운로드를 기록했어—
 300만 명의 행복한 사용자가 있다는 뜻이야!"라고 말하는 것을 종종 들을 수 있습니다. 잠깐, 다시 생각해보세요.
 그 300만 사용자 중에 __실제로__ 소프트웨어를 사용하는 사람은 몇 명인가요?
 그것이 "사용량"의 의미입니다.
 
-((("Unix")))As an extreme example, how many machines is the Unix archive utility
-"ar" installed on? Answer: just about every Unix-based OS out there,
-including all versions of Linux, Mac OS X, BSD, and so on. And how
-many people use that program? How many even know what it is? Here we
-have a piece of software with millions of installs but near-zero
-usage.
-
-극단적인 예로, Unix 아카이브 유틸리티 "ar"가 얼마나 많은 머신에 설치되어 있을까요?
+((("Unix")))극단적인 예로, Unix 아카이브 유틸리티 "ar"가 얼마나 많은 머신에 설치되어 있을까요?
 답: Linux의 모든 버전, Mac OS X, BSD 등을 포함해 거의 모든 Unix 기반 OS에 설치되어 있습니다.
 그런데 그 프로그램을 사용하는 사람은 몇 명일까요? 그것이 무엇인지 아는 사람도 몇 명일까요?
 여기서 우리는 수백만 번 설치되었지만 사용량은 거의 0에 가까운 소프트웨어를 봅니다.
-
-Usage is something that many companies (including Google) spend a lot
-of time measuring. Common metrics include "7-day actives" and "30-day
-actives"—that is, how many users have used the software in the past
-week or month. These are the important numbers that actually tell you
-how well your software is doing. Ignore the download counts. Figure
-out a way to measure ongoing activity instead.  For example, if your
-product is a website or web app, try a product like Google Analytics;
-it not only gives you these metrics, but also gives you insight into where
-your users came from, how long they stayed, and so on. These are
-incredibly useful indicators of product uptake.(((range="endofrange", startref="ixch06asciidoc5")))(((range="endofrange", startref="ixch06asciidoc4")))(((range="endofrange", startref="ixch06asciidoc3")))
 
 사용량은 구글을 포함한 많은 회사들이 측정에 많은 시간을 투자하는 것입니다. 일반적인 지표로는
 "7일 활성 사용자"와 "30일 활성 사용자"가 있습니다—지난 주 또는 달에 소프트웨어를 사용한
@@ -506,75 +307,36 @@ incredibly useful indicators of product uptake.(((range="endofrange", startref="
 
 [role="pagebreak-before"]
 [[design_matters]]
-=== Design Matters
+=== 디자인은 중요하다
 
 
-((("design","and user focus", id="ixch06asciidoc6", range="startofrange")))((("users","designing software for", id="ixch06asciidoc7", range="startofrange")))Before the Internet came into prominence, the biggest challenge to
-getting any product to market was one of distribution. Few companies
-had the wherewithal to write a product __and__ get it into thousands of
-stores across the world, so when a company put a product out there,
-they would then market the hell out of it. This typically resulted in
-one or two "winners" in each software category (e.g., Microsoft Word
-versus WordPerfect, Excel vs. Lotus 1-2-3, etc.). The primary criteria
-you used when choosing a product were features and cost, no matter how
-ugly or unintuitive the software was.
-
+((("design","and user focus", id="ixch06asciidoc6", range="startofrange")))((("users","designing software for", id="ixch06asciidoc7", range="startofrange")))
 인터넷이 두각을 나타내기 전에는, 제품을 시장에 내놓는 데 있어 가장 큰 도전은 유통이었습니다.
-제품을 개발__하고__ 세계의 수천 개 매장에 진출시킬 능력을 가진 회사는 거의 없었기 때문에,
+제품을 개발하고 세계의 수천 개 매장에 진출시킬 능력을 가진 회사는 거의 없었기 때문에,
 회사가 제품을 출시하면 엄청나게 마케팅을 했습니다. 이는 보통 각 소프트웨어 범주에서
 1-2개의 "승자"를 만들어냈습니다(예: Microsoft Word vs. WordPerfect, Excel vs. Lotus 1-2-3 등).
 소프트웨어가 얼마나 못생겼거나 직관적이지 않든 상관없이 제품을 선택할 때 사용하는
 주요 기준은 기능과 비용이었습니다.
 
-That, however, has changed.
-
-그런데, 상황이 바뀌었습니다.
-
 그러나 상황이 바뀌었습니다.
 
-((("Internet, consumer choice and")))The Internet is a global distribution network where it costs almost
-nothing to find and download software. ((("social media, customers and")))And social media makes it easy
-for people to share their feelings about various products across the
-globe in seconds. The result of these two massive changes (and a host
-of other, smaller factors) means that consumers today have a choice of
-what product to use. In this highly competitive environment, it's no
-longer enough to just get a product out there with the necessary
-features—your product needs to be beautiful and easy to use. These
-days, no amount of marketing will rescue a crappy product, but a
-well-designed product that delights the people that use it will turn
-these same people into evangelists that market the product __for__ you.
 
-인터넷은 소프트웨어를 찾고 다운로드하는 데 거의 비용이 들지 않는 글로벌 유통 네트워크입니다.
-그리고 소셜 미디어는 사람들이 다양한 제품에 대한 감정을 몇 초 안에 전 세계에 공유하기 쉽게 만듭니다.
+((("Internet, consumer choice and")))인터넷은 소프트웨어를 찾고 다운로드하는 데 거의 비용이 들지 않는 글로벌 유통 네트워크입니다.
+((("social media, customers and")))그리고 소셜 미디어는 사람들이 다양한 제품에 대한 감정을 몇 초 안에 전 세계에 공유하기 쉽게 만듭니다.
 이 두 가지 큰 변화(와 기타 여러 작은 요인들)의 결과는 오늘날 소비자가 어떤 제품을 사용할지
 선택권을 가지게 되었다는 것입니다. 이렇게 경쟁이 치열한 환경에서는 필요한 기능만 갖춘
 제품을 출시하는 것만으로는 더 이상 충분하지 않습니다—제품이 아름답고 사용하기 쉬워야 합니다.
 요즘에는 아무리 마케팅을 해도 형편없는 제품을 구할 수는 없지만, 사용자들을 기쁘게 하는
 잘 설계된 제품은 그 사람들을 제품을 당신을 __위해__ 마케팅하는 전도사로 만들 것입니다.
 
-So good design is key, but a big part of good design is putting the
-user first, hiding complexity, making your product fast, and, most
-importantly, not being all things to all people.
-
 따라서 좋은 디자인이 핵심이지만, 좋은 디자인의 큰 부분은 사용자를 우선시하고, 복잡성을 숨기고,
 제품을 빠르게 만들며, 가장 중요하게는 모든 사람에게 모든 것이 되려 하지 않는 것입니다.
 
 
 [[put_the_user_first]]
-==== Put the User First
+==== 사용자를 최우선으로 하라
 
-((("design","and user focus")))((("users","as focus of software design")))When we say to "put the user first," we're suggesting that you and
-your team should take on whatever hard product work you can to make
-using your product easier for your users. This may mean some hard
-engineering work, but more frequently it means making hard design
-decisions instead of letting your users make these decisions every
-time they use your product.  We refer to this as
-__product laziness__. Some would argue that laziness is a virtue for
-engineers because it leads to efficient automation of work. On the
-other hand, it can be easy to create something that results in great
-pain for users. Making software easy for users is one of the greatest challenges
-in product development.
-
+((("design","and user focus")))((("users","as focus of software design")))
 "사용자를 우선시하라"고 할 때, 우리는 당신과 당신의 팀이 사용자가 제품을 더 쉽게 사용할 수 있도록
 어려운 제품 작업이라도 맡아야 한다고 제안하는 것입니다. 이는 어려운 엔지니어링 작업을 의미할 수도 있지만,
 더 자주는 사용자가 제품을 사용할 때마다 이런 결정을 하게 하는 대신 어려운 디자인 결정을 하는 것을 의미합니다.
@@ -582,86 +344,42 @@ in product development.
 엔지니어에게는 미덕이라고 주장할 것입니다. 반면에, 사용자에게 큰 고통을 주는 것을 만들기는 쉬울 수 있습니다.
 사용자를 위해 소프트웨어를 쉽게 만드는 것은 제품 개발의 가장 큰 도전 중 하나입니다.
 
-((("options, excessive")))A classic example of this kind of laziness is to present too many
-options to your users. ((("Microsoft Office")))People love to make fun of the late-1990s
-generation of Microsoft Office
-products: button bars! They make every possible menu item instantly
-available…for great convenience! User interface designers love to make
-fun of this idea, especially when taken to an extreme:
-
-이런 종류의 게으름의 고전적인 예는 사용자에게 너무 많은 옵션을 제시하는 것입니다.
-사람들은 1990년대 후반의 마이크로소프트 오피스 제품들을 조롱하는 것을 좋아합니다.
-버튼 바들! 모든 가능한 메뉴 항목을 즉시 사용 가능하게 만들어서… 엄청난 편의를 위해서!
+((("options, excessive")))이런 종류의 게으름의 고전적인 예는 사용자에게 너무 많은 옵션을 제시하는 것입니다.
+((("Microsoft Office")))사람들은 1990년대 후반의 마이크로소프트 오피스 제품들을 조롱하는 것을 좋아합니다.
+버튼 바! 모든 가능한 메뉴 항목을 즉시 사용 가능하게 만들어서… 엄청난 편의를 위해서!
 사용자 인터페이스 디자이너들은 특히 극단적으로 갔을 때 이 아이디어를 조롱하는 것을 좋아합니다:
 
 [[image_no_caption-id044]]
 image::images/dbtm_06in06.png[]
 
-Having too many options is overwhelming. It's intimidating and
-off-putting. There have even been books written about how too many
-choices create anxiety and ((("Paradox of Choice, The (Schwartz)")))((("Schwartz, Barry")))misery.footnote:[See Barry Schwartz's __The Paradox of Choice: Why More Is Less__ (Ecco).] You even
-need to be careful within your software's Preferences dialog. (Did you
-know that Eudora, a popular email client, had 30 different panels of
-preference values?) And if you're making someone fill out a form, be
-lenient in what you accept: deal with extra whitespace, punctuation,
-or dashes. Don't make the user do the parsing! It's about respecting
-the user's time. It's really obvious (and infuriating) when a
-programmer __could__ have made something friendly and easy for the end
-user but didn't bother.
-
 너무 많은 옵션을 갖는 것은 압도적입니다. 위협적이고 거부감을 줍니다.
-너무 많은 선택이 어떻게 불안과 비참함을 만드는지에 대한 책들도 쓰여졌습니다.footnote:[배리 슈워츠의 __The Paradox of Choice: Why More Is Less__ (Ecco)를 참조하세요.]
+너무 많은 선택이 어떻게 불안과 ((("Paradox of Choice, The (Schwartz)")))((("Schwartz, Barry")))비참함을 만드는지에 대한 책들도 쓰여졌습니다.footnote:[배리 슈워츠의 __The Paradox of Choice: Why More Is Less__ (Ecco)를 참조하세요.]
 심지어 소프트웨어의 설정 대화상자 내에서도 주의해야 합니다. (인기있던 이메일 클라이언트인
 유도라(Eudora)가 30개의 서로 다른 설정값 패널을 가지고 있었다는 걸 아세요?) 그리고
 누군가가 양식을 작성하게 한다면, 받아들이는 것에 관대하세요: 여분의 공백, 구두점, 또는
 대시를 처리하세요. 사용자가 파싱을 하게 만들지 마세요! 이는 사용자의 시간을 존중하는 것입니다.
-프로그래머가 최종 사용자를 위해 친근하고 쉬운 것을 만들 __수 있었는데__ 귀찮아서 하지 않았을 때는
+프로그래머가 최종 사용자를 위해 친근하고 쉬운 것을 만들 수 있었는데 귀찮아서 하지 않았을 때는
 정말 명백하고 (짜증나는 것)입니다.
 
 
 [[speed_matters]]
-==== Speed Matters
+==== 속도는 중요하다
 
-((("application speed")))((("design","application speed")))((("latency")))((("speed","in design")))Most programmers vastly underestimate the importance of __application
-speed__ (or __latency__, which sounds more scientific). Its effects
-are both fundamental and pass:[<span class="keep-together">profound</span>].
-
+((("application speed")))((("design","application speed")))((("latency")))((("speed","in design")))
 대부분의 프로그래머는 __애플리케이션 속도__(또는 더 과학적으로 들리는 __지연시간__)의 중요성을 크게 과소평가합니다.
 그 효과는 기본적이면서도 pass:[<span class="keep-together">깊이 있습니다</span>].
 
-((("barriers to entry","latency as")))First, latency is another type of "barrier to entry."  We've become
-spoiled about web page speed. When told to check out a new website, if
-it doesn't load within three or four seconds, people often abort and
-lose interest. There's simply no excuse here. The web browser makes
-it easy to walk away and redirect our attention to 12 other places. We
-have better things to do than wait for a page to load.
-
+((("barriers to entry","latency as")))
 첫째, 지연시간은 또 다른 형태의 "진입 장벽"입니다. 우리는 웹 페이지 속도에 대해 버릇이 나빠졌습니다.
 새 웹사이트를 확인하라고 할 때, 3-4초 안에 로딩되지 않으면 사람들은 종종 중단하고 관심을 잃습니다.
 여기에는 변명의 여지가 없습니다. 웹 브라우저는 떠나서 주의를 12개의 다른 곳으로 돌리기 쉽게 만듭니다.
 페이지가 로딩되기를 기다리는 것보다 더 나은 일들이 있습니다.
-
-Second, when a program responds quickly, it has a deep subliminal
-effect on users. They start using it more and more because it feels
-frictionless. It becomes an unconscious extension of their
-abilities. On the other hand, a slow application becomes increasingly
-frustrating over time. Users start using the software less and less,
-often without even realizing it.
 
 둘째, 프로그램이 빠르게 반응할 때 사용자에게 깊은 잠재의식적 효과를 줍니다.
 마찰이 없는 것처럼 느껴지기 때문에 점점 더 많이 사용하기 시작합니다.
 그들의 능력의 무의식적 확장이 됩니다. 반면에 느린 애플리케이션은
 시간이 지남에 따라 점점 더 좌절감을 줍니다. 사용자들은 종종 깨닫지도 못한 채
 소프트웨어를 점점 덜 사용하기 시작합니다.
-
-After a product launches, it's exciting to see usage grow over
-time. But after a while the usage often hits a limit—it just sort of
-flatlines. This is the point where the marketing folks often step in
-and scream about needing more features, prettier colors, nicer fonts,
-or more animations that "pop." Sometimes, however, the __actual__
-reason for the stall is latency. The program has become laggy and
-frustrating. As the next graph shows, user engagement decreases as
-latency increases.
 
 제품이 출시된 후, 시간이 지남에 따라 사용량이 증가하는 것을 보는 것은 신나는 일입니다.
 하지만 잠시 후 사용량이 종종 한계에 부딪힙니다—그냥 평평해집니다. 이 지점에서 마케팅 담당자들이
@@ -675,29 +393,10 @@ latency increases.
 image::images/dbtm_06in07.png[]
 
 [role="pagebreak-before"]
-((("Google Maps")))A true story from Google: an engineering team one day released some
-dramatic latency improvements to
-Google Maps. There was no announcement, no blog
-post; the launch was completely secret and silent. Yet the activity
-graph showed a huge (and permanent) jump in usage within the first
-couple of days. There's some powerful psychology going on
-there!
-
-구글의 실화 한 가지: 어느 날 한 엔지니어링 팀이 구글 맵에 극적인 지연시간 개선을 출시했습니다.
+((("Google Maps")))구글의 실화 한 가지: 어느 날 한 엔지니어링 팀이 구글 맵에 극적인 지연시간 개선을 출시했습니다.
 발표도 없었고, 블로그 포스트도 없었습니다. 출시는 완전히 비밀스럽고 조용했습니다. 그런데
 활동 그래프는 처음 며칠 안에 사용량의 거대한(그리고 영구적인) 증가를 보여줬습니다.
 거기에는 강력한 심리학이 작용하고 있습니다!
-
-Even small improvements in latency matter when you're serving a
-web-based application. Suppose it takes 750
-milliseconds for your main application screen to load. That seems fast
-enough, right? Not too frustrating for any given user. But if you
-could slash your load times to 250 milliseconds, that extra half of a
-second makes a huge difference in aggregate. If you have a million
-users each doing 20 requests per day, that amounts to __116 years__ of
-saved user time—stop killing your users! Improving latency is one of
-the best ways to increase usage and make your users happy. As Google's
-founders like to say, "Speed is a feature."
 
 웹 기반 애플리케이션을 서비스할 때는 지연시간의 작은 개선도 중요합니다. 메인 애플리케이션 화면을
 로딩하는 데 750밀리초가 걸린다고 가정해보세요. 충분히 빠른 것 같죠? 개별 사용자에게는
@@ -708,30 +407,14 @@ founders like to say, "Speed is a feature."
 구글 창립자들이 좋아하는 말처럼, "속도는 기능이다."
 
 [[dont_try_to_be_all_things]]
-==== Don't Try To Be All Things
+==== 모든 것을 다 하려 들지 마라
 
-((("design","overly ambitious")))((("software","overly ambitious")))Is your software
-trying to accomplish too much? This sounds like a silly question at
-first, but some of the worst software out there is bad because it's
-overly ambitious. It tries to be absolutely everything to
-everyone. ((("problem, software as solution to")))Some of the best software succeeds because it defines the
-problem narrowly and solves it well. Instead of solving every problem
-badly, it solves really common problems for __most__ users and does it
-really well.
-
+((("design","overly ambitious")))((("software","overly ambitious")))
 당신의 소프트웨어가 너무 많은 것을 이루려 하고 있나요? 처음에는 바보 같은 질문으로 들리지만,
 가장 최악의 소프트웨어 중 일부는 지나치게 야심적이기 때문에 나쁩니다. 모든 사람에게
-절대적으로 모든 것이 되려고 합니다. 최고의 소프트웨어 중 일부는 문제를 좁게 정의하고
+절대적으로 모든 것이 되려고 합니다.((("problem, software as solution to"))) 최고의 소프트웨어 중 일부는 문제를 좁게 정의하고
 잘 해결하기 때문에 성공합니다. 모든 문제를 나쁘게 해결하는 대신, __대부분의__ 사용자에게
 정말 일반적인 문제들을 해결하고 정말 잘 해냅니다.
-
-We often joke about certain gadgets we see in magazine ads: hey, look,
-it's a camping lantern, with a built-in weather radio!…and, uh, also
-a built-in TV, and um, stopwatch, and alarm clock, and…eh? It's a
-confusing mess. Instead, think of your software as a simple toaster
-oven. Does it cook everything? Absolutely not. But it cooks __a lot__
-of really common food and is useful to almost everyone who encounters
-it without being overwhelming. Be the toaster oven. Less is more.
 
 우리는 종종 잡지 광고에서 보는 특정 기기들을 농담거리로 삼습니다: 이봐, 봐봐,
 캠핑 랜턴인데, 날씨 라디오가 내장되어 있어!…그리고, 음, 또한
@@ -745,62 +428,27 @@ it without being overwhelming. Be the toaster oven. Less is more.
 image::images/dbtm_06in08.png[]
 
 [[hide_complexity]]
-==== Hide Complexity
+==== 복잡함을 숨겨라
 
-((("complexity, software", id="ixch06asciidoc8", range="startofrange")))((("design","hiding complexity", id="ixch06asciidoc9", range="startofrange")))((("hiding the complexity", id="ixch06asciidoc10", range="startofrange")))"But my software is complex," you may think, "and it's solving a
-complex problem. So why should I try to hide that?" That's a
-reasonable concern, but it's also one of the central challenges of
-good product design. An elegant design makes easy things easy and
-hard things possible. Even when doing complex things your software
-should __feel__ seamless and easy. (Again, we're focusing on the
-user's pass:[<span class="keep-together">emotions</span>].)
-
+((("complexity, software", id="ixch06asciidoc8", range="startofrange")))((("design","hiding complexity", id="ixch06asciidoc9", range="startofrange")))((("hiding the complexity", id="ixch06asciidoc10", range="startofrange")))
 "하지만 내 소프트웨어는 복잡해요"라고 생각할 수도 있습니다. "그리고 복잡한 문제를 해결하고 있어요.
 그런데 왜 그걸 숨기려 해야 하죠?" 합리적인 우려이지만, 이것 또한 좋은 제품 설계의 핵심 과제 중
 하나입니다. 우아한 설계는 쉬운 일을 쉽게 만들고 어려운 일을 가능하게 만듭니다.
 복잡한 일을 할 때에도 소프트웨어는 매끄럽고 쉽게 __느껴져야__ 합니다.
 (다시, 우리는 사용자의 pass:[<span class="keep-together">감정</span>]에 집중하고 있습니다.)
 
-This is what we like to call "hiding the complexity." You take a
-complex problem and break it up, cover it, or do something to make the
-software seem simple anyway.
 
 이것을 우리는 "복잡성 숨기기"라고 부릅니다. 복잡한 문제를 가져다가 분해하고, 덮거나,
 어떻게든 소프트웨어가 간단해 보이도록 만드는 것입니다.
 
-((("Apple")))Look at Apple again. Apple's product design is
-legendary, and one of the cleverest things it did was to creatively
-tackle the problem of managing MP3 music collections. Before iPods
-came along, there were a handful of awkward gizmos that tried to
-manage music right on the portable device. Apple's genius was to
-realize that MP3 management was too difficult a problem to solve on a
-tiny screen, so it __moved__ the solution to a big computer. iTunes
-was the answer. You use your computer (with big screen, keyboard, and
-mouse) to manage your music collection, and then use the iPod __only__
-for playback. The iPod can then be simple and elegant, and organizing
-your music is no longer frustrating.
-
-애플을 다시 보세요. 애플의 제품 설계는 전설적이며, 가장 영리한 것 중 하나는 MP3 음악 컬렉션 관리 문제를
+((("Apple")))애플을 다시 보세요. 애플의 제품 설계는 전설적이며, 가장 영리한 것 중 하나는 MP3 음악 컬렉션 관리 문제를
 창의적으로 해결한 것입니다. iPod이 나오기 전에는 휴대용 기기에서 바로 음악을 관리하려 하는
 어색한 기기들이 몇 개 있었습니다. 애플의 천재성은 MP3 관리가 작은 화면에서 해결하기에는
 너무 어려운 문제라는 것을 깨닫고, 해결책을 큰 컴퓨터로 __이동__시킨 것입니다. iTunes가 그 답이었습니다.
 컴퓨터(큰 화면, 키보드, 마우스)를 사용해 음악 컬렉션을 관리하고, iPod은 재생__만을__ 위해 사용합니다.
 그러면 iPod은 간단하고 우아할 수 있고, 음악 정리가 더 이상 좌절스럽지 않습니다.
 
-((("Google Search")))Google Search is another well-known example of
-hiding complexity. Google's interface (and barrier to entry) is almost
-nonexistent: it's just a magic box to type in. Yet behind that box,
-there are thousands of machines across the planet responding in
-parallel and doing a search after __every keystroke__ you type. By the
-time you hit Enter, the search results have already rendered on your
-screen. The amount of technology behind that text box is jaw-dropping,
-and yet the complexity of the problem
-is hidden from the user. It behaves like
-Magic.footnote:[See Arthur C. Clarke's http://bit.ly/clarkes_3rd_law[Third Law].]
-This is a great goal for a creative team to pursue since it's
-essentially the epitome of product usability.
-
-구글 검색은 복잡성을 숨기는 또 다른 잘 알려진 예입니다. 구글의 인터페이스(와 진입 장벽)는
+((("Google Search")))구글 검색은 복잡성을 숨기는 또 다른 잘 알려진 예입니다. 구글의 인터페이스(와 진입 장벽)는
 거의 존재하지 않습니다. 그냥 입력할 수 있는 마법의 상자일 뿐입니다. 하지만 그 상자 뒤에는
 전 세계의 수천 대 기계가 병렬로 응답하며 당신이 타이핑하는 __모든 키 입력__ 후에 검색을 수행합니다.
 엔터를 누를 때쯤이면 검색 결과가 이미 화면에 렌더링되어 있습니다. 그 텍스트 상자 뒤의
@@ -808,37 +456,16 @@ essentially the epitome of product usability.
 마법처럼 동작합니다.footnote:[아서 C. 클라크의 http://bit.ly/clarkes_3rd_law[제3법칙]을 참조하세요.]
 이것은 본질적으로 제품 사용성의 정점이기 때문에 창의적인 팀이 추구할 훌륭한 목표입니다.
 
-Finally, we should mention a caveat about complexity. While masking complexity is laudable, it is __not__ a goal to seal the
-software so tight that it ends up handcuffing all your
-users. ((("abstractions, for hiding complexity")))Hiding complexity almost always
-involves creating clever abstractions, and as a programmer you need to
-assume that the abstractions will eventually "leak." When a web
-browser prints a 404 error, that's a leaked
-abstraction; the illusion is cracked. Don't panic, though—it's better
-to assume that abstractions are leaky and simply embrace them by
-providing deliberate ways to lift the curtain. A great way to do this
-is to provide APIs to other programmers. Or for really advanced users,
-create an "expert mode" that provides more options and choices for
-those who want to bypass the abstractions.
 
 마지막으로, 복잡성에 대한 주의사항을 언급해야 합니다. 복잡성을 가리는 것은 칭찬할 만하지만,
 모든 사용자를 결박하게 만들 정도로 소프트웨어를 꽁꽁 밀봉하는 것이 목표는 __아닙니다__.
+((("abstractions, for hiding complexity")))
 복잡성을 숨기는 것은 거의 항상 영리한 추상화 만들기를 포함하며, 프로그래머로서 당신은
 추상화가 결국 "새어나올" 것이라고 가정해야 합니다. 웹 브라우저가 404 오류를 출력할 때,
-그것은 새어나온 추상화입니다. 환상이 깨진 것이죠. 하지만 당황하지 마세요—추상화가 새어나온다고
+그것은 새어나온 추상화입니다. 환상이 깨진 것이죠. 하지만 당황하지 마세요. 추상화가 새어나온다고
 가정하고 커튼을 걷을 수 있는 의도적인 방법을 제공함으로써 단순히 그것을 받아들이는 것이 더 좋습니다.
 이를 위한 좋은 방법은 다른 프로그래머들에게 API를 제공하는 것입니다. 또는 정말 고급 사용자들을 위해
 추상화를 우회하고 싶어하는 사람들에게 더 많은 옵션과 선택을 제공하는 "전문가 모드"를 만드는 것입니다.
-
-Not only is it important to keep the interface flexible and circumventable, but the user's data needs to be accessible as well. ((("data, exporting")))Fitz put
-a great deal of passion into making sure Google products offer "data
-liberation"—that it's trivial for a user to export his data from an
-application and walk away. Software shouldn't lock users in, no matter
-how elegant the interface is. Allowing users to open the hood and
-do whatever they want with their data forces you to compete
-honestly: people use your software because they __want__ to, not
-because they're trapped. It's about engendering trust, which (as we'll
-mention) is your most sacred(((range="endofrange", startref="ixch06asciidoc10")))(((range="endofrange", startref="ixch06asciidoc9")))(((range="endofrange", startref="ixch06asciidoc8"))) resource.(((range="endofrange", startref="ixch06asciidoc7")))(((range="endofrange", startref="ixch06asciidoc6")))
 
 인터페이스를 유연하고 우회 가능하게 유지하는 것뿐만 아니라, 사용자의 데이터도 접근 가능해야 합니다.
 피츠는 구글 제품들이 "데이터 해방"을 제공하도록—사용자가 애플리케이션에서 자신의 데이터를
@@ -850,37 +477,17 @@ mention) is your most sacred(((range="endofrange", startref="ixch06asciidoc10"))
 
 [role="pagebreak-before"]
 [[managing_your_relationship_with_users]]
-=== Managing Your Relationship with Users
+=== 사용자와의 관계를 관리하라
 
-
-((("relationship management", id="ixch06asciidoc11", range="startofrange")))((("users","managing your relationship with", id="ixch06asciidoc12", range="startofrange")))OK, so your product is appealing on first sight. It's easy to get
-started. And once people begin, it's really pleasant. What happens
-months down the line? How do you interact with people who use your
-product every day, for years at a time?
-
+((("relationship management", id="ixch06asciidoc11", range="startofrange")))((("users","managing your relationship with", id="ixch06asciidoc12", range="startofrange")))
 좋습니다. 제품이 첫눈에 매력적입니다. 시작하기 쉽습니다. 그리고 사람들이 시작하고 나면 정말 즐겁습니다.
 몇 달 후에는 어떻게 될까요? 매일, 수년간 제품을 사용하는 사람들과 어떻게 상호작용할까요?
-
-Believe it or not, many users __want__ to have a relationship with
-your company or team. Happy users want to know what's going on with
-your software's evolution; angry users want a place to complain. One
-of the biggest mistakes programmers make is to toss software over a
-wall and then stop listening to feedback.
 
 믿건 안 믿건, 많은 사용자가 당신의 회사나 팀과 관계를 갖고 __싶어합니다__. 행복한 사용자는
 소프트웨어의 진화에 무슨 일이 일어나고 있는지 알고 싶어하고, 화난 사용자는 불평할 곳을 원합니다.
 프로그래머가 저지르는 가장 큰 실수 중 하나는 소프트웨어를 벽 너머로 던지고 피드백 듣기를 멈추는 것입니다.
 
-((("customer service")))Like __marketing__, the term __customer service__ also typically has
-a negative connotation. A career in "customer service" often conjures
-up an image of a barista working at a coffee shop or a room full of
-robotic people answering support calls. But in reality, customer
-service isn't a nasty, soul-draining task; nor is it something that
-other people (with lesser job descriptions) do. It's a philosophy to
-live by—a way of thinking about your ongoing connection to users. It's
-something you need to do proactively as a creative team, not as a mere
-reaction to external complaints.
-
+((("customer service")))
 __마케팅__과 마찬가지로, __고객 서비스__라는 용어도 일반적으로 부정적 함의를 가집니다.
 "고객 서비스" 직업은 종종 커피숍에서 일하는 바리스타나 지원 전화에 응답하는 로봇 같은 사람들로 가득한
 방의 이미지를 떠올리게 합니다. 하지만 실제로는 고객 서비스가 불쾌하고 영혼을 소모하는 일이 아니며,
@@ -888,20 +495,7 @@ __마케팅__과 마찬가지로, __고객 서비스__라는 용어도 일반적
 연결에 대해 생각하는 방식입니다. 외부 불만에 대한 단순한 반응이 아니라 창의적 팀으로서
 적극적으로 해야 할 일입니다.
 
-((("engineers","and direct interactions with users")))((("HRT (humility, respect, trust)","in user relations")))((("respect","in user relations")))Engineers often dread direct interactions with users. "Users are
-clueless," they think. "They're annoying and impossible to talk to."
-And while nobody's requiring you to shower every user with love, the simple fact
-is that __users want to be heard__. Even if they make inane
-suggestions or clueless complaints, the most important thing you can
-possibly do is __acknowledge__ them. The more you allow them to
-participate in the discussion and development process, the more loyal
-and happy they'll be. You don't have to agree with them, but you still
-need to listen. This is the "Respect" in HRT!  ((("social media, customers and")))Companies are rapidly
-learning this in the age of social media—just reaching out to someone
-as a human and not as a giant, faceless corporation is often enough to
-alleviate that person's concerns. People love it when corporations
-openly display HRT.
-
+((("engineers","and direct interactions with users")))((("HRT (humility, respect, trust)","in user relations")))((("respect","in user relations")))
 엔지니어들은 종종 사용자와의 직접적인 상호작용을 두려워합니다. "사용자들은 무지해"라고 생각합니다.
 "성가시고 대화하기 불가능해." 모든 사용자에게 사랑을 퍼부으라고 요구하는 사람은 없지만,
 단순한 사실은 __사용자들이 들리고 싶어한다는__ 것입니다. 터무니없는 제안이나 무지한 불만을 해도,
@@ -915,11 +509,6 @@ openly display HRT.
 [[image_no_caption-id045]]
 image::images/dbtm_06in09.png[]
 
-We like to illustrate the importance of managing users over time by drawing another simple
-(slightly unscientific) graph. As time goes on, your software gains
-more and more users. Of course, as you "improve" the product, it also
-gains more and more complexity:
-
 시간에 따른 사용자 관리의 중요성을 보여주기 위해 또 다른 간단한 (약간 비과학적인) 그래프를 그리는 것을
 좋아합니다. 시간이 지나면서 소프트웨어는 점점 더 많은 사용자를 얻습니다. 물론 제품을 "개선"하면서
 복잡성도 점점 더 많아집니다:
@@ -928,11 +517,6 @@ gains more and more complexity:
 [[image_no_caption-id046]]
 image::images/dbtm_06in10.png[]
 
-The problem here is that as the number of users increases, their
-average level of technical ability __decreases__, because you're
-covering more and more of the general population. Pair this up with
-ever-increasing complexity and you've got a serious issue with users'
-despair:
 
 여기서 문제는 사용자 수가 증가함에 따라 평균적인 기술적 능력 수준이 __감소한다는__ 것입니다.
 일반 대중을 점점 더 많이 포함하게 되기 때문입니다. 이를 계속 증가하는 복잡성과 짝지으면
@@ -942,43 +526,17 @@ despair:
 [[image_no_caption-id047]]
 image::images/dbtm_06in11.png[]
 
-((("communication","with users")))More despair means more complaints, angrier users, and an
-ever-increasing need for open communication with the software
-developers!
-
-더 많은 절망은 더 많은 불만, 더 화난 사용자, 그리고 소프트웨어 개발자와의 열린 소통에 대한
+((("communication","with users")))더 많은 절망은 더 많은 불만, 더 화난 사용자, 그리고 소프트웨어 개발자와의 열린 소통에 대한
 끊임없이 증가하는 필요를 의미합니다!
 
-What can you do to avoid this trend?
+이 트렌드를 피하려면 무엇을 할 수 있을까요?
 
-이 추세를 피하려면 무엇을 할 수 있을까요?
-
-To begin, don't be in denial about the problem.  Many corporations
-instinctively do everything they can to put up walls of bureaucracy
-between programmers and users. They create voicemail trees to navigate
-through or file complaints as "help tickets" that are tracked by
-layers of people who aren't actually writing the software. Messages
-are relayed only indirectly through these layers, as though direct
-contact with the dangerous rabble might endanger developers (or
-pointlessly distract them). This is how users end up
-feeling ignored and disempowered and how developers end up completely
-disconnected.
 
 우선, 문제를 부정하지 마세요. 많은 기업은 본능적으로 프로그래머와 사용자 사이에 관료적 장벽을 세우기 위해 할 수 있는 모든 것을 합니다.
 탐색해야 하는 보이스메일 트리를 만들거나, 실제로 소프트웨어를 작성하지 않는 여러 층의 사람들에 의해 추적되는 "헬프 티켓"으로 불만을 접수하게 합니다.
 메시지는 이러한 층을 통해서만 간접적으로 전달되며, 위험한 군중과의 직접 접촉이 개발자를 위험에 빠뜨리거나(혹은 무의미하게 방해할까 봐) 그런 것처럼 행동합니다.
 이렇게 해서 사용자는 무시당하고 무력해졌다고 느끼게 되고, 개발자는 완전히 단절되게 됩니다.
 
-A much better mode of interaction is to directly acknowledge
-users. Give them a public bug tracker to complain in and respond to
-them directly. Create an email list for them to help one
-another. Interact directly with users in social media.  If your
-product can be open source, that's a huge help as well. The more
-"human" you appear to users, the more they trust in the product, and
-despair begins to lessen. Be on the lookout for people using your
-products in unexpected (and awesome) ways. Only through true dialogue
-can you discover what they're really doing with your software,
-possibly something clever or thrilling.
 
 훨씬 더 나은 상호작용 방식은 사용자를 직접 인정하는 것입니다. 불만을 제기할 수 있는 공개 버그 트래커를 제공하고 그들에게 직접 응답하세요.
 서로 도울 수 있도록 메일링 리스트를 만드세요. 소셜 미디어에서 사용자와 직접 상호작용하세요. 제품이 오픈 소스가 될 수 있다면, 그것도 큰 도움이 됩니다.
@@ -986,26 +544,8 @@ possibly something clever or thrilling.
 진정한 대화를 통해서만 그들이 당신의 소프트웨어로 실제로 무엇을 하고 있는지—어쩌면 영리하거나 짜릿한 무언가를—발견할 수 있습니다.
 
 [[dont_be_condescending]]
-==== Respect Users' Intelligence
+==== 사용자의 지성을 존중하라
 
-((("intelligence, respect for users")))((("respect","for intelligence of users")))((("users","respecting intelligence of")))Give users respect by default.  A common misconception that powers our
-fear of direct user interaction is the myth that users are
-stupid. They're not writing the software, after all, so they're just
-"clueless users," right? When you finally have an opportunity to
-interact with them, the most important thing to remember is to avoid
-condescension. Being a savvy computer user is __not__ a fair measure
-of general intelligence. A lot of brilliant people out there use
-computers as a tool and nothing more. They're not interested in
-debugging or following scientific methods to diagnose a
-problem. Remember that most of us have no idea how to take apart and
-fix our cars; assuming your users are stupid is akin to an auto
-mechanic thinking __you__ are stupid because you don't know how to
-rebuild a transmission, nor even care how to diagnose a transmission
-problem. The car is a black box—you just want to drive. For most
-people, the computer (and your software) is a black box, too. Users
-don't want to participate in the analysis process; they just want to
-get some work done. It has nothing to do with
-intelligence!
 
 ((("intelligence, respect for users")))((("respect","for intelligence of users")))((("users","respecting intelligence of")))기본적으로 사용자들에게 존중을 보이세요. 직접적인 사용자 상호작용에 대한
 두려움을 부채질하는 일반적인 오해는 사용자들이
@@ -1029,19 +569,6 @@ intelligence!
 ==== Be Patient
 
 ((("patience","when dealing with users", id="ixch06asciidoc13", range="startofrange")))((("users","patience when dealing with", id="ixch06asciidoc14", range="startofrange")))The corollary, then, is to learn great patience. ((("vocabulary, users")))Most users simply don't have the
-vocabulary to express their problems succinctly. It takes years of
-practice to learn to understand what they're saying: just ask anyone
-who has tried to provide computer tech support to his parents over the
-phone (which is probably most of you reading this book!). Half of the
-discussion comprises just trying to agree on the same vocabulary. Many
-people don't know what a web browser is, thinking it's just part of
-their computer. They describe applications as actions, or talk about
-screen icons as mysterious workflow names. The thing is, even the most
-intelligent folks have a knack for creating their own logical universe
-(and vocabulary) that explains how computers behave. They begin to
-diagnose problems in terms of imaginary taxonomies and rules that
-exist only in their minds.
-
 그러므로 결론은, 큰 인내심을 배우라는 것입니다. 대부분의 사용자들은 자신의 문제를 간결하게 표현할 __어휘__가 없습니다.
 그들이 말하는 바를 이해하는 법을 배우는 데는 수년의 연습이 필요합니다: 부모님께 전화로 컴퓨터 기술 지원을 해보려 했던 누구에게나 물어보세요(아마 이 책을 읽는 대부분일 것입니다!).
 대화의 절반은 같은 어휘에 합의하려는 시도입니다. 많은 사람들은 웹 브라우저가 무엇인지 모르고, 그것이 그냥 컴퓨터의 일부라고 생각합니다.
@@ -1051,66 +578,33 @@ exist only in their minds.
 [role="pagebreak-before"]
 [quote]
 ____
-Parent: "I think my computer is slow because the disk is full."
+Parent: "내 컴퓨터가 느린 건 디스크가 가득 차서 그런 것 같아."
 
-You: "How do you know the disk is full? Did you check?"
+You: "디스크가 가득 찼다는 걸 어떻게 아세요? 확인해 보셨어요?"
 
-Parent: "Yeah, well, the screen is totally covered with icons, so
-there's probably no more room for my email to download. Maybe I can
-delete some cookies to make more space, huh? That seemed to work last
-time."
+Parent: "응, 화면이 아이콘으로 꽉 차 있거든. 그러니까 아마 이메일 받을 공간도 없는 거 아닐까? 쿠키 몇 개 지우면 공간이 좀 늘겠지? 지난번에도 그랬던 것 같아."
 
-You: [Facepalm]
+You: [머리를 탁! 치며 절망]
 ____
 
-
-The critical listening skill here is to learn to understand what
-people __mean__, not necessarily to try to interpret what they
-literally __say__. It requires not just some language translation, but
-some emotional intelligence as well. And mind pass:[<span class="keep-together">reading</span>].
-
-여기서 중요한 듣기 기술은 사람들이 __의미하는__ 것을 이해하는 법을 배우는 것이지,
+여기서 중요한 경청 능력은 사람들이 __의미하는__ 것을 이해하는 법을 배우는 것이지,
 그들이 문자 그대로 __말하는__ 것을 해석하려고 하는 것이 아닙니다.
 이는 단순한 언어 번역뿐만 아니라 감정 지능과 마음 pass:[<span class="keep-together">읽기</span>]도 필요합니다.
 
-Fitz has a great story about his grandmother in which she asked him
-(over the phone), "Brian, is that old computer of grandpa's worth
-anything at all?" Fitz said no, that it was just a very old Mac
-Classic without an Internet connection—probably best to safely recycle
-it. Her response: "OK, well, I only turn it on when I need to sharpen
-a pencil."
 
-피츠에게는 할머니에 대한 훌륭한 이야기가 있습니다. 할머니가 그에게
+Fitz에게는 할머니에 대한 훌륭한 이야기가 있습니다. 할머니가 그에게
 (전화로) 물었습니다. "브라이언, 할아버지의 그 오래된 컴퓨터가
-전혀 가치가 있을까?" 피츠는 그냥 인터넷 연결도 없는 아주 오래된 맥 클래식일 뿐이니
+전혀 가치가 있을까?" Fitz는 그냥 인터넷 연결도 없는 아주 오래된 Mac 클래식일 뿐이니
 안전하게 재활용하는 게 최선이라고 말했습니다.
 할머니의 대답: "그래, 음, 난 연필을 깎을 때만 그걸 켜거든."
 
-After a prolonged moment of utter confusion, Fitz decided he needed to
-start questioning her so that he could figure out just what she meant!
-
-완전히 혼란스러운 순간이 길게 지속된 후, 피츠는 그녀가 정확히 무슨 뜻인지
+완전히 혼란스러운 순간이 길게 지속된 후, Fitz는 그녀가 정확히 무슨 뜻인지
 알아내기 위해 질문을 시작해야겠다고 결정했습니다!
 
-It turns out that both the Mac and grandma's electric pencil
-sharpener were plugged into a power strip. Once a week grandma would
-come into the room with her pencils and turn on the power strip. The
-Mac would beep and begin to boot. Grandma would sharpen her pencils
-and then cut the strip's power when she left the room, abruptly
-
-결국 맥과 할머니의 전기 연필깎이가 모두 멀티탭에 꽂혀 있었던 것으로 밝혀졌습니다.
+결국 Mac과 할머니의 전기 연필깎이가 모두 멀티탭에 꽂혀 있었던 것으로 밝혀졌습니다.
 일주일에 한 번 할머니는 연필을 들고 방에 들어와서 멀티탭 전원을 켰습니다.
-맥은 삐 소리를 내며 부팅을 시작했습니다. 할머니는 연필을 깎고
-방을 나갈 때 멀티탭 전원을 꺼서 갑자기
-killing the Mac before it could even finish
-booting.footnote:[In case you're concerned, the Mac
-has since been put out of its misery.] This is a great example of a
-nontechnical person attempting to explain a situation using limited
-vocabulary and whatever model has sprung up around her relationship to
-the computer.
-
-부팅을 끝내기도 전에 맥을 죽인 것입니다.footnote:[혹시 걱정된다면,
-그 맥은 이후 고통에서 벗어났습니다.] 이것은 기술적이지 않은 사람이
+Mac은 삐 소리를 내며 부팅을 시작했습니다. 할머니는 연필을 깎고
+방을 나갈 때 멀티탭 전원을 꺼서 갑자기 부팅을 끝내기도 전에 Mac을 죽인 것입니다.footnote:[혹시 궁금해할지 모르지만, 그 Mac은 이후 고통에서 해방되었습니다.] 이것은 기술적이지 않은 사람이
 제한된 어휘와 컴퓨터와의 관계에서 형성된 어떤 모델을 사용해서
 상황을 설명하려고 시도하는 좋은 예입니다.
 
@@ -1118,23 +612,11 @@ the computer.
 [[image_no_caption-id048]]
 image::images/dbtm_06in12.png[]
 
-((("Google Search")))A lot of people also have magical preconceptions of Google's search
-service. Many people think
-it's just part of their computer. In 2005, we used to get puzzled
-looks from people when we told them we were engineers at Google: "Oh!
-I didn't know anyone worked there?!" On the flip side, a friend of
-Fitz's grandmother once got upset when she heard the entire company
-was going to go on an off-site ski trip. (This was back when the
-company was still small.) "That's terrible! How can they all go
-skiing?" she asked. "Who's going to do all my searches for me?"
-Clearly, Google was being negligent, not leaving enough switchboard
-operators to keep the traffic running.(((range="endofrange", startref="ixch06asciidoc14")))(((range="endofrange", startref="ixch06asciidoc13")))
-
 ((("Google Search")))많은 사람들이 구글의 검색 서비스에 대해 마법 같은 선입견을 갖고 있습니다.
 많은 사람들이 그것이 그냥 자신의 컴퓨터의 일부라고 생각합니다.
 2005년에 우리가 구글에서 엔지니어로 일한다고 말하면 사람들로부터 당황스러운
 표정을 받곤 했습니다: "오! 거기에서 일하는 사람이 있는 줄 몰랐어요?!"
-반대로 피츠의 할머니 친구 중 한 분은 회사 전체가 오프사이트 스키 여행을
+반대로 Fitz의 할머니 친구 중 한 분은 회사 전체가 오프사이트 스키 여행을
 간다는 소식을 듣고 화를 냈습니다. (이는 회사가 아직 작았던 시절입니다.)
 "그거 끔찍해요! 어떻게 다 스키를 타러 갈 수 있어요?"라고 물었습니다.
 "누가 내 검색을 다 해줄 거예요?"
@@ -1143,101 +625,39 @@ operators to keep the traffic running.(((range="endofrange", startref="ixch06asc
 [[create_trust_and_delight]]
 ==== Create Trust and Delight
 
-((("trust","creating and maintaining", id="ixch06asciidoc15", range="startofrange")))((("users","creating and maintaining trust with", id="ixch06asciidoc16", range="startofrange")))There are two more watchwords that should become the cornerstones of
-the way you interact with users: __trust__ and __delight__.
-
-((("trust","creating and maintaining", id="ixch06asciidoc15", range="startofrange")))((("users","creating and maintaining trust with", id="ixch06asciidoc16", range="startofrange")))사용자와 상호작용하는 방식의 초석이 되어야 할 두 가지 더 있습니다:
+((("trust","creating and maintaining", id="ixch06asciidoc15", range="startofrange")))((("users","creating and maintaining trust with", id="ixch06asciidoc16", range="startofrange")))
+사용자와 상호작용하는 방식의 초석이 되어야 할 두 가지 더 있습니다:
 __신뢰__와 __기쁨__입니다.
 
-__Trust__ is a tricky term. We've already talked about trust in the
-context of pass:[<span class="keep-together">HRT—</span>]about whether and how you exhibit trust toward your
-coworkers. In this case we're talking about garnering trust from
-users. When a user trusts your team (or your company) it's mainly an
-emotional state: very few people would ever say, "I trust product X
-because of this long list of facts that prove that my relationship
-with it carries zero risk." They trust you because the cumulative set
-of interactions they've had with you add up to an overall
-__emotionally__ positive state.
-
-__신뢰__는 까다로운 용어입니다. 우리는 이미 HRT 문맥에서—동료에게 신뢰를 보이는지, 또 어떻게 보이는지—신뢰에 대해 이야기했습니다.
+__신뢰__는 까다로운 용어입니다. 우리는 이미 pass:[<span class="keep-together">HRT</span>] 문맥에서 동료에게 신뢰를 보이는지, 또 어떻게 보이는지—신뢰에 대해 이야기했습니다.
 여기서는 사용자로부터 신뢰를 얻는 것에 대해 이야기합니다. 사용자가 당신의 팀(또는 회사)을 신뢰할 때 그것은 주로 감정적 상태입니다.
 "제품 X를 신뢰합니다, 왜냐하면 관계에 위험이 전혀 없음을 증명하는 긴 사실 목록이 있기 때문입니다"라고 말하는 사람은 거의 없습니다.
 그들은 당신과의 상호작용들이 누적되어 전반적으로 __감정적으로__ 긍정적인 상태가 되었기 때문에 당신을 신뢰합니다.
 
-Think about your friends and family for a moment. How many of them
-have an auto mechanic they really trust? These days the answer is
-nearly zero. ((("mailboxing")))Almost nobody trusts auto mechanics, because we've been
-badgered by years of what is called "mailboxing": when you come in for one scheduled service (like an
-oil change), but a bunch of other unexpected maintenance services are
-piled on, much like junk mail stuffed into your mailbox.  Nobody
-believes mechanics anymore because they've been instructed to
-maximize profit at every opportunity. ((("integrity, lapses in")))Remember, __there is no such
-thing as a temporary lapse of integrity__.
 
 친구와 가족을 잠시 떠올려 보세요. 그들 중에 정말 신뢰하는 자동차 정비사가 몇이나 있나요? 요즘 답은 거의 0에 가깝습니다.
-거의 아무도 정비사를 신뢰하지 않습니다. 수년간 "메일박싱"이라 불리는 일을 겪어왔기 때문입니다:
+거의 아무도 정비사를 신뢰하지 않습니다. ((("mailboxing")))수년간 "메일박싱"이라 불리는 일을 겪어왔기 때문입니다:
 정기 점검(예: 오일 교환)으로 갔다가, 받은편지함에 스팸우편이 쌓이듯 예기치 않은 유지보수 항목들이 한꺼번에 추가되는 것입니다.
-정비사들은 모든 기회에 이익을 극대화하라는 지시를 받았기 때문에, 이제 아무도 그들을 믿지 않습니다.
+정비사들은 모든 기회에 이익을 극대화하라는 지시를 받았기 때문에, 이제 아무도 그들을 믿지 않습니다.((("integrity, lapses in")))
 기억하세요, __진정성에는 일시적인 둔탁함 같은 것은 없습니다__.
-
-This is a great example of how the ((("long-term relationships")))long-term relationship can be
-easily sacrificed for short-term gain. Screw your customers just a teeny bit every now
-and then, and eventually they view the relationship through a veil of
-aggregated disdain.
 
 이것은 ((("long-term relationships")))장기적 관계가 단기적 이익을 위해 어떻게
 쉽게 희생될 수 있는지를 보여주는 좋은 예입니다. 고객들을 이따금씩 아주 조금씩 속이면,
-결국 그들은 누적된 경멸의 베일을 통해 관계를 바라보게 됩니다. On the other hand, every time your team does
-something helpful or useful, or is responsive, a bit of trust is added
-to an imaginary bank account in their minds. When a baker adds a
-surprise 13^th^ donut to your dozen ("lagniappe," as they call it in
-New Orleans), this brings a smile to your face. Over years of dealings
-the trust account grows and grows until the mention of your product
-brings a warm, fuzzy feeling.
+결국 그들은 누적된 경멸의 베일을 통해 관계를 바라보게 됩니다.
 
 계속되면서, 결국 그들은 누적된 경멸의 베일을 통해 관계를 바라보게 됩니다.
-반면, 당신의 팀이 도움이 되거나 유용한 일을 하거나, 반응을 보일 때마다
-그들의 마음속 가상의 은행 계좌에 약간의 신뢰가 추가됩니다.
+반대로, 당신의 팀이 도움이 되거나 유용한 일을 하거나, 빠르게 반응할 때마다
+그들의 마음속 가상의 은행 계좌에는 신뢰가 조금씩 쌓입니다.
 제빵사가 12개 도넛에 깜짝 13번째 도넛을 추가할 때("라니아페"라고 뉴올리언스에서 부르는),
 이것은 당신의 얼굴에 미소를 가져다 줍니다. 수년간의 거래를 통해
 신뢰 계좌는 계속 증가하여 당신의 제품에 대한 언급만으로도 따뜻하고
 포근한 느낌을 가져다 주게 됩니다.
 
-Trust can be dangerous, however, because it can be blown all at
-once—just like a bank account can be drained with a single stupid,
-impulsive purchase. If your company does something that shows a total
-lack of respect for users (even if by accident), the trust bank is
-emptied overnight.
 
 하지만 신뢰는 위험할 수 있습니다. 한 번의 어리석고 충동적인 구매로
 은행 계좌가 고갈될 수 있는 것처럼 한번에 날아가 버릴 수 있기 때문입니다.
 회사가 사용자에 대한 완전한 존중 부족을 보여주는 일을 한다면(실수라 하더라도),
 신뢰 은행은 하룻밤에 비워집니다.
-
-((("Netflix")))A good example of this is the way Netflix temporarily messed
-up its relationship with users in late 2011. Netflix is both a service
-for streaming movies over the Internet and also a way for renting DVDs
-by postal mail. Over the period of a decade it became increasingly
-popular: it was easy, convenient, and novel. The price was cheap. By
-early 2011 it had more than 23 million subscribers.
-
-At some point the business folks realized their DVD and streaming
-services were really separate businesses with separate profit models,
-management needs, and so on. So they decided to start charging for
-these businesses separately, raising their monthly fees 60% for some
-users. Customers were furious. Then Netflix announced that it
-would be splitting into two separate companies for greater clarity and
-convenience; to users this simply read as "now you have the annoyance
-of two bills to pay instead of one." Realizing they had a PR disaster
-on their hands, they then __un__announced the splitting of the
-company, but by that time it was too late. The damage had been
-done. Despite a history of continuous growth they lost 800,000
-subscribers in the span of three months. They managed to blow most of
-a decade's worth of trust with just a couple of small moves that
-seemed like simple and necessary business decisions, but had little
-regard for existing relationships.  (Luckily, they managed to totally
-rebuild their bank of trust over the next few years by paying careful
-attention to service and content;  they came back even stronger!)
 
 ((("Netflix")))이것의 좋은 예는 넷플릭스가 2011년 말에 사용자와의 관계를
 일시적으로 망친 방식입니다. 넷플릭스는 인터넷을 통한 영화 스트리밍 서비스이면서
@@ -1259,18 +679,9 @@ attention to service and content;  they came back even stronger!)
 날려버린 것입니다. (다행히도, 그들은 서비스와 콘텐츠에 세심한 주의를 기울여
 다음 몇 년에 걸쳐 신뢰의 은행을 완전히 재건했습니다. 더 강하게 돌아왔죠!)
 
-Trust is your __most sacred resource__. Watch it carefully. Measure
-the size of the bank account. Before every move, think about how it
-will affect the bank account. Focus on your long-term image, not
-short-term conveniences.(((range="endofrange", startref="ixch06asciidoc16")))(((range="endofrange", startref="ixch06asciidoc15")))
-
 신뢰는 당신의 __가장 신성한 자원__입니다. 조심스럽게 지켜보세요.
 은행 계좌의 크기를 측정하세요. 모든 행동 전에 그것이 은행 계좌에
 어떤 영향을 줄지 생각해보세요. 단기적 편의가 아닌 장기적 이미지에 집중하세요.(((range="endofrange", startref="ixch06asciidoc16")))(((range="endofrange", startref="ixch06asciidoc15")))
-
-((("delight")))((("users","delighting")))Like trust, __delight__ is another feeling that can vastly improve
-your relationship with users. It's a way of increasing that warm,
-fuzzy feeling, and making your team seem more human.
 
 ((("delight")))((("users","delighting")))신뢰와 마찬가지로 __기쁨__은 사용자와의 관계를 크게
 개선할 수 있는 또 다른 감정입니다. 그 따뜻하고 포근한 느낌을 증가시키고
@@ -1280,26 +691,11 @@ fuzzy feeling, and making your team seem more human.
 [[image_no_caption-id049]]
 image::images/dbtm_06in13.png[]
 
-You have to start by not taking yourself too seriously. Google has a
-tradition of making outlandish product announcements on April Fools
-Day; for example, one year, every video on the front page of YouTube
-caused a "rickroll." Or take a look at
-pass:[<a class="orm:hideurl" href="http://www.woot.com"><em class="hyperlink">www.woot.com</em></a>]. It's a daily deal site,
-but the advertising copy is full of self-deprecating and quirky humor.
-
 자신을 너무 진지하게 받아들이지 않는 것부터 시작해야 합니다. 구글은
 만우절에 터무니없는 제품 발표를 하는 전통이 있습니다. 예를 들어 어느 해에는
 유튜브 첫 페이지의 모든 비디오가 "릭롤"을 유발했습니다. 또는
 pass:[<a class="orm:hideurl" href="http://www.woot.com"><em class="hyperlink">www.woot.com</em></a>]을 보세요. 일일 특가 사이트인데,
 광고 카피가 자조적이고 기발한 유머로 가득 차 있습니다.
-
-Try to surprise your users with amazing, wonderful bits of
-happiness. (That's the definition of delight,
-isn't it?) ((("Google, celebration of holidays by")))Despite Google being a powerhouse of hard computer science,
-nothing excites its users more than the occasional "doodle" that
-illustrates a holiday or anniversary. It's just a tiny bit of artwork
-injected into people's day and yet it inspires endless letters of
-feedback and office watercooler discussions.
 
 놀랍고 멋진 행복의 순간으로 사용자를 놀라게 하려고 노력하세요.
 (그것이 기쁨의 정의 아닌가요?)
@@ -1308,67 +704,32 @@ feedback and office watercooler discussions.
 가끔씩 나오는 "두들"입니다. 사람들의 하루에 주입되는 아주 작은 작품일 뿐인데도
 끝없는 피드백 편지와 사무실 담소거리를 만들어냅니다.
 
-Of course, a bit of horror can inspire users as well, as long as it's
-done humorously. A company trying to start a social network once
-wanted to encourage new users to upload pictures of themselves;
-eventually the company decided to start showing a picture of snarling
-Dick Cheney for every user who hadn't done so—and
-the photo uploads suddenly started pouring in!
-
 물론 유머스럽게 처리한다면 약간의 공포도 사용자에게 영감을 줄 수 있습니다.
 소셜 네트워크를 시작하려던 한 회사가 새 사용자들이 자신의 사진을 올리도록 격려하고 싶어했는데,
 결국 그 회사는 사진을 올리지 않은 모든 사용자에게 으르렁거리는 딕 체니의 사진을
 보여주기로 했습니다—그러자
 사진 업로드가 갑자기 쏟아져 들어오기 시작했습니다!
 
-Adding bits of delight and humor—tactfully—goes a long way toward
-showing that you're actually paying attention to users and care about
-your relationship with them.(((range="endofrange", startref="ixch06asciidoc12")))(((range="endofrange", startref="ixch06asciidoc11")))
-
 기쁨과 유머의 요소를—적절히—추가하는 것은 실제로 사용자에게 관심을 기울이고
 그들과의 관계를 소중히 여긴다는 것을 보여주는 데 큰 도움이 됩니다.(((range="endofrange", startref="ixch06asciidoc12")))(((range="endofrange", startref="ixch06asciidoc11")))
 
 [[remember_the_users]]
-=== Remember the Users
+=== 사용자를 잊지 말라
 
 
-We've covered a slew of ideas in this chapter, but in the end, it all
-boils down to three simple concepts that you can stick in your pocket:
 
 이 장에서 많은 아이디어를 다뤘지만, 결국 주머니에 넣고 다닐 수 있는 세 가지 간단한 개념으로 요약됩니다:
 
-Marketing:: Be ((("marketing")))aware of how people perceive your software; it
-    determines whether they even try it out.
 
 마케팅:: 사람들이 당신의 소프트웨어를 어떻게 ((("marketing")))인식하는지 알아두세요;
     그것이 시도해볼지를 결정합니다.
 
-
-Product design:: If ((("design")))your software isn't easy to try, fast, friendly, and
-    accessible, users will walk away.
-
 제품 설계:: ((("design")))소프트웨어가 시도하기 쉽지 않고, 빠르지 않고, 친근하지 않고,
     접근 가능하지 않다면 사용자는 떠날 것입니다.
-
-
-Customer service:: Proactive ((("customer service")))engagement with long-term users affects
-    your software's evolution and user
-    retention.
 
 고객 서비스:: 장기 사용자와의 적극적인 ((("customer service")))참여는
     소프트웨어의 진화와 사용자
     유지에 영향을 줍니다.
-
-
-Our day jobs as programmers are so full of distractions—code reviews,
-design reviews, fighting with our tools, putting out
-production-related fires, triaging bugs—that it's easy to forget the
-__reason__ we're writing software at all. It's not for you, or your
-team, or your company. It's to make life easier for users. It's
-critical to pay attention to what they're thinking and saying about
-your product and how they're experiencing it over the long run. Your
-users are the lifeblood of your software's success. You reap what you
-sow.(((range="endofrange", startref="ixch06asciidoc0")))
 
 프로그래머로서 우리의 일상은 산만함으로 가득합니다—코드 리뷰,
 설계 리뷰, 도구와의 싸움, 운영 관련 불끄기, 버그 분류—그래서 우리가 소프트웨어를 만드는
