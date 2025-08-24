@@ -139,7 +139,7 @@ iPad나 Nest 온도조절기를 개봉해본 적이 있다면 우리가 무슨 �
 
 [role="pagebreak-before"]
 [[how_usable_is_your_software]]
-=== How Usable Is Your Software?
+=== 당신의 소프트웨어는 얼마나 쓸만한가?
 
 
 ((("software","usability of", id="ixch06asciidoc3", range="startofrange")))((("usability", id="ixch06asciidoc4", range="startofrange")))((("users","and usability", id="ixch06asciidoc5", range="startofrange")))
@@ -227,7 +227,7 @@ TVs"
 image::images/dbtm_06in05.png[]
 
 [[consider_barrier_to_entry]]
-==== Consider Barrier to Entry
+==== 진입 장벽을 고려하라
 
 ((("barriers to entry","for first-time users")))((("design","and first-time users")))((("first-time users")))((("software","barriers to entry for first-time users")))((("software","first-time users of")))
 이제 소프트웨어의 첫 사용자들을 생각해 보세요. 처음 시작하기가 얼마나 어려운가요?
@@ -561,7 +561,7 @@ image::images/dbtm_06in11.png[]
 지능과는 아무 관련이 없습니다!
 
 [[be_patient]]
-==== Be Patient
+==== 인내를 가져라
 
 ((("patience","when dealing with users", id="ixch06asciidoc13", range="startofrange")))((("users","patience when dealing with", id="ixch06asciidoc14", range="startofrange")))The corollary, then, is to learn great patience. ((("vocabulary, users")))Most users simply don't have the
 그러므로 결론은, 큰 인내심을 배우라는 것입니다. 대부분의 사용자들은 자신의 문제를 간결하게 표현할 __어휘__가 없습니다.
@@ -618,7 +618,7 @@ image::images/dbtm_06in12.png[]
 분명히 구글이 태만해서 트래픽을 유지할 교환원을 충분히 남겨두지 않은 것입니다.(((range="endofrange", startref="ixch06asciidoc14")))(((range="endofrange", startref="ixch06asciidoc13")))
 
 [[create_trust_and_delight]]
-==== Create Trust and Delight
+====    
 
 ((("trust","creating and maintaining", id="ixch06asciidoc15", range="startofrange")))((("users","creating and maintaining trust with", id="ixch06asciidoc16", range="startofrange")))
 사용자와 상호작용하는 방식의 초석이 되어야 할 두 가지 더 있습니다:
