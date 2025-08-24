@@ -618,7 +618,7 @@ image::images/dbtm_06in12.png[]
 분명히 구글이 태만해서 트래픽을 유지할 교환원을 충분히 남겨두지 않은 것입니다.(((range="endofrange", startref="ixch06asciidoc14")))(((range="endofrange", startref="ixch06asciidoc13")))
 
 [[create_trust_and_delight]]
-====    
+==== 신뢰와 행복을 만들어라
 
 ((("trust","creating and maintaining", id="ixch06asciidoc15", range="startofrange")))((("users","creating and maintaining trust with", id="ixch06asciidoc16", range="startofrange")))
 사용자와 상호작용하는 방식의 초석이 되어야 할 두 가지 더 있습니다:
