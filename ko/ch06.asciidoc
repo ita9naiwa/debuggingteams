@@ -182,11 +182,6 @@ image::images/dbtm_06in02.png[]
 [[image_no_caption-id039]]
 image::images/dbtm_06in03.png[]
 
-If you were to draw a vertical line showing __which set of users__ is
-best suited to your product, where would you put it? A vertical line
-through the center of the bell curve means that about half of all
-computer users would be happy using your product (i.e., those to the
-right of the line).
 
 만약 제품에 가장 잘 맞는 __사용자 집단__을 표시하는 수직선을 그린다면, 그 선은 어디에 두시겠습니까?
 종 모양 곡선의 한가운데를 지나는 선은 전체 컴퓨터 사용자의 절반가량이 당신의 제품을 기꺼이 사용한다는 의미입니다. (즉, 선의 오른쪽에 있는 사용자들이죠.)
