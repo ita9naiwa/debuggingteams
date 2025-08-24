@@ -11,15 +11,15 @@ Commons BY-NC-SA 3.0 License</a>]
 
 
 image::images/crew.jpeg[]
-Photo by pass:[<a class="orm:hideurl" href="https://unsplash.com/@jannerboy62?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nick Fewings</a>]
+pass:[<a class="orm:hideurl" href="https://unsplash.com/@jannerboy62?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nick Fewings</a>]의 사진
 
 
-This book is available in multiple forms at pass:[<a
+이 책은 pass:[<a
 class="orm:hideurl"
-href="https://debuggingteams.com/">debuggingteams.com</a>].
+href="https://debuggingteams.com/">debuggingteams.com</a>]에서 여러 형식으로 읽을 수 있습니다.
 
-It's also available for purchase in pass:[<a class="orm:hideurl"
-href="https://www.oreilly.com/library/view/debugging-teams/9781491932049/">physical hardcopy from O'Reilly Media</a>] in a variety of international translations.
+이 책은 다양한 언어로 번역된 pass:[<a class="orm:hideurl"
+href="https://www.oreilly.com/library/view/debugging-teams/9781491932049/">O'Reilly Media의 실물 책</a>] 형태로 구매할 수 있습니다.
 
 // Front matter (KO)
 include::dedication.asciidoc[]
