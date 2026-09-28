@@ -1,0 +1,41 @@
+<style>
+#toc a.current-section {
+  background: #e8eef7;
+  border-left: 3px solid #1d4f91;
+  color: #163d70;
+  font-weight: 600;
+  margin-left: -0.75em;
+  padding-left: calc(0.75em - 3px);
+}
+</style>
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const links = new Map(
+    [...document.querySelectorAll('#toc a[href^="#"]')]
+      .map(link => [decodeURIComponent(link.hash.slice(1)), link])
+  );
+  const headings = [...document.querySelectorAll('h2[id], h3[id], h4[id]')]
+    .filter(heading => links.has(heading.id));
+
+  const select = heading => {
+    document.querySelector('#toc a.current-section')?.classList.remove('current-section');
+    const link = links.get(heading.id);
+    link.classList.add('current-section');
+    link.scrollIntoView({ block: 'nearest' });
+  };
+
+  let scheduled = false;
+  const sync = () => {
+    scheduled = false;
+    const current = headings.filter(heading => heading.getBoundingClientRect().top <= 140).at(-1);
+    if (current) select(current);
+  };
+
+  addEventListener('scroll', () => {
+    if (!scheduled) requestAnimationFrame(sync);
+    scheduled = true;
+  }, { passive: true });
+  addEventListener('hashchange', () => requestAnimationFrame(sync));
+  requestAnimationFrame(sync);
+});
+</script>

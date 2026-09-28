@@ -434,6 +434,47 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 #footer-text{color:rgba(0,0,0,.6);font-size:.9em}}
 @media amzn-kf8{#header,#content,#footnotes,#footer{padding:0}}
 </style>
+<style>
+#toc a.current-section {
+  background: #e8eef7;
+  border-left: 3px solid #1d4f91;
+  color: #163d70;
+  font-weight: 600;
+  margin-left: -0.75em;
+  padding-left: calc(0.75em - 3px);
+}
+</style>
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const links = new Map(
+    [...document.querySelectorAll('#toc a[href^="#"]')]
+      .map(link => [decodeURIComponent(link.hash.slice(1)), link])
+  );
+  const headings = [...document.querySelectorAll('h2[id], h3[id], h4[id]')]
+    .filter(heading => links.has(heading.id));
+
+  const select = heading => {
+    document.querySelector('#toc a.current-section')?.classList.remove('current-section');
+    const link = links.get(heading.id);
+    link.classList.add('current-section');
+    link.scrollIntoView({ block: 'nearest' });
+  };
+
+  let scheduled = false;
+  const sync = () => {
+    scheduled = false;
+    const current = headings.filter(heading => heading.getBoundingClientRect().top <= 140).at(-1);
+    if (current) select(current);
+  };
+
+  addEventListener('scroll', () => {
+    if (!scheduled) requestAnimationFrame(sync);
+    scheduled = true;
+  }, { passive: true });
+  addEventListener('hashchange', () => requestAnimationFrame(sync));
+  requestAnimationFrame(sync);
+});
+</script>
 </head>
 <body class="book toc2 toc-left">
 <div id="header">
@@ -4851,7 +4892,7 @@ HRT는 또한 여러분이 팀 밖의 임시 협력자들과 상호작용하고 
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2026-09-28 10:46:41 +0900
+Last updated 2026-09-28 10:50:18 +0900
 </div>
 </div>
 </body>
