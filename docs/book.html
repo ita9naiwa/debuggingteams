@@ -1,11 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ko">
 <head>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="generator" content="Asciidoctor 2.0.26">
-<title>헌사</title>
+<meta name="author" content="Brian W. Fitzpatrick and Ben Collins-Sussman">
+<title>디버깅 팀: 협업을 통한 생산성 향상</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700">
 <style>
 /*! Asciidoctor default stylesheet | MIT License | https://asciidoctor.org */
@@ -434,18 +435,232 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 @media amzn-kf8{#header,#content,#footnotes,#footer{padding:0}}
 </style>
 </head>
-<body class="article">
+<body class="book toc2 toc-left">
 <div id="header">
+<h1>디버깅 팀: 협업을 통한 생산성 향상</h1>
+<div class="details">
+<span id="author" class="author">Brian W. Fitzpatrick and Ben Collins-Sussman</span><br>
+</div>
+<div id="toc" class="toc2">
+<div id="toctitle">목차</div>
+<ul class="sectlevel1">
+<li><a href="#dedication">헌사</a></li>
+<li><a href="#mission_statement">사명 선언문</a></li>
+<li><a href="#acknowledgments">감사의 말</a>
+<ul class="sectlevel2">
+<li><a href="#from_fitz">Fitz로부터</a></li>
+<li><a href="#from_ben">Ben으로부터</a></li>
+<li><a href="#about_the_authors">저자 소개</a></li>
+</ul>
+</li>
+<li><a href="#_2판_서문">2판 서문</a></li>
+<li><a href="#_역자_서문">역자 서문</a></li>
+<li><a href="#introduction">들어가며</a>
+<ul class="sectlevel2">
+<li><a href="#who_is_this_book_for">누구를 위한 책인가?</a>
+<ul class="sectlevel3">
+<li><a href="#warning_this_is_not_a_technical_manual">주의: 이 책은 기술 매뉴얼이 아닙니다.</a></li>
+<li><a href="#the_contents_of_this_book_are_not_taught">이 책의 내용은 학교에서 가르치지 않습니다.</a></li>
+</ul>
+</li>
+<li><a href="#the_pitch">핵심 요약</a></li>
+</ul>
+</li>
+<li><a href="#the_myth_of_the_genius_programmer">1장. 천재 프로그래머의 신화</a>
+<ul class="sectlevel2">
+<li><a href="#help_me_hide_my_code">코드 숨기는 걸 도와줘</a></li>
+<li><a href="#the_genius_myth">천재 신화</a></li>
+<li><a href="#hiding_is_considered_harmful">숨기는 것은 해롭다</a></li>
+<li><a href="#its_all_about_the_team">모든 건 다 팀</a></li>
+<li><a href="#the_three_pillars">세 가지 축</a></li>
+<li><a href="#hrt_in_practice">실전 HRT</a>
+<ul class="sectlevel3">
+<li><a href="#lose_the_ego">자아를 놓아라</a></li>
+<li><a href="#learn_to_both_deal_out_and_handle_critic">비판을 제시하고 수용하는 방법을 배우기</a></li>
+<li><a href="#fail_fast_learn_iterate">빠르게 실패하고 반복하기</a></li>
+<li><a href="#leave_time_for_learning">배우기 위한 시간을 마련하기</a></li>
+<li><a href="#learn_patience">인내심을 배우기</a></li>
+<li><a href="#be_open_to_influence">다른 사람에게 영향받는 것에 열려있기</a></li>
+</ul>
+</li>
+<li><a href="#next_steps">다음 단계</a></li>
+</ul>
+</li>
+<li><a href="#building_an_awesome_team_culture">2장. 훌륭한 팀 문화 만들기</a>
+<ul class="sectlevel2">
+<li><a href="#what_is_culture">문화란 무엇인가?</a></li>
+<li><a href="#why_should_you_care">그게 왜 중요한가?</a></li>
+<li><a href="#culture_and_people">문화와 사람</a></li>
+<li><a href="#communication_patterns_of_successful_cul">성공적인 문화의 커뮤니케이션 패턴</a></li>
+<li><a href="#high-level_synchronization">상위 수준 동기화</a>
+<ul class="sectlevel3">
+<li><a href="#the_mission_statementmdashno_really">사명 선언문—정말로</a></li>
+<li><a href="#efficient_meetings">효율적인 회의</a></li>
+<li><a href="#working_in_a_geographically_challenged_t">"지리적으로 분산된" 팀에서 일하기</a></li>
+<li><a href="#design_docs">디자인 문서</a></li>
+</ul>
+</li>
+<li><a href="#day-to-day_discussions">일상적인 논의</a>
+<ul class="sectlevel3">
+<li><a href="#mailing_lists">메일링 리스트들</a></li>
+<li><a href="#online_chat">온라인 채팅</a></li>
+</ul>
+</li>
+<li><a href="#using_an_issue_tracker">이슈 트래커 사용하기</a></li>
+<li><a href="#communication_as_part_of_engineering">엔지니어링의 일부로서의 커뮤니케이션</a>
+<ul class="sectlevel3">
+<li><a href="#code_comments">코드 주석</a></li>
+<li><a href="#putting_your_name_in_source_code_files_a">작업에 이름 남기기</a></li>
+<li><a href="#require_code_reviews_for_every_commit">모든 커밋에 코드 리뷰 적용하기</a></li>
+<li><a href="#have_real_test_and_release_processes">실질적인 테스트 및 릴리스 프로세스 구축하기</a></li>
+</ul>
+</li>
+<li><a href="#it_really_is_about_the_code_after_all">결국 중요한 것은 제품입니다</a></li>
+</ul>
+</li>
+<li><a href="#every_boat_needs_a_captain">3장. 모든 배에는 선장이 필요하다</a>
+<ul class="sectlevel2">
+<li><a href="#nature_abhors_a_vacuum">자연은 공허를 싫어한다</a></li>
+<li><a href="#deprecated_manager">관리자는 네 글자 욕설</a>
+<ul class="sectlevel3">
+<li><a href="#leader_is_the_new_manager">“리더”는 새로운 “관리자”</a></li>
+<li><a href="#the_only_thing_to_fear_is_hellip_well_ev">두려워해야 할 유일한 것은…음, 모든 것</a></li>
+</ul>
+</li>
+<li><a href="#the_servant_leader">서번트 리더</a></li>
+<li><a href="#antipatterns">안티패턴</a>
+<ul class="sectlevel3">
+<li><a href="#antipattern_hire_pushovers">안티패턴: 호구 채용하기</a></li>
+<li><a href="#antipattern_ignore_low_performers">안티패턴: 저성과자 무시하기</a></li>
+<li><a href="#antipattern_ignore_human_issues">안티패턴: 인간 문제 무시하기</a></li>
+<li><a href="#antipattern_be_everyones_friend">안티패턴: 모두의 친구가 돼라</a></li>
+<li><a href="#antipattern_compromise_the_hiring_bar">안티패턴: 채용 기준 타협하기</a></li>
+<li><a href="#antipattern_treat_your_team_like_childre">안티패턴: 팀을 아이들처럼 대하라</a></li>
+</ul>
+</li>
+<li><a href="#leadership_patterns">리더십 패턴</a>
+<ul class="sectlevel3">
+<li><a href="#lose_the_ego-id001">자아를 내려놓기</a></li>
+<li><a href="#be_a_zen_master">달인이 돼라</a></li>
+<li><a href="#be_a_catalyst">촉매가 돼라</a></li>
+<li><a href="#failure_is_an_option">실패는 선택지</a></li>
+<li><a href="#be_a_teacher_and_a_mentor">선생님과 멘토가 돼라</a></li>
+<li><a href="#set_clear_goals">명확한 목표를 세워라</a></li>
+<li><a href="#be_honest">진실되라</a></li>
+<li><a href="#track_happiness">행복을 추적하라</a></li>
+<li><a href="#other_tips_and_tricks">그 밖의 팁과 요령</a></li>
+</ul>
+</li>
+<li><a href="#people_are_like_plants">사람들은 식물같다</a></li>
+<li><a href="#intrinsic_versus_extrinsic_motivation">내재적 vs 외재적 동기</a></li>
+<li><a href="#final_thoughts">마지막 생각들</a></li>
+</ul>
+</li>
+<li><a href="#dealing_with_poisonous_people">4장. 독이 되는 사람 다루기</a>
+<ul class="sectlevel2">
+<li><a href="#defining_poisonous">‘독이 되는 사람’의 정의</a></li>
+<li><a href="#fortifying_your_team">팀을 더욱 견고하게 만들기</a></li>
+<li><a href="#identifying_the_threat">위협 식별하기</a>
+<ul class="sectlevel3">
+<li><a href="#not_respecting_other_peoples_time">타인의 시간을 배려하지 않는 태도</a></li>
+<li><a href="#ego">자아</a></li>
+<li><a href="#Entitlement">특권 의식</a></li>
+<li><a href="#immature_or_confusing_communication">미숙하거나 혼란스러운 커뮤니케이션</a></li>
+<li><a href="#paranoia">피해 의식</a></li>
+<li><a href="#perfectionism">완벽주의</a></li>
+</ul>
+</li>
+<li><a href="#repelling_the_poison">해독시키기</a>
+<ul class="sectlevel3">
+<li><a href="#redirect_the_energy_of_perfectionists">완벽주의자의 에너지를 전환하기</a></li>
+<li><a href="#dont_feed_the_energy_creature">에너지 괴물을 키우지 마라</a></li>
+<li><a href="#dont_get_overly_emotional">과도하게 감정적이지 마라</a></li>
+<li><a href="#look_for_facts_in_the_bile">쏟아내는 독설 속에서도 사실을 찾아라</a></li>
+<li><a href="#repel_trolls_with_niceness">상냥함으로 트롤을 물리쳐라</a></li>
+<li><a href="#know_when_to_give_up">포기할 때를 알아라</a></li>
+<li><a href="#focus_on_the_long_term">장기적인 것에 집중하라</a></li>
+</ul>
+</li>
+<li><a href="#a_final_thought">마지막으로 드는 생각</a></li>
+</ul>
+</li>
+<li><a href="#the_art_of_organizational_manipulation">5장. 조직적 조율의 기술</a>
+<ul class="sectlevel2">
+<li><a href="#the_good_the_bad_and_the_strategies">좋은 것, 나쁜 것, 그리고 전략</a></li>
+<li><a href="#the_ideal_how_a_team_ought_to_function_w">당연히 그래야 하는 회사</a>
+<ul class="sectlevel3">
+<li><a href="#your_life_under_an_ideal_manager">이상적인 직장인 경험(Employee Experience)</a></li>
+</ul>
+</li>
+<li><a href="#the_reality_when_your_environment_is_an_">보통 회사는</a>
+<ul class="sectlevel3">
+<li><a href="#your_life_under_a_bad_manager">나쁜 관리자</a></li>
+<li><a href="#the_office_politician">오피스 정치꾼</a></li>
+<li><a href="#the_bad_organization">나쁜 조직</a></li>
+</ul>
+</li>
+<li><a href="#manipulating_your_organization">조직을 이용하기</a>
+<ul class="sectlevel3">
+<li><a href="#its_easier_to_ask_for_forgiveness_than_p">"용서를 구하는 게 허가를 구하기보다 쉽다"<sup class="footnote">[1]</sup></a></li>
+<li><a href="#if_you_cant_take_the_path_make_the_path">길이 없다면 길을 만들어라</a></li>
+<li><a href="#learn_to_manage_upward">상향 관리를 배워라</a></li>
+<li><a href="#luck_and_the_favor_economy">운과 호의 경제</a></li>
+<li><a href="#your_political_bank_account">정치적 은행 계좌</a></li>
+<li><a href="#get_promoted_to_a_position_of_safety">안전한 위치로 승진하기</a></li>
+<li><a href="#seek_powerful_friends">강력한 친구들을 찾기</a></li>
+<li><a href="#how_to_ask_a_busy_executive_for_anything">바쁜 임원에게 무언가를 요청하는 방법…이메일을 통해</a></li>
+</ul>
+</li>
+<li><a href="#plan_b_get_out">플랜 B: 나가기</a></li>
+<li><a href="#all_is_not_lost">모든 것이 끝난 건 아니다</a></li>
+</ul>
+</li>
+<li><a href="#usersare_people_too">6장. 사용자도 사람이다</a>
+<ul class="sectlevel2">
+<li><a href="#managing_public_perception">대중의 인식 관리</a>
+<ul class="sectlevel3">
+<li><a href="#pay_attention_to_first_impressions">첫인상에 신경 쓰라</a></li>
+<li><a href="#underpromise_and_overdeliver">적게 약속하고, 더 많이 제공하라</a></li>
+<li><a href="#work_with_industry_analysts_respectfully">업계 애널리스트와 존중하는 태도로 협력하라</a></li>
+</ul>
+</li>
+<li><a href="#how_usable_is_your_software">당신의 소프트웨어는 얼마나 쓸만한가?</a>
+<ul class="sectlevel3">
+<li><a href="#choose_your_audience">누구를 상대로 할지 정하라</a></li>
+<li><a href="#consider_barrier_to_entry">진입 장벽을 고려하라</a></li>
+<li><a href="#measure_usage_not_users">사용자 수가 아니라 사용 행태를 측정하라</a></li>
+</ul>
+</li>
+<li><a href="#design_matters">디자인은 중요하다</a>
+<ul class="sectlevel3">
+<li><a href="#put_the_user_first">사용자를 최우선으로 하라</a></li>
+<li><a href="#speed_matters">속도는 중요하다</a></li>
+<li><a href="#dont_try_to_be_all_things">모든 것을 다 하려 들지 마라</a></li>
+<li><a href="#hide_complexity">복잡함을 숨겨라</a></li>
+</ul>
+</li>
+<li><a href="#managing_your_relationship_with_users">사용자와의 관계를 관리하라</a>
+<ul class="sectlevel3">
+<li><a href="#dont_be_condescending">사용자의 지성을 존중하라</a></li>
+<li><a href="#be_patient">인내를 가져라</a></li>
+<li><a href="#create_trust_and_delight">신뢰와 행복을 만들어라</a></li>
+</ul>
+</li>
+<li><a href="#remember_the_users">사용자를 잊지 말라</a></li>
+</ul>
+</li>
+<li><a href="#epilogue">Appendix A: 맺음말</a>
+<ul class="sectlevel2">
+<li><a href="#a_final_thought-id001">마지막 생각</a></li>
+</ul>
+</li>
+<li><a href="#further_reading">Appendix B: 더 읽을거리</a></li>
+</ul>
+</div>
 </div>
 <div id="content">
-<div class="paragraph">
-<p>:imagesdir:.
-= 디버깅 팀: 협업을 통한 생산성 향상
-Brian W. Fitzpatrick and Ben Collins-Sussman
-:doctype: book
-:front-cover-image: image::./images/crew.jpeg[]
-:toc2: 1</p>
-</div>
+<div id="preamble">
+<div class="sectionbody">
 <div class="paragraph">
 <p>&#169; 2015. 이 책은 <a class="orm:hideurl"
 href="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">크리에이티브 커먼즈 저작자표시-비영리-동일조건변경허락 3.0 미국 라이선스</a>에 따라 이용할 수 있습니다.</p>
@@ -466,6 +681,8 @@ href="https://debuggingteams.com/">debuggingteams.com</a>에서 여러 형식으
 <div class="paragraph">
 <p>또한 <a class="orm:hideurl"
 href="https://www.oreilly.com/library/view/debugging-teams/9781491932049/">오라일리 미디어의 종이책</a>과 여러 언어의 번역판으로도 출간되었습니다.</p>
+</div>
+</div>
 </div>
 <div class="sect1">
 <h2 id="dedication">헌사</h2>
@@ -608,11 +825,15 @@ href="https://www.oreilly.com/library/view/debugging-teams/9781491932049/">오�
 <p>번역자 3 손예지 (<a href="mailto:handyejee14@gmail.com">handyejee14@gmail.com</a>)</p>
 </li>
 <li>
-<p>번역자 4 나윤상 (<a href="mailto:nayounsang722@gmail.com">nayounsang722@gmail.com</a>)
-== 들어가며</p>
+<p>번역자 4 나윤상 (<a href="mailto:nayounsang722@gmail.com">nayounsang722@gmail.com</a>)</p>
 </li>
 </ul>
 </div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="introduction">들어가며</h2>
+<div class="sectionbody">
 <div class="quoteblock">
 <blockquote>
 <div class="paragraph">
@@ -732,7 +953,7 @@ href="https://www.oreilly.com/library/view/debugging-teams/9781491932049/">오�
 <h4 id="the_contents_of_this_book_are_not_taught">이 책의 내용은 학교에서 가르치지 않습니다.</h4>
 <div class="paragraph">
 <p>우리가 아는 대부분의 소프트웨어 엔지니어는 컴퓨터 과학과 소프트웨어 엔지니어링을 배우는 데 4년에서 10년까지 시간을 보냈습니다.
-그런데 정작 팀이나 회사에서 어떻게 소통하고 협업하는지 실제로 가르치는 커리큘럼<sup class="footnote">[<a id="_footnoteref_1" class="footnote" href="#_footnotedef_1" title="View footnote.">1</a>]</sup>은 거의 없습니다.
+그런데 정작 팀이나 회사에서 어떻게 소통하고 협업하는지 실제로 가르치는 커리큘럼<sup class="footnote">[<a id="_footnoteref_2" class="footnote" href="#_footnotedef_2" title="View footnote.">2</a>]</sup>은 거의 없습니다.
 물론 대부분 학생은 학력 과정의 어느 시점엔가 팀 프로젝트를 수행해야 합니다.
 하지만 누군가에게 다른 사람과 성공적으로 일하는 법을 <em>가르치는 것</em>과, 그를 강제 협업 상황에 <em>던져 넣는 것</em> 사이에는 큰 차이가 있습니다.
 대부분 학생은 그 경험에 염증을 느끼게 됩니다.</p>
@@ -900,11 +1121,11 @@ href="https://www.oreilly.com/library/view/debugging-teams/9781491932049/">오�
 <div class="paragraph">
 <p>여기서 배울 점은 많습니다.
 훌륭한 아이디어가 깔끔하게 구현될 때까지 공개하지 않는 것은 엄청난 도박입니다.
-초기에 근본적인 설계 실수를 저지르기 쉽고, 바퀴를 다시 발명할 위험도 있습니다.<sup class="footnote">[<a id="_footnoteref_2" class="footnote" href="#_footnotedef_2" title="View footnote.">2</a>]</sup>
+초기에 근본적인 설계 실수를 저지르기 쉽고, 바퀴를 다시 발명할 위험도 있습니다.<sup class="footnote">[<a id="_footnoteref_3" class="footnote" href="#_footnotedef_3" title="View footnote.">3</a>]</sup>
 또한 협업의 이점을 포기하게 됩니다.
 다른 사람들과 함께 일한 이웃이 얼마나 빨리 나아갔는지 보셨나요? 그래서 사람들은 깊은 수영장에 뛰어들기 전에 먼저 발끝만 담가 봅니다.
 지금 하고 있는 일이 올바른지, 제대로 하고 있는지, 이미 누군가가 해버린 건 아닌지 확인해야 하기 때문입니다. 초기 삽질 가능성은 높습니다.
-초기에 피드백을 많이 받을수록 이 위험은 낮아집니다.<sup class="footnote">[<a id="_footnoteref_3" class="footnote" href="#_footnotedef_3" title="View footnote.">3</a>]</sup>
+초기에 피드백을 많이 받을수록 이 위험은 낮아집니다.<sup class="footnote">[<a id="_footnoteref_4" class="footnote" href="#_footnotedef_4" title="View footnote.">4</a>]</sup>
 "일찍 실패하고, 빨리 실패하고, 자주 실패하라"는 검증된 만트라를 기억하세요. 우리는 책의 뒷부분에서 실패의 중요성을 더 길게 다룰 것입니다.</p>
 </div>
 <div class="paragraph">
@@ -938,7 +1159,7 @@ href="https://www.oreilly.com/library/view/debugging-teams/9781491932049/">오�
 20년 전 통념에 따르면, 엔지니어가 생산적이려면 문을 닫을 수 있는 개인 사무실이 필요했습니다. 길게 방해받지 않는 시간만이 수많은 코드를 깊이 집중해 쓸 수 있는 유일한 방법이라는 것이었죠.</p>
 </div>
 <div class="paragraph">
-<p>우리는 대부분의 엔지니어에게 개인 사무실이 필요 없을 뿐만 아니라, 오히려 위험하다고 생각합니다. <sup class="footnote">[<a id="_footnoteref_4" class="footnote" href="#_footnotedef_4" title="View footnote.">4</a>]</sup> 오늘날 소프트웨어는 개인이 아니라 팀으로 개발합니다. 팀 전체와의 고대역폭, 즉시 가능한 연결은 인터넷 연결보다도 더 가치가 있습니다. 세상 모든 방해받지 않는 시간을 가진다 해도, 그 시간을 <em>잘못된 일</em>에 쓰고 있다면 시간을 낭비하는 것입니다.</p>
+<p>우리는 대부분의 엔지니어에게 개인 사무실이 필요 없을 뿐만 아니라, 오히려 위험하다고 생각합니다. <sup class="footnote">[<a id="_footnoteref_5" class="footnote" href="#_footnotedef_5" title="View footnote.">5</a>]</sup> 오늘날 소프트웨어는 개인이 아니라 팀으로 개발합니다. 팀 전체와의 고대역폭, 즉시 가능한 연결은 인터넷 연결보다도 더 가치가 있습니다. 세상 모든 방해받지 않는 시간을 가진다 해도, 그 시간을 <em>잘못된 일</em>에 쓰고 있다면 시간을 낭비하는 것입니다.</p>
 </div>
 <div class="paragraph">
 <p>불행히도 현대 기술 회사들은 반대편 극단으로 이끌린 듯합니다. 그들의 사무실에 들어가 보면 벽 하나 없이 50명, 100명이 함께 모여 있는 거대한 공간에 엔지니어들이 몰려 있는 경우가 많습니다. 이 "오픈 플로어 플랜"은 지금 큰 논쟁거리입니다. 아주 작은 대화도 공개되고, 수십 명의 이웃을 방해할까 두려워 사람들은 결국 말을 하지 않게 됩니다. 이것 역시 개인 사무실만큼이나 나쁩니다!</p>
@@ -1026,7 +1247,7 @@ href="https://www.oreilly.com/library/view/debugging-teams/9781491932049/">오�
 <dd>
 <p>     
      당신은 다른 사람들이 유능하며 옳은 일을 할 것이라고 믿습니다. 그리고 적절할 때 그들이 운전대를 잡도록 기꺼이 맡깁니다.
-<sup class="footnote">[<a id="_footnoteref_5" class="footnote" href="#_footnotedef_5" title="View footnote.">5</a>]</sup></p>
+<sup class="footnote">[<a id="_footnoteref_6" class="footnote" href="#_footnotedef_6" title="View footnote.">6</a>]</sup></p>
 </dd>
 </dl>
 </div>
@@ -1075,7 +1296,7 @@ href="https://www.oreilly.com/library/view/debugging-teams/9781491932049/">오�
 <p>이 책을 집어 들었을 때, 아마도 일종의 주간 지원 그룹에 참여하게 될 거라고는 생각하지 않았을 것입니다. 우리도 공감합니다. 사회적 문제를 다루는 일은 어렵습니다. 사람은 복잡하고, 예측 불가능하며, 종종 다루기 귀찮은 존재입니다. 사회적 상황을 분석하고 전략적으로 행동하는 데 에너지를 쏟기보다는, 아예 그런 노력 자체를 포기하고 싶어질 때가 있습니다. 예측 가능한 컴파일러와 함께 있는 게 훨씬 쉽지 않나요? 굳이 사회적 문제에 신경 써야 할 이유가 있을까요?</p>
 </div>
 <div class="paragraph">
-<p>여기 유명한 리처드 해밍의 강연에서 나온 인용문이 있습니다.<sup class="footnote">[<a id="_footnoteref_6" class="footnote" href="#_footnotedef_6" title="View footnote.">6</a>]</sup></p>
+<p>여기 유명한 리처드 해밍의 강연에서 나온 인용문이 있습니다.<sup class="footnote">[<a id="_footnoteref_7" class="footnote" href="#_footnotedef_7" title="View footnote.">7</a>]</sup></p>
 </div>
 <div class="quoteblock">
 <blockquote>
@@ -1154,7 +1375,7 @@ href="https://www.oreilly.com/library/view/debugging-teams/9781491932049/">오�
 <p>임원이 답합니다. "사직서입니다. 절 해고하려고 부르신 줄 알았습니다."</p>
 </div>
 <div class="paragraph">
-<p>CEO가 믿기지 않는다는 듯 말합니다. "당신을 <em>해고</em>하라고? 왜 내가 당신을 해고하겠소? 방금 1,000만 달러를 들여 당신을 <em>훈련</em>시켰는데!"<sup class="footnote">[<a id="_footnoteref_7" class="footnote" href="#_footnotedef_7" title="View footnote.">7</a>]</sup></p>
+<p>CEO가 믿기지 않는다는 듯 말합니다. "당신을 <em>해고</em>하라고? 왜 내가 당신을 해고하겠소? 방금 1,000만 달러를 들여 당신을 <em>훈련</em>시켰는데!"<sup class="footnote">[<a id="_footnoteref_8" class="footnote" href="#_footnotedef_8" title="View footnote.">8</a>]</sup></p>
 </div>
 <div class="paragraph">
 <p>다소 극단적인 이야기지만, 이 이야기의 CEO는 임원을 해고한다고 해서 1,000만 달러의 손실이 사라지지 않는다는 점을 이해하고 있습니다. 오히려 다시는 그런 실수를 저지르지 않을 귀중한 임원까지 잃어 손실을 키우게 될 뿐이죠.</p>
@@ -1327,13 +1548,13 @@ Karl은 위에서 아래로 내려가는 엔지니어로 전체 지형을 파악
 </div>
 </div>
 <div class="paragraph">
-<p>여러분의 팀 문화는 좋은 사워도우 한 덩이와도 같습니다. 스타터 배양(창업자와 초기 구성원)은 새 반죽(신규 입사자)을 문화로 ‘접종’하고, 효모와 박테리아(팀원)가 자라면서 훌륭한 빵(팀)이 나옵니다. 스타터 문화가 강하면, 신입이 가져올 수 있는 바람직하지 않은 ‘야생 균주’의 문화까지도 충분히 제압할 수 있습니다.<sup class="footnote">[<a id="_footnoteref_8" class="footnote" href="#_footnotedef_8" title="View footnote.">8</a>]</sup> 반대로 스타터 문화가 약하면, 팀은 신입이 가져올지 모르는 미지의 문화 균주에 취약해집니다. 낯선 문화는 예측 불가능한 결과를 동반하므로, 알려진 스타터 문화로 시작하는 편이 더 낫습니다.</p>
+<p>여러분의 팀 문화는 좋은 사워도우 한 덩이와도 같습니다. 스타터 배양(창업자와 초기 구성원)은 새 반죽(신규 입사자)을 문화로 ‘접종’하고, 효모와 박테리아(팀원)가 자라면서 훌륭한 빵(팀)이 나옵니다. 스타터 문화가 강하면, 신입이 가져올 수 있는 바람직하지 않은 ‘야생 균주’의 문화까지도 충분히 제압할 수 있습니다.<sup class="footnote">[<a id="_footnoteref_9" class="footnote" href="#_footnotedef_9" title="View footnote.">9</a>]</sup> 반대로 스타터 문화가 약하면, 팀은 신입이 가져올지 모르는 미지의 문화 균주에 취약해집니다. 낯선 문화는 예측 불가능한 결과를 동반하므로, 알려진 스타터 문화로 시작하는 편이 더 낫습니다.</p>
 </div>
 <div class="paragraph">
 <p>하지만 팀 문화는 팀원들이 일을 다루는 방식이나 코드를 작성하는 방식, 서로를 대하는 태도만을 의미하지 않습니다. 우리가 몸담았거나 관찰했던 모든 엔지니어링 팀마다 고유한, 공유된 경험·가치·목표의 집합이 곧 문화입니다. 팀이나 회사의 창립 구성원이 팀 문화의 큰 부분을 규정하지만, 문화는 팀이 존속하는 동안 계속 변하고 발전합니다.</p>
 </div>
 <div class="paragraph">
-<p>팀 문화를 이루는 요소는 실로 제각각입니다. 어떤 것은 일하는 <em>과정</em>과 직접적으로 관련이 있습니다. 소프트웨어 개발의 경우 코드 리뷰와 테스트 주도 개발을 도입하고, 산더미 같은 코드를 양산하기 전에 좋은 디자인 문서를 중시할 수 있습니다. 어떤 요소는 더 사회적입니다. 예를 들어 매주 목요일마다 특정 식당에 점심을 먹으러 가거나, 금요일마다 단골 바에 가서 한잔하는 것처럼요. 외부인의 눈에는 어떤 것들은 완전히 엉뚱하거나 우스꽝스러워 보일 수도 있습니다. 구글 피츠버그 엔지니어링 오피스는 한때 화물열차 선로 바로 옆에 있었는데, 기차가 지나갈 때마다(정말 엄청 시끄럽습니다) 모두가 벌떡 일어나 서로에게 너프 다트를 쏘곤 했습니다.<sup class="footnote">[<a id="_footnoteref_9" class="footnote" href="#_footnotedef_9" title="View footnote.">9</a>]</sup> 이 모든 것이 팀 문화를 구성하며, 팀의 생산성과 훌륭한 인재를 끌어들이고 유지하는 능력에 영향을 미칩니다.</p>
+<p>팀 문화를 이루는 요소는 실로 제각각입니다. 어떤 것은 일하는 <em>과정</em>과 직접적으로 관련이 있습니다. 소프트웨어 개발의 경우 코드 리뷰와 테스트 주도 개발을 도입하고, 산더미 같은 코드를 양산하기 전에 좋은 디자인 문서를 중시할 수 있습니다. 어떤 요소는 더 사회적입니다. 예를 들어 매주 목요일마다 특정 식당에 점심을 먹으러 가거나, 금요일마다 단골 바에 가서 한잔하는 것처럼요. 외부인의 눈에는 어떤 것들은 완전히 엉뚱하거나 우스꽝스러워 보일 수도 있습니다. 구글 피츠버그 엔지니어링 오피스는 한때 화물열차 선로 바로 옆에 있었는데, 기차가 지나갈 때마다(정말 엄청 시끄럽습니다) 모두가 벌떡 일어나 서로에게 너프 다트를 쏘곤 했습니다.<sup class="footnote">[<a id="_footnoteref_10" class="footnote" href="#_footnotedef_10" title="View footnote.">10</a>]</sup> 이 모든 것이 팀 문화를 구성하며, 팀의 생산성과 훌륭한 인재를 끌어들이고 유지하는 능력에 영향을 미칩니다.</p>
 </div>
 <div class="paragraph">
 <p></p>
@@ -1395,13 +1616,13 @@ Karl은 위에서 아래로 내려가는 엔지니어로 전체 지형을 파악
 소프트웨어를 개발하는 것과 같은 창의적 일은 단순히 조립 라인에서 부품을 찍어내는 일과 다릅니다.
 어떤 일은 며칠간의 교육과 기본 도구만으로도 해낼 수 있고, 사람이 그만두거나 맞지 않으면 다른 사람을 투입해 이어갈 수도 있습니다.
 조립 라인 환경에서는 창의적 사고나 문제 해결 능력이 거의 요구되지 않는 단순 작업을 종종 반복합니다.
-반면 소프트웨어 세계에서는 제품을 만드는 엔지니어에게 많은 창의적 사고가 요구됩니다.<sup class="footnote">[<a id="_footnoteref_10" class="footnote" href="#_footnotedef_10" title="View footnote.">10</a>]</sup>
+반면 소프트웨어 세계에서는 제품을 만드는 엔지니어에게 많은 창의적 사고가 요구됩니다.<sup class="footnote">[<a id="_footnoteref_11" class="footnote" href="#_footnotedef_11" title="View footnote.">11</a>]</sup>
 훌륭한 제품을 원한다면, 훌륭한 엔지니어가 필요합니다. 훌륭한 엔지니어가 좋은 일을 하고 오래 함께하도록 하려면, 아이디어를 안전하게 공유하고 의사결정 과정에서 목소리를 낼 수 있는 문화를 만들어야 합니다.</p>
 </div>
 <div class="paragraph">
 <p>뛰어난 엔지니어들을 팀으로 데려오고 싶다면, 우선은.. 네, 뛰어난 엔지니어를 채용하는 것부터 시작해야 합니다!
 다소 이상하게 들릴지 몰라도 사실입니다. 대부분의 훌륭한 엔지니어는 <em>다른</em> 훌륭한 엔지니어들과 함께하는 팀을 원합니다.
-우리가 아는 많은 뛰어난 엔지니어는 업계의 거인들에게서 배울 수 있는 팀으로 모여듭니다.<sup class="footnote">[<a id="_footnoteref_11" class="footnote" href="#_footnotedef_11" title="View footnote.">11</a>]</sup>
+우리가 아는 많은 뛰어난 엔지니어는 업계의 거인들에게서 배울 수 있는 팀으로 모여듭니다.<sup class="footnote">[<a id="_footnoteref_12" class="footnote" href="#_footnotedef_12" title="View footnote.">12</a>]</sup>
 그럼 애초에 이들을 어떻게 끌어들일 수 있을까요?</p>
 </div>
 <div class="paragraph">
@@ -1417,13 +1638,13 @@ Karl은 위에서 아래로 내려가는 엔지니어로 전체 지형을 파악
 그러나 그런 고정관념은 합의 기반 팀이 아니라 기능장애 팀의 징후에 가깝습니다.
 우리가 말하는 “합의”란 모든 구성원이 제품의 성공에 대해 강한 소유감과 책임감을 갖고, 리더가 팀의 목소리를 진지하게 귀 기울여 듣는 것(HRT의 “존중” 요소를 강조)입니다.
 제품이 성공하려면 때로는 충분한 토론과 숙고가 필요할 때가 있고, 다른 때에는 빠르게 움직여야 한다고 팀이 합의할 때도 있습니다.
-후자의 경우 팀원들은 일상적인 세부 의사결정의 많은 부분을 한 명 또는 여러 명의 팀 리드에게 위임하기로 결정할 수 있습니다.<sup class="footnote">[<a id="_footnoteref_12" class="footnote" href="#_footnotedef_12" title="View footnote.">12</a>]</sup> 이를 위해서는 팀 전체가 팀의 전반적 미션에 동의해야 하며, 믿기 어렵겠지만 그 핵심은 팀의 사명 선언문(이 장 뒤에서 더 다룹니다)를 만드는 것입니다.</p>
+후자의 경우 팀원들은 일상적인 세부 의사결정의 많은 부분을 한 명 또는 여러 명의 팀 리드에게 위임하기로 결정할 수 있습니다.<sup class="footnote">[<a id="_footnoteref_13" class="footnote" href="#_footnotedef_13" title="View footnote.">13</a>]</sup> 이를 위해서는 팀 전체가 팀의 전반적 미션에 동의해야 하며, 믿기 어렵겠지만 그 핵심은 팀의 사명 선언문(이 장 뒤에서 더 다룹니다)를 만드는 것입니다.</p>
 </div>
 <div class="paragraph">
 <p>
 팀의 의사결정 과정만큼이나 중요한 것은 팀원들이 서로를 대하는 방식입니다. 이는 무엇보다도 자기 선택적이기 때문입니다. 가슴을 치며 고함치고 서로에게 소리를 지르는 문화에서는, 강한 <span class="keep-together">개인</span>의 자아가 지배적인 환경에 익숙한 공격적인 유형의 사람들만 끌리고(그리고 남게) 됩니다(실제로 우리가 아는 많은 여성들은 이런 환경을 특히 불쾌해합니다).
 반대로 서로를 친절히 대하고 건설적 비판을 주기 위해 노력하는 HRT에 기반한 문화를 만들면, 훨씬 더 다양한 사람들을 끌어들일 수 있고, 소프트웨어를 작성하는데 훨씬 더 많은 에너지를 쏟게 됩니다.
-강한 팀 자아<sup class="footnote">[<a id="_footnoteref_13" class="footnote" href="#_footnotedef_13" title="View footnote.">13</a>]</sup>는 좋습니다. 그러나 <em>개인</em>의 자아가 팀 전체를 가리는 상황은 재앙의 처방전입니다. 이런 상황을 어떻게 예방할지는 <a href="#dealing_with_poisonous_people">4장. 독이 되는 사람 다루기</a>에서 다루겠습니다.</p>
+강한 팀 자아<sup class="footnote">[<a id="_footnoteref_14" class="footnote" href="#_footnotedef_14" title="View footnote.">14</a>]</sup>는 좋습니다. 그러나 <em>개인</em>의 자아가 팀 전체를 가리는 상황은 재앙의 처방전입니다. 이런 상황을 어떻게 예방할지는 <a href="#dealing_with_poisonous_people">4장. 독이 되는 사람 다루기</a>에서 다루겠습니다.</p>
 </div>
 <div class="paragraph">
 <p>
@@ -1451,7 +1672,7 @@ Karl은 위에서 아래로 내려가는 엔지니어로 전체 지형을 파악
 <div class="paragraph">
 <p> 공격적인 사람은(보통) 더 조용한 환경에서도 생산적으로 일할 수 있습니다.
 하지만 조용하고 내향적인 사람은 공격적인 환경에서 뛰어나기(혹은 즐겁게 일하기) 어렵습니다.
-소음 속에서 그들의 목소리를 듣기 어려울 뿐 아니라, 적극적으로 참여하지 않게 만들기 때문입니다.<sup class="footnote">[<a id="_footnoteref_14" class="footnote" href="#_footnotedef_14" title="View footnote.">14</a>]</sup>
+소음 속에서 그들의 목소리를 듣기 어려울 뿐 아니라, 적극적으로 참여하지 않게 만들기 때문입니다.<sup class="footnote">[<a id="_footnoteref_15" class="footnote" href="#_footnotedef_15" title="View footnote.">15</a>]</sup>
 가장 넓은 범위의 사람들이 가장 효율적으로 일할 수 있는 문화를 원한다면, 그 문화는 겸손, 존중, 신뢰 위에 세워야 합니다.</p>
 </div>
 <div class="paragraph">
@@ -1520,13 +1741,13 @@ Karl은 위에서 아래로 내려가는 엔지니어로 전체 지형을 파악
 <p>도대체 무슨 <em>뜻</em>일까요? 문자 그대로 아무 의미로나 해석될 수 있습니다—우리가 그 회사에서 일한다면, 차를 닦는 일이 중요한지, 새는 파이프를 고치는 게 중요한지, 아니면 피자를 배달하는 게 중요한지조차 알 수 없을 겁니다. 바로 이런 기업식 이중언어 때문에 사명 선언문가 나쁜 평판을 얻게 됩니다.</p>
 </div>
 <div class="paragraph">
-<p>효과적이고 효율적인 팀에게 사명 선언문 작성은, 제품의 방향을 간결하게 정의하고 범위를 제한하는 방법입니다. 좋은 사명 선언문를 쓰려면 시간과 노력이 들지만, 팀이 해야 할 일과 하지 말아야 할 일을 명확히 함으로써 잠재적으로 <em>수년간의</em> 일을 절약할 수 있습니다.<sup class="footnote">[<a id="_footnoteref_15" class="footnote" href="#_footnotedef_15" title="View footnote.">15</a>]</sup></p>
+<p>효과적이고 효율적인 팀에게 사명 선언문 작성은, 제품의 방향을 간결하게 정의하고 범위를 제한하는 방법입니다. 좋은 사명 선언문를 쓰려면 시간과 노력이 들지만, 팀이 해야 할 일과 하지 말아야 할 일을 명확히 함으로써 잠재적으로 <em>수년간의</em> 일을 절약할 수 있습니다.<sup class="footnote">[<a id="_footnoteref_16" class="footnote" href="#_footnotedef_16" title="View footnote.">16</a>]</sup></p>
 </div>
 <div class="paragraph">
-<p>구글이 Google Web Toolkit(GWT)의 개발을 오픈 소스 프로젝트로 전환하기로 했을 때, 우리는 팀의 멘토를 맡았습니다. 오픈 소스와 폐쇄형 개발 사이의 여러 차이를 검토하며, 누구나 끼어들어 의견을 내고, 패치를 기여하며, 제품의 사소한 부분까지 비판할 수 있는 환경에서 설계·토론·코드 작성이 얼마나 어려운지에 특히 주목했습니다.<sup class="footnote">[<a id="_footnoteref_16" class="footnote" href="#_footnotedef_16" title="View footnote.">16</a>]</sup> 이런 도전들을 살펴본 뒤, 우리는 팀에 사명 선언문를 만들어 대중에게 제품의 목표(그리고 비목표)를 설명하라고 권했습니다.</p>
+<p>구글이 Google Web Toolkit(GWT)의 개발을 오픈 소스 프로젝트로 전환하기로 했을 때, 우리는 팀의 멘토를 맡았습니다. 오픈 소스와 폐쇄형 개발 사이의 여러 차이를 검토하며, 누구나 끼어들어 의견을 내고, 패치를 기여하며, 제품의 사소한 부분까지 비판할 수 있는 환경에서 설계·토론·코드 작성이 얼마나 어려운지에 특히 주목했습니다.<sup class="footnote">[<a id="_footnoteref_17" class="footnote" href="#_footnotedef_17" title="View footnote.">17</a>]</sup> 이런 도전들을 살펴본 뒤, 우리는 팀에 사명 선언문를 만들어 대중에게 제품의 목표(그리고 비목표)를 설명하라고 권했습니다.</p>
 </div>
 <div class="paragraph">
-<p>팀원들 중 일부는 앞서 말한 이유들로 난색을 보였지만, 다른 이들은 호기심을 보였고 팀 리드는 훌륭한 제안이라 여기는 듯했습니다. 그러나 막상 사명 선언문를 쓰기 시작하자, 내용과 골자, 문체를 두고 논쟁이 이어졌습니다. 충분한 토론(과 몇 번의 추가 회의) 끝에 팀은 훌륭하고 간결한 사명 선언문 뿐만 아니라, 해당 문장을 구절별로 설명한 “Making GWT Better”라는 전체 문서를 만들었습니다.<sup class="footnote">[<a id="_footnoteref_17" class="footnote" href="#_footnotedef_17" title="View footnote.">17</a>]</sup> 심지어 프로젝트의 <em>비목표</em>가 무엇인지 설명하는 섹션까지 포함했습니다. 다음이 그 미션 내용입니다:</p>
+<p>팀원들 중 일부는 앞서 말한 이유들로 난색을 보였지만, 다른 이들은 호기심을 보였고 팀 리드는 훌륭한 제안이라 여기는 듯했습니다. 그러나 막상 사명 선언문를 쓰기 시작하자, 내용과 골자, 문체를 두고 논쟁이 이어졌습니다. 충분한 토론(과 몇 번의 추가 회의) 끝에 팀은 훌륭하고 간결한 사명 선언문 뿐만 아니라, 해당 문장을 구절별로 설명한 “Making GWT Better”라는 전체 문서를 만들었습니다.<sup class="footnote">[<a id="_footnoteref_18" class="footnote" href="#_footnotedef_18" title="View footnote.">18</a>]</sup> 심지어 프로젝트의 <em>비목표</em>가 무엇인지 설명하는 섹션까지 포함했습니다. 다음이 그 미션 내용입니다:</p>
 </div>
 <div class="quoteblock">
 <blockquote>
@@ -1588,7 +1809,7 @@ Karl은 위에서 아래로 내려가는 엔지니어로 전체 지형을 파악
 </div>
 <div class="paragraph">
 <p>
-회의는 흔히 많은 이들이 “메이크 타임(make time)”이라고 부르는 시간을 방해합니다. 이는 폴 그레이엄의 “Maker&#8217;s Schedule, Manager&#8217;s Schedule”에서 영감을 받은 개념입니다.<sup class="footnote">[<a id="_footnoteref_18" class="footnote" href="#_footnotedef_18" title="View footnote.">18</a>]</sup> 특히 엔지니어에게는 회의 때문에 일을 계속 끊어야 하면 몰입 상태에 들어가기 어렵습니다. 캘린더에 3~4시간짜리 블록을 잡아 “바쁨” 혹은 아예 “메이크 타임”으로 표시하고, 그 시간에 일을 끝내세요. 회의를 잡아야 한다면 점심시간 같은 자연스러운 휴식 지점이나 하루의 맨 끝에 배치하세요. 구글에는 “목요일 회의 금지” 전통이 오래(그리고 안타깝게도 자주 무시되면서) 이어져 왔습니다.<sup class="footnote">[<a id="_footnoteref_19" class="footnote" href="#_footnotedef_19" title="View footnote.">19</a>]</sup> 그냥 일만 하는 시간을 확보하기 위한 취지입니다. 이것은 더 긴 블록으로 20~30시간의 메이크 타임을 확보하는 첫걸음입니다.</p>
+회의는 흔히 많은 이들이 “메이크 타임(make time)”이라고 부르는 시간을 방해합니다. 이는 폴 그레이엄의 “Maker&#8217;s Schedule, Manager&#8217;s Schedule”에서 영감을 받은 개념입니다.<sup class="footnote">[<a id="_footnoteref_19" class="footnote" href="#_footnotedef_19" title="View footnote.">19</a>]</sup> 특히 엔지니어에게는 회의 때문에 일을 계속 끊어야 하면 몰입 상태에 들어가기 어렵습니다. 캘린더에 3~4시간짜리 블록을 잡아 “바쁨” 혹은 아예 “메이크 타임”으로 표시하고, 그 시간에 일을 끝내세요. 회의를 잡아야 한다면 점심시간 같은 자연스러운 휴식 지점이나 하루의 맨 끝에 배치하세요. 구글에는 “목요일 회의 금지” 전통이 오래(그리고 안타깝게도 자주 무시되면서) 이어져 왔습니다.<sup class="footnote">[<a id="_footnoteref_20" class="footnote" href="#_footnotedef_20" title="View footnote.">20</a>]</sup> 그냥 일만 하는 시간을 확보하기 위한 취지입니다. 이것은 더 긴 블록으로 20~30시간의 메이크 타임을 확보하는 첫걸음입니다.</p>
 </div>
 <div id="note-3" class="admonitionblock note">
 <table>
@@ -1704,7 +1925,7 @@ Karl은 위에서 아래로 내려가는 엔지니어로 전체 지형을 파악
 <p>큰 성공을 거둔 프로젝트는 메일링 리스트를 여러 개 두는 경우가 많습니다. 개발 논의, 코드 리뷰, 사용자 토론, 공지, 긴급 알림 이메일, 기타 행정 등을 분리합니다. 종종 소규모 프로젝트가 이를 흉내 내며 시작부터 여섯 개의 리스트를 만들기도 하는데, 엔지니어 셋과 사용자 둘뿐인 상황에서 벌어지는 일입니다. 이는 다섯 사람이 논의하자고 회의실을 여섯 개 마련하는 것과 같습니다—일관성은 떨어지고, 메아리만 많고, 방은 대체로 비게 됩니다. 실제로는 리스트 하나로 시작하고, 하나의 리스트의 트래픽이 감당하기 어려울 때(보통 리스트 구성원들이 살려달라고 할 때)만 리스트를 추가하는 것이 가장 좋습니다. 예외적으로 자동 이메일과 봇 알림은 별도 리스트로 보내거나, 최소한 쉽게 필터링할 수 있도록 식별자를 사용하세요.</p>
 </div>
 <div class="paragraph">
-<p>이메일 토론의 예절을 마련하는 데 시간을 쓰세요—토론을 예의 바르게 유지하고, “시끄러운 소수”의 필리버스터를 막으세요.<sup class="footnote">[<a id="_footnoteref_20" class="footnote" href="#_footnotedef_20" title="View footnote.">20</a>]</sup></p>
+<p>이메일 토론의 예절을 마련하는 데 시간을 쓰세요—토론을 예의 바르게 유지하고, “시끄러운 소수”의 필리버스터를 막으세요.<sup class="footnote">[<a id="_footnoteref_21" class="footnote" href="#_footnotedef_21" title="View footnote.">21</a>]</sup></p>
 </div>
 <div class="paragraph">
 <p>사무실을 함께 쓰는 팀에서 메일링 리스트가 1차 토론 수단은 아닐 수 있지만, 회의 안건, 회의록, 의사결정, 디자인 문서, 기타 관련 텍스트 정보를 팀의 메일링 리스트에 보내 중앙 기록으로 남기는 것이 좋습니다. 모든 게시물을 <em>검색 가능한</em> 인덱스로 보관하도록 설정하세요—오픈 소스 프로젝트는 공개 인덱스로, 폐쇄형 프로젝트는 사내망 인덱스로 말입니다. 이제 프로젝트의 역사를 기록하는 시스템이 생기고, 새로운 팀원이 과거 의사결정의 근거를 물을 때도 쉽게 참고할 수 있습니다. 이런 논의가 어딘가에 아카이브되지 않으면, 여러분은 똑같은 이야기를 반복하고 또 반복하게 될 것입니다.</p>
@@ -1714,7 +1935,7 @@ Karl은 위에서 아래로 내려가는 엔지니어로 전체 지형을 파악
 <h4 id="online_chat">온라인 채팅</h4>
 <div class="paragraph">
 <p>
-온라인 채팅은 팀 커뮤니케이션에 믿을 수 없을 만큼 편리합니다. 특히 동료의 업무를 방해하지 않고도 빠르게 요청을 보낼 수 있기 때문입니다(물론 채팅 프로그램이 방해하지 않도록 설정되어 있어야 합니다!). 새로운 프로젝트를 빠르게 진행할 때, 저녁이나 주말에 가볍게 일할 때, 팀원이 하루 이틀 자리를 비울 때 유용합니다. 일대일 채팅도 유용하고 팀 커뮤니케이션에서 분명히 역할이 있지만, 우리는 어떤 형태로든 그룹 채팅 메커니즘을 사용할 것을 강력히 권장합니다.<sup class="footnote">[<a id="_footnoteref_21" class="footnote" href="#_footnotedef_21" title="View footnote.">21</a>]</sup></p>
+온라인 채팅은 팀 커뮤니케이션에 믿을 수 없을 만큼 편리합니다. 특히 동료의 업무를 방해하지 않고도 빠르게 요청을 보낼 수 있기 때문입니다(물론 채팅 프로그램이 방해하지 않도록 설정되어 있어야 합니다!). 새로운 프로젝트를 빠르게 진행할 때, 저녁이나 주말에 가볍게 일할 때, 팀원이 하루 이틀 자리를 비울 때 유용합니다. 일대일 채팅도 유용하고 팀 커뮤니케이션에서 분명히 역할이 있지만, 우리는 어떤 형태로든 그룹 채팅 메커니즘을 사용할 것을 강력히 권장합니다.<sup class="footnote">[<a id="_footnoteref_22" class="footnote" href="#_footnotedef_22" title="View footnote.">22</a>]</sup></p>
 </div>
 <div class="paragraph">
 <p>
@@ -1778,7 +1999,7 @@ Karl은 위에서 아래로 내려가는 엔지니어로 전체 지형을 파악
 코드 주석 스타일은 매우 주관적입니다. 장황한 주석은 원 작성자의 의도와 이유에 대한 실마리를 제공해 유용할 때가 많지만, 그만큼 유지보수 비용이 듭니다. 낡거나 틀린 주석은 코드베이스 이해를 크게 해칩니다. 반대로 너무 짧거나 아예 없는 주석은, 미래의 유지보수자나 API 소비자가 추리하느라 시간을 낭비하게 만듭니다. 주석은 흔히 빠진 구조와 나쁜 네이밍을 지적한 뒤, 코드가 이미 말하는 바를 다시 설명하는 데 쓰입니다. 주석은 코드가 <em>무엇</em>을 하는지가 아니라, 왜 <em>그렇게</em> 하는지에 집중해야 합니다.</p>
 </div>
 <div class="paragraph">
-<p>주석은 함수나 메서드 수준에서 가장 유용합니다. 특히 API를 문서화하는 수단으로서요. 장황함을 피하라는 뜻에서, “μηδέν άγαν(과유불급)”이라는 유명한 그리스 격언으로 요약할 수 있습니다. 그다음으로 중요한 것은 팀의 주석 스타일을 정해 모두가 따르도록 하는 것입니다—우리 생각에 일관성이 실제 선택지보다 더 중요합니다.<sup class="footnote">[<a id="_footnoteref_22" class="footnote" href="#_footnotedef_22" title="View footnote.">22</a>]</sup> 스타일 가이드는 왜 존재하는지와 무엇을 규정하려는지 설명해야 합니다. 예컨대 Google C++ 스타일 가이드는 이렇게 시작합니다.<sup class="footnote">[<a id="_footnoteref_23" class="footnote" href="#_footnotedef_23" title="View footnote.">23</a>]</sup></p>
+<p>주석은 함수나 메서드 수준에서 가장 유용합니다. 특히 API를 문서화하는 수단으로서요. 장황함을 피하라는 뜻에서, “μηδέν άγαν(과유불급)”이라는 유명한 그리스 격언으로 요약할 수 있습니다. 그다음으로 중요한 것은 팀의 주석 스타일을 정해 모두가 따르도록 하는 것입니다—우리 생각에 일관성이 실제 선택지보다 더 중요합니다.<sup class="footnote">[<a id="_footnoteref_23" class="footnote" href="#_footnotedef_23" title="View footnote.">23</a>]</sup> 스타일 가이드는 왜 존재하는지와 무엇을 규정하려는지 설명해야 합니다. 예컨대 Google C++ 스타일 가이드는 이렇게 시작합니다.<sup class="footnote">[<a id="_footnoteref_24" class="footnote" href="#_footnotedef_24" title="View footnote.">24</a>]</sup></p>
 </div>
 <div class="quoteblock">
 <blockquote>
@@ -1855,7 +2076,7 @@ Karl은 위에서 아래로 내려가는 엔지니어로 전체 지형을 파악
 <p>예를 들어 봅시다. 여러분이 팀의 <span class="keep-together">프로젝트—</span>새 파일을 만들고 수백 줄의 코드를 씁니다. 파일 상단에 이름과 적절한 저작권 표시를 넣어 코드 리뷰에 보내고, 이후 저장소에 커밋합니다. 지금까지는 문제도, 드라마도, 이견도 없습니다. 그런데 동료 Adrian이 와서 파일을 고칩니다. 언제 그가 파일 상단에 자신의 이름을 올릴 수 있을까요? 버그를 한 개 고치면? 버그 다섯 개? 함수를 하나 작성하면? 함수 두 개는? 코드 몇 줄을 작성해야 할까요? 그가 함수를 하나 작성하고 이름을 올렸는데, 다른 누군가가 와서 “그의” 함수를 다시 쓴다면? 그 사람도 이름을 올려야 할까요? Adrian의 이름은 지워야 할까요? 연극, 소설, 영화 같은 다른 협업 창작물과 달리, 소프트웨어는 “완성” 이후에도 계속 변합니다. 영화 끝에 올라가는 참여자 목록은 안전하고 정적인 일이지만, 소스 파일의 이름을 더했다 뺐다 하는 일은 끝없는 광기로 흐르기 쉽습니다.</p>
 </div>
 <div class="paragraph">
-<p>물론 위 질문들에 답을 정하고 가능한 모든 엣지 케이스를 상세히 문서화할 수는 있습니다. 하지만 이를 유지·추적하고 위반을 감시하는 일은—원래 코드 작성에 썼어야 할—엄청난 시간 낭비입니다. 바로 이 때문에, 우리는 공로를 코드가 아닌 <em>프로젝트 수준</em>에서 추적할 것을 권합니다. 우리가 본 대부분의 프로젝트에는 일을 한 모든 사람을 나열한 “Authors”나 “Contributors” 파일이 있습니다. 더 자세한 내용이 필요하면, 버전 관리 시스템이 알려줄 것입니다. 물론 버전 관리를 <em>하지 않는다면</em>, 그 모든 순간은 빗속의 눈물처럼 시간 속에 사라질 것입니다.<sup class="footnote">[<a id="_footnoteref_24" class="footnote" href="#_footnotedef_24" title="View footnote.">24</a>]</sup></p>
+<p>물론 위 질문들에 답을 정하고 가능한 모든 엣지 케이스를 상세히 문서화할 수는 있습니다. 하지만 이를 유지·추적하고 위반을 감시하는 일은—원래 코드 작성에 썼어야 할—엄청난 시간 낭비입니다. 바로 이 때문에, 우리는 공로를 코드가 아닌 <em>프로젝트 수준</em>에서 추적할 것을 권합니다. 우리가 본 대부분의 프로젝트에는 일을 한 모든 사람을 나열한 “Authors”나 “Contributors” 파일이 있습니다. 더 자세한 내용이 필요하면, 버전 관리 시스템이 알려줄 것입니다. 물론 버전 관리를 <em>하지 않는다면</em>, 그 모든 순간은 빗속의 눈물처럼 시간 속에 사라질 것입니다.<sup class="footnote">[<a id="_footnoteref_25" class="footnote" href="#_footnotedef_25" title="View footnote.">25</a>]</sup></p>
 </div>
 </div>
 <div class="sect3">
@@ -1897,7 +2118,7 @@ Karl은 위에서 아래로 내려가는 엔지니어로 전체 지형을 파악
 <h2 id="every_boat_needs_a_captain">3장. 모든 배에는 선장이 필요하다</h2>
 <div class="sectionbody">
 <div class="paragraph">
-<p>당신이 절대 “관리자”가 되지 않겠다고 맹세했더라도, 커리어의 어느 순간엔가 우연히 리더십 역할을 맡게 될 것입니다. 이 장은 그런 일이 일어났을 때 무엇을 해야 하는지 이해하도록 도와줍니다.<sup class="footnote">[<a id="_footnoteref_25" class="footnote" href="#_footnotedef_25" title="View footnote.">25</a>]</sup></p>
+<p>당신이 절대 “관리자”가 되지 않겠다고 맹세했더라도, 커리어의 어느 순간엔가 우연히 리더십 역할을 맡게 될 것입니다. 이 장은 그런 일이 일어났을 때 무엇을 해야 하는지 이해하도록 도와줍니다.<sup class="footnote">[<a id="_footnoteref_26" class="footnote" href="#_footnotedef_26" title="View footnote.">26</a>]</sup></p>
 </div>
 <div class="paragraph">
 <p>관리자를 위한 관리 서적은 이미 셀 수 없이 많지만, 이 장은 비공식적인 리더십 자리에 서게 된 개인 기여자를 위한 것입니다. 대부분의 사람들은 여러 이유로 관리자가 되는 것을 두려워하지만, 리더 없이 작동하는 팀은 없습니다. 우리는 당신을 관리자가 되라는 것으로 설득하려는 것이 아니라(비록 우리 둘은 지금 관리자이지만!), 팀에 리더가 필요한 이유, 사람들이 보통 관리자가 되기를 두려워하는 이유, 그리고 최고의 리더가 왜 겸손·존중·신뢰의 원칙으로 팀을 ‘섬기는’지 보여 주려 합니다. 더 나아가 효과적인 리더십의 패턴과 안티패턴, 동기부여를 살펴보겠습니다.</p>
@@ -1923,18 +2144,18 @@ Karl은 위에서 아래로 내려가는 엔지니어로 전체 지형을 파악
 <div class="sect2">
 <h3 id="deprecated_manager">관리자는 네 글자 욕설</h3>
 <div class="paragraph">
-<p>오늘날 우리가 떠올리는 '뾰족 머리 관리자&#8217;의 개념은 군대식 위계에서 비롯되어 "Industrial Revolution"산업혁명<sup class="footnote">[<a id="_footnoteref_26" class="footnote" href="#_footnotedef_26" title="View footnote.">26</a>]</sup> 시기에 채택된 유산입니다. 공장이 곳곳에 생겨나고, 컨베이어 벨트를 돌리기 위해 (대개 비숙련) 노동자가 필요했습니다. 그들을 관리할 감독자도 필요했지요. 일자리에 절박한 다른 사람으로 노동자를 쉽게 대체할 수 있었기에, 관리자가 직원을 잘 대하거나 환경을 개선하려는 동기는 낮았습니다. 인간적이든 아니든, 직원들이 기계적으로 반복 작업만 하던 시대에는 이 방식이 오랫동안 그럭저럭 효과적이었습니다.</p>
+<p>오늘날 우리가 떠올리는 '뾰족 머리 관리자&#8217;의 개념은 군대식 위계에서 비롯되어 "Industrial Revolution"산업혁명<sup class="footnote">[<a id="_footnoteref_27" class="footnote" href="#_footnotedef_27" title="View footnote.">27</a>]</sup> 시기에 채택된 유산입니다. 공장이 곳곳에 생겨나고, 컨베이어 벨트를 돌리기 위해 (대개 비숙련) 노동자가 필요했습니다. 그들을 관리할 감독자도 필요했지요. 일자리에 절박한 다른 사람으로 노동자를 쉽게 대체할 수 있었기에, 관리자가 직원을 잘 대하거나 환경을 개선하려는 동기는 낮았습니다. 인간적이든 아니든, 직원들이 기계적으로 반복 작업만 하던 시대에는 이 방식이 오랫동안 그럭저럭 효과적이었습니다.</p>
 </div>
 <div class="paragraph">
-<p>관리자는 때로 노새몰이꾼처럼 직원을 대했습니다. 당근으로 앞에서 이끌다가, 듣지 않으면 채찍을 휘두르는 방식이었습니다. 이른바 ‘당근과 채찍’ 관리는 공장<sup class="footnote">[<a id="_footnoteref_27" class="footnote" href="#_footnotedef_27" title="View footnote.">27</a>]</sup>에서 현대적인 직장으로 옮겨가도 살아남았습니다.  특히 직원이 같은 일을 수년간 하던 20세기 중반, ‘노새를 모는 독한 관리자’의 전형이 널리 퍼졌습니다.</p>
+<p>관리자는 때로 노새몰이꾼처럼 직원을 대했습니다. 당근으로 앞에서 이끌다가, 듣지 않으면 채찍을 휘두르는 방식이었습니다. 이른바 ‘당근과 채찍’ 관리는 공장<sup class="footnote">[<a id="_footnoteref_28" class="footnote" href="#_footnotedef_28" title="View footnote.">28</a>]</sup>에서 현대적인 직장으로 옮겨가도 살아남았습니다.  특히 직원이 같은 일을 수년간 하던 20세기 중반, ‘노새를 모는 독한 관리자’의 전형이 널리 퍼졌습니다.</p>
 </div>
 <div class="paragraph">
-<p>수많은 연구가 시대에 뒤떨어진 당근과 채찍이 비효율적이며<sup class="footnote">[<a id="_footnoteref_28" class="footnote" href="#_footnotedef_28" title="View footnote.">28</a>]</sup> 창의적 인재의 생산성에 해롭다고 경고함에도, 오늘날에도 일부 산업에서는 이 방식이 이어집니다. 과거 컨베이어 벨트 노동자는 며칠간의 교육으로 대체가 가능했지만, 지식 노동자는 새 팀에서 <em>수개월</em>이 지나야 제 속도가 나옵니다. 쉽게 대체 가능한 노동자와 달리, 이들에게는 사려·사고·<em>창조</em>를 위한 돌봄, 시간 그리고 공간이 필요합니다.</p>
+<p>수많은 연구가 시대에 뒤떨어진 당근과 채찍이 비효율적이며<sup class="footnote">[<a id="_footnoteref_29" class="footnote" href="#_footnotedef_29" title="View footnote.">29</a>]</sup> 창의적 인재의 생산성에 해롭다고 경고함에도, 오늘날에도 일부 산업에서는 이 방식이 이어집니다. 과거 컨베이어 벨트 노동자는 며칠간의 교육으로 대체가 가능했지만, 지식 노동자는 새 팀에서 <em>수개월</em>이 지나야 제 속도가 나옵니다. 쉽게 대체 가능한 노동자와 달리, 이들에게는 사려·사고·<em>창조</em>를 위한 돌봄, 시간 그리고 공간이 필요합니다.</p>
 </div>
 <div class="sect3">
 <h4 id="leader_is_the_new_manager">“리더”는 새로운 “관리자”</h4>
 <div class="paragraph">
-<p>많은 이들이 ‘관리자’라는 직함을 여전히 쓰지만, 이 말은 자주 시대착오적입니다. 우리는 <em>관리자</em> 대신 <em>리더</em>라는 말을 써야 한다고 봅니다. 정치적 올바름을 외치는 부류와는 거리가 있지만, ‘관리자’는 네 글자 욕처럼 느껴질 정도입니다. 그 말의 존재 자체가 새 관리자로 하여금 <em>사람을 관리</em>하게 부추깁니다. 관리자는 부모<sup class="footnote">[<a id="_footnoteref_29" class="footnote" href="#_footnotedef_29" title="View footnote.">29</a>]</sup>처럼 행동하게 되고 직원들은 아이처럼 반응합니다. HRT 맥락에서 말해 보죠. 관리자가 직원에 대한 신뢰를 분명히 보여 주면, 직원은 그 신뢰에 부응하려는 긍정적 압박을 느낍니다. 정말 간단합니다. 리더는 팀의 길을 열고, 안전과 행복을 살피며, 필요가 충족되도록 합니다. 이 장에서 하나만 기억한다면, 다음과 같습니다.</p>
+<p>많은 이들이 ‘관리자’라는 직함을 여전히 쓰지만, 이 말은 자주 시대착오적입니다. 우리는 <em>관리자</em> 대신 <em>리더</em>라는 말을 써야 한다고 봅니다. 정치적 올바름을 외치는 부류와는 거리가 있지만, ‘관리자’는 네 글자 욕처럼 느껴질 정도입니다. 그 말의 존재 자체가 새 관리자로 하여금 <em>사람을 관리</em>하게 부추깁니다. 관리자는 부모<sup class="footnote">[<a id="_footnoteref_30" class="footnote" href="#_footnotedef_30" title="View footnote.">30</a>]</sup>처럼 행동하게 되고 직원들은 아이처럼 반응합니다. HRT 맥락에서 말해 보죠. 관리자가 직원에 대한 신뢰를 분명히 보여 주면, 직원은 그 신뢰에 부응하려는 긍정적 압박을 느낍니다. 정말 간단합니다. 리더는 팀의 길을 열고, 안전과 행복을 살피며, 필요가 충족되도록 합니다. 이 장에서 하나만 기억한다면, 다음과 같습니다.</p>
 </div>
 <div class="quoteblock">
 <blockquote>
@@ -1954,7 +2175,7 @@ Fitz는 미소 지으며 단호히 말했습니다. "일만 잘하면, 몇 시�
 </div>
 <div class="paragraph">
 <p>"리더"가 된다는 것이 모든 것에 대해 최종 책임을 진다는 뜻은 아닙니다. 리더십에는 기술적인 것도 있고, 사람과 관련된 것도 있습니다. 소프트웨어 개발 세계에서 팀을 이끄는 사람에게는 보통 두 가지 뚜렷한 역할(과 직함)이 있습니다.
-TL(테크 리드)과 TLM(테크 리드 관리자)입니다.<sup class="footnote">[<a id="_footnoteref_30" class="footnote" href="#_footnotedef_30" title="View footnote.">30</a>]</sup> TL은 보통 제품 전체(또는 일부)의 기술적 방향을 책임지고, TLM은 제품 전체(또는 일부)의 기술적 방향을 책임 지는 것에 더해 팀원의 커리어와 행복까지 책임집니다.
+TL(테크 리드)과 TLM(테크 리드 관리자)입니다.<sup class="footnote">[<a id="_footnoteref_31" class="footnote" href="#_footnotedef_31" title="View footnote.">31</a>]</sup> TL은 보통 제품 전체(또는 일부)의 기술적 방향을 책임지고, TLM은 제품 전체(또는 일부)의 기술적 방향을 책임 지는 것에 더해 팀원의 커리어와 행복까지 책임집니다.
 덕분에 프로젝트 리딩에 집중하고 싶은 사람은 원한다면 사람 관리 영역을 피할 수 있습니다.</p>
 </div>
 </div>
@@ -1974,7 +2195,7 @@ TL(테크 리드)과 TLM(테크 리드 관리자)입니다.<sup class="footnote"
 </div>
 </div>
 <div class="paragraph">
-<p>관리자가 되지 않으려는 또 하나의 큰 이유는 자주 말로는 하지 않지만, 유명한 “피터의 법칙”에 뿌리를 둡니다. 이 법칙은 “위계에서 모든 직원은 자신의 무능 수준까지 승진하는 경향이 있다”고 말하죠. 대부분의 사람은 일을 못 하거나 사람 관리를 몹시 못 하는 관리자를 한 번쯤은 겪었고,<sup class="footnote">[<a id="_footnoteref_31" class="footnote" href="#_footnotedef_31" title="View footnote.">31</a>]</sup> 몇몇은 커리어 내내 나쁜 관리자 밑에서만 일하기도 했습니다. 커리어 내내 형편없는 관리자만 봤다면, 왜 스스로 관리자가 <em>되려</em> 하겠습니까? 왜 자신이 잘하지 못할 역할로 승진하길 바라겠습니까?</p>
+<p>관리자가 되지 않으려는 또 하나의 큰 이유는 자주 말로는 하지 않지만, 유명한 “피터의 법칙”에 뿌리를 둡니다. 이 법칙은 “위계에서 모든 직원은 자신의 무능 수준까지 승진하는 경향이 있다”고 말하죠. 대부분의 사람은 일을 못 하거나 사람 관리를 몹시 못 하는 관리자를 한 번쯤은 겪었고,<sup class="footnote">[<a id="_footnoteref_32" class="footnote" href="#_footnotedef_32" title="View footnote.">32</a>]</sup> 몇몇은 커리어 내내 나쁜 관리자 밑에서만 일하기도 했습니다. 커리어 내내 형편없는 관리자만 봤다면, 왜 스스로 관리자가 <em>되려</em> 하겠습니까? 왜 자신이 잘하지 못할 역할로 승진하길 바라겠습니까?</p>
 </div>
 <div class="paragraph">
 <p>관리자가 되는 것을 고려할 만한 훌륭한 이유도 있습니다. 첫째, 자신을 확장하는 방법입니다. 코드를 아무리 잘 써도, 혼자 쓸 수 있는 양에는 상한이 있습니다. 당신의 리더십 아래 훌륭한 엔지니어 팀이 얼마나 많은 코드를 쓸 수 있을지 상상해 보세요! 둘째, 당신이 정말 그 일을 잘할지도 모릅니다. 프로젝트의 리더십 공백 속으로 빨려 들어간 많은 이들이, 팀이 필요로 하는 안내·지원·엄호를 제공하는 데 비범한 재능이 있음을 발견하곤 합니다.</p>
@@ -1995,7 +2216,7 @@ TL(테크 리드)과 TLM(테크 리드 관리자)입니다.<sup class="footnote"
 <h3 id="antipatterns">안티패턴</h3>
 <div class="paragraph">
 <p>
-성공적인 리더가 되고 싶다면 따라야 할 "디자인 패턴"들을 나열하기 전에, 따라하지 <em>말아야</em> 할 패턴들을 먼저 살펴보겠습니다. 우리는 커리어에서 만난 몇몇 나쁜 리더들과, 더러는 <span class="keep-together">우리 자신</span>에게서 이러한 파괴적인 패턴들을 관찰했습니다.<sup class="footnote">[<a id="_footnoteref_32" class="footnote" href="#_footnotedef_32" title="View footnote.">32</a>]</sup></p>
+성공적인 리더가 되고 싶다면 따라야 할 "디자인 패턴"들을 나열하기 전에, 따라하지 <em>말아야</em> 할 패턴들을 먼저 살펴보겠습니다. 우리는 커리어에서 만난 몇몇 나쁜 리더들과, 더러는 <span class="keep-together">우리 자신</span>에게서 이러한 파괴적인 패턴들을 관찰했습니다.<sup class="footnote">[<a id="_footnoteref_33" class="footnote" href="#_footnotedef_33" title="View footnote.">33</a>]</sup></p>
 </div>
 <div class="sect3">
 <h4 id="antipattern_hire_pushovers">안티패턴: 호구 채용하기</h4>
@@ -2121,12 +2342,12 @@ TL(테크 리드)과 TLM(테크 리드 관리자)입니다.<sup class="footnote"
 <p>또 다른 관점은 “<em>리더는 늘 무대 위에 있다</em>”는 격언입니다. 드러난 리더십 위치에 있다면 늘 누군가의 시선 아래 있습니다. 회의를 진행할 때만이 아니라, 책상에 앉아 이메일을 답할 때조차도요. 동료들은 당신의 몸짓, 스몰토크 반응, 점심시간의 작은 신호에서 미묘한 단서를 읽습니다. 그들은 자신감을 읽을까요, 두려움을 읽을까요? 리더의 일은 영감을 주는 일이고, 영감은 24시간 내내 찾아옵니다. 사소해 보이는 모든 것에 대한 당신의 태도는 무의식적으로 포착되어 전염되듯 팀으로 퍼집니다.</p>
 </div>
 <div class="paragraph">
-<p>Fitz에게는 Bill이라는<sup class="footnote">[<a id="_footnoteref_33" class="footnote" href="#_footnotedef_33" title="View footnote.">33</a>]</sup> 관리자가 있었는데, 그는 어떤 순간에도 침착함을 유지하는 능력을 완전히 체득한 사람이었습니다. 무엇이 터지든, 얼마나 미친 사건이 벌어지든, 얼마나 큰 화재 폭풍이 닥치든 Bill은 결코 당황하지 않았습니다. 그는 한 팔을 가슴에 올리고 턱을 괴고는, 보통은 완전히 패닉 상태인 직원에게 문제를 묻곤 했습니다. 그러면 직원은 진정하고, ‘목 잘린 닭’처럼 헤매지 않고 문제 해결에 집중할 수 있었습니다.
+<p>Fitz에게는 Bill이라는<sup class="footnote">[<a id="_footnoteref_34" class="footnote" href="#_footnotedef_34" title="View footnote.">34</a>]</sup> 관리자가 있었는데, 그는 어떤 순간에도 침착함을 유지하는 능력을 완전히 체득한 사람이었습니다. 무엇이 터지든, 얼마나 미친 사건이 벌어지든, 얼마나 큰 화재 폭풍이 닥치든 Bill은 결코 당황하지 않았습니다. 그는 한 팔을 가슴에 올리고 턱을 괴고는, 보통은 완전히 패닉 상태인 직원에게 문제를 묻곤 했습니다. 그러면 직원은 진정하고, ‘목 잘린 닭’처럼 헤매지 않고 문제 해결에 집중할 수 있었습니다.
 Fitz는 농담처럼 말하곤 했습니다. 누가 와서 “회사 사무실 19곳이 외계인에게 공격당했습니다”라고 말한다면, Bill은 이렇게 답할 거라고요. “왜 20개를 채우지 않았을까요?”</p>
 </div>
 <div class="paragraph">
 <p>여기서 또 하나의 "질문하기"란 달인 관리 요령으로 이어집니다. 팀원이 조언을 구하면 흥분되기 쉽습니다. 마침내 무엇인가를 고칠 기회니까요! 리더가 되기 전 수년간 해 오던 일이기도 하니, 보통은 <em>바로</em> 해결 모드로 뛰어듭니다.
-하지만 그건 최악의 선택입니다. 조언을 구하는 사람은 보통 당신이 문제를 대신 해결하길 바라지 않습니다. 대신 <em>그 사람 자신이</em> 해결하도록 돕기를 바랍니다. 가장 쉬운 방법은 질문하는 것입니다. 물론 당신 자신을 Magic 8 Ball(미국 장난감)로 대체하라는 뜻은 아닙니다. 그건 미치게 만들 뿐 도움이 되지 않습니다. 대신 HRT를 적용해, 문제를 더 정교하게 정의하고 탐색하도록 도와 그가 스스로 해결책에 이르도록 하세요. 그러면 대개 답에 다다르게 됩니다.<sup class="footnote">[<a id="_footnoteref_34" class="footnote" href="#_footnotedef_34" title="View footnote.">34</a>]</sup> 그리고 그 답은 <em>그 사람의</em> 답이 됩니다. 앞서 말한 소유감과 책임으로 이어지죠. 당신이 답을 알고 있든 없든, 이 기법을 쓰면 대부분의 경우 당신이 답을 알고 있었다는 인상을 남기게 됩니다. 교묘하죠? 소크라테스가 자랑스러워할 겁니다.</p>
+하지만 그건 최악의 선택입니다. 조언을 구하는 사람은 보통 당신이 문제를 대신 해결하길 바라지 않습니다. 대신 <em>그 사람 자신이</em> 해결하도록 돕기를 바랍니다. 가장 쉬운 방법은 질문하는 것입니다. 물론 당신 자신을 Magic 8 Ball(미국 장난감)로 대체하라는 뜻은 아닙니다. 그건 미치게 만들 뿐 도움이 되지 않습니다. 대신 HRT를 적용해, 문제를 더 정교하게 정의하고 탐색하도록 도와 그가 스스로 해결책에 이르도록 하세요. 그러면 대개 답에 다다르게 됩니다.<sup class="footnote">[<a id="_footnoteref_35" class="footnote" href="#_footnotedef_35" title="View footnote.">35</a>]</sup> 그리고 그 답은 <em>그 사람의</em> 답이 됩니다. 앞서 말한 소유감과 책임으로 이어지죠. 당신이 답을 알고 있든 없든, 이 기법을 쓰면 대부분의 경우 당신이 답을 알고 있었다는 인상을 남기게 됩니다. 교묘하죠? 소크라테스가 자랑스러워할 겁니다.</p>
 </div>
 </div>
 <div class="sect3">
@@ -2165,10 +2386,10 @@ Fitz는 농담처럼 말하곤 했습니다. 누가 와서 “회사 사무실 1
 위험 감수를 받아들이는 문화를 만들려면, 실패해도 괜찮다는 사실을 팀이 <em>알도록</em> 하세요.</p>
 </div>
 <div class="paragraph">
-<p>그러니 분명히 합시다. 실패해도 괜찮습니다. 사실 우리는 실패를 아주 빠르게 많은 것을 배우는 방법으로 봅니다(물론 같은 일을 반복해서 실패하지 않는다는 전제하에). 실패를 비난이나 책임 추궁의 대상이 아니라 학습 기회로 보는 것이 중요합니다. 빨리 실패하는 건 좋습니다. 걸린 것이 많지 않으니까요<sup class="footnote">[<a id="_footnoteref_35" class="footnote" href="#_footnotedef_35" title="View footnote.">35</a>]</sup>. 천천히 실패해도 배움은 있지만, 위험과 손실(대개 엔지니어링 시간)이 커서 더 아픕니다. 고객에게 영향을 주는 방식의 실패는 우리가 가장 원치 않는 실패로, 그럴수록 실패에서 학습하기 위한 구조를 더 갖춰 둡니다. 앞서 말했듯 구글은 프로덕션 실패가 있을 때마다 포스트모템을 진행합니다. 이는 실제 실패로 이어진 사건들을 기록하고, 재발 방지를 위한 단계들을 만드는 절차입니다. 이 과정은 책임을 따지거나 불필요한 관료적 점검을 들이밀기 위한 자리가 아닙니다. 문제의 핵심에 강하게 집중해 완전히 고치기 위한 자리입니다. 매우 어렵지만, 아주 효과적입니다(그리고 <span class="keep-together">카타르시스</span>입니다!).</p>
+<p>그러니 분명히 합시다. 실패해도 괜찮습니다. 사실 우리는 실패를 아주 빠르게 많은 것을 배우는 방법으로 봅니다(물론 같은 일을 반복해서 실패하지 않는다는 전제하에). 실패를 비난이나 책임 추궁의 대상이 아니라 학습 기회로 보는 것이 중요합니다. 빨리 실패하는 건 좋습니다. 걸린 것이 많지 않으니까요<sup class="footnote">[<a id="_footnoteref_36" class="footnote" href="#_footnotedef_36" title="View footnote.">36</a>]</sup>. 천천히 실패해도 배움은 있지만, 위험과 손실(대개 엔지니어링 시간)이 커서 더 아픕니다. 고객에게 영향을 주는 방식의 실패는 우리가 가장 원치 않는 실패로, 그럴수록 실패에서 학습하기 위한 구조를 더 갖춰 둡니다. 앞서 말했듯 구글은 프로덕션 실패가 있을 때마다 포스트모템을 진행합니다. 이는 실제 실패로 이어진 사건들을 기록하고, 재발 방지를 위한 단계들을 만드는 절차입니다. 이 과정은 책임을 따지거나 불필요한 관료적 점검을 들이밀기 위한 자리가 아닙니다. 문제의 핵심에 강하게 집중해 완전히 고치기 위한 자리입니다. 매우 어렵지만, 아주 효과적입니다(그리고 <span class="keep-together">카타르시스</span>입니다!).</p>
 </div>
 <div class="paragraph">
-<p>개인의 성공과 실패는 조금 다르게 다뤄야 합니다. 개인의 성공을 칭찬하는 것은 좋지만, 실패했을 때 개인에게 책임을 전가하려 드는 건 팀을 분열시키고 전반적 위험 감수를 위축시키는 최악의 방법입니다. 실패해도 됩니다. 다만 팀으로서 실패하고, 거기서 배우세요. 개인이 성공했다면 팀 앞에서 칭찬하고, 개인이 실패했다면 비공개로 건설적 비판을 제공하세요.<sup class="footnote">[<a id="_footnoteref_36" class="footnote" href="#_footnotedef_36" title="View footnote.">36</a>]</sup> 어떤 경우든 기회를 살려 HRT를 넉넉히 적용해, 팀이 실패에서 학습하도록 도우세요.</p>
+<p>개인의 성공과 실패는 조금 다르게 다뤄야 합니다. 개인의 성공을 칭찬하는 것은 좋지만, 실패했을 때 개인에게 책임을 전가하려 드는 건 팀을 분열시키고 전반적 위험 감수를 위축시키는 최악의 방법입니다. 실패해도 됩니다. 다만 팀으로서 실패하고, 거기서 배우세요. 개인이 성공했다면 팀 앞에서 칭찬하고, 개인이 실패했다면 비공개로 건설적 비판을 제공하세요.<sup class="footnote">[<a id="_footnoteref_37" class="footnote" href="#_footnotedef_37" title="View footnote.">37</a>]</sup> 어떤 경우든 기회를 살려 HRT를 넉넉히 적용해, 팀이 실패에서 학습하도록 도우세요.</p>
 </div>
 </div>
 <div class="sect3">
@@ -2299,7 +2520,7 @@ Fitz는 농담처럼 말하곤 했습니다. 누가 와서 “회사 사무실 1
 <div class="content">
 <div class="title">가면 증후군</div>
 <div class="paragraph">
-<p>소위 "가면 증후군" 또는 "가면 현상"에 대해  많은 글이 쓰여졌습니다<sup class="footnote">[<a id="_footnoteref_37" class="footnote" href="#_footnotedef_37" title="View footnote.">37</a>]</sup>. 위키피디아에 따르면 이는 <em>"사람들이 자신의 성취를 내재화할 수 없는 심리적 현상입니다. 그들의 능력에 대한 외부적 증거에도 불구하고,
+<p>소위 "가면 증후군" 또는 "가면 현상"에 대해  많은 글이 쓰여졌습니다<sup class="footnote">[<a id="_footnoteref_38" class="footnote" href="#_footnotedef_38" title="View footnote.">38</a>]</sup>. 위키피디아에 따르면 이는 <em>"사람들이 자신의 성취를 내재화할 수 없는 심리적 현상입니다. 그들의 능력에 대한 외부적 증거에도 불구하고,
 이 증후군을 가진 사람들은 자신이 사기꾼이며 달성한 성공을 받을 자격이 없다고 확신합니다."</em></p>
 </div>
 <div class="paragraph">
@@ -2349,16 +2570,16 @@ Fitz는 농담처럼 말하곤 했습니다. 누가 와서 “회사 사무실 1
 <div class="sect2">
 <h3 id="intrinsic_versus_extrinsic_motivation">내재적 vs 외재적 동기</h3>
 <div class="paragraph">
-<p>동기부여에는 두 가지 유형이 있습니다: 외부에서 비롯되는 외재적 동기부여(예: 금전적 보상)와 내부에서 오는 내재적 동기부여입니다. 그의 저서 <em>Drive</em><sup class="footnote">[<a id="_footnoteref_38" class="footnote" href="#_footnotedef_38" title="View footnote.">38</a>]</sup>에서 Dan Pink는 사람들을 가장 행복하고 생산적으로 만드는 방법이 외재적으로 동기부여하는 것(예: 그들에게 돈을 쏟아붓는 것)이 아니라, 그들의 <em>내재적</em> 동기부여를 높이기 위해 노력하는 것이라고 설명합니다. Dan은 사람들에게 자율성, 숙달, 그리고 목적<sup class="footnote">[<a id="_footnoteref_39" class="footnote" href="#_footnotedef_39" title="View footnote.">39</a>]</sup>이란 세 가지를 제공함으로써 내재적 동기부여를 높일 수 있다고 주장합니다.</p>
+<p>동기부여에는 두 가지 유형이 있습니다: 외부에서 비롯되는 외재적 동기부여(예: 금전적 보상)와 내부에서 오는 내재적 동기부여입니다. 그의 저서 <em>Drive</em><sup class="footnote">[<a id="_footnoteref_39" class="footnote" href="#_footnotedef_39" title="View footnote.">39</a>]</sup>에서 Dan Pink는 사람들을 가장 행복하고 생산적으로 만드는 방법이 외재적으로 동기부여하는 것(예: 그들에게 돈을 쏟아붓는 것)이 아니라, 그들의 <em>내재적</em> 동기부여를 높이기 위해 노력하는 것이라고 설명합니다. Dan은 사람들에게 자율성, 숙달, 그리고 목적<sup class="footnote">[<a id="_footnoteref_40" class="footnote" href="#_footnotedef_40" title="View footnote.">40</a>]</sup>이란 세 가지를 제공함으로써 내재적 동기부여를 높일 수 있다고 주장합니다.</p>
 </div>
 <div class="paragraph">
-<p>사람이 <em>자율성</em>을 갖는다는 것은 누군가가 마이크로매니징하지 않고도 스스로 행동할 수 있는 능력을 갖는다는 뜻입니다<sup class="footnote">[<a id="_footnoteref_40" class="footnote" href="#_footnotedef_40" title="View footnote.">40</a>]</sup>. 자율적인 직원들과 함께라면, 제품이 나아가야 할 일반적인 방향은 제시하되 어떻게 그곳에 도달할지는 그들이 결정하도록 맡길 수 있습니다. 이는 그들이 제품과 더 밀접한 관계를 갖고 있고 (당신보다 어떻게 만들어야 하는지 더 잘 알 가능성이 높기) 때문일 뿐만 아니라, 제품에 대한 훨씬 더 큰 소유감을 갖게 해주기 때문에 동기부여에 도움이 됩니다. 제품의 성공에 대한 그들의 지분이 클수록, 그것이 성공하는 것을 보고자 하는 관심도 더 커집니다.</p>
+<p>사람이 <em>자율성</em>을 갖는다는 것은 누군가가 마이크로매니징하지 않고도 스스로 행동할 수 있는 능력을 갖는다는 뜻입니다<sup class="footnote">[<a id="_footnoteref_41" class="footnote" href="#_footnotedef_41" title="View footnote.">41</a>]</sup>. 자율적인 직원들과 함께라면, 제품이 나아가야 할 일반적인 방향은 제시하되 어떻게 그곳에 도달할지는 그들이 결정하도록 맡길 수 있습니다. 이는 그들이 제품과 더 밀접한 관계를 갖고 있고 (당신보다 어떻게 만들어야 하는지 더 잘 알 가능성이 높기) 때문일 뿐만 아니라, 제품에 대한 훨씬 더 큰 소유감을 갖게 해주기 때문에 동기부여에 도움이 됩니다. 제품의 성공에 대한 그들의 지분이 클수록, 그것이 성공하는 것을 보고자 하는 관심도 더 커집니다.</p>
 </div>
 <div class="paragraph">
-<p><em>숙련</em>의 가장 기초적인 의미는, 누군가가 새로운 기술을 배우고 기존 기술을 향상할 기회를 제공하는 것입니다. 숙련의 기회를 넉넉히 주면 동기부여에 도움이 될 뿐 아니라 시간이 지날수록 사람을 더욱 성장시켜, 더 강한 팀을 만듭니다<sup class="footnote">[<a id="_footnoteref_41" class="footnote" href="#_footnotedef_41" title="View footnote.">41</a>]</sup>. 직원의 기술은 칼날과 같습니다. 가장 예리한 기술을 가진 사람을 찾기 위해 수만 달러를 들이더라도, 그 칼을 수년간 갈지 않고 ‘사용’만 하면 결국 무뎌져 비효율적이고, 때로는 무용지물이 됩니다. 팀원들이 새 것을 배우고 장인을 향해 숙련을 쌓을 기회를 넉넉히 제공하면, 그들은 예리하고 효율적이며 효과적인 상태를 유지합니다.</p>
+<p><em>숙련</em>의 가장 기초적인 의미는, 누군가가 새로운 기술을 배우고 기존 기술을 향상할 기회를 제공하는 것입니다. 숙련의 기회를 넉넉히 주면 동기부여에 도움이 될 뿐 아니라 시간이 지날수록 사람을 더욱 성장시켜, 더 강한 팀을 만듭니다<sup class="footnote">[<a id="_footnoteref_42" class="footnote" href="#_footnotedef_42" title="View footnote.">42</a>]</sup>. 직원의 기술은 칼날과 같습니다. 가장 예리한 기술을 가진 사람을 찾기 위해 수만 달러를 들이더라도, 그 칼을 수년간 갈지 않고 ‘사용’만 하면 결국 무뎌져 비효율적이고, 때로는 무용지물이 됩니다. 팀원들이 새 것을 배우고 장인을 향해 숙련을 쌓을 기회를 넉넉히 제공하면, 그들은 예리하고 효율적이며 효과적인 상태를 유지합니다.</p>
 </div>
 <div class="paragraph">
-<p>물론 세상의 모든 자율성과 숙련 기회도, 일이 <em>목적</em> 없이 보인다면 동기부여에 도움이 되지 않습니다. 많은 사람이 의미 있는 제품을 만들지만, 그 제품이 회사·고객·세상에 주는 긍정적 효과와는 일정 거리를 둔 채 일합니다. 영향이 작은 제품이라 해도, 팀의 노력이 가진 이유를 찾아 명확히 알려 주면 동기부여할 수 있습니다. 그들이 자신들의 일에서 그 목적을 보도록 도와주면, 동기와 생산성이 크게 높아질 것입니다<sup class="footnote">[<a id="_footnoteref_42" class="footnote" href="#_footnotedef_42" title="View footnote.">42</a>]</sup>. 우리가 아는 한 관리자는(영향이 '작은' 편에 속하는) 자사 제품에 대한 고객 이메일 피드백을 유심히 살피다가, 제품이 개인적으로 혹은 비즈니스에 얼마나 도움이 되었는지 전하는 메시지를 보면 즉시 엔지니어링 팀에 전달합니다. 이는 팀의 동기를 북돋울 뿐 아니라, 제품을 더 좋게 만들 아이디어를 자주 불러일으킵니다.</p>
+<p>물론 세상의 모든 자율성과 숙련 기회도, 일이 <em>목적</em> 없이 보인다면 동기부여에 도움이 되지 않습니다. 많은 사람이 의미 있는 제품을 만들지만, 그 제품이 회사·고객·세상에 주는 긍정적 효과와는 일정 거리를 둔 채 일합니다. 영향이 작은 제품이라 해도, 팀의 노력이 가진 이유를 찾아 명확히 알려 주면 동기부여할 수 있습니다. 그들이 자신들의 일에서 그 목적을 보도록 도와주면, 동기와 생산성이 크게 높아질 것입니다<sup class="footnote">[<a id="_footnoteref_43" class="footnote" href="#_footnotedef_43" title="View footnote.">43</a>]</sup>. 우리가 아는 한 관리자는(영향이 '작은' 편에 속하는) 자사 제품에 대한 고객 이메일 피드백을 유심히 살피다가, 제품이 개인적으로 혹은 비즈니스에 얼마나 도움이 되었는지 전하는 메시지를 보면 즉시 엔지니어링 팀에 전달합니다. 이는 팀의 동기를 북돋울 뿐 아니라, 제품을 더 좋게 만들 아이디어를 자주 불러일으킵니다.</p>
 </div>
 </div>
 <div class="sect2">
@@ -2419,7 +2640,7 @@ Fitz는 농담처럼 말하곤 했습니다. 누가 와서 “회사 사무실 1
 <div class="paragraph">
 <p>하지만 여기에는 위험이 있습니다.
 일반적으로 부정적인 감정의 바다에 빠져 시간을 보내는 것은 건강하지 않습니다.
-그것은 결국 당신을 갉아먹고, 장기적으로 더 많은 갈등을 일으킬 수 있습니다.<sup class="footnote">[<a id="_footnoteref_43" class="footnote" href="#_footnotedef_43" title="View footnote.">43</a>]</sup>
+그것은 결국 당신을 갉아먹고, 장기적으로 더 많은 갈등을 일으킬 수 있습니다.<sup class="footnote">[<a id="_footnoteref_44" class="footnote" href="#_footnotedef_44" title="View footnote.">44</a>]</sup>
 <em>독성 인물</em> 이라는 말은 불쾌한 꼬리표이며, 자동으로 “우리”(좋은 사람들)와 “그들”(성가신 사람들) 사이에 선을 그어 버립니다.
 이 문제를 더 나은 방식으로 생각할 수 있습니다.
 “못된 사람들을 몰아내자”라는 사명을 가진 엘리트 집단처럼 팀을 운영하기보다는, 특정한 부정적 행동을 결코 용납하지 않는 문화를 만드는 것이 더 건강합니다. 걸러내야 할 것은 특정한 사람이 아니라, 바로 그 <em>행동</em> 들입니다.
@@ -2669,7 +2890,7 @@ Charlie는 코드 기여를 전혀 하지 않았습니다. 대신 두세 시간�
 <div class="sect3">
 <h4 id="dont_feed_the_energy_creature">에너지 괴물을 키우지 마라</h4>
 <div class="paragraph">
-<p>Usenet에서 유래한 옛 격언입니다.<sup class="footnote">[<a id="_footnoteref_44" class="footnote" href="#_footnotedef_44" title="View footnote.">44</a>]</sup> 특히 이것은 의도적으로 당신이나 당신의 팀을 자극하려는 트롤(trolls) 에게 가장 잘 통합니다.
+<p>Usenet에서 유래한 옛 격언입니다.<sup class="footnote">[<a id="_footnoteref_45" class="footnote" href="#_footnotedef_45" title="View footnote.">45</a>]</sup> 특히 이것은 의도적으로 당신이나 당신의 팀을 자극하려는 트롤(trolls) 에게 가장 잘 통합니다.
 당신이 반응하면 할수록 트롤은 당신의 에너지를 빨아들이고, 당신은 그만큼 더 많은 시간을 낭비하게 됩니다. 가장 좋은 대응은 <em>침묵</em>인 경우가 많습니다.
 한 방 먹이는 멋진 한 줄을 던지고 싶더라도, 참으세요. 아무도 자신에게 관심을 주지 않는다는 걸 깨닫게 되면, 그는 보통 흥미를 잃고 그냥 떠납니다.
 대응하지 않기 위해서는 꽤 큰 의지가 필요하다는 점을 명심하십시오. 참고 버티세요!</p>
@@ -2697,7 +2918,7 @@ Charlie는 코드 기여를 전혀 하지 않았습니다. 대신 두세 시간�
 누군가가 불평하면 주의 깊게 들으세요. 화가 섞이거나 무례한 언어에도 불구하고, 언제나 먼저 그 사람에게 선의의 해석을 부여하는 것부터 시작해야 합니다.
 정말 일리가 있나요? 그 사람의 경험에서 배울 것이 있나요, 응답할 가치가 있는 아이디어가 있나요?
 종종 대답은 “그렇다”입니다.독성 인물의 독설 속에도 실제로는 지혜가 묻혀 있는 경우가 많습니다.
-논의를 항상 기술적 <span class="keep-together">토론</span>으로 되돌리세요<sup class="footnote">[<a id="_footnoteref_45" class="footnote" href="#_footnotedef_45" title="View footnote.">45</a>]</sup>.</p>
+논의를 항상 기술적 <span class="keep-together">토론</span>으로 되돌리세요<sup class="footnote">[<a id="_footnoteref_46" class="footnote" href="#_footnotedef_46" title="View footnote.">46</a>]</sup>.</p>
 </div>
 <div class="paragraph">
 <p>좋은 예가 하나 있습니다. 오픈 소스 커뮤니티의 유명 리더에게서 독설 가득한 이메일을 받은 날이었습니다.
@@ -2986,7 +3207,7 @@ Charlie에게 악의가 없었음에도 우리의 에너지와 집중이 빨려�
 <div class="quoteblock">
 <blockquote>
 <div class="paragraph">
-<p>행복한 가족은 다 닮아있다. 모든 불행한 가족은 각자의 방식으로 불행하다.<sup class="footnote">[<a id="_footnoteref_46" class="footnote" href="#_footnotedef_46" title="View footnote.">46</a>]</sup></p>
+<p>행복한 가족은 다 닮아있다. 모든 불행한 가족은 각자의 방식으로 불행하다.<sup class="footnote">[<a id="_footnoteref_47" class="footnote" href="#_footnotedef_47" title="View footnote.">47</a>]</sup></p>
 </div>
 </blockquote>
 <div class="attribution">
@@ -3009,7 +3230,7 @@ Charlie에게 악의가 없었음에도 우리의 에너지와 집중이 빨려�
 실패에 대한 두려움은 나쁜 관리자들의 가장 흔한 특성 중 하나입니다. 이런 불안감은 그들을 매우 보수적으로 만드는 경향이 있으며,
 이는 일반적인 엔지니어의 작업 스타일과 정반대입니다. 관리자가 당신이 위험을 감수하기를 원하지 않는다면,
 제품에 당신만의 아이디어를 주입할 기회는 거의 없고, 보통 다른 사람이 설계한 제품을 (기계적으로) 구현하게 될 것입니다.
-<sup class="footnote">[<a id="_footnoteref_47" class="footnote" href="#_footnotedef_47" title="View footnote.">47</a>]</sup></p>
+<sup class="footnote">[<a id="_footnoteref_48" class="footnote" href="#_footnotedef_48" title="View footnote.">48</a>]</sup></p>
 </div>
 <div class="paragraph">
 <p>
@@ -3028,7 +3249,7 @@ Charlie에게 악의가 없었음에도 우리의 에너지와 집중이 빨려�
 </div>
 </div>
 <div class="paragraph">
-<p>정보를 독점하고 정보와 소통의 통로가 되도록 요구함으로써, 나쁜 관리자들은 또한 당신의 성공에 대한 공로를 가로챌 수 있고<sup class="footnote">[<a id="_footnoteref_48" class="footnote" href="#_footnotedef_48" title="View footnote.">48</a>]</sup> 당신의 실패(그리고 때로는 그들 자신의 실패까지도)에 대해 당신을 비난할 수 있습니다. 많은 경우, 이런 종류의 나쁜 관리자는 당신의 존재를 오로지 자신이 승진하기 위한 수단으로만 보며, 당신의 커리어는 물론이고 팀의 행복에 대해서도 신경 쓰지 않습니다.</p>
+<p>정보를 독점하고 정보와 소통의 통로가 되도록 요구함으로써, 나쁜 관리자들은 또한 당신의 성공에 대한 공로를 가로챌 수 있고<sup class="footnote">[<a id="_footnoteref_49" class="footnote" href="#_footnotedef_49" title="View footnote.">49</a>]</sup> 당신의 실패(그리고 때로는 그들 자신의 실패까지도)에 대해 당신을 비난할 수 있습니다. 많은 경우, 이런 종류의 나쁜 관리자는 당신의 존재를 오로지 자신이 승진하기 위한 수단으로만 보며, 당신의 커리어는 물론이고 팀의 행복에 대해서도 신경 쓰지 않습니다.</p>
 </div>
 <div class="paragraph">
 <p>우리 친구 Susan은 몇 년 동안 끔찍한 관리자를 두었는데, 그녀의 관리자는 종종 아무런 맥락도,
@@ -3091,7 +3312,7 @@ Terrence는 이 이메일을 자신의 관리자에게 보냈고, 관리자는 �
 </div>
 <div class="paragraph">
 <p>
-많은 회사들은 조직 계층구조에 집착하는 사람들로 가득 차 있습니다.<sup class="footnote">[<a id="_footnoteref_49" class="footnote" href="#_footnotedef_49" title="View footnote.">49</a>]</sup>
+많은 회사들은 조직 계층구조에 집착하는 사람들로 가득 차 있습니다.<sup class="footnote">[<a id="_footnoteref_50" class="footnote" href="#_footnotedef_50" title="View footnote.">50</a>]</sup>
 이는 끝없는 권력 투쟁을 초래하며, 관리자들은 종종 엔지니어들이 다른 팀으로 이전하는 것을 막아서 자신의 팀이 가치 있는 기여자를 잃는 것을 보호하려 합니다.
 회사와 엔지니어 모두에게 올바른 일이 이전을 허용하는 것일 때조차 말입니다.</p>
 </div>
@@ -3099,7 +3320,7 @@ Terrence는 이 이메일을 자신의 관리자에게 보냈고, 관리자는 �
 <p>당신의 회사가 당신을 못된 아이처럼 대한 적이 있나요? 지나치게 열성적인 회사 방화벽 때문에 무해한 외부 웹사이트에 접근할 수 없나요?
 상세한 타임카드로 하루의 모든 순간을 세심하게 기록해야 하나요?
 일부 조직들은 심지어 매주 작성하는 코드 줄 수와 같은 무의미하고 (보통 매우 부정확한) 방법으로 당신의 생산성을 측정하기까지 합니다.
-<sup class="footnote">[<a id="_footnoteref_50" class="footnote" href="#_footnotedef_50" title="View footnote.">50</a>]</sup></p>
+<sup class="footnote">[<a id="_footnoteref_51" class="footnote" href="#_footnotedef_51" title="View footnote.">51</a>]</sup></p>
 </div>
 <div id="image_no_caption-id033" class="imageblock">
 <div class="content">
@@ -3141,7 +3362,7 @@ Terrence는 이 이메일을 자신의 관리자에게 보냈고, 관리자는 �
 좋은 조직에 있든 나쁜 조직에 있든, 일을 완수하는 데 매우 효과적이라고 우리가 발견한 여러 전략들이 있습니다.</p>
 </div>
 <div class="sect3">
-<h4 id="its_easier_to_ask_for_forgiveness_than_p">"용서를 구하는 게 허가를 구하기보다 쉽다"<sup class="footnote">[<a id="_footnoteref_51" class="footnote" href="#_footnotedef_51" title="View footnote.">51</a>]</sup></h4>
+<h4 id="its_easier_to_ask_for_forgiveness_than_p">"용서를 구하는 게 허가를 구하기보다 쉽다"<sup class="footnote">[<a id="_footnoteref_1" class="footnote" href="#_footnotedef_1" title="View footnote.">1</a>]</sup></h4>
 <div class="paragraph">
 <p>
 무엇보다도, 조직에서 당신이 무엇을 해낼 수 있는지 알아두세요—허가를 요청하는 것이 책임을 다른 사람에게 떠넘길 기회를 주기는 하지만,
@@ -4439,157 +4660,157 @@ HRT는 또한 여러분이 팀 밖의 임시 협력자들과 상호작용하고 
 <div id="footnotes">
 <hr>
 <div class="footnote" id="_footnotedef_1">
-<a href="#_footnoteref_1">1</a>. 우리는 톰 드마르코의 <em>PeopleWare</em> 를 읽었고 훌륭한 책이라고 생각합니다. 다만 이 책은 개인 기여자가 사람들과 더 효율적으로 일하는 법을 배우는 책이라기보다, 관리자가 팀을 더 성공적으로 만드는 법을 배우는 책에 가깝습니다.
+<a href="#_footnoteref_1">1</a>. Widely attributed to Admiral Grace Murray Hopper, coinventor of COBOL and an incredibly witty computer scientist.
 </div>
 <div class="footnote" id="_footnotedef_2">
-<a href="#_footnoteref_2">2</a>. 자전거 디자이너라면 정말 말그대로겠군요.
+<a href="#_footnoteref_2">2</a>. 우리는 톰 드마르코의 <em>PeopleWare</em> 를 읽었고 훌륭한 책이라고 생각합니다. 다만 이 책은 개인 기여자가 사람들과 더 효율적으로 일하는 법을 배우는 책이라기보다, 관리자가 팀을 더 성공적으로 만드는 법을 배우는 책에 가깝습니다.
 </div>
 <div class="footnote" id="_footnotedef_3">
-<a href="#_footnoteref_3">3</a>. 검증 과정에서 너무 이른 피드백이 해로울 때도 있지만, 그 이야기는 나중 장에서 다루겠습니다.
+<a href="#_footnoteref_3">3</a>. 자전거 디자이너라면 정말 말그대로겠군요.
 </div>
 <div class="footnote" id="_footnotedef_4">
-<a href="#_footnoteref_4">4</a>. 그렇지만 조용하고 내성적인 사람들은 대부분의 사람들보다 더 많은 고요함, 혼자 있는 시간이 필요할 수 있음을 인정합니다. 사무실이 아니라 더 조용한 환경이 더 좋을 수도 있습니다.
+<a href="#_footnoteref_4">4</a>. 검증 과정에서 너무 이른 피드백이 해로울 때도 있지만, 그 이야기는 나중 장에서 다루겠습니다.
 </div>
 <div class="footnote" id="_footnotedef_5">
-<a href="#_footnoteref_5">5</a>. 과거에 무능한 사람에게 위임했다가 데인 적이 있다면 이것이 믿기 힘들 수 있습니다.
+<a href="#_footnoteref_5">5</a>. 그렇지만 조용하고 내성적인 사람들은 대부분의 사람들보다 더 많은 고요함, 혼자 있는 시간이 필요할 수 있음을 인정합니다. 사무실이 아니라 더 조용한 환경이 더 좋을 수도 있습니다.
 </div>
 <div class="footnote" id="_footnotedef_6">
-<a href="#_footnoteref_6">6</a>. "You and Your Research," <a href="http://bit.ly/hamming_paper" class="bare">http://bit.ly/hamming_paper</a>
+<a href="#_footnoteref_6">6</a>. 과거에 무능한 사람에게 위임했다가 데인 적이 있다면 이것이 믿기 힘들 수 있습니다.
 </div>
 <div class="footnote" id="_footnotedef_7">
-<a href="#_footnoteref_7">7</a>. 이 전설에는 여러 버전이 있으며, 웹에서 다양한 유명 경영자에게 귀속된 형태로 찾을 수 있습니다.
+<a href="#_footnoteref_7">7</a>. "You and Your Research," <a href="http://bit.ly/hamming_paper" class="bare">http://bit.ly/hamming_paper</a>
 </div>
 <div class="footnote" id="_footnotedef_8">
-<a href="#_footnoteref_8">8</a>. 물론 강한 문화는 신입이 가져오는 바람직한 ‘야생 균주’를 받아들이는 선택지도 언제나 갖고 있습니다.
+<a href="#_footnoteref_8">8</a>. 이 전설에는 여러 버전이 있으며, 웹에서 다양한 유명 경영자에게 귀속된 형태로 찾을 수 있습니다.
 </div>
 <div class="footnote" id="_footnotedef_9">
-<a href="#_footnoteref_9">9</a>. 저희 중 한 명인 Fitz가 구글 피츠버그 오피스를 처음 방문했을 때 이 장면을 보고 <em>엄청</em> 놀랐습니다.
+<a href="#_footnoteref_9">9</a>. 물론 강한 문화는 신입이 가져오는 바람직한 ‘야생 균주’를 받아들이는 선택지도 언제나 갖고 있습니다.
 </div>
 <div class="footnote" id="_footnotedef_10">
-<a href="#_footnoteref_10">10</a>. ‘초특급 아키텍트’와 평범한 프로그래머 몇 명만 뽑아도 좋은 제품을 만들 수 있다고 생각하는 사람들이 있습니다. 할 수는 있겠지만, 우리 생각에 그것은 훌륭한 사람들과 함께 서로 영감을 주고 도전하고 배울 수 있는 팀과 일하는 것에 비해 훨씬 덜 흥미롭고 재미없습니다.
+<a href="#_footnoteref_10">10</a>. 저희 중 한 명인 Fitz가 구글 피츠버그 오피스를 처음 방문했을 때 이 장면을 보고 <em>엄청</em> 놀랐습니다.
 </div>
 <div class="footnote" id="_footnotedef_11">
-<a href="#_footnoteref_11">11</a>. 훌륭한 엔지니어는 훌륭한 리더도 요구합니다. 형편없는 리더는 훌륭한 엔지니어를 감당할 자신이 없고, 사람들을 좌지우지하려 드는 경향이 있기 때문입니다.
+<a href="#_footnoteref_11">11</a>. ‘초특급 아키텍트’와 평범한 프로그래머 몇 명만 뽑아도 좋은 제품을 만들 수 있다고 생각하는 사람들이 있습니다. 할 수는 있겠지만, 우리 생각에 그것은 훌륭한 사람들과 함께 서로 영감을 주고 도전하고 배울 수 있는 팀과 일하는 것에 비해 훨씬 덜 흥미롭고 재미없습니다.
 </div>
 <div class="footnote" id="_footnotedef_12">
-<a href="#_footnoteref_12">12</a>. 합의를 이루지 못하면 어떤 팀은 리드가 결정하도록 하고, 어떤 팀은 표결에 부칩니다. 팀이 어떤 과정을 쓰느냐보다 중요한 것은, 갈등이 있을 때 그 과정을 일관되게 지키는 것입니다.
+<a href="#_footnoteref_12">12</a>. 훌륭한 엔지니어는 훌륭한 리더도 요구합니다. 형편없는 리더는 훌륭한 엔지니어를 감당할 자신이 없고, 사람들을 좌지우지하려 드는 경향이 있기 때문입니다.
 </div>
 <div class="footnote" id="_footnotedef_13">
-<a href="#_footnoteref_13">13</a>. 즉, 팀의 자부심
+<a href="#_footnoteref_13">13</a>. 합의를 이루지 못하면 어떤 팀은 리드가 결정하도록 하고, 어떤 팀은 표결에 부칩니다. 팀이 어떤 과정을 쓰느냐보다 중요한 것은, 갈등이 있을 때 그 과정을 일관되게 지키는 것입니다.
 </div>
 <div class="footnote" id="_footnotedef_14">
-<a href="#_footnoteref_14">14</a>. 수잔 케인의 훌륭한 TED 강연 ‘The Power of Introverts’(<a href="http://www.youtube.com/watch?v=c0KYU2j0TM4" class="bare">http://www.youtube.com/watch?v=c0KYU2j0TM4</a>) 또는 저서 <em>Quiet: The Power of Introverts</em>(Crown)을 참고하세요.
+<a href="#_footnoteref_14">14</a>. 즉, 팀의 자부심
 </div>
 <div class="footnote" id="_footnotedef_15">
-<a href="#_footnoteref_15">15</a>. 이 점은 아무리 강조해도 지나치지 않습니다—온갖 산만함에 ‘아니오’라고 말하는 것이 집중을 지키는 핵심입니다.
+<a href="#_footnoteref_15">15</a>. 수잔 케인의 훌륭한 TED 강연 ‘The Power of Introverts’(<a href="http://www.youtube.com/watch?v=c0KYU2j0TM4" class="bare">http://www.youtube.com/watch?v=c0KYU2j0TM4</a>) 또는 저서 <em>Quiet: The Power of Introverts</em>(Crown)을 참고하세요.
 </div>
 <div class="footnote" id="_footnotedef_16">
-<a href="#_footnoteref_16">16</a>. 오픈 소스 소프트웨어를 쓰는 일은 트램펄린 위에 카드로 집을 짓는 것과 비슷하다고 자주 비유해 왔습니다. 꾸준한 손놀림과 많은 인내, 그리고 앞서 뛰어드는 사람들을 상대할 각오가 필요합니다.
+<a href="#_footnoteref_16">16</a>. 이 점은 아무리 강조해도 지나치지 않습니다—온갖 산만함에 ‘아니오’라고 말하는 것이 집중을 지키는 핵심입니다.
 </div>
 <div class="footnote" id="_footnotedef_17">
-<a href="#_footnoteref_17">17</a>. “Making GWT Better”는 <a href="http://code.google.com/webtoolkit/makinggwtbetter.html" class="bare">http://code.google.com/webtoolkit/makinggwtbetter.html</a>에서 볼 수 있으며, 모범적인 사명 선언문으로 읽어볼 가치가 있습니다.
+<a href="#_footnoteref_17">17</a>. 오픈 소스 소프트웨어를 쓰는 일은 트램펄린 위에 카드로 집을 짓는 것과 비슷하다고 자주 비유해 왔습니다. 꾸준한 손놀림과 많은 인내, 그리고 앞서 뛰어드는 사람들을 상대할 각오가 필요합니다.
 </div>
 <div class="footnote" id="_footnotedef_18">
-<a href="#_footnoteref_18">18</a>. <a href="http://www.paulgraham.com/makersschedule.html" class="bare">http://www.paulgraham.com/makersschedule.html</a>
+<a href="#_footnoteref_18">18</a>. “Making GWT Better”는 <a href="http://code.google.com/webtoolkit/makinggwtbetter.html" class="bare">http://code.google.com/webtoolkit/makinggwtbetter.html</a>에서 볼 수 있으며, 모범적인 사명 선언문으로 읽어볼 가치가 있습니다.
 </div>
 <div class="footnote" id="_footnotedef_19">
-<a href="#_footnoteref_19">19</a>. 구글 엔지니어링 부사장 웨인 로징이 2001년에 엔지니어의 삶의 질을 높이기 위해 시작했습니다. Fitz는 수년간 목요일을 막아두었고, 꽤 잘 작동했지만 엄격한 모니터링과 가끔은 회의를 잡은 사람에게 퉁명스러운 이메일을 보내는 일도 필요했습니다.
+<a href="#_footnoteref_19">19</a>. <a href="http://www.paulgraham.com/makersschedule.html" class="bare">http://www.paulgraham.com/makersschedule.html</a>
 </div>
 <div class="footnote" id="_footnotedef_20">
-<a href="#_footnoteref_20">20</a>. “시끄러운 소수”는 보통 한두 사람이 스레드의 모든 글에 일일이 답하며, 자신의 입장과 맞지 않는 모든 주장을 반박하는 행태를 보입니다. 얼핏 보면 반대가 엄청나게 많은 것처럼 보이겠지만, 실제로는 불만을 품은 한두 명일 뿐입니다. 이런 행동은 빠르고 주의 깊게 다뤄야 합니다(이런 사람들을 다루는 법은 <a href="#dealing_with_poisonous_people">4장. 독이 되는 사람 다루기</a>에서 더 자세히 설명합니다).
+<a href="#_footnoteref_20">20</a>. 구글 엔지니어링 부사장 웨인 로징이 2001년에 엔지니어의 삶의 질을 높이기 위해 시작했습니다. Fitz는 수년간 목요일을 막아두었고, 꽤 잘 작동했지만 엄격한 모니터링과 가끔은 회의를 잡은 사람에게 퉁명스러운 이메일을 보내는 일도 필요했습니다.
 </div>
 <div class="footnote" id="_footnotedef_21">
-<a href="#_footnoteref_21">21</a>. 물론 한 엔지니어가 방해받지 않아야 하고 문맥 전환 비용을 감당할 수 없는 상황이라면, 채팅을 무시해도 완전히 괜찮습니다.
+<a href="#_footnoteref_21">21</a>. “시끄러운 소수”는 보통 한두 사람이 스레드의 모든 글에 일일이 답하며, 자신의 입장과 맞지 않는 모든 주장을 반박하는 행태를 보입니다. 얼핏 보면 반대가 엄청나게 많은 것처럼 보이겠지만, 실제로는 불만을 품은 한두 명일 뿐입니다. 이런 행동은 빠르고 주의 깊게 다뤄야 합니다(이런 사람들을 다루는 법은 <a href="#dealing_with_poisonous_people">4장. 독이 되는 사람 다루기</a>에서 더 자세히 설명합니다).
 </div>
 <div class="footnote" id="_footnotedef_22">
-<a href="#_footnoteref_22">22</a>. 더스틴 보스웰과 트레버 파우처의 The Art of Readable Code(O&#8217;Reilly) 주석 챕터를 참고하세요: <a class="orm:hideurl" href="http://shop.oreilly.com/product/9780596802301.do"><em>The Art of Readable Code</em></a>.
+<a href="#_footnoteref_22">22</a>. 물론 한 엔지니어가 방해받지 않아야 하고 문맥 전환 비용을 감당할 수 없는 상황이라면, 채팅을 무시해도 완전히 괜찮습니다.
 </div>
 <div class="footnote" id="_footnotedef_23">
-<a href="#_footnoteref_23">23</a>. 이 가이드와 다른 여러 스타일 가이드는 <a href="http://code.google.com/p/google-styleguide/" class="bare">http://code.google.com/p/google-styleguide/</a>에서 찾을 수 있습니다.
+<a href="#_footnoteref_23">23</a>. 더스틴 보스웰과 트레버 파우처의 The Art of Readable Code(O&#8217;Reilly) 주석 챕터를 참고하세요: <a class="orm:hideurl" href="http://shop.oreilly.com/product/9780596802301.do"><em>The Art of Readable Code</em></a>.
 </div>
 <div class="footnote" id="_footnotedef_24">
-<a href="#_footnoteref_24">24</a>. 영화 블레이드 러너(1982) Roy의 대사
+<a href="#_footnoteref_24">24</a>. 이 가이드와 다른 여러 스타일 가이드는 <a href="http://code.google.com/p/google-styleguide/" class="bare">http://code.google.com/p/google-styleguide/</a>에서 찾을 수 있습니다.
 </div>
 <div class="footnote" id="_footnotedef_25">
-<a href="#_footnoteref_25">25</a>. 당신이 개인 기여자이고 리더십 자리와 거리가 멀더라도, 이 장은 당신의 관리자를 더 잘 이해하는 데 도움이 됩니다.
+<a href="#_footnoteref_25">25</a>. 영화 블레이드 러너(1982) Roy의 대사
 </div>
 <div class="footnote" id="_footnotedef_26">
-<a href="#_footnoteref_26">26</a>. 유럽에서는 18세기, 미국에서는 19세기에 시작되었습니다.
+<a href="#_footnoteref_26">26</a>. 당신이 개인 기여자이고 리더십 자리와 거리가 멀더라도, 이 장은 당신의 관리자를 더 잘 이해하는 데 도움이 됩니다.
 </div>
 <div class="footnote" id="_footnotedef_27">
-<a href="#_footnoteref_27">27</a>. 공장 노동자의 동작을 최적화하려는 과학적 관리(테일러리즘)와, 그로 인한 사기 저하에 대한 더 흥미로운 이야기는 관련 자료를 찾아보세요.
+<a href="#_footnoteref_27">27</a>. 유럽에서는 18세기, 미국에서는 19세기에 시작되었습니다.
 </div>
 <div class="footnote" id="_footnotedef_28">
-<a href="#_footnoteref_28">28</a>. <a href="http://www.ted.com/talks/dan_pink_on_motivation.html" class="bare">http://www.ted.com/talks/dan_pink_on_motivation.html</a>
+<a href="#_footnoteref_28">28</a>. 공장 노동자의 동작을 최적화하려는 과학적 관리(테일러리즘)와, 그로 인한 사기 저하에 대한 더 흥미로운 이야기는 관련 자료를 찾아보세요.
 </div>
 <div class="footnote" id="_footnotedef_29">
-<a href="#_footnoteref_29">29</a>. 아이를 키워 봤다면, 당신이 엄마(혹은 아빠)의 말을 똑같이 내뱉고는 “세상에, 내가 엄마가 됐네”라고(어쩌면 소리 내어) 외치던 순간을 생생히 기억할 가능성이 큽니다.
+<a href="#_footnoteref_29">29</a>. <a href="http://www.ted.com/talks/dan_pink_on_motivation.html" class="bare">http://www.ted.com/talks/dan_pink_on_motivation.html</a>
 </div>
 <div class="footnote" id="_footnotedef_30">
-<a href="#_footnoteref_30">30</a>. 여기서 <em>관리자</em>는 사람에게 고함치는 존재가 아니라, 말 그대로 ‘자신에게 리포트하는 사람이 있는' 역할을 뜻합니다.
+<a href="#_footnoteref_30">30</a>. 아이를 키워 봤다면, 당신이 엄마(혹은 아빠)의 말을 똑같이 내뱉고는 “세상에, 내가 엄마가 됐네”라고(어쩌면 소리 내어) 외치던 순간을 생생히 기억할 가능성이 큽니다.
 </div>
 <div class="footnote" id="_footnotedef_31">
-<a href="#_footnoteref_31">31</a>. 회사들이 커리어 경로의 일부로 사람을 억지로 관리 직군에 밀어 넣어서는 안 되는 또 하나의 이유입니다. 훌륭한 코드를 양산하는 엔지니어가 팀을 이끌거나 사람을 관리하고 싶지 않을 때, 그를 관리자나 테크 리드로 밀어 넣으면 훌륭한 엔지니어 하나를 잃고 형편없는 관리자 하나를 얻습니다. 나쁜 생각일 뿐 아니라 적극적으로 해롭습니다.
+<a href="#_footnoteref_31">31</a>. 여기서 <em>관리자</em>는 사람에게 고함치는 존재가 아니라, 말 그대로 ‘자신에게 리포트하는 사람이 있는' 역할을 뜻합니다.
 </div>
 <div class="footnote" id="_footnotedef_32">
-<a href="#_footnoteref_32">32</a>. <a href="#building_an_awesome_team_culture">2장. 훌륭한 팀 문화 만들기</a>의 실패에 관한 섹션을 참조하세요.
+<a href="#_footnoteref_32">32</a>. 회사들이 커리어 경로의 일부로 사람을 억지로 관리 직군에 밀어 넣어서는 안 되는 또 하나의 이유입니다. 훌륭한 코드를 양산하는 엔지니어가 팀을 이끌거나 사람을 관리하고 싶지 않을 때, 그를 관리자나 테크 리드로 밀어 넣으면 훌륭한 엔지니어 하나를 잃고 형편없는 관리자 하나를 얻습니다. 나쁜 생각일 뿐 아니라 적극적으로 해롭습니다.
 </div>
 <div class="footnote" id="_footnotedef_33">
-<a href="#_footnoteref_33">33</a>. 실명입니다.
+<a href="#_footnoteref_33">33</a>. <a href="#building_an_awesome_team_culture">2장. 훌륭한 팀 문화 만들기</a>의 실패에 관한 섹션을 참조하세요.
 </div>
 <div class="footnote" id="_footnotedef_34">
-<a href="#_footnoteref_34">34</a>. “Rubber duck debugging”도 참고하세요, <a href="http://en.wikipedia.org/wiki/Rubber_duck_debugging" class="bare">http://en.wikipedia.org/wiki/Rubber_duck_debugging</a>.
+<a href="#_footnoteref_34">34</a>. 실명입니다.
 </div>
 <div class="footnote" id="_footnotedef_35">
-<a href="#_footnoteref_35">35</a>. Alberto Savoia의 발표, <a href="http://bit.ly/pretotyping_manifesto">"The Pretotyping Manifesto"</a> 참고
+<a href="#_footnoteref_35">35</a>. “Rubber duck debugging”도 참고하세요, <a href="http://en.wikipedia.org/wiki/Rubber_duck_debugging" class="bare">http://en.wikipedia.org/wiki/Rubber_duck_debugging</a>.
 </div>
 <div class="footnote" id="_footnotedef_36">
-<a href="#_footnoteref_36">36</a>. 개인을 공개적으로 비판할 일은 거의 없고, 대부분은 그저 모진 행동일 뿐입니다. 팀은 이미 누가 실패했는지 알고 있으니 굳이 들쑤실 필요가 없습니다.
+<a href="#_footnoteref_36">36</a>. Alberto Savoia의 발표, <a href="http://bit.ly/pretotyping_manifesto">"The Pretotyping Manifesto"</a> 참고
 </div>
 <div class="footnote" id="_footnotedef_37">
-<a href="#_footnoteref_37">37</a>. Dr. Pauline Rose Clance가 처음 문서화했습니다, <a href="http://paulineroseclance.com/impostor_phenomenon.html" class="bare">http://paulineroseclance.com/impostor_phenomenon.html</a>.
+<a href="#_footnoteref_37">37</a>. 개인을 공개적으로 비판할 일은 거의 없고, 대부분은 그저 모진 행동일 뿐입니다. 팀은 이미 누가 실패했는지 알고 있으니 굳이 들쑤실 필요가 없습니다.
 </div>
 <div class="footnote" id="_footnotedef_38">
-<a href="#_footnoteref_38">38</a>. 이 장의 앞부분에서 언급했듯이, 이 주제에 대한 Dan의 환상적인 TED 강연도 참조하세요.
+<a href="#_footnoteref_38">38</a>. Dr. Pauline Rose Clance가 처음 문서화했습니다, <a href="http://paulineroseclance.com/impostor_phenomenon.html" class="bare">http://paulineroseclance.com/impostor_phenomenon.html</a>.
 </div>
 <div class="footnote" id="_footnotedef_39">
-<a href="#_footnoteref_39">39</a>. 이는 해당 사람들이 충분히 잘 지급받고 있어서 소득이 스트레스의 원인이 되지 않는다고 가정합니다.
+<a href="#_footnoteref_39">39</a>. 이 장의 앞부분에서 언급했듯이, 이 주제에 대한 Dan의 환상적인 TED 강연도 참조하세요.
 </div>
 <div class="footnote" id="_footnotedef_40">
-<a href="#_footnoteref_40">40</a>. 물론 이는 팀에 마이크로매니징이 필요하지 않은 사람들이 있다고 가정합니다.
+<a href="#_footnoteref_40">40</a>. 이는 해당 사람들이 충분히 잘 지급받고 있어서 소득이 스트레스의 원인이 되지 않는다고 가정합니다.
 </div>
 <div class="footnote" id="_footnotedef_41">
-<a href="#_footnoteref_41">41</a>. 물론 이는 그들의 시장 가치도 높여, 일이 즐겁지 않으면 더 쉽게 떠날 수 있게 만든다는 뜻이기도 합니다. <a href="#track_happiness">행복을 추적하라</a> 패턴 참고
+<a href="#_footnoteref_41">41</a>. 물론 이는 팀에 마이크로매니징이 필요하지 않은 사람들이 있다고 가정합니다.
 </div>
 <div class="footnote" id="_footnotedef_42">
-<a href="#_footnoteref_42">42</a>. <a href="http://bit.ly/task_significance" class="bare">http://bit.ly/task_significance</a>
+<a href="#_footnoteref_42">42</a>. 물론 이는 그들의 시장 가치도 높여, 일이 즐겁지 않으면 더 쉽게 떠날 수 있게 만든다는 뜻이기도 합니다. <a href="#track_happiness">행복을 추적하라</a> 패턴 참고
 </div>
 <div class="footnote" id="_footnotedef_43">
-<a href="#_footnoteref_43">43</a>. 요다는 아마도 어둠의 면을 피하라고 한마디 했을 겁니다.
+<a href="#_footnoteref_43">43</a>. <a href="http://bit.ly/task_significance" class="bare">http://bit.ly/task_significance</a>
 </div>
 <div class="footnote" id="_footnotedef_44">
-<a href="#_footnoteref_44">44</a>. 이는 원래의 스타 트렉(Star Trek) 에피소드 “Day of the Dove” 를 가리키는 것일 수도 있습니다. 그 에피소드에서는 부정적인 감정이 에너지 생명체를 먹였습니다. Kirk와 그의 Klingon 동료 Kang은 부하들에게 에너지 생명체를 더 이상 먹이지 말라고 명령했고, 결국 그 생명체는 엔터프라이즈(Enterprise)를 떠났습니다.
+<a href="#_footnoteref_44">44</a>. 요다는 아마도 어둠의 면을 피하라고 한마디 했을 겁니다.
 </div>
 <div class="footnote" id="_footnotedef_45">
-<a href="#_footnoteref_45">45</a>. 자세한 내용은 Norman Kerth의 저서 <em>Project Retrospectives</em> 의 “Retrospective Prime Directive”를 참조
+<a href="#_footnoteref_45">45</a>. 이는 원래의 스타 트렉(Star Trek) 에피소드 “Day of the Dove” 를 가리키는 것일 수도 있습니다. 그 에피소드에서는 부정적인 감정이 에너지 생명체를 먹였습니다. Kirk와 그의 Klingon 동료 Kang은 부하들에게 에너지 생명체를 더 이상 먹이지 말라고 명령했고, 결국 그 생명체는 엔터프라이즈(Enterprise)를 떠났습니다.
 </div>
 <div class="footnote" id="_footnotedef_46">
-<a href="#_footnoteref_46">46</a>. Anna Karenina principle,<a href="http://en.wikipedia.org/wiki/Anna_Karenina_principle" class="bare">http://en.wikipedia.org/wiki/Anna_Karenina_principle</a>.
+<a href="#_footnoteref_46">46</a>. 자세한 내용은 Norman Kerth의 저서 <em>Project Retrospectives</em> 의 “Retrospective Prime Directive”를 참조
 </div>
 <div class="footnote" id="_footnotedef_47">
-<a href="#_footnoteref_47">47</a>. 다시 말하지만, 이는 소프트웨어를 작성하는 허용 가능한 방법입니다; 우리는 단지 최고 수준의 엔지니어들이 시간을 보내기에는 그리 흥미로운 방법이 아니라고 생각할 뿐입니다.
+<a href="#_footnoteref_47">47</a>. Anna Karenina principle,<a href="http://en.wikipedia.org/wiki/Anna_Karenina_principle" class="bare">http://en.wikipedia.org/wiki/Anna_Karenina_principle</a>.
 </div>
 <div class="footnote" id="_footnotedef_48">
-<a href="#_footnoteref_48">48</a>. 이는 당신이 그들의 방해에도 불구하고 성공했기 때문에 두 배로 좌절스럽습니다!
+<a href="#_footnoteref_48">48</a>. 다시 말하지만, 이는 소프트웨어를 작성하는 허용 가능한 방법입니다; 우리는 단지 최고 수준의 엔지니어들이 시간을 보내기에는 그리 흥미로운 방법이 아니라고 생각할 뿐입니다.
 </div>
 <div class="footnote" id="_footnotedef_49">
-<a href="#_footnoteref_49">49</a>. 게다가, 많은 기능 장애 회사들에서 사람들은 생산적이거나 자신의 일을 즐기는 것보다 자신의 직함에 더 관심이 있습니다.
+<a href="#_footnoteref_49">49</a>. 이는 당신이 그들의 방해에도 불구하고 성공했기 때문에 두 배로 좌절스럽습니다!
 </div>
 <div class="footnote" id="_footnotedef_50">
-<a href="#_footnoteref_50">50</a>. 코드 줄을 삭제하는 것에 대해서는 더 많은 공로를 인정받아야 하지 않을까요?
+<a href="#_footnoteref_50">50</a>. 게다가, 많은 기능 장애 회사들에서 사람들은 생산적이거나 자신의 일을 즐기는 것보다 자신의 직함에 더 관심이 있습니다.
 </div>
 <div class="footnote" id="_footnotedef_51">
-<a href="#_footnoteref_51">51</a>. Widely attributed to Admiral Grace Murray Hopper, coinventor of COBOL and an incredibly witty computer scientist.
+<a href="#_footnoteref_51">51</a>. 코드 줄을 삭제하는 것에 대해서는 더 많은 공로를 인정받아야 하지 않을까요?
 </div>
 <div class="footnote" id="_footnotedef_52">
 <a href="#_footnoteref_52">52</a>. 미래의 문제를 예방하는 것이 중요하지 않다고 말하는 것이 아니라, 단지 그런 종류의 작업으로 팀 외부의 사람들에게 감명을 주는 것이 상당히 더 어렵다는 것입니다.
@@ -4630,7 +4851,7 @@ HRT는 또한 여러분이 팀 밖의 임시 협력자들과 상호작용하고 
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2026-09-28 10:10:21 +0900
+Last updated 2026-09-28 10:46:41 +0900
 </div>
 </div>
 </body>
