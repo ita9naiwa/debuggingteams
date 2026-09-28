@@ -1,25 +1,24 @@
-:imagesdir: ..
-= 디버깅 팀(Debugging Teams)
+:imagesdir:.
+= 디버깅 팀: 협업을 통한 생산성 향상
 Brian W. Fitzpatrick and Ben Collins-Sussman
 :doctype: book
 :front-cover-image: image::./images/crew.jpeg[]
 :toc2: 1
 
-(C) 2015 under the pass:[<a class="orm:hideurl"
-href="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative
-Commons BY-NC-SA 3.0 License</a>]
+(C) 2015. 이 책은 pass:[<a class="orm:hideurl"
+href="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">크리에이티브 커먼즈 저작자표시-비영리-동일조건변경허락 3.0 미국 라이선스</a>]에 따라 이용할 수 있습니다.
 
 
 image::images/crew.jpeg[]
-Photo by pass:[<a class="orm:hideurl" href="https://unsplash.com/@jannerboy62?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nick Fewings</a>]
+사진: pass:[<a class="orm:hideurl" href="https://unsplash.com/@jannerboy62?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nick Fewings</a>]
 
 
-This book is available in multiple forms at pass:[<a
+이 책은 pass:[<a
 class="orm:hideurl"
-href="https://debuggingteams.com/">debuggingteams.com</a>].
+href="https://debuggingteams.com/">debuggingteams.com</a>]에서 여러 형식으로 볼 수 있습니다.
 
-It's also available for purchase in pass:[<a class="orm:hideurl"
-href="https://www.oreilly.com/library/view/debugging-teams/9781491932049/">physical hardcopy from O'Reilly Media</a>] in a variety of international translations.
+또한 pass:[<a class="orm:hideurl"
+href="https://www.oreilly.com/library/view/debugging-teams/9781491932049/">오라일리 미디어의 종이책</a>]과 여러 언어의 번역판으로도 출간되었습니다.
 
 // Front matter (KO)
 include::dedication.asciidoc[]

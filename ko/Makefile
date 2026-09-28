@@ -10,7 +10,7 @@ html:
 	asciidoctor -r asciidoctor-diagram -a imagesdir=$(IMAGESDIR) -D $(OUTDIR) $(BOOK)
 
 html_local:
-	$(MAKE) html OUTDIR=build IMAGESDIR=..
+	$(MAKE) html OUTDIR=build IMAGESDIR=../..
 
 html_pages:
 	$(MAKE) html OUTDIR=../docs IMAGESDIR=.

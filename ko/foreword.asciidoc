@@ -1,6 +1,6 @@
 [role="foreword"]
 [preface]
-== Foreword to the Second Edition
+== 2판 서문
 
 이 책의 초판인 __Team Geek__ 은 큰 성공을 거두었습니다.
 출간된 지 4년 동안 비즈니스에서 팀워크의 중요성에 대한 인식이 더 널리 퍼진 듯합니다.

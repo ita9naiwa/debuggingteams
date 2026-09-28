@@ -1,71 +1,71 @@
 [[further_reading]]
 [appendix]
-== Further Reading
+== 더 읽을거리
 
-We created this book based on our experiences writing software with numerous teams and people, but we've also read many books and articles that have helped us formulate the thoughts that we laid out on these pages. Here are a few of the books and articles that influenced us along the way:
-
-
-* __Peopleware: Productive Projects and Teams__, 2nd Edition, by Tom DeMarco (Dorset House)
+이 책은 수많은 팀과 사람들과 함께 소프트웨어를 만든 경험을 바탕으로 썼습니다. 아울러 여러 책과 글에서 이 책에 담은 생각을 정리하는 데 도움을 받았습니다. 그중 특히 영향을 준 자료를 소개합니다.
 
 
-* __Drive: The Surprising Truth About What Motivates Us__ by Daniel H. Pink (Riverhead)
+* Tom DeMarco, __Peopleware: Productive Projects and Teams__, 2판 (Dorset House)
 
 
-* http://bit.ly/hamming_paper["You and Your Research"] by Richard Hamming
+* Daniel H. Pink, __Drive: The Surprising Truth About What Motivates Us__ (Riverhead)
 
 
-* __Predictably Irrational: The Hidden Forces That Shape Our Decisions__ by Dan Ariely (HarperCollins)
+* Richard Hamming, http://bit.ly/hamming_paper["You and Your Research"]
 
 
-* __The Mythical Man-Month: Essays on Software Engineering__, 2nd Edition, by Frederick P. Brooks (Addison-Wesley Professional)
+* Dan Ariely, __Predictably Irrational: The Hidden Forces That Shape Our Decisions__ (HarperCollins)
 
 
-* __Startup Engineering Management__ by Piaw Na (self-published)
+* Frederick P. Brooks, __The Mythical Man-Month: Essays on Software Engineering__, 2판 (Addison-Wesley Professional)
 
 
-* http://37signals.com/rework[__Rework__] by Jason Fried and David Heinemeier Hansson (Crown Business)
+* Piaw Na, __Startup Engineering Management__ (자비 출판)
 
 
-* http://bit.ly/apprenticeship_patterns[__Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman__] by Dave Hoover and Adewale Oshineye (O'Reilly)
+* Jason Fried·David Heinemeier Hansson, http://37signals.com/rework[__Rework__] (Crown Business)
 
 
-* __Quiet: The Power of Introverts in a World That Can't Stop Talking__ by Susan Cain (Crown)
+* Dave Hoover·Adewale Oshineye, http://bit.ly/apprenticeship_patterns[__Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman__] (O'Reilly)
 
 
-* __Fearless Change: Patterns for Introducing New Ideas__ by Mary Lynn Manns (Addison-Wesley)
+* Susan Cain, __Quiet: The Power of Introverts in a World That Can't Stop Talking__ (Crown)
 
 
-* __The Art &amp; Adventure of Beekeeping__ by Ormond Aebi (Rodale Press)
+* Mary Lynn Manns, __Fearless Change: Patterns for Introducing New Ideas__ (Addison-Wesley)
 
 
-* http://bit.ly/makerssched["Maker's Schedule, Manager's Schedule"] by Paul Graham
+* Ormond Aebi, __The Art &amp; Adventure of Beekeeping__ (Rodale Press)
 
 
-* http://bit.ly/readable_code[__The Art of Readable Code__] by Dustin Boswell and Trevor Foucher (O'Reilly)
+* Paul Graham, http://bit.ly/makerssched["Maker's Schedule, Manager's Schedule"]
 
 
-* __Mastery: The Keys to Success and Long-Term Fulfillment__ by George Leonard (Plume)
+* Dustin Boswell·Trevor Foucher, http://bit.ly/readable_code[__The Art of Readable Code__] (O'Reilly)
 
 
-* "The Significance of Task Significance: Job Performance Effects, Relational Mechanisms, and Boundary Conditions" (2008) by Adam M. Grant (Journal of Applied Psychology 93:1, pp. 108–124)
+* George Leonard, __Mastery: The Keys to Success and Long-Term Fulfillment__ (Plume)
 
 
-* __Project Retrospectives: A Handbook for Team Reviews__ by Norman L. Kerth (Dorset House)
+* Adam M. Grant, "The Significance of Task Significance: Job Performance Effects, Relational Mechanisms, and Boundary Conditions" (2008), __Journal of Applied Psychology__ 93:1, 108–124쪽
 
 
-* __The Luck Factor__ by Richard Wiseman (Miramax)
+* Norman L. Kerth, __Project Retrospectives: A Handbook for Team Reviews__ (Dorset House)
 
 
-* __Search Inside Yourself__ by Chade-Meng Tan (HarperOne)
+* Richard Wiseman, __The Luck Factor__ (Miramax)
 
 
-* http://bit.ly/being_geek[__Being Geek__] by Michael Lopp (O'Reilly)
+* Chade-Meng Tan, __Search Inside Yourself__ (HarperOne)
 
 
-* __The Paradox of Choice: Why More Is Less__ by Barry Schwartz (Ecco)
+* Michael Lopp, http://bit.ly/being_geek[__Being Geek__] (O'Reilly)
 
 
-* __Critical Chain__ by Eliyahu M. Goldratt (North River Press)
+* Barry Schwartz, __The Paradox of Choice: Why More Is Less__ (Ecco)
 
 
-* __Delivering Happiness: A Path to Profits, Passion, and Purpose__ by Tony Hsieh (Hachette Book Group)
+* Eliyahu M. Goldratt, __Critical Chain__ (North River Press)
+
+
+* Tony Hsieh, __Delivering Happiness: A Path to Profits, Passion, and Purpose__ (Hachette Book Group)

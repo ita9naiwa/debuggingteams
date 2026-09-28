@@ -1,5 +1,5 @@
 [[usersare_people_too]]
-== Chapter 6. Users Are People, Too
+== 6장. 사용자도 사람이다
 
 ((("users","as focus of organization", id="ixch01asciidoc0", range="startofrange")))
 성공적인 제품 개발에 필수적인 요소들을 길게 살펴봤습니다.
@@ -83,7 +83,7 @@ Apple Inc.는 비기술자의 감정에 호소하는 기술을 만드는 데 있
 
 이기는 유일한 방법은 참여하지 않는 것이라고 생각하고 싶겠지만, 이는 무시할 수 없는 게임입니다.
 소프트웨어를 링에 올리기 위해서라도 최소한의 마케팅 전략은 필요하고, 똑똑하게 하면 마케팅이
-훌륭한 엔지니어링을 위한 진정한 힘의 배수가 될 수 있음을 발견할 것입니다.
+훌륭한 엔지니어링의 효과를 크게 증폭할 수 있다는 사실을 알게 될 것입니다.
 주도권을 잡기 위한 몇 가지 기본 방법을 소개하는데, 모두 HRT에 기반합니다.
 
 [[pay_attention_to_first_impressions]]
@@ -113,7 +113,7 @@ iPad나 Nest 온도조절기를 개봉해본 적이 있다면 우리가 무슨 �
 여기서 마케팅 담당자들이 선수를 치지 못하게 하세요. 사용자가 곧 출시될 기능이나 릴리스 일정을 물어보면
 지나치게 보수적인 추정을 할 기회로 삼으세요.
 마케터들이 소문을 퍼뜨리도록 두면, __Duke Nukem Forever__ 같은 상황, "무려 15년이나 늦게 출시된 소프트웨어"에 처하게 됩니다.
-그러나 당신의 (더 정확한) 메시지가 먼저 전해진다면, 사용자는 언제나 환호할 것입니다.
+반대로 더 정확한 메시지를 먼저 전달하면 사용자는 만족할 것입니다.
 구글이 이걸 잘합니다. 어떤 제품에 대해서도 기능을 미리 발표하지 __않는__ 신중한 정책이 있습니다.
 새 기능이 출시될 때는 종종 기분 좋은 놀라움이 됩니다. 또한 비현실적으로 광고된 출시일에 맞추려는
 내부 죽음의 행진도 방지합니다. 소프트웨어는 실제로 준비되고 사용 가능할 때 출시됩니다.
@@ -178,7 +178,7 @@ image::images/dbtm_06in02.png[]
 ((("audience, software")))((("software","choosing audience for")))((("users","as audience for software")))
 우선 첫째로, 사용자들이 기술적 pass:[<span class="keep-together">역량</span>] 스펙트럼에 걸쳐 분포한다고 상상해 보세요.
 
-// TODO: change graphic below to say "Stephen Hawking" instead of "Donald Knuth"
+// TODO: 아래 그림의 "Donald Knuth"를 "Stephen Hawking"으로 바꿀 것.
 [[image_no_caption-id039]]
 image::images/dbtm_06in03.png[]
 
@@ -193,11 +193,8 @@ image::images/dbtm_06in03.png[]
 적절한 오디오·비디오 케이블을 갖추는 일을 포함했습니다.
 
 ////
-TODO: change graphic below to say "Stephen Hawking" instead of
-"Donald Knuth". Also change 'subversion' to "plug laptop into
-TV', and put it the line mostly to the right.
-
-TV'로 바꾸고, 선은 대부분 오른쪽에 두세요.
+TODO: 아래 그림의 "Donald Knuth"를 "Stephen Hawking"으로 바꿀 것.
+'subversion'은 '노트북을 TV에 연결'로 바꾸고 선은 오른쪽에 가깝게 배치할 것.
 ////
 [[image_no_caption-id040]]
 image::images/dbtm_06in04.png[]
@@ -219,9 +216,8 @@ image::images/dbtm_06in04.png[]
 이것이 간단하고 사려 깊은 사용자 인터페이스가 그토록 중요한 이유입니다—세련된 문서와 접근하기 쉬운 튜토리얼 같은 것들과 함께 말이죠.
 
 ////
-TODO: change diagram to fix Knuth, but also show (from right to left)
-the expanding audiences of 'Apple TV', 'Chromecast', "internet-enabled
-TVs"
+TODO: 그림에서 Knuth를 바로잡고, 오른쪽부터 왼쪽 순으로 'Apple TV',
+'Chromecast', '인터넷 연결 TV'로 사용자층이 넓어지는 모습도 표시할 것.
 ////
 [[image_no_caption-id041]]
 image::images/dbtm_06in05.png[]
@@ -282,7 +278,7 @@ __plans@tripit.com__으로 단순히 전달하기만 하면 됩니다. 짜잔, �
 사용자층의 크기와 시작하기 쉬운지 여부를 생각할 때, 사용량을 어떻게 측정하는지도 고려해야 합니다.
 우리가 "설치 횟수"가 아닌 "사용량"이라고 했다는 점에 주목하세요. 제품을 __다운로드__하는 횟수가 많은 것이 아니라
 제품을 __사용하는__ 사용자 수가 많은 것을 원합니다. "야, 내 제품이 300만 다운로드를 기록했어—
-300만 명의 행복한 사용자가 있다는 뜻이야!"라고 말하는 것을 종종 들을 수 있습니다. 잠깐, 다시 생각해보세요.
+300만 명의 행복한 사용자가 있다는 뜻이야!"라고 말하는 것을 종종 들을 수 있습니다. 잠깐, 다시 생각해 보세요.
 그 300만 사용자 중에 __실제로__ 소프트웨어를 사용하는 사람은 몇 명인가요?
 그것이 "사용량"의 의미입니다.
 
@@ -676,7 +672,7 @@ __신뢰__는 까다로운 용어입니다. 우리는 이미 pass:[<span class="
 
 신뢰는 당신의 __가장 신성한 자원__입니다. 조심스럽게 지켜보세요.
 은행 계좌의 크기를 측정하세요. 모든 행동 전에 그것이 은행 계좌에
-어떤 영향을 줄지 생각해보세요. 단기적 편의가 아닌 장기적 이미지에 집중하세요.(((range="endofrange", startref="ixch06asciidoc16")))(((range="endofrange", startref="ixch06asciidoc15")))
+어떤 영향을 줄지 생각해 보세요. 단기적 편의가 아닌 장기적 이미지에 집중하세요.(((range="endofrange", startref="ixch06asciidoc16")))(((range="endofrange", startref="ixch06asciidoc15")))
 
 ((("delight")))((("users","delighting")))신뢰와 마찬가지로 __기쁨__은 사용자와의 관계를 크게
 개선할 수 있는 또 다른 감정입니다. 그 따뜻하고 포근한 느낌을 증가시키고
@@ -733,5 +729,3 @@ __이유__를 잊기 쉽습니다. 그것은 당신이나, 당신의
 사용자들이 제품에 대해 무엇을 생각하고 말하는지, 장기적으로 어떻게 경험하는지에
 주의를 기울이는 것이 중요합니다. 사용자는 소프트웨어 성공의 생명선입니다.
 뿌린 대로 거둡니다.(((range="endofrange", startref="ixch06asciidoc0")))
-
-

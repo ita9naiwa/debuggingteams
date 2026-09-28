@@ -1,10 +1,24 @@
-# Debugging Teams Korean Translation
-
-# Debugging Teams
+# Debugging Teams 한국어 번역
 
 This is the source code for the book "Debugging Teams: Better
 Productivity through Collaboration", by Brian W. Fitzpatrick and Ben
 Collins-Sussman, originally published in 2015.
+
+한국어 번역 원고는 `ko/`에 있습니다. `ko/book.asciidoc`이 전체 원고의 진입점입니다.
+
+## 번역 용어
+
+번역을 수정할 때는 아래 표기를 기준으로 사용합니다.
+
+| 원문 | 한국어 |
+| --- | --- |
+| humility, respect, trust (HRT) | 겸손, 존중, 신뢰(HRT) |
+| product | 제품 |
+| user | 사용자 |
+| manager / leader | 관리자 / 리더 |
+| code review | 코드 리뷰 |
+| mailing list | 메일링 리스트 |
+| open source | 오픈 소스 |
 
 
 ## License Terms
@@ -71,4 +85,3 @@ To build an ePub file:
     extension (e.g. *sudo gem install asciidoctor-epub3*)
 
   - *asciidoctor-epub3 book.asciidoc*
-
